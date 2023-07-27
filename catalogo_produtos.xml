@@ -181,7 +181,7 @@
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>0</valor>
-            <valor_locacao>1.800</valor_locacao>
+            <valor_locacao>1.800.00</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>68</area_total>
