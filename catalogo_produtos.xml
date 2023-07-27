@@ -325,7 +325,7 @@
                 <item>Wi-fi</item>
             </area_privativa>
             <aceita_troca>0</aceita_troca>
-            <periodo_locacao>3</periodo_locacao>
+            <periodo_locacao>1</periodo_locacao>
         </imovel>
     </imoveis>
 </Document>
