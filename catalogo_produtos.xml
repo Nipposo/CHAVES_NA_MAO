@@ -168,5 +168,164 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+                <imovel>
+        <referencia>965</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>0</link_cliente>
+            <titulo>Apartamento com três quartos no Costa e Silva</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>1</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>1.800</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>68</area_total>
+            <area_util>68</area_util>
+            <conservacao>Usado</conservacao>
+            <quartos>3</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Costa e Silva</bairro>
+            <cep>89218-640</cep>
+            <endereco>R. Affonso Kieper</endereco>
+            <numero>300</numero>
+            <complemento>Condomínio do Conjunto Habitacional Juscelino Kubitschek II</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>- Incluso Condomínio + Taxa de lixo e IPTU;</p>
+<p>- Área total de 68m², sendo no 3º andar;</p>
+<p>- Recém reformado;</p>
+<p>- São três enormes quartos;</p>
+<p>- Cozinha e lavanderia separada;</p>
+<p>- Gesso no banheiro e lavanderia;</p>
+<p>- Salão de festas e playground;</p>
+<p>- Monitoramento por câmeras, acesso com tag e guarita 24hrs;</p>
+<p>- Vaga de garagem coberta;</p>
+<p>- Rua pavimentada.</p>
+<p>- No coração do bairro, a 5min do Fort Atacadista, bem como próximo do Terminal Norte, escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+<p>Entre em contato: (47) 99275-9287</p>
+<p>Referência do imóvel: 965</p>
+<p>www.primevilleimoveis.com.br</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2a1eb6e5ed964c448635e71452da674b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6c2c1e9c6d1d466f84f8e1e50093d3f3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d165bcf6e3c640ac993d18c5ca823e25~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e18801ec90664cdfb2da8a50126b8392~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_98796544c1e4497eb4868b75e4bc53df~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5b90597b17254e35bd90c63c9031023b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a5ffd574db3349baa171d3d4f7c47cd7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e88da1473f0a46e5a345a0e11c0dcd10~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8ad4f16b675e4cdb8bd9ba903bc42090~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_31310890e7a54f6b9e87831270b1df57~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Rebaixamento em gesso</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>3</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
