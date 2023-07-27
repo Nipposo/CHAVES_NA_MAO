@@ -45,7 +45,20 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>Geminado sobrado 110m²</p><p>1 Suite + 2 dormitórios<br>Sala Estar<br>Cozinha<br>sala jantar<br>Lavabo<br>Lavanderia separada<br>2 vagas descobertas<br>Porcelanato<br>Soleiras em granito&nbsp;<br>Rebaixo em gesso<br>Portão de elevação<br>10 mts frente&nbsp;<br>8 mts fundos&nbsp;<br>4,4 mts abertura</p>]]></descritivo>
+            <descritivo><![CDATA[<p>- Amplo Geminado, em rua tranquila sem saída, e acabamento de alto padrão;</p>
+<p>- Com 110m² de área total, sendo 10m de frente, 8m de fundos e 4,4m de abertura;</p>
+<p>- 1 suíte + 2 dormitórios;</p>
+<p>- Sala e Cozinha Conjugada;</p>
+<p>- Lavanderia separada e Lavabo;</p>
+<p>- Acabamento em porcelanato;</p>
+<p>- Soleiras em granito;</p>
+<p>- Rebaixo em gesso;</p>
+<p>- Portão de elevação;</p>
+<p>- A 2min do Terminal do Itaum, bem como próximo de escolas, CEIs, farmácias, posto de combustível, restaurantes e comércios em geral.</p>
+<p>Não perca essa oportunidade de ter um lar com lazer e em uma ótima localização!</p>
+<p>Entre em contato: (47) 99275-9287</p>
+<p>Referência do imóvel: 1215</p>
+<p>Visite nosso site: www.primevilleimoveis.com.br</p>]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -181,7 +194,7 @@
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>0</valor>
-            <valor_locacao>1.800.00</valor_locacao>
+            <valor_locacao>1800.00</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>68</area_total>
