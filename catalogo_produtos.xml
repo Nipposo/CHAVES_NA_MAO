@@ -626,8 +626,8 @@
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
-            <area_total>60</area_total>
-            <area_util>60</area_util>
+            <area_total>144</area_total>
+            <area_util>144</area_util>
             <conservacao>Usado</conservacao>
             <quartos>3</quartos>
             <suites>1</suites>
@@ -798,6 +798,168 @@
                 <item>Suíte(s)</item>
                 <item>Vaga(s) de garagem coberta</item>
                 <item>Vista panorâmica</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+                      <imovel>
+        <referencia>1200</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-tres-quartos-no-paranaguamirim</link_cliente>
+            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜/ 𝟑 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐏𝐚𝐫𝐚𝐧𝐚𝐠𝐮𝐚𝐦𝐢𝐫𝐢𝐦</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>160000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>60</area_total>
+            <area_util>60</area_util>
+            <conservacao>Usado</conservacao>
+            <quartos>3</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Paranaguamirim</bairro>
+            <cep></cep>
+            <endereco></endereco>
+            <numero></numero>
+            <complemento>Residencial Alto da Colina</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>-Apartamento com 60m² de área total;</p>
+<p>-Três amplos quartos;</p>
+<p>-Salão de festas e playground;</p>
+<p>-Guarita e acesso por tags;</p>
+<p>-Vaga de garagem.</p>
+<p>-A 2min da UBSF Paranaguamirim, bem como próximo ao futuro Komprão, escolas, CEIs, restaurantes, entre outros comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_551a6f6b55784a67aec76859f2b55637~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_184d05ab32ad41d388ccf51df42bb5cc~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_80e534b5541c40d6801e8a5be8eac619~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7ef710c7fe7b4af09720edc5397acf50~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8d1f9b49ed9f43cfa4494a5997fc38c6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_b3f8253cfa1c47119e74af87f7e2c760~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_eba650134d994fdfae4f75af4e05edab~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_64fbeaedd45445858aa6fcabe65c5ec8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_269a388b8dc649dc9891511285b91574~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_997bd3fdddf14e908d49ff171a71ede9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7916311b11e14b339733b91afecf8d62~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_84bd7b4bfbeb415f9fb87c84f5e39ad2~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_9292a2d017b54e28bef1aab61b991948~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
