@@ -1134,5 +1134,153 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1190</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-boehmerwald-4</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐁𝐨𝐞𝐡𝐦𝐞𝐫𝐰𝐚𝐥𝐝</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>1</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>277000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>64</area_total>
+            <area_util>64</area_util>
+            <conservacao>Novo</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Boehmerwald</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>-Área total de 64m², sendo 5m de frente, 3,6m de abertura e 1,5m de fundo;</p>
+    <p>-São dois quartos, sendo um com sacada;</p>
+    <p>-Lavabo e Lavanderia separada;</p>
+    <p>-Vaga de garagem e portão de elevação;</p>
+    <p>-Acabamento em rebaixo em gesso, porcelanato e massa corrida;</p>
+    <p>-Entrega para Dezembro de 2023;</p>
+    <br>
+    <p>-A 2min da Caixa Econômica Federal, bem como próximo de escolas, CEIs, posto de combustível e outros comércios.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e59ad641db4f4a81a2db8ac2b7bd06b5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5f5bb381776a4a4c83db0fe8273aa7f3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4f41a2b591b848378e5139f75c37781e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_20fafd1c78f942bcb2c1877873c4303e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_19840f6a835c4bfeb18340b320405f88~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_544f732594a24acb8ad70cdc0d969c2a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_69f70622cc3a492699524968a38d1e07~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4b259e9add4043ef8ef451b0ccdae574~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4b259e9add4043ef8ef451b0ccdae574~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b01adf11df8440bca0418aa39aac0456~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_543945266b1b4d86aa716180edf902a5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ba52161a23804f528724757e6ee451ad~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
