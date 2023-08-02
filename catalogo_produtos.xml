@@ -1283,7 +1283,7 @@
             <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-            <referencia>1190</referencia>
+            <referencia>1185</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
                https://www.primevilleimoveis.com.br/imovel/geminado-sobrado-2-suites-comasa</link_cliente>
@@ -1555,11 +1555,11 @@
             <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-            <referencia>1180</referencia>
+            <referencia>1160</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
-               https://www.primevilleimoveis.com.br/imovel/geminado-sobrado-2-suites-no-comasa</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐬𝐨𝐛𝐫𝐚𝐝𝐨 𝟐 𝐬𝐮𝐢𝐭𝐞𝐬 𝐧𝐨 𝐂𝐨𝐦𝐚𝐬𝐚</titulo>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-suite-e-dois-quartos-no-boa-vista-2</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐬𝐮í𝐭𝐞 + 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐁𝐨𝐚 𝐕𝐢𝐬𝐭𝐚</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -1567,16 +1567,16 @@
             <destaque>1</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>320000.000</valor>
+            <valor>450000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
-            <area_total>70</area_total>
-            <area_util>70</area_util>
+            <area_total>116</area_total>
+            <area_util>116</area_util>
             <conservacao>Novo</conservacao>
-            <quartos>2</quartos>
-            <suites>2</suites>
-            <garagem>1</garagem>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
             <banheiro>3</banheiro>
             <closet>0</closet>
             <salas>1</salas>
@@ -1591,99 +1591,96 @@
             <lavanderia>1</lavanderia>
             <estado>Santa Catarina</estado>
             <cidade>Joinville</cidade>
-            <bairro>Comasa</bairro>
+            <bairro>Boa Vista</bairro>
             <cep>0</cep>
             <endereco>0</endereco>
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Sala de estar</p>
-    <p>- Cozinha e sala de jantar integradas</p>
-    <p>- Lavabo</p>
-    <p>- Lavanderia externa</p>
-    <p>- 2 suítes, sendo 1 com sacada</p>
-    <p>- Acabamento em massa corrida e porcelanato</p>
-    <p>- Rebaixo em gesso</p>
-    <p>- Soleira em granito</p>
-    <p>- Portão de elevação</p>
-    <p>- 1 vaga de garagem</p>
-    <p>- 5 metros de frente</p>
-    <p>- 4 metros de abertura</p>
-    <p>- 1,5 metros de fundos</p>]]></descritivo>
+            <descritivo><![CDATA[  <p>-Com 116m² de área total, sendo: 7 metros de frente e fundos e 3,6 metros de abertura;</p>
+    <p>-1 Suíte + 2 Dormitórios;</p>
+    <p>-Sala de Estar;</p>
+    <p>-Cozinha;</p>
+    <p>-Lavabo e Lavanderia Separada;</p>
+    <p>-Área Gourmet com Churrasqueira;</p>
+    <p>-2 Vagas sendo uma coberta;</p>
+    <p>-Acabamento em: Porcelanato, Soleiras em granito e Rebaixo em Gesso;</p>
+    <br>
+    <p>-Localizado em uma rua pavimentada e tranquila.</p>]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_db9adf6281dc49c8bba9db7cfaa8c018~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_db70c0775fca48e7b9964518b5ef5de8~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_c7574e4f2d9b402584e5550edccf1dcd~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_ee93d42aa6134517bef9cd40e2dbcf94~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_98f796d738194733b21d41420fc2bddd~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_b62472028bfa437e8e0a50965aa0ce17~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/14b205_7e65c6f6bda34329a6fc6f2556642720~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_40571d5f28e14117b524f25f2e2b5f75~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/14b205_11633c0e963b4ce4a2ce890e3e64d81e~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_9dfa1b435f534bc18e31c4d3cf12a470~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_0f36ea9f001e47b5b661b302a2b0cfa6~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_c1b711e096aa464a9c46eab08f226101~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_ae2877469dba4bb39b9d08a5c5d7ed0c~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_683ec8edff974131ba34afa3084670f0~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_0a79da5af98f4ccdb196bcb6c99bea3f~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_434c5c22d6c944f6bcc9bd0469abbd15~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_c587e25969e24a4b887151d4e3a63ddd~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_3c086ffcea3a43518c1c00abf9049d22~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_bb70a2f7682847d795d5360f51123338~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_e3d15ca459834672bf9aad5f23f0efe6~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_2ca072f57e134ec7a244445cccd981ad~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_20866705d2414c928714b637ed2d4f9d~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_540498c28fe4454e95ee4804fca4c040~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_c11d1d149cd2477b822f5c76a089f857~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_847be04129594598b8a429ef4f499b32~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_3d2a0d3be1924c01aebcba184dd10441~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 foto>
                     <url>
-                       https://static.wixstatic.com/media/14b205_29c6342ce6b2440ca0062fb7e4b0e055~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_467f7cb67bea48d4bdf16d1e92aacec8~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/14b205_80f33a9c40f247ee83af4f93d2231f35~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_af100b3276704085a0239ed600ea394a~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>                
             </fotos_imovel>
