@@ -2325,5 +2325,169 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1210</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+              https://www.primevilleimoveis.com.br/imovel/terreno-com-1600-metros-no-guanabara</link_cliente>
+            <titulo>𝐓𝐞𝐫𝐫𝐞𝐧𝐨 𝐜𝐨𝐦 𝟏𝟔𝟎𝟎𝐦² 𝐧𝐨 𝐆𝐮𝐚𝐧𝐚𝐛𝐚𝐫𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>CO</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Terreno / Lote</tipo>
+            <tipo2>Terreno comercial</tipo2>
+            <valor>985000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>1600</area_total>
+            <area_util>1600</area_util>
+            <conservacao>U</conservacao>
+            <quartos>4</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Guanabara</bairro>
+            <cep>0</cep>
+            <endereco>Rua Terezopolis</endereco>
+            <numero>984</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1 </esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Dois Terrenos com área total de 1600m²;</p>
+    <p>- 1 Casa:</p>
+    <p>  - Sala e Cozinha Conjugada;</p>
+    <p>  - Suíte + 1;</p>
+    <p>  - Área de Festas;</p>
+    <p>  - Lavanderia Separada.</p>
+    <p>- 2 Casa:</p>
+    <p>  - 2 quartos;</p>
+    <p>  - Sala cozinha e copa;</p>
+    <p>  - 3 banheiros;</p>
+    <p>- Área Murada;</p>
+    <p>- Garagem coberta para até 2 carros.</p>
+    <p>- Rua Pavimentada;</p>
+    <br>
+    <p>- Na Principal via do bairro, bem como próximo de escolas, CEIs, farmácias, posto de combustível, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0d4002e7704043c5896348cb0c1729fb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_bc068abcdae944e39b42832efd4b9c9c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_27cd7439d51e4920b5592ece8113016c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_afe1831d88a54e83ba0f671e15fab5a2~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8dc5bb8e589e4d40a77a09f15cf79bfb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fd2350d2c32c43d2ac25d79b6bbe9509~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7624779da3504e5ea28ac54db34494fa~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7545b25b7aa645108056f7d1c218f5a8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ecfa0bfc28974dc08e78d633bc032bc8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a2eac8c441324a44a8b70e6c16104156~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1672d475ec8b4b59afacd7ef94dc4aa7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e03096f9183848ff9557b2e1b6ff2a01~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c442275021da4a54b1b4c2bf52332589~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f3b83bd807c540378e6018b89e979d71~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fd81ebba5fe74cd28d5780264e9e7e6b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>    
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>-26.329694</latitude>
+            <longitude>-48.823483</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
