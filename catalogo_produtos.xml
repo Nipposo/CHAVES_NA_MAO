@@ -2493,7 +2493,118 @@
             <referencia>1220</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
-              https://www.primevilleimoveis.com.br/imovel/Geminado-2-dormitorios-no-VilaNova</link_cliente>
+              https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-adhemar-garcia-4</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐀𝐝𝐡𝐞𝐦𝐚𝐫 𝐆𝐚𝐫𝐜𝐢𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>1</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>250000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>60</area_total>
+            <area_util>60</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Adhemar Garcia</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[  <p>-𝐄𝐍𝐓𝐑𝐀𝐃𝐀 𝐅𝐀𝐂𝐈𝐋𝐈𝐓𝐀𝐃𝐀, 𝐀𝐂𝐄𝐈𝐓𝐀 𝐅𝐆𝐓𝐒 𝐄 𝐕𝐄Í𝐂𝐔𝐋𝐎!</p>
+    <p>-Área Total de 60m², sendo frente com 5m, Abertura de 2,80m e fundos de 3,80m;</p>
+    <p>-2 Quartos;</p>
+    <p>-Lavanderia Separada;</p>
+    <p>-Quintal Britado;</p>
+    <p>-1 Vaga de Garagem;</p>
+    <p>-Acabamento em Porcelanato, massa corrida e rebaixo em gesso;</p>
+    <p>-Entrega para 2025.</p>
+    <br>
+    <p>-A 1m do Parque São Francisco, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_619791770f504843b5c6ddfb9ee7fad6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cc32e968745f45b1a8e58bc7c4394474~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2f0369d7701640ca8225bdbddb01bee9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ad9ab4294d2540c69b5f657f7dac305d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Rebaixo em gesso</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+            <referencia>1225</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+              https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-adhemar-garcia-4</link_cliente>
             <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝟐 𝐝𝐨𝐫𝐦𝐢𝐭𝐨𝐫𝐢𝐨𝐬 𝐧𝐨 𝐕𝐢𝐥𝐚 𝐍𝐨𝐯𝐚</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
