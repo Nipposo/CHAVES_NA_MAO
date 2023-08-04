@@ -2166,10 +2166,10 @@
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
-            <finalidade2>CO</finalidade2>
+            <finalidade2>0</finalidade2>
             <destaque>0</destaque>
             <tipo>Terreno / Lote</tipo>
-            <tipo2>Terreno comercial</tipo2>
+            <tipo2></tipo2>
             <valor>985000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
