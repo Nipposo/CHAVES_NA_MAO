@@ -4340,5 +4340,181 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+         <imovel>
+            <referencia>1085</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+           https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-ulisses-guimaraes</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐔𝐥𝐢𝐬𝐬𝐞𝐬 𝐆𝐮𝐢𝐦𝐚𝐫ã𝐞𝐬</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>270000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>64</area_total>
+            <area_util>64</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Ulisses Guimarães</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[  <p>- Imóvel averbado!</p>
+    <p>- Área total de 64m² sendo 9 metros frente e fundos e 3 metros de abertura;</p>
+    <p>- Dois quartos, sendo um com sacada;</p>
+    <p>- Banheiro e lavabo;</p>
+    <p>- Área de serviço separado;</p>
+    <p>- Portão de alumínio;</p>
+    <p>- Quintal Britado;</p>
+    <p>- Garagem para dois carros;</p>
+    <p>- Rua pavimentada.</p>
+    <br>
+    <p>- Acabamento: Massa corrida, piso cerâmico, vidros blindex, teto em laje e soleira em granito;</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_ecdba49e9af44fc4bd55f76dc211378e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_c6d3e8c061aa4695a461642d1b1e26fe~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_935b333a7c2c488098d7d5e55acde31b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_8f2428a43c8f48c79b751010673d6209~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_505094d7ac4240b4a0c2319b36f83826~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/14b205_8d738b5699a24d2e99a608118d2b80d8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_443eeeda40434cf4b1aed20501ae3d82~mv2.jpg</url>
+                    <data_atualizacao>0</data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_5a7319704c9c4cf0a80cdbd199f1c29e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_adff7aad0a1e4afd8551db5310f8e7fe~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_9c56ab2e457a498886c41110388dff4d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_e752c37be62546dbad462804dbe67403~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_e3b808f7f61f4739965d68654b80dd5c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_4f013d6fc7b146e2833264b347c0e2fc~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_25d44e4606e342c9ac4f893925c18198~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_cbc18859f3d6478e91f021593092c589~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_bf07dbf8d4b94dcfb42f2a649c716629~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/14b205_8d738b5699a24d2e99a608118d2b80d8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>  
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
