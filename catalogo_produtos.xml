@@ -4516,5 +4516,170 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>40</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-tres-quartos-no-boa-vista-2</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐭𝐫ê𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐁𝐨𝐚 𝐕𝐢𝐬𝐭𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>371000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>82</area_total>
+            <area_util>82</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Boa Vista</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- PRONTO PARA MORAR!</p>
+    <p>- São 82m² de área total sendo 10m de frente, 3m de abertura e 5m fundos;</p>
+    <p>- Três amplos dormitórios;</p>
+    <p>- Conceito Aberto;</p>
+    <p>- Acabamento em calfino e porcelanato;</p>
+    <p>- Vaga para dois carros;</p>
+    <p>- Rua pavimentada.</p>
+    <br>
+    <p>- Muito bem localizado, a 2min da Caixa Econômica Federal, bem como próximo de Escolas, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_468e3fd244704b5a89f111ecd8964376~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a86046b8b52049c380f1e9612fad60f3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0638108de5644144b246c401f9fe8988~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_3ea30c998dc149d9bfe74c9b7f5b5356~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_e8e94290c79f485584cd4da75ab6db68~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_fe08efea281a41ddb3ee01ebced45cc0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_99bdba072aed49e4a7bd495a7b35c335~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_037b420853b44dd0a3342c7626a5b567~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_b81b05769b9a4db8a48d0ecc8ab89ad9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_2972582fe5214616b0f8ae6df42b852a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_316aecab476a4c248784ae88311e9640~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_783980fc7d6e472fba9711c4496f9bb1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_b60b25457140436784bb17adfe97fa88~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_865f22d7dfb74dd3a99d9003cdff8401~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_20bb1810240c496ab58c9b32b5b94702~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>  
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
