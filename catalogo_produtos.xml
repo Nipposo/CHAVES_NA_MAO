@@ -5549,5 +5549,184 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+                <imovel>
+            <referencia>590</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-suite-e-dois-quartos</link_cliente>
+            <titulo>𝐂𝐚𝐬𝐚 𝐓é𝐫𝐫𝐞𝐚 𝐜/ 𝟑 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐬𝐞𝐧𝐝𝐨 𝐮𝐦𝐚 𝐬𝐮𝐢𝐭𝐞</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>280000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>74</area_total>
+            <area_util>74</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Paranaguamirim</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p><strong>Imóvel com 4 metros de abertura;</strong></p>
+
+<p><strong>Área total:</strong> 74m²;</p>
+
+<p><strong>Medidas:</strong> 9 metros de frente e 15 metros de fundos;</p>
+
+<p><strong>Quartos:</strong> Três, sendo uma suíte;</p>
+
+<p><strong>Área para jardim de inverno;</strong></p>
+
+<p><strong>Lavanderia separada;</strong></p>
+
+<p><strong>Quintal Britado;</strong></p>
+
+<p><strong>Garagem:</strong> Coberta para dois carros;</p>
+
+<p><strong>Bairro:</strong> Panaguamirim;</p>
+
+<p><strong>Rua pavimentada.</strong></p>
+
+<p><strong>Acabamento:</strong> Massa corrida, piso porcelanato, vidros blindex, teto em laje e soleira em granito;</p> ]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_48462700ba304effb01abd22dbd253cd~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f4322955cb8a4a34bf81e92b4d99ccd7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_07137b518c6e4f5190f7fbd8a4a701d0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_f97b6c4ddc224529bc147b2b0413282f~mv2.jpg</url>
+                    <data_atualizacao>aaaaa</data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_b71104903e8541e09c8f7bd230bd9783~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_7fa9faa785014332b021b8da208e6bab~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_0c0e3c0a856e4b29aa63e3cf84da5059~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_a73581b95a034e81982079faa92a1ef5~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_bd60c1ac49e2455b97872f51de731fa7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_b973f283c330463fb795f116aa35c508~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_e69662344a314cf79d449d2ed1b4cd52~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_5d321fb215344762b6adc058ef890895~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_8d138478d1a141cd9c2dd071c08f51cc~mv2.jpeg</url>
+                    <data_atualizacao>aaaa</data_atualizacao>
+                </foto>
+                                 <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_03f0b9d676d34fa6a86f462f53720384~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                                  <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_f2ff7bac3b51425c9c1d6bbba4d2381a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
