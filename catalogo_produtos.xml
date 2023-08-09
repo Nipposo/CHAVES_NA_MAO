@@ -6230,5 +6230,192 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+                 <imovel>
+            <referencia>1025</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+           https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-de-alto-padrao-no-floresta-2</link_cliente>
+            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐋𝐮𝐱𝐮𝐨𝐬𝐨 𝐧𝐨 𝐅𝐥𝐨𝐫𝐞𝐬𝐭𝐚!</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>1150000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>210</area_total>
+            <area_util>210</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>3</suites>
+            <garagem>2</garagem>
+            <banheiro>4</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Floresta</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>Planta com 210m² de área construída em uma localização privilegiada;</p>
+    <p>Situado no bairro Floresta, em uma rua exclusivamente residencial, tranquila e sem saída;</p>
+    <p>Abertura (frente) com 7,00 metros, proporcionando amplitude e luz natural;</p>
+    <p>Três suítes espaçosas para o seu conforto;</p>
+    <p>Living integrado para ambientes harmoniosos;</p>
+    <p>Forro de gesso rebaixado em 100% do imóvel com cortineiros, adicionando elegância e sofisticação;</p>
+    <p>Acabamento em porcelanato no piso inferior e banheiros, e piso vinílico no piso superior;</p>
+    <p>Infraestrutura completa para ar-condicionado, para você desfrutar de temperaturas ideais;</p>
+    <p>Porta de entrada pivotante em madeira maciça, recepcionando com imponência;</p>
+    <p>Infraestrutura para aquecedor de água a gás, proporcionando conforto em todas as estações;</p>
+    <p>Infraestrutura para rede interna de internet, telefone, interfone e TV a cabo, mantendo você conectado;</p>
+    <p>Esquadrias em alumínio linha gold em todos os cômodos, oferecendo durabilidade e beleza.</p>
+
+    <p>Características adicionais:</p>
+    <ul>
+        <li>Aquecimento de Água para o seu conforto;</li>
+        <li>Churrasqueira e área gourmet para momentos de convivência;</li>
+        <li>Living integrado para espaços amplos e integrados;</li>
+        <li>Portão Eletrônico para sua comodidade;</li>
+        <li>Cozinha completa para suas receitas favoritas;</li>
+        <li>Lavabo adicional para maior praticidade;</li>
+        <li>3 Suítes bem projetadas para privacidade e conforto;</li>
+        <li>2 Garagens lado a lado para abrigar seus veículos com segurança;</li>
+        <li>Portão Eletrônico basculante e portão social separado para facilidade de acesso;</li>
+        <li>Espaço nos fundos de 50m² para suas atividades ao ar livre;</li>
+        <li>Desfrute de momentos relaxantes na jacuzzi/spa.</li>
+    </ul>
+
+    <p>Aproveite a proximidade de comodidades como supermercados, escolas, restaurantes e outros estabelecimentos.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                   https://static.wixstatic.com/media/50072f_93a46e272e9d47618a25b4ec36b917f7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_fb7b35ae834949eb8503a3dea6a263ba~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_7be2883c7d8c400d8cd7b8ffd0d2dd25~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_97d3108d0d38401393e00e5d5617dd73~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_6669ea42232e43fba7ec131114959869~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_3caea5593120427fbc320c805bbba400~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_bedfd66c893040dcbc19a6812260c38e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_7c288000c3314ffe94a9b35e1137436b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_3f742bb0db1d4ebdb709267e8be0ac27~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_4a922afa388e474f889ce83625ae876f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_8fa2ca74afad41509836b82e75318158~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_cae0f4e8cccd458dac0ecade19d61bda~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_b1393e4518774a1ebbf0bd5ab8b742e8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_d3989736d2c74ccd809d3c270295d329~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_70034b8d139a4fcbbf219651f89d91cc~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Suíte</item>
+                <item>Pscina</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
