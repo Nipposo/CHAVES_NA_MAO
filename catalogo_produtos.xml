@@ -7516,5 +7516,178 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+          <imovel>
+            <referencia>970</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+         https://www.primevilleimoveis.com.br/imovel/sobrado-com-sala-comercial-no-vila-nova</link_cliente>
+            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐜𝐨𝐦 𝐒𝐚𝐥𝐚 𝐜𝐨𝐦𝐞𝐫𝐜𝐢𝐚𝐥 𝐧𝐨 𝐕𝐢𝐥𝐚 𝐍𝐨𝐯𝐚!</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>CO</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Conj. Comercial / Sala</tipo>
+            <tipo2>0</tipo2>
+            <valor>900000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>700</area_total>
+            <area_util>700</area_util>
+            <conservacao>U</conservacao>
+            <quartos>5</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>4</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>2</cozinha>
+            <quarto_empregada>1</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Vila Nova</bairro>
+            <cep>89237410</cep>
+            <endereco>Rua Alwin Pasold</endereco>
+            <numero>212</numero>
+            <complemento>Sobrado Comercial de esquina Frente Condomínio Residencial Irineu Bornhausen</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>Rendimento Mensal de R$: 7.000,00;</p>
+    <p>Imóvel Totalmente Averbado e Quitado;</p>
+    <p>4 salas comerciais com 50m² cada, sendo uma livre;</p>
+    <p>Casa com 5 quartos no andar superior, atualmente locada;</p>
+    <p>Três banheiros, sendo um com banheira;</p>
+    <p>Garagem privativa 3 carros;</p>
+    <p>Rua Pavimentada.</p>
+
+    <p>Em frente a XV de novembro, bem como próximo de Escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                https://static.wixstatic.com/media/50072f_6037ac2d24f34741a269451f197f4d36~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_8c3d17a7e0f94d2f8db68676966480bc~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_751068ba5bb64985a49ddbcc82e96b6a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto> 
+                    <url>
+                   https://static.wixstatic.com/media/50072f_2dc801a1cf474f0f9ae4fe8c73072195~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_e52c046a6f1447a8b2ef8ef9fa567217~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_6d91ac3eefe44b3aa7a929ae871fa20f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_c9fc38fd4cc943698c5c7737b91c7bf3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_7080b522a08647b5828157c27fec8dfc~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                   https://static.wixstatic.com/media/50072f_0abf066e8ba54f4fbab4e5a3222aceef~mv2.jpg</url>
+                    <data_atualizacao>aaaaaaaa</data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_50b13611adc64d8ab8a76b30749a41e8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_7831ac9203704ee68dc84ffe68e8ec8c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_e5682ad99afd4b80afea29a28bf3fe7c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_a53af4c91af34175be4960fc3a0f626b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_dfb546062e9a4d129b17f30ec2b7d25f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Alarme</item>
+                <item>Área de manobra</item>
+                <item>Bicicletário</item>
+                <item>Calçada em paver</item>
+                <item>Câmeras</item>
+                <item>Entrada social e de serviço</item>
+                <item>Estacionamento para veículos</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Segurança monitorada</item>
+                <item>Sistema de câmeras</item>
+                <item>Vaga(s) para visitantes</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Alarme</item>
+                <item>Cozinha ampla</item>
+                <item>Câmeras de segurança</item>
+                <item>Cozinha com passa prato</item>
+                <item>Banheira</item>
+                <item>Banheiro amplo</item>
+                <item>Armário(s) planejado(s)</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
