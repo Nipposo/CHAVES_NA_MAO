@@ -7689,5 +7689,158 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+         <imovel>
+            <referencia>955</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+         https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-suite-e-dois-quartos-no-aventureiro</link_cliente>
+            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐬𝐮í𝐭𝐞 𝐧𝐨 𝐀𝐯𝐞𝐧𝐭𝐮𝐫𝐞𝐢𝐫𝐨!</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>3850000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>91</area_total>
+            <area_util>91</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Aventureiro</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>Área Total de 91m², sendo 9,5m de frente, 8m de fundos e 3,73m de abertura;</p>
+    <p>São três amplos quartos, sendo um suíte com sacada;</p>
+    <p>Ambientes integrados e amplos;</p>
+    <p>Banheiro Piso inferior e Superior;</p>
+    <p>Área de serviço separada, com espaço para área gourmet;</p>
+    <p>Duas vagas de garagem;</p>
+    <p>Quintal Britado e portão de elevação;</p>
+    <p>Rebaixo em gesso, massa corrida, piso porcelanato e escada tipo cascata;</p>
+    <p>Fundamento com estaqueamento;</p>
+
+    <p>Bem localizado a 5min do Supermercado Benvenutti, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                 https://static.wixstatic.com/media/50072f_2d660383ece146b593b05300ed1ec3ed~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_2b1b4e766cc844378669f8ef3589800c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_0843e0be3a394d2fbb1a3cb46581501f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto> 
+                    <url>
+                   https://static.wixstatic.com/media/50072f_9f7f1c220c9a4df5a6697f3807ccccfa~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_3bee74273ff241f9bfbb33b9864e84d6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_efe96ab1e9f74b959df27e252601b992~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_c1e5700ff4554a169e06b57e8042b681~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_1a483e1a98244d5fb354466b3ff8d381~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_ff2a53fe4ed54a93888d74492426c255~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_bf609424ec7f4059a6f6374bd2841632~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_9536570ee02c49e9850c5b39771ac4c4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_0e870a3429a64c2897a6b14822120083~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
