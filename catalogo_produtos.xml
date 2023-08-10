@@ -6562,5 +6562,174 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+         <imovel>
+            <referencia>1010</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+          https://www.primevilleimoveis.com.br/imovel/geminado-de-alto-padrao-com-tres-suites-no-anita-garibaldi</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐝𝐞 𝐀𝐥𝐭𝐨 𝐏𝐚𝐝𝐫ã𝐨 𝐧𝐨 𝐀𝐧𝐢𝐭𝐚 𝐆𝐚𝐫𝐢𝐛𝐚𝐥𝐝𝐢</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>9800000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>160</area_total>
+            <area_util>160</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>3</suites>
+            <garagem>4</garagem>
+            <banheiro>4</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Anita Garibaldi</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>Bairro Anita Garibaldi;</p>
+    <p>O mais fino acabamento do mercado;</p>
+    <p>Área total de 160m², sendo 5,5m de frente, 4,8m de abertura e 8m de fundo;</p>
+    <p>Conceito Aberto;</p>
+    <p>TRÊS SUÍTES COM PORCELANATO E SACADA!;</p>
+    <p>Fundos com Piscina, Churrasqueira e Lavanderia fechada;</p>
+    <p>Garagem para até 4 Carros;</p>
+    <p>Portão de elevação com entrada Independente para Pedestres;</p>
+    <p>Rua Pavimentada.</p>
+
+    <p>A 3min do Angeloni Atiradores, bem como próximo de farmácias, escolas, posto de combustível, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                  https://static.wixstatic.com/media/50072f_71f42c9a595741a3886d159e1c706ea8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_b76b4a7603cb4a3fb48ba872664d62bf~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_d7842d76cdc44b6b961b30dbdfc6893a~mv2.jpg</url>
+                    <data_atualizacao>aaaaaa</data_atualizacao>
+                </foto>
+                <foto> 
+                    <url>
+                     https://static.wixstatic.com/media/50072f_6fa3b3ea8ff544a1bd7c84212f907c82~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_20f6aa64f94b4f5aa11e2cec4a64fb1d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_6fa3b3ea8ff544a1bd7c84212f907c82~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_51595a7152964d49b5321908610a47b5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_cf40711e7134445d943309e48ee6505d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_c9b342a22c0f4281b10f652b2d644a57~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_63c6630f1b714bb2b0a2634fc7722566~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_f9de0819ff014b3296a09d01fb340600~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_779f67c162c34397b2b54ef1fd1dd9ac~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_a276ae70698a4960ab01c53770a319b4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_7309e14d4f8442ab84bfc170177ada05~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_acee265d995d4e6fae42c88db87b1d5e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Suíte</item>
+                <item>Pscina</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
