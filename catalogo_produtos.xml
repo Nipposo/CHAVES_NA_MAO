@@ -6630,7 +6630,7 @@
                 <foto>
                     <url>
                        https://static.wixstatic.com/media/50072f_d7842d76cdc44b6b961b30dbdfc6893a~mv2.jpg</url>
-                    <data_atualizacao>aaaaaa</data_atualizacao>
+                    <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto> 
                     <url>
@@ -6727,6 +6727,174 @@
                 <item>Acabamento em alto padrão</item>
                 <item>Suíte</item>
                 <item>Pscina</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+                 <imovel>
+            <referencia>1000</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+         https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-alto-padr%C3%A3o-com-su%C3%ADte-no-floresta</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐝𝐞 𝐀𝐥𝐭𝐨 𝐏𝐚𝐝𝐫ã𝐨 𝐧𝐨 𝐀𝐧𝐢𝐭𝐚 𝐆𝐚𝐫𝐢𝐛𝐚𝐥𝐝𝐢</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>6500000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>150</area_total>
+            <area_util>150</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Floresta</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>Área Total de 150m², sendo 5,5m de frente, 5m de fundos e 4,6m de abertura;</p>
+    <p>Suíte com sacada + dois amplos quartos;</p>
+    <p>Ambientes integrados;</p>
+    <p>Banheiro e Lavabo;</p>
+    <p>Lavanderia separada;</p>
+    <p>Quintal Britado e Portão de elevação com motor;</p>
+    <p>Duas vagas de garagem;</p>
+    <p>Acabamento em Porcelanato, rebaixo em gesso e massa corrida;</p>
+    <p>Rua pavimentada sem saída;</p>
+
+    <p>Bem localizado a 3min do Mercado Carolina, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                  https://static.wixstatic.com/media/50072f_4eff73e3ba3f4907bb48ade250dd5e29~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_dfe7367ec4924664ae67d197f1a46416~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_a51682ef47354c6dad4bf8824c32203a~mv2.jpg</url>
+                    <data_atualizacao>aaaaaa</data_atualizacao>
+                </foto>
+                <foto> 
+                    <url>
+                    https://static.wixstatic.com/media/50072f_652445439a844c7796744a5fb35a17a5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_5cdc7a793d214ef0afbfb9bc8821fc67~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_0423df458afe41e9b03e9c6c24fc5ef5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_c11fa4ec9ca84ad9a2840ad561f214cb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_bbca861ebffe4b68b23d8f5678a5aa72~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_41c0cff158c441eb81339d9d3a3673d0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_fcb7ea789f7c4accbd5cc7869f710023~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_b4b59b22a87f4cc197abc02e872c95d9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_510c6710160f4913a66b428508d0df4e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_4f98c774906d40ce9e24c4d61920ae48~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_8e7e7c6bd4a643a0b97fd6c6cc7e5122~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_1dad87e6a61f4ce3b26da3bac4e42d48~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Suíte</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
