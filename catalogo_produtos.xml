@@ -8313,7 +8313,7 @@
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_0b152e55d3254a1aaf56f9a241900f79~mv2.jpg</url>
-                    <data_atualizacao>aaaaaaaa</data_atualizacao>
+                    <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
@@ -8381,6 +8381,159 @@
                 <item>Ventilação natural</item>
                 <item>Piso frio</item>
                 <item>Wi-fi</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
+        <imovel>
+        <referencia>1260</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>0</link_cliente>
+            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐬𝐮í𝐭𝐞 + 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐀𝐭𝐢𝐫𝐚𝐝𝐨𝐫𝐞𝐬</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>299000.000</valor>
+            <valor_locacao></valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>95</area_total>
+            <area_util>95</area_util>
+            <conservacao>Usado</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Atiradores</bairro>
+            <cep></cep>
+            <endereco>Rua Leopoldo Fischer</endereco>
+            <numero>139</numero>
+            <complemento>Edíficio Ana Sol</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>-Apartamento confortável, com muita luz natural;</p>
+    <p>-Três quartos, sendo um suíte;</p>
+    <p>-Sacada privativa com vista panorâmica;</p>
+    <p>-São 95m² de área privativa;</p>
+    <p>-Salão de festas;</p>
+    <p>-Vaga de garagem coberta;</p>
+    <p>-Localizado em um dos bairros mais nobres de Joinville;</p>
+    <p>-Rua pavimentada e sem saída.</p>
+    <p>-A 5min do 8° Batalhão de Polícia Militar, próximo a escola Positivo, bem como próximo de CEIs, restaurantes, posto de combustível, supermercados e outros comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3419ff82114c4becbcb905e9f57ff4bd~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_744301e6673a4b109f9391a177e171bf~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_8dcf11789e214e58870ae63864cc0edf~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_84326c7968c34d69a193c0c0745b33cd~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_20aa80f163634d09901139c45e188602~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a3099e76426e424c850198b473f780db~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e0f6649da87743a686b5e19c8dd44faf~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8ba1dee5f56f49c196c08ffcfdd08399~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_42860d3689134dc9a20a327ace2a22f7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_eedb2713f0874a069f892b6072d7e7bb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Suíte</item>
             </area_privativa>
             <aceita_troca>0</aceita_troca>
             <periodo_locacao>1</periodo_locacao>
