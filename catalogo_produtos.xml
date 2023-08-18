@@ -8213,5 +8213,177 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+        <referencia>1265</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-aventureiro-4</link_cliente>
+            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜/ 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐀𝐯𝐞𝐧𝐭𝐮𝐫𝐞𝐢𝐫𝐨</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>160000.000</valor>
+            <valor_locacao></valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>46</area_total>
+            <area_util>46</area_util>
+            <conservacao>Usado</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Aventureiro</bairro>
+            <cep>0</cep>
+            <endereco></endereco>
+            <numero></numero>
+            <complemento>Residencial Parque Jolie</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>-Excelente Oportunidade para Investimento ou Moradia!</p>
+    <p>-Área Total de 46m²;</p>
+    <p>-Localizado no Térreo;</p>
+    <p>-Dois Quartos;</p>
+    <p>-Garagem Coberta;</p>
+    <p>-Salão de Festas, Quiosque com Churrasqueira, Playground;</p>
+    <p>-Acesso com Tags, Câmeras de Segurança, Guarita 24hrs;</p>
+    <p>-Fácil acesso em rua pavimentada.</p>
+    <p>-Localização Privilegiada no Bairro Aventureiro - Próximo a escolas, supermercados, PA 24H, Igrejas e Posto de Combustível.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a014b16fd80c49edae864fe1d64645ea~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3e17f3b6b7e9419180a92ea6f414be66~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8bbb1c209da748ccb5cfb536eb4e03ef~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9abe2a3bf3434ca987d9639da617ddaa~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dfb0c325f8cc4dd7bfff318e5b8d8bb7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d09c54e60a54428c9be855c9d2c81f96~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_227c376f0e1942fd8ba4fd50c7e61bda~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_908c8373fb1b43b19cd0e997562a7f28~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0936b1be7a3b4e9480ed6c03524d7180~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0b152e55d3254a1aaf56f9a241900f79~mv2.jpg</url>
+                    <data_atualizacao>aaaaaaaa</data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ba4c5e4a3ee84767a04dc1efbb56e9e7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7a301a94833943898d46bea1412346f1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e3e5624584ed47af9949973d79f7a939~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e9ed7eb28b8649bf907e75c6f4023254~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_eb93a2ccf1e74aa2aa9471e259ecf0cb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                               
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Wi-fi</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
