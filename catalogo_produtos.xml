@@ -1458,7 +1458,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>1</destaque>
+            <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
             <valor>350000.000</valor>
@@ -8800,7 +8800,7 @@
                 <foto>
                     <url>
                      https://static.wixstatic.com/media/50072f_37baf0b295fa456ba5b4e698c9afa96a~mv2.jpg</url>
-                    <data_atualizacao>aaaaa</data_atualizacao>
+                    <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
