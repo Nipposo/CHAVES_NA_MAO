@@ -8054,7 +8054,7 @@
             <valor_condominio>0</valor_condominio>
             <area_total>123</area_total>
             <area_util>123</area_util>
-            <conservacao>Novo</conservacao>
+            <conservacao>N</conservacao>
             <quartos>3</quartos>
             <suites>1</suites>
             <garagem>2</garagem>
@@ -8850,6 +8850,163 @@
                 <item>Ventilação natural</item>
                 <item>Piso porcelanato</item>
                 <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+            <referencia>935</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-su%C3%ADte-e-dois-quartos-no-pirabeiraba</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐬𝐮í𝐭𝐞 +𝟐 𝐝𝐨𝐫𝐦. 𝐧𝐨 𝐏𝐢𝐫𝐚𝐛𝐞𝐢𝐫𝐚𝐛𝐚!</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>445000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>115</area_total>
+            <area_util>115</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Pirabeiraba</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>-Área total de 115m², sendo 7m de frente, 3,90m de abertura e 6m de fundos;</p>
+    <p>-Uma Suíte + dois quartos, sendo um com sacada;</p>
+    <p>-Banheiro e Lavabo;</p>
+    <p>-Área gourmet;</p>
+    <p>-Área de serviço separada;</p>
+    <p>-Duas vagas, sendo uma coberta;</p>
+    <p>-Acabamento em massa corrida e piso porcelanato;</p>
+    <p>-Rua pavimentada, livre de alagamentos.</p>
+    <br>
+    <p>-À 2min da Rodovia Principal, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3d5b53fea19f4f039c861271bbb3aa11~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dc2685908bee463d86fcc94fa50def4d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b4b17f6878e447d8a89dce8d34b12fe2~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_9c613641068c4626896bd9e1606df453~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e8cae9d3ddfd4f57be0e096a8fa168e7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_60ef8b0ede8e46648c0693a667596835~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_ddb3931ccd374736a08671a267531479~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a6cc652cb9124f54ba4a3f1082c791ce~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b3c0c9f5288147a9996c57ba0419c75c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_81a6c54fe5a142dea605a1409b06fca3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_706def58ab554d58aa5c6950a62268d0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9f056ca658d2406db1895cd4665aaa1f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e9cf5c97efcc49859dccbc7ceb8527af~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>    
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Suíte</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
