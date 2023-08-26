@@ -9771,5 +9771,189 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+        <referencia>1295</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>0</link_cliente>
+            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐬𝐮í𝐭𝐞 + 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐒𝐚𝐧𝐭𝐨 𝐀𝐧𝐭ô𝐧𝐢𝐨</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>250000.000</valor>
+            <valor_locacao></valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>67</area_total>
+            <area_util>67</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Santo Antônio</bairro>
+            <cep>89218-250</cep>
+            <endereco>R. Marquês de Olinda, 1575</endereco>
+            <numero>1575</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>-Financiamento pelo Minha Casa Minha Vida;</p>
+    <p>-Área Total de 67m², localizado no 1º Andar;</p>
+    <p>-Três Quartos Amplos, um com Suíte;</p>
+    <p>-Sacada com Churrasqueira;</p>
+    <p>-Sala e Cozinha Conjugadas;</p>
+    <p>-Ar Condicionado na Sala e Suíte;</p>
+    <p>-Lavanderia com Secadora e Varal de Teto;</p>
+    <p>-Janelas com Tela de Proteção;</p>
+    <p>-Vaga de Garagem Coberta;</p>
+    <p>-Salão de Festas, Sala de Jogos com Mesa de Sinuca e Área Infantil;</p>
+    <p>-Portão Eletrônico;</p>
+    <p>-Sistema de Segurança com Tags e Câmeras.</p>
+    <br>
+    <p>-Proprietário aceita troca em casa na região leste de Joinville.</p>
+    <p>-Numa das melhores regiões de Joinville, Perto de escolas, comércios locais, academias, farmácias e pontos de ônibus, e outras facilidades.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_eccfbca7e6da44dd8bdd9fc4aa8c0174~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_86c02dfba48e4522b8dac3c2074ce593~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_fd6a0c3990fb4a068acf7c05ca86802d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_77639799beda46b5bf79387c68a4765b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d28e05493fb14906aa924657b99856f4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d469cde3357446ab8b59341876117c3a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f4dc0dd72d01469db069a629867c12f7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cc4df61b61a44b3597df7ca7985b18f9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d00b231b0feb41c69bfff8ef633a2324~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c15e3916d01f44d987ee5c953c9030de~mv2.jpg</url>
+                    <data_atualizacao>aaaaaa</data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2e86f7082ebb4bb5a602ddb4df566359~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_bb70e265e2d14b0483e2421c34f35e79~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f76ee0bf84864d24927df247d02f36aa~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f886438a521e45e79171bfcaff53edad~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ccc1b01fd33c4274b970fb512633dacb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
