@@ -9456,5 +9456,169 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+         <imovel>
+            <referencia>1285</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-suite-e-dois-quartos-no-petropolis</link_cliente>
+            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐒𝐮í𝐭𝐞 𝐞 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐏𝐞𝐭𝐫ó𝐩𝐨𝐥𝐢𝐬</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>350000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>127</area_total>
+            <area_util>127</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>3</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Petrópolis</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>-Área Total de 127 m², com abertura de 5,5 metros;</p>
+    <p>-Imóvel Averbado;</p>
+    <p>-Semi-Mobiliado com Móveis Planejados;</p>
+    <p>-Suíte com Sacada e Dois Quartos Enormes;</p>
+    <p>-Banheiro e Lavabo;</p>
+    <p>-Lavanderia Separada;</p>
+    <p>-Salão de Festas Completo e Mobiliado;</p>
+    <p>-Rebaixo em Gesso em todos os ambientes;</p>
+    <p>-Três Vagas de Garagem, uma Coberta;</p>
+    <p>-Rua Pavimentada.</p>
+    <br>
+    <p>-Apenas a 2 minutos da Caixa Econômica Federal, além de estar próximo de escolas, CEIs, restaurantes, postos de combustível e outros serviços essenciais.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9d5497c21e4141d9b4bd3276bc6929e0~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_159943ee0ac8492789ec83805d295cf3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fe92fd8cb4354b25991c3ee5be4a5394~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_19a52db3d245405db320531ff48f5903~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fde80110a8e7480a8b9431549966f6f4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_832888688ad144bda36a7c72d5e8b850~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_4ae4804d511e4a2983c472eb54247132~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8cff27a999e94f0ba18b0460b73c056a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_35716d0dced8486db00ee28d6c41f7fc~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b7150fcdbe5c4d8e81e6aafe616139b3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d7c38b8fd4114653a4a585803d8b827a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_227437a96d8d4086a1868041691b8e40~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_657fb2e77fd247d4b1276aa898c28f78~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f2a2b4603aa4494c9254c9aae89cd68c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>     
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>https://video.wixstatic.com/video/50072f_1adb0418115447c79703dc3b0520e601/480p/mp4/file.mp4</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
