@@ -10740,5 +10740,177 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>855</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-de-luxo-com-tres-quartos-na-praia-de-ubatuba</link_cliente>
+            <titulo>𝐋𝐮𝐱𝐮𝐨𝐬𝐨 𝐬𝐨𝐛𝐫𝐚𝐝𝐨 𝐞𝐦 𝐔𝐛𝐚𝐭𝐮𝐛𝐚!</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>1250000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>187</area_total>
+            <area_util>187</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>4</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>2</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>1</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>2</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>São Francisco do Sul</cidade>
+            <bairro>Ubatuba</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>- Área total de 187m², sendo 6m de frente, 9m de abertura e fundos de 8m;</p>
+    <p>- Mobília de qualidade;</p>
+    <p>- Três amplos quartos, sendo um suíte com varanda, e outro com sacada;</p>
+    <p>- Sala com mezanino, cozinha ampla e planejada integrada com churrasqueira e forno;</p>
+    <p>- Escritório de Home Office no piso inferior;</p>
+    <p>- Banheiro social e Lavabo;</p>
+    <p>- Área de serviço separado;</p>
+    <p>- Piscina com controle de filtragem e purificação e BWC anexo à piscina;</p>
+    <p>- Quatro vagas de garagem Cobertas, e quintal com Paver;</p>
+    <p>- Acabamento em massa corrida, piso cerâmico e vidro blindex.</p>
+    <p>- Cerca elétrica, sistema de alarme controlado à distância, câmeras e portão eletrônico controlado à distância;</p>
+    <p>- Rua pavimentada;</p>
+    <br>
+    <p>- Na melhor localização do bairro, a 3min da rua principal e 200 metros da praia, bem como próximo de supermercados, escolas, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_37ef4b938868480c8e9fc386c262458a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_01fe76a6d46b4fd6b223411657521d0c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4a02509d2e3d470984e23aca6e41abe9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_41587cb5930b4b9da294abdcaf9afd9d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_40cddb7cd48c43fb900ca7631325c117~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a2d0555a210e44b9b2f6e2b214ea08eb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_996ef1ab1fef4ea99aff174ebcd49cb4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c31c6c8e9ab14b29b758985b3383df91~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7fe19e16aa94400488a01aae9dd3f682~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4001685dece7407b8f3c73c8636d2dbd~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_090ed80a166c472fa744cc21a03205ef~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7069b3c1c0c849acb8dd80a3c7f48020~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_608830aed65c48968117f200304e8bd3~mv2.jpg</url>
+                    <data_atualizacao>aaaaaaa</data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_46de8fda980f408a940f4e62f85efcd1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_87a749aa444047ceb3ac83ce2c896979~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Suíte</item>
+                <item>Churrasqueira</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
