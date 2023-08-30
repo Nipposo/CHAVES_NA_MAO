@@ -10383,7 +10383,7 @@
                 <foto>
                     <url>
                      https://static.wixstatic.com/media/50072f_2671ff59c3ac4c64b2fb18a37d42b59c~mv2.jpg</url>
-                    <data_atualizacao>aaaaaaa</data_atualizacao>
+                    <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
@@ -11954,6 +11954,123 @@
                 <item>Ventilação natural</item>
                 <item>Piso porcelanato</item>
                 <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+            <referencia>790</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-itinga-5</link_cliente>
+            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐈𝐭𝐢𝐧𝐠𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>230000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>60</area_total>
+            <area_util>60</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Itinga</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>- Área total de 60m², sendo 6m de frente, 3m de abertura e 4m de fundos;</p>
+    <p>- Acabamento em porcelanato, massa corrida e gesso;</p>
+    <p>- Sala e cozinha ampla e Infra para A/C;</p>
+    <p>- São dois quartos com sacada;</p>
+    <p>- Banheiro e Lavabo;</p>
+    <p>- Área de serviço separada;</p>
+    <p>- Vaga de garagem e portão de elevação;</p>
+    <p>- Entrega para Setembro de 2023;</p>
+    <br>
+    <p>- Localizado em Rua Pavimentada.</p>
+    <br>
+    <p>- Muito bem localizado a 1min do Hipermais Supermercados, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+    <br>
+    <p>Agende sua visita!</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_b5456f4ad95e4566ae80fab8198a1219~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d9f396c644d3422eb45f4bf4affa9eb3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_8e30d0eb29c7438a9c4ce771bd5ca395~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_f9ce92ca36d54395908f8e7aaa203cf5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_4a90676b2a2d4c73b4195b97523e7bff~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
