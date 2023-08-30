@@ -11806,5 +11806,157 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>805</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+             https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-semi-mobiliado-com-dois-quartos-no-vila-nova-5</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐌𝐎𝐁𝐈𝐋𝐈𝐀𝐃𝐎 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐕𝐢𝐥𝐚 𝐍𝐨𝐯𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>320000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>64</area_total>
+            <area_util>64</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Vila Nova</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>- Área total de 64m², sendo 5m de frente, 3,3m de abertura e 3,3m de fundos;</p>
+    <p>- Ficam os planejados da cozinha e do quarto de solteiro;</p>
+    <p>- São dois amplos quartos;</p>
+    <p>- Banheiro e Lavabo;</p>
+    <p>- Área gourmet com teto retrátil;</p>
+    <p>- Área de serviço separada;</p>
+    <p>- Vaga de garagem coberta;</p>
+    <br>
+    <p>- Localizado em Rua Pavimentada.</p>
+    <br>
+    <p>- Muito bem localizado a 1min da Krona Brasil, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b444fc879d0c47018b6b4617b103e5a0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c10432a45aa74c0db33b99dbec80bbc4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d2cc32aec771454a9b9acb248f6389bb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c38dd770cd1649dabb3eff2b1c9b751e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8f4da9f4caf34031931f864911c059c3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_708365717a3b42979cd96d13e92abd1d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_bdb4339baf1c4a1098c7eada7eabbf23~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9060b3b4ea3c4f13992fab352e0009e4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_943db440d029444b88e8b48f62468a73~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1c4bf131a44c4b3586327beffd832710~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f6fc18ba2164432ca6669fe6081c7cba~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8e57d4ca54304844a5dcfec18c8a19ad~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
