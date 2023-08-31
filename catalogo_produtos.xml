@@ -12412,110 +12412,92 @@
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
-            <area_total>700</area_total>
-            <area_util>700</area_util>
-            <conservacao>U</conservacao>
-            <quartos>5</quartos>
-            <suites>1</suites>
-            <garagem>2</garagem>
-            <banheiro>3</banheiro>
+            <area_total>66</area_total>
+            <area_util>66</area_util>
+            <conservacao>N</conservacao>
+            <quartos>0</quartos>
+            <suites>0</suites>
+            <garagem>6</garagem>
+            <banheiro>1</banheiro>
             <closet>0</closet>
-            <salas>4</salas>
+            <salas>2</salas>
             <despensa>0</despensa>
             <bar>0</bar>
-            <cozinha>2</cozinha>
-            <quarto_empregada>1</quarto_empregada>
+            <cozinha>0</cozinha>
+            <quarto_empregada>0</quarto_empregada>
             <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
+            <area_servico>0</area_servico>
             <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
             <estado>Santa Catarina</estado>
             <cidade>Joinville</cidade>
-            <bairro>Vila Nova</bairro>
-            <cep>89237410</cep>
-            <endereco>Rua Alwin Pasold</endereco>
-            <numero>212</numero>
-            <complemento>Sobrado Comercial de esquina Frente Condomínio Residencial Irineu Bornhausen</complemento>
+            <bairro>Fátima</bairro>
+            <cep>89230-401</cep>
+            <endereco>R. Jarivatuba</endereco>
+            <numero>4079</numero>
+            <complemento>Rua Jarivatuba esq. Abelardo Lopes da Silva</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>Rendimento Mensal de R$: 7.000,00;</p>
-    <p>Imóvel Totalmente Averbado e Quitado;</p>
-    <p>4 salas comerciais com 50m² cada, sendo uma livre;</p>
-    <p>Casa com 5 quartos no andar superior, atualmente locada;</p>
-    <p>Três banheiros, sendo um com banheira;</p>
-    <p>Garagem privativa 3 carros;</p>
-    <p>Rua Pavimentada.</p>
-
-    <p>Em frente a XV de novembro, bem como próximo de Escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <descritivo><![CDATA[<p>Valor Sala 1: R$ 400.000</p>
+    <p>Valor Sala 2: R$ 500.000</p>
+    <br>
+    <p>- Sala 1 - Área total de 66,5m², com térreo de 41,5m², mezanino de 25m² e 5,7m de abertura;</p>
+    <p>- Sala 2 - Área total de 82m², com térreo de 49,5m², mezanino de 32,5m² e 5m de abertura;</p>
+    <p>- Zoneamento SUAP SE-04;</p>
+    <p>- Banheiro com acesso para PCDs;</p>
+    <p>- Garagem para clientes em até 6 carros.</p>
+    <br>
+    <p>Localizado em uma das melhores localizações do bairro Fátima, em uma rodovia comercial de fácil acesso a outros bairros.</p>
+    <p>Agende sua visita!</p>]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
-                https://static.wixstatic.com/media/50072f_6037ac2d24f34741a269451f197f4d36~mv2.jpg</url>
+                https://static.wixstatic.com/media/50072f_260bda01fa3f448786c6e19823840aac~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_8c3d17a7e0f94d2f8db68676966480bc~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_e2c0e5c3a213486ea829f82ac14e1e30~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_751068ba5bb64985a49ddbcc82e96b6a~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_a85862b34b7842a08b6c504a5f3f4933~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto> 
                     <url>
-                   https://static.wixstatic.com/media/50072f_2dc801a1cf474f0f9ae4fe8c73072195~mv2.jpg</url>
+                   https://static.wixstatic.com/media/50072f_d902a1427fc84649a6dcb343e408e763~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_e52c046a6f1447a8b2ef8ef9fa567217~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_3b2595547dd94662b9d34a261d9fe60a~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_6d91ac3eefe44b3aa7a929ae871fa20f~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_a3783cd45fb6427db62f5056bfde3293~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                     https://static.wixstatic.com/media/50072f_c9fc38fd4cc943698c5c7737b91c7bf3~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_11a4ddbb2bf44b02a3b6c80c250dcde6~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                     https://static.wixstatic.com/media/50072f_7080b522a08647b5828157c27fec8dfc~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_73e55f53293142eb9e9fc603dc6da984~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                   https://static.wixstatic.com/media/50072f_0abf066e8ba54f4fbab4e5a3222aceef~mv2.jpg</url>
+                   https://static.wixstatic.com/media/50072f_802e899a7fde4736a438effd1b28e491~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                     https://static.wixstatic.com/media/50072f_50b13611adc64d8ab8a76b30749a41e8~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_7831ac9203704ee68dc84ffe68e8ec8c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_e5682ad99afd4b80afea29a28bf3fe7c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_a53af4c91af34175be4960fc3a0f626b~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_dfb546062e9a4d129b17f30ec2b7d25f~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_0df09170272a4e0f8bab17aea05186c5~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
             </fotos_imovel>
@@ -12538,32 +12520,24 @@
             </area_comum>
             <area_privativa>
                 <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
                 <item>Alarme</item>
-                <item>Cozinha ampla</item>
                 <item>Câmeras de segurança</item>
-                <item>Cozinha com passa prato</item>
-                <item>Banheira</item>
                 <item>Banheiro amplo</item>
-                <item>Armário(s) planejado(s)</item>
                 <item>Escadaria</item>
                 <item>Infraestrutura de ar condicionado</item>
                 <item>Iluminação natural</item>
                 <item>Isento condomínio</item>
                 <item>Janelas amplas</item>
                 <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
                 <item>Sala(s) ampla</item>
                 <item>Teto em gesso</item>
                 <item>Vaga(s) de garagem</item>
                 <item>Ventilação natural</item>
                 <item>Piso porcelanato</item>
                 <item>Acabamento em alto padrão</item>
+                <item>Mezanino</item>
+                <item>Banheiro PNE</item>
+                <item>Pátio</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
