@@ -12693,5 +12693,163 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>750</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-tres-quartos-sendo-um-suite-no-parque-guarani</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝐭𝐫ê𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐏𝐚𝐫𝐪𝐮𝐞 𝐆𝐮𝐚𝐫𝐚𝐧𝐢</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>1</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>361000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>88</area_total>
+            <area_util>88</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Parque Guarani</bairro>
+            <cep>89209674</cep>
+            <endereco>Rua Boehmerwald</endereco>
+            <numero>2277</numero>
+            <complemento>Próximo Supermercado Vizinhão</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>-Área total de 88m²;</p>
+    <p>-Uma suíte + dois dormitórios;</p>
+    <p>-Sala e cozinha ampla;</p>
+    <p>-Banheiro e Lavabo;</p>
+    <p>-Área de serviço separado;</p>
+    <p>-Quintal Britado + grama esmeralda;</p>
+    <p>-Acabamento em massa corrida, piso cerâmico e vidro blindex.</p>
+    <p>-Vaga de Garagem para dois carros.</p>
+    <p>-Rua pavimentada;</p>
+    <br>
+    <p>- Na melhor localização do bairro, a 3min da rua principal, bem como próximo de supermercados, escolas, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_df0b85a62212482581626a765b9a15cb~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e58943412b254592a89f6b97c11d2cb7~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6833b4fa3ad342f6900e0590f84cb964~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_ac01d4eb54f14475962ba0834c2b6b49~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fb7924db4fb24f409ef90e9aaccd328f~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7988b409d94b43c588299be659cded45~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_82a015e497f4490093f0824beaf89dee~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dbc6aa20a77445c3b954c23cd16137f6~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6cf6fc4f674949a6931baf683fb619f7~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ae08e84745bc409087a459b23556b543~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ece5497982cc4ecd97ddad981d4cfe24~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c95cc2526eb44236824eb3583c6af3da~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f4e8b8b6271b4684abda020dae60e458~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>          
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
