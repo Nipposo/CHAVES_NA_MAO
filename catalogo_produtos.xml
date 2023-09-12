@@ -12698,7 +12698,7 @@
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
                https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-tres-quartos-sendo-um-suite-no-parque-guarani</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝐭𝐫ê𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐏𝐚𝐫𝐪𝐮𝐞 𝐆𝐮𝐚𝐫𝐚𝐧𝐢</titulo>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐄𝐬𝐪𝐮𝐢𝐧𝐚 𝐜/ 𝐭𝐫ê𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐏𝐚𝐫𝐪𝐮𝐞 𝐆𝐮𝐚𝐫𝐚𝐧𝐢</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -12813,6 +12813,175 @@
                         https://static.wixstatic.com/media/50072f_f4e8b8b6271b4684abda020dae60e458~mv2.jpeg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>          
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Esquina</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+            <referencia>745</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-parque-guarani-4</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐏𝐚𝐫𝐪𝐮𝐞 𝐆𝐮𝐚𝐫𝐚𝐧𝐢</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>1</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>245000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>62</area_total>
+            <area_util>62</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Parque Guarani</bairro>
+            <cep>89209674</cep>
+            <endereco>Rua Boehmerwald</endereco>
+            <numero>2277</numero>
+            <complemento>Próximo Supermercado Vizinhão</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Área total de 62m², sendo 3,35m de abertura;</p>
+    <p>- Dois dormitórios;</p>
+    <p>- Sala e cozinha ampla;</p>
+    <p>- Banheiro e Lavabo;</p>
+    <p>- Área de serviço separado;</p>
+    <p>- Quintal Britado;</p>
+    <p>- Acabamento em massa corrida, piso cerâmico e vidro blindex.</p>
+    <p>- Vaga de Garagem.</p>
+    <p>- Rua pavimentada;</p>
+    <br>
+    <p>- Na melhor localização do bairro, a 3min da rua principal, bem como próximo de supermercados, escolas, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2da5fff837ad4e8db7a4e80cee970f58~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_80f1050cb72843e787395924413a396b~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2b298bc5c12b470c9119f72c8b2a5baa~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_ad5d9d8a976e460b88c3c45b9d7c36b1~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b0cab8e666664c8791115c2960532c21~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d5a27186b53e452792248b349724e19a~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a9bfa5f546d844c6baa22f07de0fda3d~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_47bcf64fb17c48feb70d18421782e3a7~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4d676c318d8744ffb1ad7826bf4a2f10~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_238251625bde4a2b9476d2fb66c8769c~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_200744e79d04499c8c3939a8aa37e5fc~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ea37fb772d494dd6a009bf20bc929b43~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f79b045fc04c4282a73ca6ec154dbfe9~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>   
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_83666a9c9b064cde9ec76bee470e96c4~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3a9ec7c9f8f144d2bad9212e32153400~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>   
             </fotos_imovel>
             <data_atualizacao>0</data_atualizacao>
             <latitude>0</latitude>
