@@ -13323,5 +13323,164 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>815</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+              https://www.primevilleimoveis.com.br/imovel/geminado-com-dois-quartos-no-centro-de-araquari-2</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐜𝐞𝐧𝐭𝐫𝐨 𝐝𝐞 𝐀𝐫𝐚𝐪𝐮𝐚𝐫𝐢</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>190000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>72</area_total>
+            <area_util>72</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Centro</bairro>
+            <cep>89245000</cep>
+            <endereco>R. Pref. Higino Aguiar</endereco>
+            <numero>587</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<<p>- Imóvel financiável no plano MCMV;</p>
+    <p>- Área total de 72m², sendo 9m de frente e 5m de fundos;</p>
+    <br>
+    <p>- São dois quartos, sendo um com sacada;</p>
+    <p>- Lavabo;</p>
+    <p>- Àrea de serviço separada;</p>
+    <p>- Duas vagas de garagem;</p>
+    <p>- Quintal Britado;</p>
+    <p>- Teto em laje, Calfino e vidros blindex;</p>
+    <br>
+    <p>- Localiza-se próximo ao corpo de bombeiros e o parque dos pássaros, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5ebe7e82b585421ba6bae15083d5d5de~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_6bd49770244b4de09a514fe8294c3db2~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_7f91e1bb48bc4a3393d95b76eb2facd0~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_cb868294392f4699af87374861e30ec3~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+               <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_13bcbf89854d446f8ce7d053ec3a26a4~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_994afe0669e640dfb4c48cc108790b6d~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dc3056b44a6a47d5a4197910e0f68990~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b76e105e60fa449fa49175b5b83bc7b5~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_263256ef1cb143af8297a51eaeef5cee~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cff0de2c841a40188dd053cb5519f5d2~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_71d29c40bad640a5bc63391ce7d61b25~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e61572a766de4b4e8c5834840c104d9a~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4cc3d478b1eb490dae1122bf47a5bda6~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_13e51f9133d24ea4a2829f1fa514e9c1~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video></video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
