@@ -14064,5 +14064,141 @@
             <aceita_troca>0</aceita_troca>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>595</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+         https://www.primevilleimoveis.com.br/imovel/Sobrado-Geminado-Vila-Nova-Ref595</link_cliente>
+            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐁𝐚𝐢𝐫𝐫𝐨 𝐕𝐢𝐥𝐚 𝐍𝐨𝐯𝐚!</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>312000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>70</area_total>
+            <area_util>70</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Vila Nova</bairro>
+            <cep>89237400</cep>
+            <endereco>R. Quinze de Novembro</endereco>
+            <numero>7000</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>- Imóvel averbado!</p>
+    <p>- Área total de 70m² sendo 10 metros frente e 6,45 fundos com 3,45 metros de abertura;</p>
+    <p>- Dois quartos, sendo um com sacada;</p>
+    <p>- Banheiro e lavabo;</p>
+    <p>- Área de serviço separado;</p>
+    <p>- Cozinha;</p>
+    <p>- Sala de estar;</p>
+    <p>- Sala de Jantar;</p>
+    <p>- Churrasqueira;</p>
+    <p>- Ponto para ar condicionado;</p>
+    <p>- Portão Elevado;</p>
+    <p>- Quintal Britado;</p>
+    <p>- Garagem coberta para dois carros;</p>
+    <p>- Rua pavimentada.</p>
+    <p>- Acabamento: Massa corrida, piso porcelanato, vidros blindex, detalhes em gesso, teto em laje e soleira em granito;</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                 https://static.wixstatic.com/media/50072f_c022ead1aed242bcb05f0f950844beeb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_ea1f433144fa410eb192ee35d9fc6acf~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_13d9a79f59a0452199ac7757d11d6332~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto> 
+                    <url>
+                   https://static.wixstatic.com/media/50072f_b965f801863a496f9bba34c15eb3e3ac~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_4231c050e41840d296844641a70c9294~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_426a0c6f1be643e899b285c548e950eb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_419457f2ddf0476cb8bed529bcd8638d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_dedb5403b168406585dd9d5e3b21cacb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
