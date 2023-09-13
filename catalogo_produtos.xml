@@ -14364,5 +14364,152 @@
             <aceita_troca>0</aceita_troca>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+        <referencia>565</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/easy-club-santo-antonio</link_cliente>
+            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜/ 𝐩𝐢𝐬𝐜𝐢𝐧𝐚 𝐒𝐚𝐧𝐭𝐨 𝐀𝐧𝐭𝐨𝐧𝐢𝐨!</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>260000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>51</area_total>
+            <area_util>51</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Santo Antônio</bairro>
+            <cep>89218112</cep>
+            <endereco>R. Dona Francisca</endereco>
+            <numero>4634</numero>
+            <complemento>Próximo TOTVS</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>- Sacada com churrasqueira;</p>
+    <p>- Piscina Adulto e infantil;</p>
+    <p>- 51m² privativos;</p>
+    <p>- Salão de festas e área Gourmet;</p>
+    <p>- Possui Elevador;</p>
+    <p>- Bairro Santo Antonio;</p>
+    <p>- Imóvel totalmente Novo;</p>
+    <p>- Negociação Facilitada (Possibilidade de Parcelamento Entrada);</p>
+    <p>- OBS: Em fase de construção para entrega no ano de 2025.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_815084cca96d43578298f58a0c634862~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b00a817f7f8d495b9721ece558c4b81e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_31191d7d861b4bb8b1fb294e7aa4826a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_c0e12f6c3c8041ca980b584bfbaa12d8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_72c5ec9c061840f29c4b2ecf47570c5c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_5808de7105c94edfb5757ffb489c8596~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2537cdf0c1d14f28853dc63db265ef5c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_0c7ca4a4fcec482a8514a9476ba94c41~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2ef649c38ecd4378a2c4ac71eede5713~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                <item>Pscina</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
