@@ -14527,5 +14527,145 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1340</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+              https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-paranaguamirim-2</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐏𝐚𝐫𝐚𝐧𝐚𝐠𝐮𝐚𝐦𝐢𝐫𝐢𝐦</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>249000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>61</area_total>
+            <area_util>61</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Paranaguamirim</bairro>
+            <cep>89231-420</cep>
+            <endereco>R. Seis de Janeiro /endereco>
+            <numero>296</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Financia pelo Minha Casa Minha Vida;</p>
+    <p>- Área Total de 61m², Medindo 5m de Frente e 6m de Fundos;</p>
+    <p>- Sala e Cozinha Separada;</p>
+    <p>- Dois Quartos, Sendo Um com Sacada;</p>
+    <p>- Banheiro e Lavabo;</p>
+    <p>- Lavanderia Separada;</p>
+    <p>- Acabamento em Massa Corrida, Rebaixo em Gesso e Piso Cerâmico;</p>
+    <p>- Quintal Britado;</p>
+    <p>- Portão de Elevação;</p>
+    <p>- Rua Pavimentada;</p>
+    <p>- Bairro Paranaguamirim.</p>
+    <p>- Bem Localizado, a Apenas 1 Minuto do Eeb Prof Juracy Maria Brosig, Bem como Próximo de Supermercados, Ponto de Ônibus, Farmácias, Restaurantes e Comércios em Geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_66f049d8e7f24103a6cf4029fb710fd4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_3f74c8654d2b461eae1cab3926f03d62~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_4f0e5a222c784b278b16bfe0001785ee~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_44c204c292684bd39b588b5e70f1cec4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+               <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1ff5ec4cf664424da301b81189cd9754~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a2b3bfcdd48d413a9b4587797bea4df3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_21ad8f9e13be4a2293aeca62789e29a3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f8fbd8d3d7654dc7ba7dbf75dd26a94c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f6559ad11a7e47a7b766000fb6f074b4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_030130dda4d0450491baed262438391d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video></video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
