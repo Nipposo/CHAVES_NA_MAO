@@ -2321,117 +2321,6 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-         <imovel>
-            <referencia>1225</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-              https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-adhemar-garcia-4</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐀𝐝𝐡𝐞𝐦𝐚𝐫 𝐆𝐚𝐫𝐜𝐢𝐚</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>250000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>60</area_total>
-            <area_util>60</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>1</garagem>
-            <banheiro>2</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Adhemar Garcia</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>-𝐄𝐍𝐓𝐑𝐀𝐃𝐀 𝐅𝐀𝐂𝐈𝐋𝐈𝐓𝐀𝐃𝐀, 𝐀𝐂𝐄𝐈𝐓𝐀 𝐅𝐆𝐓𝐒 𝐄 𝐕𝐄Í𝐂𝐔𝐋𝐎!</p>
-    <p>-Área Total de 60m², sendo frente com 5m, Abertura de 2,80m e fundos de 3,80m;</p>
-    <p>-2 Quartos;</p>
-    <p>-Lavanderia Separada;</p>
-    <p>-Quintal Britado;</p>
-    <p>-1 Vaga de Garagem;</p>
-    <p>-Acabamento em Porcelanato, massa corrida e rebaixo em gesso;</p>
-    <p>-Entrega para 2025.</p>
-    <br>
-    <p>-A 1m do Parque São Francisco, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_619791770f504843b5c6ddfb9ee7fad6~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_cc32e968745f45b1a8e58bc7c4394474~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_2f0369d7701640ca8225bdbddb01bee9~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_ad9ab4294d2540c69b5f657f7dac305d~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Teto em gesso</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso porcelanato</item>
-                <item>Rebaixo em gesso</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
         <imovel>
             <referencia>1220</referencia>
             <codigo_cliente>0</codigo_cliente>
@@ -2942,16 +2831,6 @@
             <fotos_imovel>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_9e98eb2f231241938eaef4384af228fc~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_01ab45e3c06e44ee858f1742f3bb9df0~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
                         https://static.wixstatic.com/media/50072f_4c6b86c86cb54deeb0e1d742bb751520~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
@@ -3048,113 +2927,7 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-        <imovel>
-            <referencia>1150</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-              https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-itinga-9</link_cliente>
-            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐈𝐭𝐢𝐧𝐠𝐚</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>230000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>66</area_total>
-            <area_util>66</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>1</garagem>
-            <banheiro>2</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Itinga</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Entrada facilitada, aceita FGTS e veículo como parte do pagamento!</p>
-    <p>- São 66m², sendo 5 metros de frente, 3 metros de abertura e 2,70 metros de fundos;</p>
-    <p>- Com dois quartos espaçosos;</p>
-    <p>- Lavabo e banheiro;</p>
-    <p>- Lavanderia externa com pergolado incluso;</p>
-    <p>- Vaga de garagem para seu veículo;</p>
-    <p>- Entrega prevista para dezembro de 2024.</p>
-    <br>
-    <p>- Localizado a apenas 2 minutos do Supermercado Vizinhão, e próximo de escolas, CEIs, posto de combustível e outros comércios.</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_44264ab237274f62bccdaf94cc764561~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_6332361245854959afaf522b223562f3~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_8c448e1b350341d0a9def54cc542acf1~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_4e503cd847ff4fe7ae962daebd20ba48~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video></video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
+        
         <imovel>
             <referencia>1145</referencia>
             <codigo_cliente>0</codigo_cliente>
@@ -3969,147 +3742,6 @@
                 <item>Ventilação natural</item>
                 <item>Piso porcelanato</item>
                 <item>Acabamento em alto padrão</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
-        <imovel>
-            <referencia>1095</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-            https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-dois-quartos-no-bairro-espinheiros</link_cliente>
-            <titulo>𝐂𝐚𝐬𝐚 𝐠𝐞𝐦𝐢𝐧𝐚𝐝𝐚 𝐧𝐨 𝐛𝐚𝐢𝐫𝐫𝐨 𝐄𝐬𝐩𝐢𝐧𝐡𝐞𝐢𝐫𝐨𝐬!</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>250000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>56</area_total>
-            <area_util>56</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>2</garagem>
-            <banheiro>1</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Espinheiros</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Imóvel averbado!</p>
-    <p>- Área total de 56m², com 5m de frente, 3m nos fundos e 6m de abertura;</p>
-    <p>- Dois generosos quartos;</p>
-    <p>- Quintal britado para aproveitar ao ar livre;</p>
-    <p>- Sala e cozinha conjugadas, proporcionando ambientes amplos e integrados;</p>
-    <p>- Pergolado na frente para desfrutar momentos relaxantes ao ar livre;</p>
-    <p>- Duas vagas de garagem cobertas, para proteger seu veículo;</p>
-    <p>- Portão eletrônico para maior comodidade e segurança;</p>
-    <p>- Fundos com churrasqueira, ideal para confraternizar com amigos e família;</p>
-    <p>- Lavanderia separada para facilitar a organização.</p>
-    <br>
-    <p>- Localização privilegiada, próximo de supermercados, escolas, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_9fd1c67abbe94b86b180760f3ce7ecae~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_671d793020534a0899f090b886a3166c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_801678c3722a44d1838cc082ddc2a0d4~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_67b04cf55a574af5beb7df19aed489ab~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_9c88ebc6ed4d48e4a39ea4026401742e~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_5dcc02985b4a47bc83b51b350d77bd1d~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_5453aeaed2ef4ab5b7139de5dc515cd2~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_6a5ff1ae8cfb44a6a69bf054f6f3c1cf~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_4178baa2fd7a43489af29e81a8b6e6f0~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_241a5c75ca514c58a35adba99b8f6688~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_314b76a03ca9474db315a15d493fc43d~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
@@ -8971,165 +8603,6 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-        <imovel>
-            <referencia>920</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-            https://www.primevilleimoveis.com.br/imovel/geminado-baixo-com-dois-quartos-no-parque-guarani-2</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐛𝐚𝐢𝐱𝐨 𝐜/ 𝐝𝐨𝐢𝐬 𝐧𝐨 𝐏𝐚𝐫𝐪𝐮𝐞 𝐆𝐮𝐚𝐫𝐚𝐧𝐢</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>220000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>44</area_total>
-            <area_util>44</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>1</garagem>
-            <banheiro>1</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Parque Guarani</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>-Bairro Parque Guarani.</p>
-    <p>-Área útil de 44m², sendo 5m de frente, 2m de fundos e 5m de abertura;</p>
-    <p>-São dois quartos;</p>
-    <p>-Fica no imóvel: cozinha e banheiro planejada;</p>
-    <p>-Vaga de garagem coberta;</p>
-    <p>-Àrea gourmet;</p>
-    <p>-Portão eletrônico;</p>
-    <p>-Rua pavimentada;</p>
-    <br>
-    <p>-Na melhor localização do bairro a 2min do Posto Tio Tata, bem como próximo de escolas, CEIs, farmácias, posto de combustível, restaurantes e comércios em geral.</p> ]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_c84e3ed3981e41e5aec12c25108ff154~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_769b0fe7815840a69c6e95738762ea6a~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_bfa8bc08f02d4642b249ca6f6469912c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                    https://static.wixstatic.com/media/50072f_42707156fd114e188c3e57ec22707084~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_a9f3464821f04f47b5de08af7174b8f0~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_67b9e9d059f6488c8a2aa6b3979a865e~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_93f9cc1b858d42d2a952c46c8b7e9c39~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                    https://static.wixstatic.com/media/50072f_9f07d353e49945a38c05e8870b78c052~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_d65ddc48af454111a48e85f3d9ca785d~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_970beac658b4418696f91bc019b3f83c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_d94ef210c0e94416ace6a9702934dc65~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_f427cb7bfb3249d3828ae7269ebb8673~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_fb3b0466b62a44a6aa122cecc7e78f83~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_264eaa91d2554e7294d1a9ab6164b913~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_1f194372869745978155d1c263d527eb~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
          <imovel>
             <referencia>900</referencia>
             <codigo_cliente>0</codigo_cliente>
@@ -9793,151 +9266,6 @@
             </area_privativa>
             <aceita_troca>0</aceita_troca>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
-        <imovel>
-        <referencia>1280</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-comasa-3</link_cliente>
-            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜𝐨𝐦 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐂𝐨𝐦𝐚𝐬𝐚</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Apartamento</tipo>
-            <tipo2>0</tipo2>
-            <valor>165000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>54</area_total>
-            <area_util>54</area_util>
-            <conservacao>U</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>1</garagem>
-            <banheiro>1</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>0</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Comasa</bairro>
-            <cep>89228-310</cep>
-            <endereco>R. Albano Schmidt</endereco>
-            <numero>3960</numero>
-            <complemento>Residencial Lírios do campo</complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[p>-Mobília Completa - Porteira Fechada (Exceto geladeira, cama de casal e máquina de lavar);</p>
-    <p>-54m² de Área Total;</p>
-    <p>-Torre Única, sendo no 1º andar;</p>
-    <p>-Dois Quartos Amplos;</p>
-    <p>-Sacada com Churrasqueira;</p>
-    <p>-Sala e Cozinha Conjugada;</p>
-    <p>-Rua Pavimentada.</p>
-    <br>
-    <p>-No coração do comasa, próximo a Zona Industrial 2, bem como próximo de escolas, postos de combustível, hospitais, entre outros.</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_c049e560e4fe4d4bb5b42a95b2639181~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_a32f846e4b254498995fdbe77faf6d8b~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_5b75f4749a9640bf99076110acddf0a6~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_35af8c945b6d4d10b0e88b4f1ab1dd74~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_6a8f6f7d0a934cc8bbb283f17382767a~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_a46a6a58316844aa9f805dcfe775cd74~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_b80ecf09bcb64d94ba3868f27d7da3e7~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_f0a45393ddf143febf86570b585d6a14~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_cb31955fd17e41f8ba9f55fd099e2df1~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-                <item>Acesso com senha</item>
-                <item>Acesso com tag</item>
-                <item>Acesso de pedestres</item>
-                <item>Alarme</item>
-                <item>Câmeras</item>
-                <item>Condomínio fechado</item>
-                <item>Luzes de emergência</item>
-                <item>Medidores individuais de gás e água</item>
-                <item>Garagem coberta</item>
-                <item>Guarita</item>
-                <item>Portaria 24h</item>
-                <item>Segurança 24h</item>
-                <item>Wi-fi</item>
-                <item>Zelador</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambiente(s) amplo(s)</item>
-                <item>Ambientes integrados</item>
-                <item>Área de lazer</item>
-                <item>Área de serviço</item>
-                <item>Conceito aberto</item>
-                <item>Cozinha ampla</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Janelas amplas</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso frio</item>
-                <item>Vista panorâmica</item>
-                <item>Wi-fi</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
         </imovel>
          <imovel>
             <referencia>895</referencia>
@@ -11216,7 +10544,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>229000.000</valor>
+            <valor>232000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -11352,7 +10680,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>229000.000</valor>
+            <valor>234000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -11382,7 +10710,8 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Área total de 55m², sendo 5m de frente, 1,5m de fundos e 3,90m de abertura;</p>
+            <descritivo><![CDATA[ <p>-DOCUMENTAÇÃO INCLUSA!;</p>
+            <p>- Área total de 55m², sendo 5m de frente, 1,5m de fundos e 3,90m de abertura;</p>
     <p>- São dois amplos quartos;</p>
     <p>- Ambientes integrados e amplos;</p>
     <p>- Banheiro e Lavabo;</p>
@@ -12082,7 +11411,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>299000.000</valor>
+            <valor>308000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -12112,7 +11441,8 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Área total de 70m², sendo 5m de frente e 2m de fundos;</p>
+            <descritivo><![CDATA[ <p>-DOCUMENTAÇÃO INCLUSA!;</p>
+            <p>- Área total de 70m², sendo 5m de frente e 2m de fundos;</p>
     <p>- São dois quartos, sendo um com sacada;</p>
     <p>- Área de serviço separada;</p>
     <p>- Vaga de garagem;</p>
@@ -12706,7 +12036,7 @@
             <destaque>1</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>361000.000</valor>
+            <valor>368000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -13319,165 +12649,6 @@
                 <item>Pscina</item>
                 <item>Jacuzzi</item>
                 <item>Acabamento em alto padrão</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
-        <imovel>
-            <referencia>815</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-              https://www.primevilleimoveis.com.br/imovel/geminado-com-dois-quartos-no-centro-de-araquari-2</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐜𝐞𝐧𝐭𝐫𝐨 𝐝𝐞 𝐀𝐫𝐚𝐪𝐮𝐚𝐫𝐢</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>190000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>72</area_total>
-            <area_util>72</area_util>
-            <conservacao>U</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>1</garagem>
-            <banheiro>2</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Araquari</cidade>
-            <bairro>Centro</bairro>
-            <cep>89245000</cep>
-            <endereco>R. Pref. Higino Aguiar</endereco>
-            <numero>587</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<<p>- Imóvel financiável no plano MCMV;</p>
-    <p>- Área total de 72m², sendo 9m de frente e 5m de fundos;</p>
-    <br>
-    <p>- São dois quartos, sendo um com sacada;</p>
-    <p>- Lavabo;</p>
-    <p>- Àrea de serviço separada;</p>
-    <p>- Duas vagas de garagem;</p>
-    <p>- Quintal Britado;</p>
-    <p>- Teto em laje, Calfino e vidros blindex;</p>
-    <br>
-    <p>- Localiza-se próximo ao corpo de bombeiros e o parque dos pássaros, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_5ebe7e82b585421ba6bae15083d5d5de~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_6bd49770244b4de09a514fe8294c3db2~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_7f91e1bb48bc4a3393d95b76eb2facd0~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_cb868294392f4699af87374861e30ec3~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-               <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_13bcbf89854d446f8ce7d053ec3a26a4~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_994afe0669e640dfb4c48cc108790b6d~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_dc3056b44a6a47d5a4197910e0f68990~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_b76e105e60fa449fa49175b5b83bc7b5~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_263256ef1cb143af8297a51eaeef5cee~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_cff0de2c841a40188dd053cb5519f5d2~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_71d29c40bad640a5bc63391ce7d61b25~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_e61572a766de4b4e8c5834840c104d9a~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_4cc3d478b1eb490dae1122bf47a5bda6~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_13e51f9133d24ea4a2829f1fa514e9c1~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video></video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
