@@ -621,7 +621,7 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>820000.000</valor>
+            <valor>800000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -651,7 +651,8 @@
             <numero></numero>
             <complemento>Edifício Residencial Genève</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>-Jacuzzi e MiniBar na parte da cobertura;</p>
+            <descritivo><![CDATA[<p>DE 870 MIL POR APENAS 800 MIL!</p>
+            <p>-Jacuzzi e MiniBar na parte da cobertura;</p>
 <p>-São 144m² de cobertura Totalmente Privativo;</p>
 <p>-Salão de festas e elevador;</p>
 <p>-Três quartos, sendo um suíte;</p>
