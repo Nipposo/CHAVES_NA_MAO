@@ -1246,7 +1246,7 @@
             <destaque>1</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>450000.000</valor>
+            <valor>469000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -1396,175 +1396,6 @@
                 <item>Ventilação natural</item>
                 <item>Piso porcelanato</item>
                 <item>Suíte</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
-        <imovel>
-            <referencia>1155</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-              https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-suite-mais-dois-quartos-no-comasa</link_cliente>
-            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐧𝐨 𝐂𝐨𝐦𝐚𝐬𝐚 𝟏 𝐒𝐮í𝐭𝐞 + 𝟐 𝐝𝐨𝐫𝐦𝐢𝐭ó𝐫𝐢𝐨𝐬</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>450000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>116</area_total>
-            <area_util>116</area_util>
-            <conservacao>N</conservacao>
-            <quartos>3</quartos>
-            <suites>1</suites>
-            <garagem>2</garagem>
-            <banheiro>3</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Comasa</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>- Área Total de 116m²;</p>
-    <p>- Medidas: 7 metros de frente, 7 metros de fundos e 3,6 metros de abertura;</p>
-    <p>- Quartos: 1 suíte + 2 dormitórios;</p>
-    <p>- Sala de estar;</p>
-    <p>- Cozinha;</p>
-    <p>- Sala de jantar;</p>
-    <p>- Lavabo;</p>
-    <p>- Lavanderia separada;</p>
-    <p>- Área gourmet com churrasqueira;</p>
-    <p>- Vagas de garagem: 2 (sendo 1 vaga coberta);</p>
-    <p>- Acabamentos: Porcelanato, soleiras em granito e rebaixo em gesso;</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_412e137d10e048e3814f5b81e2ebdf0c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_ef468494cc17463b96dc25e64ff15be5~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_28f41ab1ad7f4aaaa56b16e5167ddee2~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_668abde77dbf4b86a2ec9effeb79c5b5~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_bdef49e779684f5ab6b23c9f3353b368~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_b7f53404bd1d423482123e9f2b1d5937~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_699cca6590ea4705a02f373eae5b2476~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_0b759b548379413b87603d66c818868f~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_4c59ac9c166640e08c14c686e75e1af8~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_e03f366ac99c41bb93c71e581bdcf566~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_df9b92d68053423fb76a56f6c19670fe~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_0e28e62d1a0a453595b68a5831c625a0~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_ff698de2677c40fba2b93d67ecd614bf~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_90c2d3f7e2eb4714b14c7be574a9670f~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_1e38b20ea2924b53a2c2b18f6275981c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>    
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Conceito aberto</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Teto em gesso</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso porcelanato</item>
-                <item>Suíte</item>
-                <item>Churrasqueira</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
@@ -3030,134 +2861,6 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-         <imovel>
-            <referencia>1245</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-            https://www.primevilleimoveis.com.br/imovel/Geminado-2-dormitorios-no-Itinga-Araquari</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝟐 𝐝𝐨𝐫𝐦𝐢𝐭𝐨𝐫𝐢𝐨𝐬 𝐧𝐨 𝐈𝐭𝐢𝐧𝐠𝐚 - 𝐀𝐫𝐚𝐪𝐮𝐚𝐫𝐢</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>208000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>56</area_total>
-            <area_util>56</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>1</garagem>
-            <banheiro>2</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Araquari</cidade>
-            <bairro>Itinga</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>* 56,5 m². *</p>
-    <p>- Sala Estar</p>
-    <p>- Cozinha / Sala Jantar</p>
-    <p>- Lavabo</p>
-    <p>- Lavanderia externa</p>
-    <p>- 02 dormitórios(1 com sacada)</p>
-    <p>- Acabamento em massa corrida e porcelanato</p>
-    <p>- Rebaixo em gesso na cozinha</p>
-    <p>- Portão tipo cancela</p>
-    <p>- 8 metros frente</p>
-    <p>- 6 metros nos fundos.</p>
-    <p>- 3 metros abertura</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/14b205_32436d89bef04a15a02492f6421cdf01~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/14b205_2309ce5459fe4f93bc44fb762f92d881~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/14b205_b1373a28e71c4536b695a8598d418efc~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/14b205_a1463819cba74565b8373cbff9106a4f~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/14b205_487cd595119d455ba71ae051de7b402f~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/14b205_8d738b5699a24d2e99a608118d2b80d8~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_3d401bfe71fe4d2ea16eae1f77cf4aee~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Teto em gesso</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso porcelanato</item>
-                <item>Acabamento em alto padrão</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
         <imovel>
             <referencia>1090</referencia>
             <codigo_cliente>0</codigo_cliente>
@@ -4498,7 +4201,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>270000.000</valor>
+            <valor>290000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -6929,7 +6632,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>229000.000</valor>
+            <valor>215000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -6959,7 +6662,8 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>-Área Total de 96m², sendo 9m de frente, 5m de fundos e 3,55m de abertura;</p>
+            <descritivo><![CDATA[ <p> BARBADA, DE 229.000 PARA 215.000</p>
+            <p>-Área Total de 96m², sendo 9m de frente, 5m de fundos e 3,55m de abertura;</p>
     <p>-São dois amplos quartos, sendo um com sacada;</p>
     <p>-Ambientes amplos;</p>
     <p>-Banheiro e Lavabo;</p>
@@ -9250,7 +8954,7 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>260000.000</valor>
+            <valor>250000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -9280,7 +8984,8 @@
             <numero>2701</numero>
             <complemento>Residencial Soft Boehmerwald</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Totalmente mobiliado, com móveis planejados!;</p>
+            <descritivo><![CDATA[ <p> PROMOÇÃO! DE 260 POR APENAS 250 MIL</p>
+            <p>- Totalmente mobiliado, com móveis planejados!;</p>
     <p>- Possui Elevador;</p>
     <p>- Área privativa de 54m²;</p>
     <p>- Dois dormitórios;</p>
@@ -10900,7 +10605,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>242000.000</valor>
+            <valor>248000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -11644,7 +11349,7 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>260000.000</valor>
+            <valor>300000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -12108,7 +11813,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>249000.000</valor>
+            <valor>230000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -12138,7 +11843,8 @@
             <numero>296</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Financia pelo Minha Casa Minha Vida;</p>
+            <descritivo><![CDATA[ <p>IMPERDÍVEL, DE 265.000 PARA 230.000</p>
+            <p>- Financia pelo Minha Casa Minha Vida;</p>
     <p>- Área Total de 61m², Medindo 5m de Frente e 6m de Fundos;</p>
     <p>- Sala e Cozinha Separada;</p>
     <p>- Dois Quartos, Sendo Um com Sacada;</p>
