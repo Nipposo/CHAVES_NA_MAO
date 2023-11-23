@@ -11941,7 +11941,7 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-        <imovel
+        <imovel>
             <referencia>1690</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
@@ -11992,74 +11992,176 @@
     <p>Lavanderia Separada;</p>
     <p>Duas vagas de garagem, sendo uma coberta;</p>
     <p>Localizado no Bairro Itinga, Araquari, próximo à rotatória.</p>
-    <p>Próximo a Rotatória da SC-418, bem como próximo de Escolas, CEIs, postos de combustível, postos de saúde, restaurantes e comércios em geral.</p>
-    <p>Entre em Contato Agora: (47) 99275-9287</p>
-    <p>Referência do Imóvel: 1305</p>
-    <p>Saiba Mais em: www.primevilleimoveis.com.br</p> ]]></descritivo>
+    <p>Próximo a Rotatória da SC-418, bem como próximo de Escolas, CEIs, postos de combustível, postos de saúde, restaurantes e comércios em geral.</p> ]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
-                     https://static.wixstatic.com/media/50072f_6adaac9816754222b26347326cc30c73~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_d382c0bda8b34f95a157c91c81e415f7~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_b8142b7cd9124c25896f557c5a4da7ab~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_8138bbbb039545bc9ef79495e8345747~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_823bed257c5f47e88ed7cf2fd1d4338d~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_06b94af2531f4a45aee5fe583764eb48~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                    https://static.wixstatic.com/media/50072f_6f71b676ef044a4aa0f894162f58416d~mv2.jpg</url>
+                    https://static.wixstatic.com/media/50072f_79dcfc1234af4826b048751ea07f052a~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                     https://static.wixstatic.com/media/50072f_ccf907c1bbf04108ab1c698160d040a4~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_69724a4785364e40880482ff84e2fa17~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                  <foto>
                     <url>
-                     https://static.wixstatic.com/media/50072f_c35f60e1390148d8be1eee04a4c20300~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_aa882bb76cb342e7901085404741a31e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+                <imovel>
+            <referencia>1660</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/geminado-com-dois-quartos-no-bairro-nova-brasilia</link_cliente>
+            <titulo>Geminado com Dois Quartos no Nova Brasília</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>219000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>77</area_total>
+            <area_util>77</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Nova Brasilia</bairro>
+            <cep>89213300</cep>
+            <endereco>R. Minas Gerais</endereco>
+            <numero>1956</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>Área Casa de 77m²;</p>
+    <p>Área total do Terreno de 136,5m²;</p>
+    <p>2 Quartos;</p>
+    <p>Banheiro espaçoso;</p>
+    <p>Área de serviço interna e externa;</p>
+    <p>Garagem para 2 carros (Uma vaga Coberta e outra semicoberta);</p>
+    <p>Fica na casa: 2x Ar condicionados (Sala e Quarto Casal), Coifa da Cozinha, Banheiro Completo (Gabinetes, Chuveiro, etc...).</p>
+    <p>Rua sem saída com pavimento de concreto intertravado;</p>
+    <p>Em ótima localização, Próximo de Escolas, CEIs, Postos de Combustível, Postos de Saúde, Restaurantes e Comércios em Geral.</p> ]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_f25eb6bd61d64a70bdecc78bf7d37232~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_955a96d7ecda45f8b4488690545b2d66~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b6c00e91d8b8411f8bb66314a2849d00~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_39aec424c4fe4b559ec068c5467f5b7a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_28e58c6e6b1f40f6b2060810dd03ed36~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                  <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_1037f537a9e14e22892b7c73f1b524bf~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_021c06c726d64d80b7eb3afe0d1a092a~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
-                 <foto>
+                <foto>
                     <url>
-                    https://static.wixstatic.com/media/50072f_f4bd5843ba91463f9a1980b8e673a802~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_9e97697580564784920154d9ca43a59d~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
-                 <foto>
+                <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_4f0bd2b8de254c19a752067cf8e300d8~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_6197de4e363449b69693fc6d75709d32~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
-                 <foto>
+                <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_215a9c4312b2486780cb276adc923442~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_89e6dcea03984762b30eeb4e4351f5f5~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
-                 <foto>
+                <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_6976085f8e3343b185c641193e8239e0~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_5342321733e5400caaf24ae0dd19a4e7~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
-                 <foto>
+                <foto>
                     <url>
-                     https://static.wixstatic.com/media/50072f_786636336e494bd9b46e831b6f5fedd3~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_b091ccd5765b4f8bb6219f95b541e02d~mv2.jpg</url>
+                     https://static.wixstatic.com/media/50072f_09030a58612048078c42f45cae00ff40~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
             </fotos_imovel>
