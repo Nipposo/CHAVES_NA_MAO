@@ -12349,7 +12349,7 @@
         <referencia>1685</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-bucarein2</link_cliente>
-            <titulo>𝐀𝐩ê 𝐦𝐨𝐛𝐢𝐥𝐢𝐚𝐝𝐨 𝐜𝐨𝐦 𝐞𝐥𝐞𝐯𝐚𝐝𝐨𝐫 𝐧𝐨 𝐏𝐚𝐫𝐪𝐮𝐞 𝐆𝐮𝐚𝐫𝐚𝐧𝐢</titulo>
+            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐁𝐮𝐜𝐚𝐫𝐞𝐢𝐧</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -12460,6 +12460,158 @@
                 <foto>
                     <url>
                       https://static.wixstatic.com/media/50072f_63493139436f4e518ae972b30990f62a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+                <imovel>
+        <referencia>1645</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-bucarein</link_cliente>
+            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐁𝐮𝐜𝐚𝐫𝐞𝐢𝐧</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>185000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>56</area_total>
+            <area_util>56</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Bucarein</bairro>
+            <cep>89202-300</cep>
+            <endereco>Av. Cel. Procópio Gomes</endereco>
+            <numero>1127</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>Financiamento Minha Casa Minha Vida;</p>
+    <p>Área privativa de 56m²;</p>
+    <p>Recém reformado;</p>
+    <p>Dois quartos;</p>
+    <p>Sala e cozinha conjugada;</p>
+    <p>Duas vagas de garagem;</p>
+    <p>Giardino;</p>
+    <p>Rua pavimentada;</p>
+    <p>Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e83fb6aa74034be4a082dfe24e6b63ae~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_71f309f6e3c14baca668874e6f3ed030~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_920bf2ab8e9646fdae0dce2ad6abd70c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_b70a4dd269d14ac5b45e03b830572fdb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6aefd8a89098469cb255dfe53ffb332f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_0c8f4baf902f4ddd9cd2c3ca8a537648~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0256891b0f6c4653801922bc1ff20bd5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_e63109fcdffd4778baaac474d7c0723b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d79ce37852c44b8fbcd856ae4046942c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_6655def0d49f4ce99cd4dfb896b4f0b3~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
             </fotos_imovel>
