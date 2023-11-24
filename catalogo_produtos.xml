@@ -13187,5 +13187,120 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+                <imovel>
+            <referencia>1550</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-suite-na-barra-velha</link_cliente>
+            <titulo>𝐂𝐚𝐬𝐚 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐚 𝐜𝐨𝐦 𝐒𝐮í𝐭𝐞 𝐧𝐚 𝐛𝐚𝐫𝐫𝐚 𝐯𝐞𝐥𝐡𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>399000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>80</area_total>
+            <area_util>80</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Barra Velha</cidade>
+            <bairro>Centro</bairro>
+            <cep>88390000</cep>
+            <endereco>Av. Gov. Celso Ramos</endereco>
+            <numero>980</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>-Área Total de 80m², sendo com 4m de frente, 6.80m de abertura e 1.6m de fundos;</p>
+<p>-Passagem lateral;</p>
+<p>-Dois quartos mais suíte;</p>
+<p>-Sala e cozinha conjugada;</p>
+<p>-Lavanderia Separada;</p>
+<p>-Uma vaga de Garagem;</p>
+<p>-Quintal Gramado;</p>
+<p>-Rua pavimentada;</p>
+<p>-Acabamento em Porcelanato, massa corrida e meia cana em gesso;</p>
+<p>-Nicho no banheiro, soleira de mármore nas janelas;</p>
+<p>-Prazo de entrega para 10/24;</p>
+<p>-A 5 minutos da praia central, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+ ]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_1adb359001d44421b61d9aa06a130ce0~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a3486636e3fb40d3b2cbd8987ae1b228~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9915656d49ad448a8833aef03ae07968~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_e5878ae7e07d4c9c82d9713123db6ea0~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
