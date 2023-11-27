@@ -12080,8 +12080,8 @@
             <lavanderia>1</lavanderia>
             <estado>Santa Catarina</estado>
             <cidade>Joinville</cidade>
-            <bairro>Bucarein</bairro>
-            <cep>89228100</cep>
+            <bairro>Comasa</bairro>
+            <cep>89228-100</cep>
             <endereco>R. Praia Grande</endereco>
             <numero>394</numero>
             <complemento></complemento>
@@ -12212,10 +12212,10 @@
             <lavanderia>1</lavanderia>
             <estado>Santa Catarina</estado>
             <cidade>Joinville</cidade>
-            <bairro>Bucarein</bairro>
+            <bairro>Itaum</bairro>
             <cep>89230-290</cep>
             <endereco>R. Monsenhor Gercino</endereco>
-            <numero>4200</numero>
+            <numero>2071</numero>
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo><![CDATA[ <p>Ideal para quem busca um ambiente familiar, confortável e seguro;</p>
@@ -12899,6 +12899,181 @@
                 <item>Sala(s) ampla</item>
                 <item>Vaga(s) de garagem</item>
                 <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+        <referencia>1725</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-tres-quartos-no-costa-e-silva1</link_cliente>
+            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜/𝟑 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐂𝐨𝐬𝐭𝐚 𝐞 𝐒𝐢𝐥𝐯𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>219000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>68</area_total>
+            <area_util>68</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Costa e Silva</bairro>
+            <cep>89218-691</cep>
+            <endereco>Av. Alm. Jaceguay</endereco>
+            <numero>1480</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Área total de: 68m²;</p>
+<p>- Suíte + dois quartos;</p>
+<p>- Sala e cozinha separada;</p>
+<p>- Salão de festas e playground;</p>
+<p>- Vaga de garagem;</p>
+<p>- Fica no ap: Cozinha planejada e espelho.</p>
+<p>- Em ótima localização, Bem como Próximo de Escolas, CEIs, Postos de Combustível, Postos de Saúde, Restaurantes e Comércios em Geral.</p>
+]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fd0d563aea4047dabbaa40ee7134e2c9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_536cb610474e4f199fd069ca3ed08ce1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_25f3f7c7a08b431e86b7dca4bda82e71~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_6be5f5de0ef44036938f77aa967ca14a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_81c0aab0930d4b9e9414b5e1571d7ad1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_64b70d77c8bd4e14af8c3f29c5daefc0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_daca9fc9386445139a09d84e3532f08f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_596de0f68dc74c92af642a55c96fe4f7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_973d2a1a336943f2be2e34bdbac77729~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_aeffb615889e4541af078bbf962a03b7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_8f0836d47a0c4c4b9ae7f94415b67b1d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_c1caa3d154054dd8a6873ccbb3ab25a2~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_ec0527c7925b4693985b0ea06c0b9ce7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_9fa77db881da460c9814840053150cfa~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_0b6602d2d9a1457d823c8fac57fbda80~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
