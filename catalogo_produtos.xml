@@ -14103,5 +14103,165 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1750</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/geminad-com-duas-suites-em-barra-velha</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐝𝐮𝐚𝐬 𝐬𝐮í𝐭𝐞𝐬 𝐞𝐦 𝐁𝐚𝐫𝐫𝐚 𝐕𝐞𝐥𝐡𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>378000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>118</area_total>
+            <area_util>118</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>2</suites>
+            <garagem>1</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Barra Velha</cidade>
+            <bairro>Centro</bairro>
+            <cep>88390000</cep>
+            <endereco>Av. Gov. Celso Ramos</endereco>
+            <numero>980</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Área total de 118m², 4m de abertura e 10m de fundo;</p>
+<p>- Área de festa com churrasqueira;</p>
+<p>- 2 suítes com sacada;</p>
+<p>- Jardim e piscina;</p>
+<p>- Rebaixo em gesso, rodapé poliestireno e estrutura reforçada;</p>
+<p>- Acabamento refinado;</p>
+<p>- Vaga de garagem.</p>
+<p>- A 5 minutos da praia, Próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p> ]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_7909ad9dbf734e8a8f9a9c0d32faf1b5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f6f5afcc5aba4e469168f389e0bc18ec~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d3c669ee063d4e5f9dfba91d217e254a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_b015a3457f8343a0b2aa7a4afea221f7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_d6b4941c812a44cf803666dd320187ed~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_99cd64c27642438fa5ce7523af57cfec~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_d428c5669401440f8ac73a62c9cc549e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_6fd20150d3864a1da25996464e8e82f3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_db5318d9c6ec4cafae04c1b511c324d0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_93c1ad31e2eb47819e20d16a4cf21138~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_66971c1196574e109db6166a7b7dcb0a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_f840346adc12403e9828214751136113~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_9c4b87d10c654fdaa72fbaca14ccec81~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_306a065a67de47f19fa680bff9e612f5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
