@@ -13822,5 +13822,164 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1695</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/casa-com-dois-quartos-no-guanabara</link_cliente>
+            <titulo>𝐂𝐚𝐬𝐚 𝐜𝐨𝐦 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐛𝐚𝐢𝐫𝐫𝐨 𝐆𝐮𝐚𝐧𝐚𝐛𝐚𝐫𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>450000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>390</area_total>
+            <area_util>80</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>5</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>1</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Guanabara</bairro>
+            <cep>89207-301</cep>
+            <endereco>R. Guanabara</endereco>
+            <numero>1528</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Área total da casa de 80m²;</p>
+<p>- Área total do Terreno de 390m²;</p>
+<p>- 2 Quartos;</p>
+<p>- Banheiro espaçoso + lavabo;</p>
+<p>- Ficam planejados na cozinha e banheiro, forno e exaustor;</p>
+<p>- Garagem para 5 carros, sendo uma coberta;</p>
+<p>- Portão eletrônico;</p>
+<p>- Quintal com grama;</p>
+<p>- A 3 minutos do Benvenutti, Bem como Próximo de Escolas, CEIs, Postos de Combustível, Postos de Saúde, Restaurantes e Comércios em Geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_a38f5c1cd86f4edca753dbe43c943361~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e3a2ca9d6ed44768b9aae29e9e8096a5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fa095632c9a6492caa8091ce1c0cc247~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_14d1b70c98c246dfbbe5cdce4bcf88ba~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_69b9a9c3eeea401d9eef85ee11d0e7db~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_c06618523f19472fa07ea2a2de1c10ac~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_890c67ef8df34a078c9b449c0bc65e88~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_d331ce87014345448b6b9b76c3327904~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_cf8f3fe392b74b408a82b41f27e6652e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_4f505fe9b4044bd28eaef6dd0aa66adb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_075de2347e694fb1bab4ee6ed8ffb1b3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_ce926f334d5940be834193e9f4344e8c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_be9aa13870f743298a0b7dd2e5e7594a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_43ea2c5eef5d4ec8a588b8d8f780f261~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_8425f6ffa78d42e38a85a943e49e86ea~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
