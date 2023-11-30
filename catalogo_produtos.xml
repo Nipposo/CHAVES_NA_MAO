@@ -14263,5 +14263,131 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1745</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-tres-suites-no-bairro-vila-nova</link_cliente>
+            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐭𝐫ê𝐬 𝐬𝐮í𝐭𝐞𝐬 𝐧𝐨 𝐕𝐢𝐥𝐚 𝐍𝐨𝐯𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>700000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>160</area_total>
+            <area_util>160</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>3</suites>
+            <garagem>4</garagem>
+            <banheiro>4</banheiro>
+            <closet>2</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>2</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Vila Nova</bairro>
+            <cep>89237-400</cep>
+            <endereco>R. Quinze de Novembro</endereco>
+            <numero>7000</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Área Total de 160m², 10m de frente, 15m de fundos e 5m de abertura;</p>
+<p>- Sala e cozinha conjugada;</p>
+<p>- Três suítes, sendo duas com closet e sacada;</p>
+<p>- Área de festas com churrasqueira;</p>
+<p>- Porcelanato, massa corrida, rebaixo em gesso;</p>
+<p>- Espera para piscina e 4 infras para ar condicionado;</p>
+<p>- Lavanderia fechada;</p>
+<p>- Quatro vagas de garagem sendo duas cobertas e portão de elevação;</p>
+<p>- A 3 minutos da Caixa Econômica, Próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_18a61449cd6f45e5a24f6aa310483aa2~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3f3ba0d9b19348ce97675fa924b90733~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_71318c7f0ac34947ab5e4a309aa422f1~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_0de07ab6e5d24e79ba916402aab481ce~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_43d2d4b472b04298bcd8556b1c95cc1a~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_171bfbf4f17d4481901e0b4b9079149f~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_582b76fa674440d0a53bed8179406c0d~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Acabamento em alto padrão</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
