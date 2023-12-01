@@ -14890,5 +14890,152 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>75</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+            https://www.primevilleimoveis.com.br/imovel/casa-no-jo%C3%A3o-costa</link_cliente>
+            <titulo>𝐂𝐚𝐬𝐚 𝐂𝐨𝐦 𝐓𝐫ê𝐬 𝐐𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐉𝐨ã𝐨 𝐂𝐨𝐬𝐭𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>425000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>338</area_total>
+            <area_util>338</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>1</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>João Costa</bairro>
+            <cep>89235513</cep>
+            <endereco>R. João da Costa Júnior</endereco>
+            <numero>1148</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>Em Processo de Averbação! A casa possui 3 quartos, terreno 13 x 26, rua pavimentada, livre de alagamentos,
+            edícula nos fundos com churrasqueira, valor de R$ 425 mil. Próximo ao mercado do povo no Itaum, próximo do terminal sul de ônibus.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_7c40b3491f3b40da864bcdb67194f195~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b264b7a7232e4c62a64439028d323ceb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4505d82ca04548ee94780f6ea3d8fa5e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_bc9396510a4843ba802bef598306464a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_c8153b8af71a4c72b08d397f4684bd5b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_b9f10329884d4e2484f2dfc6efeaca22~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_00f6ee0ded5e4cc5b275b117bcee035b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_221f3ae888624203851233e7ed8e0e78~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_6322dab5f2b4406aa251c40fef136d7c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_45646e8c5d1743c8bcb11a9492c1fb2d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_ba00e59445414941b13f9859f84ab50c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_7f619133faba4689b47ce50380c3c04d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_1f21730a4c464d50831fbd45cf4fc5b9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_9b9242a620fc45b88bab10398d974c09~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
