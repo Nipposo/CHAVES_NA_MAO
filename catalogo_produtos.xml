@@ -948,7 +948,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>350000.000</valor>
+            <valor>379000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -6753,127 +6753,6 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-                <imovel>
-            <referencia>930</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-               https://www.primevilleimoveis.com.br/imovel/sobrado-gemnado-com-duas-su%C3%ADtes-no-aventureiro-2</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐝𝐮𝐚𝐬 𝐬𝐮í𝐭𝐞𝐬 𝐧𝐨 𝐀𝐯𝐞𝐧𝐭𝐮𝐫𝐞𝐢𝐫𝐨!</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>390000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>89</area_total>
-            <area_util>89</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>2</suites>
-            <garagem>2</garagem>
-            <banheiro>3</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Aventureiro</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>-São 89m², sendo 9m de frente e fundos, e 3,5m de abertura;</p>
-    <p>-Duas suítes;</p>
-    <p>-Sala de estar;</p>
-    <p>-Cozinha/sala de jantar;</p>
-    <p>-Lavabo;</p>
-    <p>-Lavanderia separada;</p>
-    <p>-Duas vagas de garagem;</p>
-    <br>
-    <p>-Próximo ao CEI Odorico Fortunato, bem como próximo de farmácias, escolas, posto de combustível, restaurantes e comércios em geral.</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_904cd1b238b5434b8b1c31238dfcd345~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_e57270657ba8400aa64b43e757403daa~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_78cdb5682c21479ba94e381946451a1c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_172e89f314bc4311a183fa66c928539c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_8509d2c38e9d49339d4146367e4c6e0a~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_0f0198a3d9b3423096e815df93843444~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>    
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Conceito aberto</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Teto em gesso</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso porcelanato</item>
-                <item>Suíte</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
          <imovel>
             <referencia>900</referencia>
             <codigo_cliente>0</codigo_cliente>
@@ -10101,143 +9980,6 @@
             <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-            <referencia>645</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-            https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-iririu-2</link_cliente>
-            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐈𝐫𝐢𝐫𝐢𝐮</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>324000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>71</area_total>
-            <area_util>71</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>2</garagem>
-            <banheiro>2</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Iririú</bairro>
-            <cep>89227008</cep>
-            <endereco>R. Iririú</endereco>
-            <numero>2840</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Área total de 71m², sendo 9,5m de frente e 3,7m de fundos;</p>
-    <p>- São dois quartos, sendo um com sacada;</p>
-    <p>- Lavabo;</p>
-    <p>- Área de serviço separada;</p>
-    <p>- Churrasqueira;</p>
-    <p>- Pergolado instalado e Portão de elevação (sem motor);</p>
-    <p>- Duas vagas de garagem;</p>
-    <p>- Acabamento em Massa corrida, Piso porcelanato e Rebaixo em gesso;</p>
-    <p>- Localizado em Rua Pavimentada.</p>
-    <br>
-    <p>- Próximo ao Centro de Educação Infantil Vila da Criança, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_55ab30d0e3244ce291a8966085a97030~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_aec9060efadf42ccb61a37f461c14549~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_0a188a9e5f9e431fa79325204162b302~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_0abae4cbacaa47bc9a67ebdc62086420~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_786c5b2a871844448e3cab717e099752~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_e447e05a00614586ad29ad40d1a85d28~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_942e19b1bd1a4e3a864680e084d7f9ae~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_d9732508787a4550b44f6ced07d8c1c4~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_5509e1761497472cbd99240f9bff63e9~mv2.jpeg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Teto em gesso</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso porcelanato</item>
-                <item>Acabamento em alto padrão</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
-        <imovel>
         <referencia>615</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-boa-vista2</link_cliente>
@@ -10401,7 +10143,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>312000.000</valor>
+            <valor>330000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
