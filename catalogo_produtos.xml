@@ -463,7 +463,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>489000.000</valor>
+            <valor>496000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -1694,132 +1694,6 @@
                 <item>Piso porcelanato</item>
                 <item>Suíte</item>
                 <item>Acabamento em alto padrão</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
-        <imovel>
-            <referencia>1235</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-              https://www.primevilleimoveis.com.br/imovel/Geminado-2-dormitorios-no-Jardim-Paraiso</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝟐 𝐝𝐨𝐫𝐦𝐢𝐭𝐨𝐫𝐢𝐨𝐬 𝐧𝐨 𝐉𝐚𝐫𝐝𝐢𝐦 𝐏𝐚𝐫𝐚𝐢𝐬𝐨</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>230000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>59</area_total>
-            <area_util>59</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>2</garagem>
-            <banheiro>2</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Jardim Paraíso</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>- Geminado sobrado 59m²</p>
-    <p>- 2 dormitórios</p>
-    <p>- Sala estar</p>
-    <p>- Cozinha/Sala jantar</p>
-    <p>- Lavabo</p>
-    <p>- Lavanderia separada</p>
-    <p>- Porcelanato e massa corrida</p>
-    <p>- 2 vagas descobertas</p>
-    <p>- 3 mts abertura</p>
-    <p>- 5 mts fundos</p>
-    <p>- 9 mts frente</p>
-    <p>- Portão duas folhas</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_5bca2b5bb2b2460b82a14eea220dc418~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_d3eb25b2274d4dcdaca8e7e00f799e08~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_f1ef0bb85bc24c0d8bddb996a0dec6da~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_c98c07c3a43c4e92a09b15e786db4507~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_b373f2d2c69f4480b3b48bd9bbaa59d1~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_858d2eeeb07043df87f40a0f97ce6969~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/14b205_9bc830d7ecc542aebbe02cf3afc21954~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>https://video.wixstatic.com/video/14b205_c6ce9a504eac43388013335f759491a4/360p/mp4/file.mp4</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso porcelanato</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
@@ -8343,7 +8217,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>232000.000</valor>
+            <valor>234000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -12520,7 +12394,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>260000.000</valor>
+            <valor>270000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
