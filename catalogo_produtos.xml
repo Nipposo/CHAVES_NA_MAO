@@ -13890,5 +13890,119 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1410</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-averbada-com-suite-e-dois-quartos-no-itinga</link_cliente>
+            <titulo>Casa Averbada com Suíte no Itinga</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>300000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>328</area_total>
+            <area_util>328</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>1</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Itinga</bairro>
+            <cep>89245000</cep>
+            <endereco>Av. Pref. Alberto Natalino Miquelute</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Imóvel 100% Averbado, Financia pelo Minha Casa Minha Vida;</p>
+<p>- Área Total de 328m², com Terreno Medindo 13m x 25,25m;</p>
+<p>- Dois quartos com possibilidade de três quartos, sendo um suíte;</p>
+<p>- Sala e Cozinha Conjugada;</p>
+<p>- Dois banheiros;</p>
+<p>- Lavanderia Separada;</p>
+<p>- Salão de Festas nos Fundos;</p>
+<p>- Garagem Coberta Para até 2 Carros;</p>
+<p>- Rua Pavimentada.</p>
+<p>- A Apenas 3 Minutos do Hipermais, Bem como Próximo de Escolas, CEIs, Postos de Combustível, Postos de Saúde, Restaurantes e Comércios em Geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_be2cb1256e7b42e9a5f6b5fd755fde25~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ed8e3fe12c2345e9af464d8eb01dc4cd~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_fab186b327be453fb8b86a168d8a813c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_7a3ce82b7bce4020b54a5384f7f90a00~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_cfd4c6d1a9b84604b6419d63aaec75b1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_ed8e3fe12c2345e9af464d8eb01dc4cd~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
