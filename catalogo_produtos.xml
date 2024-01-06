@@ -13539,8 +13539,7 @@
                     <url>
                       https://static.wixstatic.com/media/50072f_d41b131a9a264573a18a0de7b3995e3e~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>                                                                                               
+                </foto>                                                                                             
             </fotos_imovel>
             <data_atualizacao>0</data_atualizacao>
             <latitude>0</latitude>
@@ -13592,7 +13591,7 @@
             <periodo_locacao>0</periodo_locacao>
         </imovel>
                     <imovel>
-        <referencia>17650</referencia>
+        <referencia>1765</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-jariva</link_cliente>
             <titulo>Apartamento com dois quartos no Jarivatuba</titulo>
