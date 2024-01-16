@@ -12454,9 +12454,164 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-    
-    
-
+<imovel>
+            <referencia>1815</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+              https://www.primevilleimoveis.com.br/imovel/geminado-com-dois-quartos-no-itinga</link_cliente>
+            <titulo>Sobrado Geminado com dois quartos no Itinga</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>210000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>69</area_total>
+            <area_util>69</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Itinga</bairro>
+            <cep>89245000</cep>
+            <endereco>Av. Pref. Alberto Natalino Miquelute</endereco>
+            <numero></numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Área total de 69m², com terreno alto;</p>
+<p>- Dois quartos;</p>
+<p>- 3 Sacadas;</p>
+<p>- Banheiro e lavabo;</p>
+<p>- Lavanderia separada;</p>
+<p>- Vaga de garagem;</p>
+<p>- Quintal com brita;</p>
+<p>- Rebaixo em gesso e vidros blindex;</p>
+<p>- Rua pavimentada.</p>
+<p>- Em ótima localização, próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e7ffb67dd9c24d1a871fd6564dc0bef0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_e10cf007b6dc40a488731e04c002278d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_50ae60c1aab0418fa866ad14b8a42875~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_da6785300da0470b8f22af7e5c41ca95~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+               <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5b570d5faca2496e8fb362c4ecac3566~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d2b26f7fa5da4550b329b090b4ec8f7e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b559152a0234412094194e7547345ba8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a4dc597ca51c47d08fd50277dbce9bbe~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6f9e2f0d33a14a3881a4509ce7fe763f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_60ff2dbd98c24d4ab9c045e8d08564fa~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_792fca174de1426693ecc6bfded2ab5f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_51ada8d21a114e5dbb5a4966efb5039b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e87d68eb2f6f449eac98a53eb1843c50~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_da03708e962e4247ad0fc4821d523b12~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video></video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
