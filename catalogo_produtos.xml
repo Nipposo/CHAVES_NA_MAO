@@ -12904,6 +12904,109 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1850</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+              https://www.primevilleimoveis.com.br/imovel/geminado-no-bairro-itinga-araquari</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐧𝐨 𝐛𝐚𝐢𝐫𝐫𝐨 𝐈𝐭𝐢𝐧𝐠𝐚 𝐀𝐫𝐚𝐪𝐮𝐚𝐫𝐢</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>260000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>80</area_total>
+            <area_util>80</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>2</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Itinga</bairro>
+            <cep>89245000</cep>
+            <endereco>Av. Pref. Alberto Natalino Miquelute</endereco>
+            <numero></numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Área total de: 80m², sendo 5,10m de frente, 3,60m de abertura e 4m de fundos;</p>
+<p>- Entrada Facilitada, Aceita carro, moto, FGTS, e saldo financiado com o banco;</p>
+<p>- Pé Direito Mais alto que o praticado no mercado promovendo ventilação e iluminação;</p>
+<p>- Dois quartos ambos com sacada;</p>
+<p>- Conceito Aberto;</p>
+<p>- Área Gourmet e Gramado Frente e Fundos;</p>
+<p>- Acabamento: Rebaixo em gesso, piso porcelanato embaixo e laminado em cima, madeira de lei, massa corrida;</p>
+<p>- Vaga de garagem e portão de elevação com entrada de pedestres;</p>
+<p>- Rua Pavimentada;</p>
+<p>- A 3min do Supermercado Hipermais, bem como próximo de Escolas, CEIs, Restaurantes e Comércios em Geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6b528bf92bca4080bc527b132ca5fedd~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_e8b85be85c4f4de2a60682e947e60bf4~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_e124acae2cb04621af676dfbced4cc0e~mv2.jpeg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video></video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
