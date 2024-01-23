@@ -13157,6 +13157,192 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>1600</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/casa-com-tres-quartos-no-paranaguamirim-2</link_cliente>
+            <titulo>𝐂𝐚𝐬𝐚 𝐜𝐨𝐦 𝐭𝐫ê𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐏𝐚𝐫𝐚𝐧𝐚𝐠𝐮𝐚𝐦𝐢𝐫𝐢𝐦</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>695000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>223</area_total>
+            <area_util>223</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>5</garagem>
+            <banheiro>4</banheiro>
+            <closet>1</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Paranaguamirim</bairro>
+            <cep>89231420</cep>
+            <endereco>R Seis de Janeiro</endereco>
+            <numero>162</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>- 𝐈𝐌Ó𝐕𝐄𝐋 𝟏𝟎𝟎% 𝐀𝐕𝐄𝐑𝐁𝐀𝐃𝐎;</p>
+<p>𝟏𝟓𝟓.𝟎𝟎𝟎 𝐃𝐄 𝐏𝐔𝐑𝐎 𝐃𝐄𝐒𝐂𝐎𝐍𝐓𝐎, 𝐒𝐎𝐌𝐄𝐍𝐓𝐄 𝟔𝟗𝟓.𝟎𝟎𝟎</p>
+<p>- Total de 223m²;</p>
+<p>- Sala e Cozinha separadas;</p>
+<p>- Três quartos, sendo um deles suíte com closet;</p>
+<p>- Quatro banheiros;</p>
+<p>- Salão de festas nos fundos;</p>
+<p>- Porcelanato, rebaixo em gesso, teto com laje, vidors blindex, soleiras em ganito;</p>
+<p>- Lavanderia Separada;</p>
+<p>- 5 Vagas de garagem;</p>
+<p>- Quintal com brita;</p>
+<p>- Sistema de alarme e portão eletrônico;</p>
+<p>- Possibilidade de tubulação para reaproveitamento de água;</p>
+<p>- Bairro Paranaguamirim.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_b66c0cb2a47440b7a97a5175b81ed236~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f6e628dec34248049344b9fe82fdeb24~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ae969fb933c84681a56947a6830b1ac0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_2ba7536e21954d6182c772f7409c5225~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_373e174da14f49d4ae1ffdcbc083dcbd~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_924be0323efc4fb28faeb432489288ee~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_590fdd100d4c4f7c8c6bc268a252a1f1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_34a5da0f4a9f4d51bdf1d8ea27f05490~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d4450f6538f14665bc72a57f7463ff09~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_502eab48bb8942908e89bb7596c8508f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_49156c1735a64d20b634d7eb4cf9dce6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c362cbef130b45dcbe4a3e148be079f0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1ca548ab185b4390b8059ff88160d206~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d575859a0ecb4bd59b36a35fd3b909bc~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a0df24b596fd41c6a9605cb76a7b8cc0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c8fbc2602ecc470492b828f91273b6f7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ed45623b2b104cc093bbe8d75cc2b2f0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5523e04b7587401d98bebe68458ffcae~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
