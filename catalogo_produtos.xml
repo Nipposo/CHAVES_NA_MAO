@@ -14601,7 +14601,140 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
-        </imovel>     
+        </imovel>  
+
+        <imovel>
+            <referencia>1870</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/geminado-com-suite-no-bairro-boa-vista</link_cliente>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐒𝐮í𝐭𝐞 𝐧𝐨 𝐛𝐚𝐢𝐫𝐫𝐨 𝐁𝐨𝐚 𝐕𝐢𝐬𝐭𝐚</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>375000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>84</area_total>
+            <area_util>84</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Boa Vista</bairro>
+            <cep>89205101</cep>
+            <endereco>Rua Albano Schmidt</endereco>
+            <numero>1279</numero>
+            <complemento>Portão 1</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ -𝐄𝐍𝐓𝐑𝐀𝐃𝐀 𝐏𝐀𝐑𝐂𝐄𝐋𝐀𝐃𝐀 𝐄𝐌 𝐀𝐓É 𝟏𝟖𝐗! 
+
+<p>- Bairro Boa Vista;</p>
+<p>- Área privativa de 84m²;</p>
+<p>- Três quartos sendo um suíte;</p>
+<p>- Cozinha e sala conjugada;</p>
+<p>- Duas vagas de garagem;</p>
+<p>- Quintal com brita;</p>
+<p>- Acabamentos em porcelanato, vidros blindex;</p>
+<p>- Rua pavimentada.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_fbb84e3378904e8fb753ffc2031298e1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_69dee210669c4614adbf371c4ab5e010~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_1f6e5982a476498d87042fcadfead403~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1f6e5982a476498d87042fcadfead403~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>   
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_396becfd03ee4d18b8c4eab37dc22cb4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_396becfd03ee4d18b8c4eab37dc22cb4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_55ea497faea0405e9d36c5b70916b3d2~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cb78255c0f2042af88c7acab529b3313~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>     
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>   
     </imoveis>
 </Document>
 
