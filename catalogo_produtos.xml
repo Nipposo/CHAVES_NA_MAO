@@ -2743,7 +2743,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>320000.000</valor>
+            <valor>300000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -2773,7 +2773,8 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>-Área Total de 78m², sendo 13m de frente, 3,8m de abertura e 8m fundos;</p>
+            <descritivo><![CDATA[ <p>𝟐𝟎 𝐌𝐈𝐋 𝐃𝐄 𝐃𝐄𝐒𝐂𝐎𝐍𝐓𝐎, 𝐃𝐄 𝟑𝟐𝟎 𝐌𝐈𝐋 𝐏𝐎𝐑 𝐀𝐏𝐄𝐍𝐀𝐒 𝟑𝟎𝟎 𝐌𝐈𝐋</p>
+            <p>-Área Total de 78m², sendo 13m de frente, 3,8m de abertura e 8m fundos;</p>
 <p>-Conceito aberto com sala e cozinha conjugada;</p>
 <p>-Duas suítes, sendo uma com sacada;</p>
 <p>-Lavanderia Separada;</p>
@@ -2786,74 +2787,54 @@
             <fotos_imovel>
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_da36b8929b59492ab6621baefce3ccf3~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_624c8047108c405199e12bfd2d3d8eae~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_2ebdd2859d3146b0ab86e3e4e67a7829~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_180863de1e5941b288257d7db130c7dc~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_3dc6119f29dc409b99960747531a5937~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_9e70543f14124c2cbbed2833eb99b97a~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_cf81f764b84846fbad15d87734517e18~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_a2344f14209b4a1fb05d808b42d24673~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_420192b5f7cb48f0995c2e8d817e2963~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_346734c13e9d47c49d7b34a2c789657b~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_af97549899ee4e00a5718b4061940a42~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_efad15e6a7e547b8951959b116f51ba9~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_c2a1e272da994f2dbdc6a4471ceed272~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_556f2e7d9de14eeda3963d8b6b1d72a9~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_4d1d54dfa16f49eca8278d3f3ac1728d~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_c78184a0391c4299a76631ac24ae6c9d~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_7645e3867ae04a2787c1df8146f824c7~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_66a2bc8b6d384ff0ad1080bd00b90456~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_bb4ce7c0da6646bd9853486ae7fc5d96~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_b8439fa5be8643d095eb8d7abf77740d~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_891801df88a64a8393d7a11e88700575~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_a32743b79921492eaaf235c49daac873~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_507ce19a72de49ce9d7ecdb56aa186f5~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto> 
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_f77d5ae65b1d49dba956841529eb83e2~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>  
             </fotos_imovel>
             <data_atualizacao>0</data_atualizacao>
             <latitude>0</latitude>
@@ -13159,163 +13140,6 @@
                 <item>Sala(s) ampla</item>
                 <item>Vaga(s) de garagem</item>
                 <item>Ventilação natural</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
-        <imovel>
-        <referencia>1665</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-iririu2</link_cliente>
-            <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐢𝐫𝐢𝐫𝐢𝐮</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Apartamento</tipo>
-            <tipo2>0</tipo2>
-            <valor>250000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>57</area_total>
-            <area_util>57</area_util>
-            <conservacao>U</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>1</garagem>
-            <banheiro>1</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>0</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Iririú</bairro>
-            <cep>89227015</cep>
-            <endereco>R. Iririú</endereco>
-            <numero>2439</numero>
-            <complemento></complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Sacada com churrasqueira;</p>
-<p>- Total de metros: 57m²</p>
-<p>- Sala e Cozinha Conjugada;</p>
-<p>- Dois dormitórios;</p>
-<p>- Lavanderia Separada;</p>
-<p>- Garagem coberta;</p>
-<p>- Bairro Iririú;</p>
-<p>- Fica no imóvel: Lavanderia completa (móveis planejados + máquina de lavar).</p>
-<p>- Cozinha: móveis planejados, fogão 04 bocas, forno embutido, coifa, torneira monocomando com aquecedor, lixeira embutida e mesa 5 cadeiras sob medida com tampo de vidro).</p>
-<p>- Sala: móvel planejado (painel TV).</p>
-<p>- Quarto casal: ar condicionado 12 mil BTUs.</p>
-<p>- Banheiro: móvel planejado e Box.</p>
-
-<p>- Boa localização, bem como próximo de Escolas, CEIs, postos de combustível, postos de saúde, restaurantes e comércios em geral.</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_6fe00a46fe5540b98a0383d89e678870~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_795bd785f813430cbbcebabf9505bb65~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_53fe7ce07c6e4089af584925f24d1d17~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_5e4c01a630464c329e3a832fbcfac2d4~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_36e69db4c2c14f50838d8d00933a26d2~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_001715deb19945ba9be097fca5f8fda7~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_7c59ccf674c649b2a81674f4c6650daa~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_6e92cdc73efb4a679324269b98e51d22~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_1d02e77b28f14420968b21667f678a70~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_2ec10b04af0e4d3db64e80f2a050021f~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <data_atualizacao>0</data_atualizacao>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-                <item>Acesso com senha</item>
-                <item>Acesso com tag</item>
-                <item>Acesso de pedestres</item>
-                <item>Alarme</item>
-                <item>Câmeras</item>
-                <item>Condomínio fechado</item>
-                <item>Luzes de emergência</item>
-                <item>Medidores individuais de gás e água</item>
-                <item>Garagem coberta</item>
-                <item>Guarita</item>
-                <item>Portaria 24h</item>
-                <item>Segurança 24h</item>
-                <item>Wi-fi</item>
-                <item>Zelador</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambiente(s) amplo(s)</item>
-                <item>Ambientes integrados</item>
-                <item>Área de lazer</item>
-                <item>Área de serviço</item>
-                <item>Conceito aberto</item>
-                <item>Cozinha ampla</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Janelas amplas</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso frio</item>
-                <item>Vista panorâmica</item>
-                <item>Wi-fi</item>
-                <item>Sacada com churrasqueira</item>
-                <item>Sacada</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
