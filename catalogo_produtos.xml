@@ -13504,7 +13504,174 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
-        </imovel>   
+        </imovel>
+        <imovel>
+            <referencia>2015</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-su%C3%ADte-e-dois-quartos-no-iriri%C3%BA</link_cliente>
+            <titulo>Sobrado Geminado Suíte e dois quartos no Iririú</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>415000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>90</area_total>
+            <area_util>90</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>1</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Iririú</bairro>
+            <cep>89227015</cep>
+            <endereco>Rua Iririú</endereco>
+            <numero>2439</numero>
+            <complemento>Portão 1</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[ <p>- Área Total de 90m², 10m de frente 3m de abertura, e 3m de fundos;</p>
+<p>- Três quartos, sendo uma suíte com sacada;</p>
+<p>- Sala e Cozinha Separada;</p>
+<p>- Àrea de Festas com Churrasqueira;</p>
+<p>- Lavanderia coberta e separada;</p>
+<p>- Duas Vagas de Garagem e Portão de elevação;</p>
+<p>- Fachada Moderna, Porcelanato piso inferior, Vinílico piso Superior Vidros blindex, ponto de ar condicionado, rebaixo em gesso;</p>
+<p>- Rua Pavimentada;</p>
+<p>- Finalização da obra 05/24.</p>
+<p>- No Coração do bairro, a 5min da TUPY - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_c5af6e655059441f92f267e122e3b6e5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f130d2a0f5334f31b9a41d2590ab9756~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_69235938cc124c1489ce9f10fcc20812~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_552b1811773d4dfe95a0e75016ed8f45~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>   
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_97d12cbede2a4a2584cff9763bd49b51~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_79b67f046d404ad397f24cf62b80ca5e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_f21c775abf6f4fe18871769c21e5abb0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_c88e752012264d408825fb3faceba506~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_670dabf5b5b546159225ab58e2c3f83b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_bb9fef832bee465492d58b52d0a94a07~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_828369b1614b4a318053bf56a4f2f528~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_108cdd65572a4701afc10c8f0f673f72~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_9df8c5b11c174fab9c4a46321d9461f6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_2cb1e9e1faeb4c6b8cc940b2ffc75ce8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_380b21ad6e104c2483f40cb84e5a54eb~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>    
+            </fotos_imovel>
+            <data_atualizacao>0</data_atualizacao>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Teto em gesso</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso porcelanato</item>
+                <item>Suíte</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>      
     </imoveis>
 </Document>
 
