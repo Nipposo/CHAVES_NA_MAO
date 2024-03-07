@@ -13832,7 +13832,7 @@
             <conservacao>U</conservacao>
             <quartos>3</quartos>
             <suites>0</suites>
-            <garagem>5</garagem>
+            <garagem>1</garagem>
             <banheiro>1</banheiro>
             <closet>0</closet>
             <salas>1</salas>
@@ -13867,22 +13867,57 @@
             <fotos_imovel>
                 <foto>
                     <url>
-                     https://static.wixstatic.com/media/50072f_3e15d30f3abb461aa2a568bf836f0893~mv2.png</url>
+                     https://static.wixstatic.com/media/50072f_35e1ba59edf242708b101ecbe0bf5cbf~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_157bcee65143470aa4544d237d067987~mv2.png</url>
+                        https://static.wixstatic.com/media/50072f_6b87ab52092b4234bd0e872a94ecbcb5~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_a9d40e34be9f4e60afcd4e04879bda53~mv2.png</url>
+                        https://static.wixstatic.com/media/50072f_af8e5d0552a74b7c8ef5493c137d46df~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                    https://static.wixstatic.com/media/50072f_ed2f224aba8e4ef1bc9c81d18ab71f17~mv2.png</url>
+                    https://static.wixstatic.com/media/50072f_ebb68fa5f158455ba7f727e6081223d8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_af2a69fcf1be4ac18940f80eaa7fb990~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_4bc91e99e1ae4e8eb60691b22cf16778~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_24268ee793e44c74bc3e598f0aea1471~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_c61a7360bdce48a5abc79511669da521~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_b8bd3e19f95b49239e5860a1b39bd003~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                    https://static.wixstatic.com/media/50072f_3966b98fe40a4c8f96df7017c35b502f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_fc91f8d0d6154c048fba73c516878a85~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
             </fotos_imovel>
