@@ -1547,7 +1547,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>400000.000</valor>
+            <valor>380000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -1577,7 +1577,8 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>- Uma área total de 76 m², sendo 7 metros de frente, 4 metros de fundos e uma abertura de 3,2 metros!</p>
+            <descritivo><![CDATA[  <p>𝟐𝟎 𝐌𝐈𝐋 𝐃𝐄 𝐃𝐄𝐒𝐂𝐎𝐍𝐓𝐎! 𝟑𝟖𝟎 𝐌𝐈𝐋 𝐒𝐎𝐌𝐄𝐍𝐓𝐄!</p>
+            <p>- Uma área total de 76 m², sendo 7 metros de frente, 4 metros de fundos e uma abertura de 3,2 metros!</p>
     <p>- Duas suítes, sendo uma delas com sacada privativa;</p>
     <p>- Sala e Cozinha Conjugada;</p>
     <p>- Lavabo e lavanderia externa;</p>
