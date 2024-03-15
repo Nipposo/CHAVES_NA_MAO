@@ -9532,7 +9532,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
             <valor>450000.000</valor>
@@ -10506,7 +10506,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>160000.000</valor>
@@ -12537,7 +12537,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
             <valor>440000.000</valor>
@@ -13856,7 +13856,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Casa / Baixa</tipo>
             <tipo2>0</tipo2>
             <valor>390000.000</valor>
@@ -13979,7 +13979,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
             <valor>350000.000</valor>
