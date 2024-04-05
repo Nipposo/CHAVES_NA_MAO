@@ -9931,7 +9931,7 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-                <imovel>
+ <!--  NÃO ESQUECER DE FECHAR IMÓVEL APOS ENGENHARIA  <imovel -->
         <referencia>1795</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-bairro-vila-nova</link_cliente>
