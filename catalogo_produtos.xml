@@ -2208,7 +2208,12 @@
             <fotos_imovel>
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_624c8047108c405199e12bfd2d3d8eae~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_0f514d1a798c45bfbe023141bfa41ee6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_27623bf8aa94413f945b72fb2f143156~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
