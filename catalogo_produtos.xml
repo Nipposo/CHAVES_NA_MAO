@@ -13027,6 +13027,190 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>  
+        <imovel>
+        <referencia>2140</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-adhemar-garcia</link_cliente>
+            <titulo>Apartamento com dois quartos no Adhemar Garcia</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>1430.00</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>51</area_total>
+            <area_util>51</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Adhemar Garcia</bairro>
+            <cep>89230700</cep>
+            <endereco>Av. Alwino Hansen</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</p>
+<p>-Aluguel;</p>
+<p>-IPTU;</p>
+<p>-Taxa de Lixo</p>
+<p>-Água;</p>
+<p>-Condomínio;</p>
+<p>-Gás.</p>
+
+<p>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</p>
+<p>-Luz;</p>
+<p>-Seguro Incêndio Obrigatório (taxa única);</p>
+<p>-Seguro Locatício.</p>
+
+<p>-Área total de 51m² 5 andar;</p>
+<p>-Dois quartos;</p>
+<p>-Cozinha e sala conjugada;</p>
+<p>-Playground, Salão de festas, área de lazer, estação de ginástica e quadra de esportes;</p>
+<p>-Acesso com tag e câmeras de segurança;</p>
+<p>-Vaga de garagem;</p>
+<p>-Rua pavimentada.</p>
+
+<p>Obs: Fica Roupeiro, móveis do banheiro, box e chuveiro.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c95eb811c56342b7a409641cd0ca411a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7201ab2bb8de4136bc931a7c4835da05~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f7f64128d9604e39a648ae43d7fb254a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_e22426c8af3d41e3b0febd6e488eccc9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9f45070674904a2286d7683089e012d6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_1bce0ac48fc64be9b00397565805a249~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d06dee41378a47b2bfa036036ec19931~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_3f669588962e4b62907cf5875468e983~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8fcb143edb1d4546a1b3f7c106b622d9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_b2840b9ea53f48d38cbd67a1c2e31091~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_9ebf73e4340b407a971e6afd199bc07d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                                                                            
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_54ac73620c9642dc8c1627ffdf7b98d9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_66bceab3bdfb43b7a5a0b419a1ebb53c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_b9a329378b864b099af94961863fce9a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>3</periodo_locacao>
+        </imovel>   
     </imoveis>
 </Document>
 
