@@ -13211,6 +13211,171 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>3</periodo_locacao>
         </imovel>   
+        <imovel>
+            <referencia>2132</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+              https://www.primevilleimoveis.com.br/imovel/geminado-com-dois-quartos-no-col%C3%A9gio-agricola-1</link_cliente>
+            <titulo>Geminado com dois quartos no Colégio Agricola</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>1230.00</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>72</area_total>
+            <area_util>72</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Colégio Agricola</bairro>
+            <cep>89245-000</cep>
+            <endereco>BR-280</endereco>
+            <numero></numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>-Área construída de 72m², 9m de frente, 4m de abertura e 8m de fundos;</p>
+<p>-Dois quartos;</p>
+<p>-Dois banheiros;</p>
+<p>-Sala e cozinha conjugada;</p>
+<p>-Lavanderia separada;</p>
+<p>-2 Vagas de Garagem;</p>
+<p>-Quintal com brita;</p>
+
+<p>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</p>
+<p>-Aluguel;</p>
+<p>-IPTU;</p>
+<p>-Taxa de Lixo.</p>
+
+<p>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</p>
+<p>-Luz;</p>
+<p>-Água;</p>
+<p>-Seguro Locatício.</p>
+<p>-Seguro Incêndio Obrigatório (taxa única);</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8a1ce94ccb4e4cf0b6681ff2fae1065b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_497dbdd18f694dc398f1a3c62cb665d5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_809040a7b9304956af65f678ab4a4d21~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_ec5e47f64c7b4f0bbef0b24a008baf48~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_0ed61ee0f8c448f386168902c936e263~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_799be6d71a9a492ca1e425a62cdee38d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_66c64128aaaf426eb89d032d373772ad~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                     https://static.wixstatic.com/media/50072f_b6a668166cb04e78bac0a4416525f7da~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_29038e23747d462da7c5b001dbe77107~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_652b3e1d4ec64caf9e00034a657321d7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_04e95f4b390a4af9a356251f6bc23af7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_63a8c5c147ab4011b1b2aba36261caf8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_49ff2937c9de4ced89f9f2cc20d4d181~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_7f53351d01264d37bf3420855411ffb9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video></video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Cozinha ampla</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal</item>
+                <item>Sacada</item>
+                <item>Sacada com vista panorâmica</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
