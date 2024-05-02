@@ -14155,6 +14155,208 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+        <referencia>2145</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-para-alugar-com-dois-quartos-no-parque-guarani</link_cliente>
+            <titulo>Apartamento com dois quartos no Parque Guarani</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>1360.00</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>52</area_total>
+            <area_util>52</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Parque Guarani</bairro>
+            <cep>89209674</cep>
+            <endereco>Av. firmino da silva</endereco>
+            <numero>1245</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo><![CDATA[<p>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</p>
+<p>-IPTU, isento no ano de 2024;</p>
+<p>-Taxa de Lixo, isento no ano de 2024.</p>
+<p>-Água;</p>
+<p>-Condomínio.</p>
+<p>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</p>
+<p>-Luz;</p>
+<p>-Gás;</p>
+<p>-Seguro Incêndio Obrigatório (taxa única);</p>
+<p>-Seguro Locatício.</p>
+<br>
+<p>-52m² de Área Total;</p>
+<p>-Dois Quartos;</p>
+<p>-Sala e Cozinha conjugada;</p>
+<p>-Banheiro com Vidros Blindex;</p>
+<p>-Área de festas, piscina, playground, acesso com tags, câmeras de vigilância, guarita e quadra poliesportiva;</p>
+<p>-Vaga de garagem;</p>
+<p>-Rua Pavimentada;</p>
+<p>-Bairro Parque Guarani.</p>
+<p>-Em ótima localização, Próximo a Supermercados, Escolas, Ponto de Ônibus, Farmácias, Restaurantes e Comércios em Geral.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1ac2dae8384b45c29f60f25a90b96473~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f1f8ce277d9b4720af5399cf4e608169~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3649018e8c214430ac41e59cb92435d6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_4dc566f686634fbc9ed4faf71ff1cff3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_565880b21fbb47ae99a5b5c942acc3ae~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_527487451b6043e091bc6b47faeb429a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_74a39ac56bba48e2b32260f68ec6577d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_e7cfea3a90024a0a87dc6714bf15f75a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_87fda23142f942c988e7d4103e875597~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_04ed75f36c2b459981606f228f28ebc8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_b63f4934b853412c8c8803514e88d017~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                                                                            
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_16280f370d97401db3349003a5ec1f77~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_4c6327ec3493410fa7af2876c5b1f435~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_d6da6e6e98fb428c88be05fbfcc3305c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_3ce4390fc5784b3bbf8cf8931dfe2bd4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_4178a4e0fe0642dba615c7ed961f0e10~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_579a7cccfc364d61a65416af7a75544a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_25d7e7ee580f45b3b9f1a0cb7971c31e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Aceita animais</item>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+            <periodo_locacao>3</periodo_locacao>
+        </imovel>   
     </imoveis>
 </Document>
 
