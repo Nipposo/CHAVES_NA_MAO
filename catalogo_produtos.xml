@@ -12869,11 +12869,9 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
         </imovel>
         <imovel>
         <referencia>2169</referencia>
-            
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-tr%C3%AAs-quartos-no-bairro-costa-e-silva</link_cliente>
             <titulo>Apartamento com três quartos no bairro Costa e Silva</titulo>
-            
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -12911,7 +12909,6 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <numero>171</numero>
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            
             <descritivo>
 <![CDATA[ <p>-Área privativa de 65m², amplo espaço;</p>
 <p>-2 torres;</p>
@@ -12926,7 +12923,6 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
 <p>-Fica no ap: Móveis do banheiro, móvel da cozinha.</p>
 <p>-Acabamentos: Rebaixo em gesso, leds no teto da sala e parede texturizada, massa corrida.</p>
 <p>-Em ótima localização, próximo a Embraco e demais empresas - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
-            
             <fotos_imovel>
                 <foto>
                     <url>
@@ -12974,7 +12970,6 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                     <data_atualizacao></data_atualizacao>
                 </foto>                                                                                       
                 </fotos_imovel>
-                
                 <latitude>0</latitude>
                 <longitude>0</longitude>
                 <video>0</video>
@@ -13021,7 +13016,156 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 </area_privativa>
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
-        </imovel>  
+        </imovel> 
+        <imovel>
+        <referencia>2168</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-novo-com-dois-quartos-no-bairro-vila-nova</link_cliente>
+            <titulo>Apartamento na planta com dois quartos bairro Vila Nova</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>245000.000</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>43</area_total>
+            <area_util>43</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Vila Nova</bairro>
+            <cep>89237-340</cep>
+            <endereco>R. Marquês de Maricá</endereco>
+            <numero>155</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[ <p>-Entrada parcelada;</p>
+<p>-Área privativa de 43m²;</p>
+<p>-Dois quartos;</p>
+<p>-Cozinha e sala separada;</p>
+<p>-Playground, Salão de festas, área de lazer, mercado 24h, quadra de esportes, piscina, academia ao ar livre;</p>
+<p>-Opções com giardino;</p>
+<p>-Acesso com tag e câmeras de segurança;</p>
+<p>-Condomínio fechado;</p>
+<p>-Vaga de garagem;</p>
+<p>-Rua pavimentada;</p>
+<p>-Na melhor localização do bairro, com acesso a BR-101 - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
+<p>-Entrega para 31/10/2026</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a7e0e54502a441aebdb3e1e030c5d352~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8fd3501c027f4f8dbafdbcb7255ad7b3~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1acdd886b1c14e9ba2f770f61f56c923~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_4413079ccd134b289b2176231624cad2~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5184dbd5935846499cce32b86fbc8cf8~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_e8a4a783ebbb4fbeb61103e23490ca19~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6423a50b982d41b6a8e21678518638fb~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_b4db563cac594ef08cb878d1a1d7feaa~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3c19a5e1331242febc92140cc35f21ac~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                                                                       
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>   
     </imoveis>
 </Document>
 
