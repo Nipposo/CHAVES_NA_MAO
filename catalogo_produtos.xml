@@ -13904,7 +13904,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel> 
-         <imovel>
+        <imovel>
         <referencia>2167</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-na-planta-com-dois-quartos-na-praia-de-barra-velha</link_cliente>
@@ -14058,7 +14058,124 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 </area_privativa>
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
-        </imovel> 
+        </imovel>
+        <imovel>
+        <referencia>2174</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-su%C3%ADte-e-dois-quartos-no-itinga</link_cliente>
+            <titulo>Casa geminada suíte e dois quartos no Itinga</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Casa geminada</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>278000.000</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>65</area_total>
+            <area_util>65</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Itinga</bairro>
+            <cep>89235-001</cep>
+            <endereco>R. Adolfo da Veiga</endereco>
+            <numero>155</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>-Imóvel pronto para morar;</p>
+<p>-Área Total de 65m², sendo 10m de frente, 3.5m de abertura e 3.5m de fundos;</p>
+<p>-Três quartos, sendo um suíte;</p>
+<p>-Sala e cozinha conjugada;</p>
+<p>-Lavanderia separada;</p>
+<p>-Vaga de Garagem para dois carros;</p>
+<p>-Entregue com portão de elevação;</p>
+<p>-Acabamento de 1ª linha;</p>
+<p>-Bairro Itinga - Joinville;</p>
+<p>-A 2min do Supermercado Meu Vizinho, Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_33039b973d78441197f72b471ad73eb0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_74369d1dfc924a82ba1d22fbbebae5c1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0c1bf0807cf6413091fcf1a36569276f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                                                                       
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>  
     </imoveis>
 </Document>
 
