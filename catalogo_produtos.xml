@@ -13313,7 +13313,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>   
-         <imovel>
+        <imovel>
         <referencia>2176</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-dois-quartos-no-bairro-petropolis</link_cliente>
@@ -13410,6 +13410,155 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_9e4b0ec4229b40fc8724173ad67a7cc4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                                                                       
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel> 
+        <imovel>
+        <referencia>2136</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-dois-quartos-no-santa-catarina</link_cliente>
+            <titulo>Geminado com dois quartos no Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Sobrado Geminado</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>285000.000</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>68</area_total>
+            <area_util>68</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Santa Catarina</bairro>
+            <cep>89211-305</cep>
+            <endereco>R. Santa Catarina</endereco>
+            <numero>155</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>-Área construída de 68m², 6m de frente e 6m de abertura;</p>
+<p>-Dois quartos;</p>
+<p>-Cozinha e sala conjugada;</p>
+<p>-Lavanderia separada;</p>
+<p>-2 Vagas de garagem;</p>
+<p>-Quintal com brita;</p>
+<p>-Rua pavimentada.</p>]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_89e42c84560045458a1cbd23611f0991~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_50927be68d6b448cbcfefbee30c20734~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_713fe5df81fa42cd82a62678d7559326~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_dd1fc364f59146a0a8b129ce9943d790~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6f63811e010144dcbfab3fcdabd6e74e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_ca34f5f489e9494c95e226208e3909b4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8d23025f072443be9cf779606fb40848~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_95d62c5a92ee46e9819af636d2e7e765~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0488d03832dd45debd3f2eeca633a5c6~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cfc956ffe39a4e9fbb0a79a87a431666~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>                                                                                       
                 </fotos_imovel>
