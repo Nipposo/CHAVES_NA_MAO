@@ -2234,7 +2234,7 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>Documentação Inclusa</p>
+            <descritivo><![CDATA[  <p>50% da documentação inclusa</p>
             <p><strong>Área:</strong> 56,5 m².</p>
 <br>
 <ul>
@@ -7142,7 +7142,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>170000.000</valor>
+            <valor>17500000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
