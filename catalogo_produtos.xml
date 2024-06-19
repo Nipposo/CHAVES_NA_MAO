@@ -2234,7 +2234,8 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>50% da documentação inclusa</p>
+            <descritivo><![CDATA[  <p>50% da documentação inclusa
+            </p>
             <p><strong>Área:</strong> 56,5 m².</p>
 <br>
 <ul>
@@ -12879,8 +12880,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>230000.000</valor_locacao>
+            <valor>230000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>65</area_total>
@@ -13029,8 +13030,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>245000.000</valor_locacao>
+            <valor>245000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>43</area_total>
@@ -13178,8 +13179,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>365000.000</valor_locacao>
+            <valor>365000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>102</area_total>
@@ -13325,8 +13326,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Sobrado Geminado</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>245000.000</valor_locacao>
+            <valor>245000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>96</area_total>
@@ -13472,8 +13473,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Sobrado Geminado</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>285000.000</valor_locacao>
+            <valor>285000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>68</area_total>
@@ -13621,8 +13622,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Sobrado Geminado</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>530000.000</valor_locacao>
+            <valor>530000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>95</area_total>
@@ -13771,8 +13772,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Casa Geminada</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>229000.000</valor_locacao>
+            <valor>229000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>120</area_total>
@@ -13916,8 +13917,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>294000.000</valor_locacao>
+            <valor>294000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>57</area_total>
@@ -14071,8 +14072,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Casa geminada</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>278000.000</valor_locacao>
+            <valor>278000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>65</area_total>
@@ -14188,8 +14189,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Casa geminada</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>220000.000</valor_locacao>
+            <valor>220000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>125</area_total>
@@ -14338,8 +14339,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>350000.000</valor_locacao>
+            <valor>350000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>351</area_total>
@@ -14659,8 +14660,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>1</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>185000.000</valor_locacao>
+            <valor>185000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>55</area_total>
@@ -14809,8 +14810,8 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>1</destaque>     
             <tipo>Sobrado Geminado</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>250000.000</valor_locacao>
+            <valor>250000.000</valor>
+            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>60</area_total>
