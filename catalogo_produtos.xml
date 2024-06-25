@@ -327,7 +327,7 @@
             <referencia>1170</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
-               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-duas-suites-no-boa-vista-4</link_cliente>
+               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-duas-su%C3%ADtes-no-boa-vista</link_cliente>
             <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝐝𝐮𝐚𝐬 𝐬𝐮í𝐭𝐞𝐬 𝐧𝐨 𝐁𝐨𝐚 𝐕𝐢𝐬𝐭𝐚</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
@@ -336,7 +336,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>379000.000</valor>
+            <valor>389000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -366,30 +366,93 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ -𝐄𝐍𝐓𝐑𝐀𝐃𝐀 𝐏𝐀𝐑𝐂𝐄𝐋𝐀𝐃𝐀 𝐄𝐌 𝐀𝐓É 𝟏𝟖𝐗! 
-
--Área Total de 82m², sendo frente de 9m, abertura 3 metros e fundos 2,5 metros;
--Duas Suítes, ambas com Sacada;
--Sala de Estar;
--Cozinha / Sala de Jantar;
--Lavanderia Externa e Lavabo;   
--Acabamento em Massa Corrida;
--Piso Retificado;
--Rebaixo em Gesso;
--Portão de Elevação;
--2 Vagas de garagem;
--Entrega prevista para Setembro de 2024.]]></descritivo>
+            <descritivo><![CDATA[ <p>-Área Total de 82m², sendo frente de 9m, abertura 3 metros e fundos 2,5 metros;</p>
+<p>-Duas Suítes, ambas com Sacada;</p>
+<p>-Sala de Estar;</p>
+<p>-Cozinha / Sala de Jantar;</p>
+<p>-Lavanderia Externa e Lavabo;</p> 
+<p>-Acabamento em Massa Corrida;</p>
+<p>-Piso Retificado;</p>
+<p>-Rebaixo em Gesso;</p>
+<p>-Portão de Elevação;</p>
+<p>-2 Vagas de garagem;</p>
+<p>-Entrega prevista para Setembro de 2024.</p>]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_4c6622979e0644b6a3d0146926855f5a~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_425d9aa475f341b59ed42ea7e234776f~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_fedbbba8fbae45d9975e1063163e8817~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_086b7b5f0a6842d582056a0735f4255e~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
-                </foto>    
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_d463c129cd6647e699a0c3cd1c3912da~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ed0445c002bb4cfd860ff301c99bac40~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_054782890e764339b8e94f377f7e4309~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a16e411ecc034032b89849de8b4aea87~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_d920ae5708dd44ae9f03d11919b86712~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d37ef0d93c9e4100ac46e7ceb28276ed~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_8ba8bee252fb4be3b3b3882a2fb46a2f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d701c4d760ab4632bc8ef9f355194522~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_cdb653c403974bf79a83f429448e67a4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8f9cd479fd2d4c7e8d152cc30debeb41~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_a1760e687b164abea0d3036d4165255c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f6c1bb45b2a44edc81f59acbb5a4afcd~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_0746f5068b3d488ba7d1419bed8f7f90~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
             </fotos_imovel>
             <latitude>0</latitude>
             <longitude>0</longitude>
@@ -6379,141 +6442,6 @@
                 <item>Churrasqueira</item>
                 <item>Pscina</item>
                 <item>Jacuzzi</item>
-                <item>Acabamento em alto padrão</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
-        <imovel>
-            <referencia>595</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-         https://www.primevilleimoveis.com.br/imovel/Sobrado-Geminado-Vila-Nova-Ref595</link_cliente>
-            <titulo>𝐒𝐨𝐛𝐫𝐚𝐝𝐨 𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐁𝐚𝐢𝐫𝐫𝐨 𝐕𝐢𝐥𝐚 𝐍𝐨𝐯𝐚!</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
-            <tipo>Casa / Sobrado</tipo>
-            <tipo2>0</tipo2>
-            <valor>330000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>70</area_total>
-            <area_util>70</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>2</garagem>
-            <banheiro>2</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Vila Nova</bairro>
-            <cep>89237400</cep>
-            <endereco>R. Quinze de Novembro</endereco>
-            <numero>7000</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Imóvel averbado!</p>
-    <p>- Área total de 70m² sendo 10 metros frente e 6,45 fundos com 3,45 metros de abertura;</p>
-    <p>- Dois quartos, sendo um com sacada;</p>
-    <p>- Banheiro e lavabo;</p>
-    <p>- Área de serviço separado;</p>
-    <p>- Cozinha;</p>
-    <p>- Sala de estar;</p>
-    <p>- Sala de Jantar;</p>
-    <p>- Churrasqueira;</p>
-    <p>- Ponto para ar condicionado;</p>
-    <p>- Portão Elevado;</p>
-    <p>- Quintal Britado;</p>
-    <p>- Garagem coberta para dois carros;</p>
-    <p>- Rua pavimentada.</p>
-    <p>- Acabamento: Massa corrida, piso porcelanato, vidros blindex, detalhes em gesso, teto em laje e soleira em granito;</p>]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                 https://static.wixstatic.com/media/50072f_c022ead1aed242bcb05f0f950844beeb~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_ea1f433144fa410eb192ee35d9fc6acf~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_13d9a79f59a0452199ac7757d11d6332~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto> 
-                    <url>
-                   https://static.wixstatic.com/media/50072f_b965f801863a496f9bba34c15eb3e3ac~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_4231c050e41840d296844641a70c9294~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_426a0c6f1be643e899b285c548e950eb~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_419457f2ddf0476cb8bed529bcd8638d~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_dedb5403b168406585dd9d5e3b21cacb~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Teto em gesso</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso porcelanato</item>
                 <item>Acabamento em alto padrão</item>
             </area_privativa>
             <aceita_troca>1</aceita_troca>
