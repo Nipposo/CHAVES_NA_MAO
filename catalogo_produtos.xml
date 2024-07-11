@@ -13814,7 +13814,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>1</destaque>     
+            <destaque>0</destaque>     
             <tipo>Sobrado Geminado</tipo>
             <tipo2>0</tipo2>
             <valor>250000.000</valor>
@@ -14207,6 +14207,160 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_00c39123b47e4726acc61169d6aa2182~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                                                                       
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
+         <imovel>
+        <referencia>2202</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/cobertura-com-su%C3%ADte-mais-um-quarto-no-costa-e-silva</link_cliente>
+            <titulo>Cobertura com suíte mais um quarto no Costa e Silva</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>1</destaque>     
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>575000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>141</area_total>
+            <area_util>102</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>1</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Costa e Silva</bairro>
+            <cep>89218-500</cep>
+            <endereco>R. Guilherme</endereco>
+            <numero>166</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>- Cobertura Localizada na Divisa Costa e Silva e Glória;</p>
+<p>- Área Privativa de 102m² e Total de 141m²;</p>
+<p>- Condomínio conta com Elevador, Área de Festas e academia equipadas;</p>
+<p>- Suíte ampla + 1 quarto;</p>
+<p>- Imóvel com toda Mobília Nova;</p>
+<p>- Sala e Cozinha Integrada, promovendo ventilação e iluminação;</p>
+<p>- Terraço Gourmet exclusivo, sendo uma parte coberta, e ponto para Jacuzzi de até 7 Lugares;</p>
+<p>- Dois banheiros;</p>
+<p>- Lavanderia separada;</p>
+<p>- Vaga de Garagem Coberta;</p>
+<p>- Rua pavimentada;</p>
+<p>- A menos de 300m do Colégio Oficina - Bem como próximo a supermercados, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e323d29a96574ed78bed9ba4434fb240~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_907dd232260f4f5d86a366952b6b9bdc~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_69df30b21af9406ea5fd47ee4c425c6e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_43e17dc8063a4bd0ab09427d1cd19235~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3ae32102d0df4225b72cd84aa6b81628~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_64c9cc1d895e4c5492cb1f6878f87e08~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_621672664b2a4421b911033c2739e5b3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_79913ce196114aa580c1e5a77d4a216b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c05d86471598468f9f78b8e4fa770e2e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_41a644667157441e8b5eb4d3c36be7ee~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>                                                                                       
                 </fotos_imovel>
