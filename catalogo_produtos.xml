@@ -1,6 +1,4 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
-
 <Document>
     <imoveis>
         <imovel>
@@ -14287,8 +14285,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                        https://static.wixstatic.com/media/50072f_a64bb96e078a4495921a30b7a35c9e34~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
-                <foto>
-                    <url>
+                <foto>                    <url>
                         https://static.wixstatic.com/media/50072f_752041f32b874dba9905ce0add18f0a0~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
