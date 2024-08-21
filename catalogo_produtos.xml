@@ -7738,7 +7738,8 @@
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo><![CDATA[ <p>Em Processo de Averbação! A casa possui 3 quartos, terreno 13 x 26, rua pavimentada, livre de alagamentos,
-            edícula nos fundos com churrasqueira, valor de R$ 425 mil. Próximo ao mercado do povo no Itaum, próximo do terminal sul de ônibus. Imóvel em processo de averbação finalizando em dezembro de 2024.</p>]]></descritivo>
+            edícula nos fundos com churrasqueira, valor de R$ 425 mil. Próximo ao mercado do povo no Itaum, próximo do terminal sul de ônibus. Imóvel em processo de averbação finalizando em dezembro de 2024.
+            </p>]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -9454,129 +9455,6 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>  
-        <imovel>
-            <referencia>2085</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-            https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-tr%C3%AAs-quartos-no-costa-e-silva</link_cliente>
-            <titulo>Casa Geminada com três quartos no Costa e Silva</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>1</destaque>
-            <tipo>Casa / Baixa</tipo>
-            <tipo2>0</tipo2>
-            <valor>350000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>64</area_total>
-            <area_util>64</area_util>
-            <conservacao>N</conservacao>
-            <quartos>3</quartos>
-            <suites>0</suites>
-            <garagem>2</garagem>
-            <banheiro>1</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Costa e Silva</bairro>
-            <cep>89218-500</cep>
-            <endereco>Rua Guilherme</endereco>
-            <numero>155</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Área total de 64m², com 2.5m de fundo e 4m de abertura, proporcionando um amplo espaço;</p>
-<p>- Três quartos;</p>
-<p>- Sala e cozinha separadas;</p>
-<p>- 1 banheiro;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Quintal com brita;</p>
-<p>- Rua pavimentada;</p>
-<p>- Acabamentos de qualidade, incluindo porcelanato, textura externa, massa corrida interna e blindex com perfil na cor preta;</p>
-<p>- Previsão de entrega para dezembro de 2024;</p>
-<p>- Em ótima localização, próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
- ]]></descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_adc3155a1aa742c79ff9e79d5f43bdf1~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_ee6f75310da54958b9e70c76bd19e7a0~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_a322b7c8ea4944f8b8f8a33856a9232c~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                    https://static.wixstatic.com/media/50072f_26b80b089ceb42e6b163c938b85484a5~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_6aecc25f2b844213817a986399f39832~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                     https://static.wixstatic.com/media/50072f_9393902463024b95b281a247d615ece6~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>Aceita animais</item>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-            </area_comum>
-            <area_privativa>
-                <item>Ambientes integrados</item>
-                <item>Área de serviço</item>
-                <item>Cozinha ampla</item>
-                <item>Escadaria</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Isento condomínio</item>
-                <item>Janelas amplas</item>
-                <item>Lavabo</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Quintal</item>
-                <item>Sacada</item>
-                <item>Sacada com vista panorâmica</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Teto em gesso</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso porcelanato</item>
-                <item>Acabamento em alto padrão</item>
-                <item>Suíte</item>
-            </area_privativa>
-            <aceita_troca>1</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>175
-
         <imovel>
             <referencia>2090</referencia>
             <codigo_cliente>0</codigo_cliente>
