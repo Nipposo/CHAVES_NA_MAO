@@ -12733,7 +12733,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <cep>89237-001</cep>
             <endereco>R. XV de Novembro</endereco>
             <numero>166</numero>
-            <complemento>Aptp 101</complemento>
+            <complemento>Apto 101</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
 <![CDATA[<p>-Área total de 72m², no segundo andar;</p>
@@ -12794,6 +12794,156 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_aaf6512dbdd3438fa2b2ae447a327e09~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                                                                       
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+        <referencia>2190</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-quatro-quartos-no-bairro-nova-bras%C3%ADlia</link_cliente>
+            <titulo>Casa com quatro quartos no bairro Nova Brasília</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>350000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>492</area_total>
+            <area_util>492</area_util>
+            <conservacao>U</conservacao>
+            <quartos>4</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>1</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Nova Brasília</bairro>
+            <cep>89213-300</cep>
+            <endereco>R. Minas Gerais</endereco>
+            <numero>166</numero>
+            <complemento>Casa de Alvenaria</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>-Imóvel 100% averbado;</p>
+<p>-Área total 492m² e área construída de 100m², sendo terreno de 13x35;</p>
+<p>-Dois banheiros;</p>
+<p>-Quatro Quartos;</p>
+<p>-Sala e cozinha conjugada;</p>
+<p>-Lavanderia separada;</p>
+<p>-2 vagas de garagem cobertas;</p>
+<p>-Quintal com grama.</p>
+<p>-A 3min do CEDUC, Bem como próximo de Mercados, CEIs, Postos de Combustível, Postos de Saúde, Restaurantes e Comércios em Geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_bb2ae9b5d2864139a51ec7882c989022~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9085803f40aa4fb883d4186a2bebe58e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0dd4698627854efb8ad90c82889aafa8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_f9b8d56e488047bb9c70b7baac51bece~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>                    <url>
+                        https://static.wixstatic.com/media/50072f_18d91eaabbc1459784ab42fafb460abf~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_74dbb6c3c31d43268dcea007579fd9ea~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c1ad6ea5965746b1b876402e1707251b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_9af82d4e6bd04cf1a086afbc3cd37403~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_73ca80c61e774354a2b70c5929e7c15e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c9e0d265064e4ba19129b5614108fedd~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>                                                                                       
                 </fotos_imovel>
