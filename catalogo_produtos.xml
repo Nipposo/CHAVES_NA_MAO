@@ -14090,7 +14090,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
             <destaque>0</destaque>     
-            <tipo>Casa</tipo>
+            <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>175000.000</valor>
             <valor_locacao>0</valor_locacao>
@@ -14229,23 +14229,23 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2244</referencia>
+        <referencia>2236</referencia>
             <codigo_cliente>0</codigo_cliente>
-            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-bairro-floresta</link_cliente>
-            <titulo>Apartamento com dois quartos no bairro Floresta</titulo>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-semimobiliado-com-dois-quartos-no-iriri%C3%BA</link_cliente>
+            <titulo>Apartamento semimobiliado com dois quartos no Iririú</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
             <destaque>0</destaque>     
-            <tipo>Casa</tipo>
+            <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>185000.000</valor>
+            <valor>350000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>200</valor_iptu>
             <valor_condominio>200</valor_condominio>
-            <area_total>43</area_total>
-            <area_util>43</area_util>
+            <area_total>60</area_total>
+            <area_util>60</area_util>
             <conservacao>U</conservacao>
             <quartos>2</quartos>
             <suites>0</suites>
@@ -14264,70 +14264,69 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <lavanderia>1</lavanderia>
             <estado>Santa Catarina</estado>
             <cidade>Joinville</cidade>
-            <bairro>Floresta</bairro>
-            <cep>89211-305</cep>
-            <endereco>R. Santa Catarina</endereco>
+            <bairro>Iririú</bairro>
+            <cep>89227-008</cep>
+            <endereco>R. Iririú</endereco>
             <numero>166</numero>
             <complemento>Apto 101</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área total de 43m²;</p>
+<![CDATA[<p>-Área total de 60m²;</p>
+<p>-Semimobiliado;</p>
+<p>-Móveis planejados;</p>
 <p>-Dois quartos;</p>
-<p>-Sala e cozinha conjugada;</p>
-<p>-Piscina, Salão de festas, Playground e Quiosque;</p>
+<p>-Sala e cozinha separada;</p>
+<p>-Lavanderia;</p>
 <p>-Vaga de garagem coberta;</p>
-<p>-Rua pavimentada;</p>
-<p>-Ótima localização, Próximo de Escolas, CEIs, Postos de Combustível, Postos de Saúde, Restaurantes e Comércios em Geral.</p>]]></descritivo>
+<p>-Portão eletrônico;</p>
+<p>-Jardim;</p>
+<p>-Rua pavimentada.</p>
+<p>-Em ótima localização - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
                 <fotos_imovel>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_ffd961db42764fe99d6f9d6d8049677f~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_b716c3bd56714390933f889c9a68350c~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_830ad8cb3c85418782d04aef04c91558~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_08bba5ff92b24df8b185dcad8827dfdc~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_0077ee519e47414ea2beb9992fc4a07d~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_11a5702a54594676bb5f571deba3dbc5~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_049a331ed92d4e1c9f905ff740e66ff2~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_47c7220f49a144ae9ee0660fd5ed4d30~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>                    <url>
-                        https://static.wixstatic.com/media/50072f_2d4c43dcbae949f5a51ec11df09dde09~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_2893eea724254d14b0a7721c617fa134~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_2d26de42724b4e5db4d6edaa9d6f1f73~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_0994ecec64164647b6a902a054eeb6a6~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_24e1d22f5de046cba50fa9c9cb4d7389~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_e7dd91df918f4997a0303564ae5f7c10~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                      https://static.wixstatic.com/media/50072f_d460403aee54428fb9b08ceb296942f4~mv2.jpg</url>
+                      https://static.wixstatic.com/media/50072f_a98c54cb0de642bbbd21ba8ec19e43e2~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_7717d03c04504c3fb8eaca27d05b741f~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_15520aee4ba3442b847c50d46c114868~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_4dd9296649594c028b570841c5f7b073~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>                                                                                       
+                </foto>                                                                      
                 </fotos_imovel>
                 <latitude>0</latitude>
                 <longitude>0</longitude>
