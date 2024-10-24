@@ -13915,7 +13915,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
         <referencia>2297</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-novo-com-dois-quartos-no-nova-bras%C3%ADlia</link_cliente>
-            <titulo>Apartamento com dois quartos no bairro João Costa</titulo>
+            <titulo>Apartamento novo com dois quartos no Nova Brasília</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -14009,6 +14009,140 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                         https://static.wixstatic.com/media/50072f_2f44817abad7492ea94fc53636e41f92~mv2.png</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>                                                                                   
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
+                <imovel>
+        <referencia>2298</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-novo-com-dois-quartos-no-floresta</link_cliente>
+            <titulo>Apartamento novo com dois quartos no Floresta</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>1</destaque>     
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>000000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>100</valor_iptu>
+            <valor_condominio>100</valor_condominio>
+            <area_total>44</area_total>
+            <area_util>44</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>1</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Floresta</bairro>
+            <cep>89211-305</cep>
+            <endereco>R. Santa Catarina</endereco>
+            <numero>2563</numero>
+            <complemento>Apto 101</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>- Parcelamento direto com a Construtora;</p>
+<p>- Área privativa de 44m²;</p>
+<p>- Sacada com churrasqueira;</p>
+<p>- Condomínio fechado;</p>
+<p>- Dois quartos;</p>
+<p>- Sala e cozinha separada;</p>
+<p>- Lavanderia;</p>
+<p>- Vaga de Garagem;</p>
+<p>- Acesso com tag, salão de festas, área pet, playground, piscina adulta e infantil;</p>
+<p>- Rua pavimentada;</p>
+<p>- Entrega para Junho de 2027.</p>
+
+<p>- Em ótima localização - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_32decf45de2c4ac9a93d591bb862805c~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dfb3cb5ff0e44505b54153c9e313c9b3~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_12e0e85e31804d4c81db662f499c85b1~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_98ef547c79e5406e882a2eb74e5f4fc7~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>                    <url>
+                        https://static.wixstatic.com/media/50072f_2e819b0311c942c39513d692d9268b0e~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_7dff9ed7614647fa81abc8ec5a304c0f~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                                                           
                 </fotos_imovel>
                 <latitude>0</latitude>
                 <longitude>0</longitude>
