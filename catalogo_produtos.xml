@@ -815,10 +815,10 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>290000.000</valor>
+            <valor>260000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -861,79 +861,64 @@
             <fotos_imovel>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_e09932fd49144fd68f9662a9295aff8a~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_3f009933d5c1411f9f11323609b4be04~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_c801e8196e75464489b7d2852cd451c9~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_9063c1acc7114de1babb374c9b7e6ef6~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_7779fea1338a45d79c516817fd1040ce~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_0f9378ff08004c8d9a0439d2c62a2f87~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_e136d8777cff41cd9303444569c712ba~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_66b9f459e08b4c4cab85d4bf836045d7~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_50f8cdcf414145089457b1677aa5c146~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_71b673b42a0b443389add1cf932f3993~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_2e6d86c471b2473b9b19e481a5f58403~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_e02cee98237d458999c8ea0dd9690090~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_6a9124e413de4123a1b50eaf0ad2b5dd~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_94ef94f352e54d46b83101145fba38c1~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                  <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_ede7f315baea42a7b96c9890f6640414~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_22b4fa7ebb5c40ae98939fbf0334d186~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                  <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_2c8bba2b4ead4d448f0487851af555c9~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_46530181514b4a61a2825f92aee06139~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                  <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_21651fa66c44482186e5bb72d7a70f4b~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_079a1b59d46544d1a58660d08942dc69~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                  <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_9291258521944977bf1746abaa6857f3~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_334b68b86a8f4d889ca098a8383660b4~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                  <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_b72782f28d824012ab4635831ea112cc~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_4d5a0cf5d9754c658747485b5467dc6f~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_786acc5393174d7f8c6dd1c521b9713d~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_99f10664fb4f40d7ac01bd127a1111ea~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                 <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_91a81f3bbad14f2aae4d8815854008fe~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>    
+                </foto> 
             </fotos_imovel>
             <latitude>0</latitude>
             <longitude>0</longitude>
