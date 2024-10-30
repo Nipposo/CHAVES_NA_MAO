@@ -3933,12 +3933,12 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>300000.000</valor>
+            <valor>699000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
-            <area_total>51</area_total>
-            <area_util>51</area_util>
+            <area_total>91</area_total>
+            <area_util>91</area_util>
             <conservacao>N</conservacao>
             <quartos>2</quartos>
             <suites>0</suites>
@@ -3963,59 +3963,87 @@
             <numero>4634</numero>
             <complemento>Próximo TOTVS</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Sacada com churrasqueira;</p>
-    <p>- Piscina Adulto e infantil;</p>
-    <p>- 51m² privativos;</p>
-    <p>- Salão de festas e área Gourmet;</p>
-    <p>- Possui Elevador;</p>
-    <p>- Bairro Santo Antonio;</p>
-    <p>- Imóvel totalmente Novo;</p>
-    <p>- Negociação Facilitada (Possibilidade de Parcelamento Entrada);</p>
-    <p>- OBS: Em fase de construção para entrega no ano de 2025.</p>]]></descritivo>
+            <descritivo><![CDATA[<p>Descubra um estilo de vida incomparável em um empreendimento que define sofisticação e exclusividade.</p>
+
+<p>- Torre única;</p>
+<p>- Apartamentos de 77 m² a 91 m²;</p>
+<p>- Unidades com giardino de até 206 m²;</p>
+<p>- Piscina climatizada;</p>
+<p>- Academia moderna;</p>
+<p>- Sauna relaxante;</p>
+<p>- Espaço de coworking;</p>
+<p>- Vista deslumbrante.</p>
+
+<p>- O Supreme Homeclub é ideal para quem busca um padrão de vida elevado, com todos os confortos e facilidades de um empreendimento de alto nível.</p>]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_815084cca96d43578298f58a0c634862~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_8da7d8924ffc44c097241ca8842582a6~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_b00a817f7f8d495b9721ece558c4b81e~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_933bd9402151421ca09f22fb2df34f46~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_31191d7d861b4bb8b1fb294e7aa4826a~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_3879a8846e724ec993d8ca9ac318dea2~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_c0e12f6c3c8041ca980b584bfbaa12d8~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_ce972b48a7064725a09ada7a490d818a~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_72c5ec9c061840f29c4b2ecf47570c5c~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_d6ad9ec979fe4c77964fcbdbb764682c~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_5808de7105c94edfb5757ffb489c8596~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_30fead19decd4ebbbc137fccfcca69aa~mv2.png</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_2537cdf0c1d14f28853dc63db265ef5c~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_4d99a7f7d1bd4944b6886311e67e5eda~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_0c7ca4a4fcec482a8514a9476ba94c41~mv2.jpg</url>
+                       https://static.wixstatic.com/media/50072f_fdab1ca00c0c4c9ab3c300ae9a9302e4~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_2ef649c38ecd4378a2c4ac71eede5713~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_ecbe90ef7a0b42a586935d7009eaf2dd~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_afbcf8fc129948b4b27c7459de57572d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_de3daa47f1704051a19050f7c6dac826~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_844d7b7d32504de9a82c08171665a937~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_486b92d40d1249d8b9a0ef65bdf8e6f1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6e722529877847f8a9e5b76d38917434~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
             </fotos_imovel>
@@ -4365,7 +4393,7 @@
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
               https://www.primevilleimoveis.com.br/imovel/geminado-com-tres-quartos-no-bairro-jarivatuba</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐉𝐚𝐫𝐢𝐯𝐚𝐭𝐮𝐛𝐚</titulo>
+            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐝𝐮𝐚𝐬 𝐬𝐮í𝐭𝐞𝐬 𝐧𝐨 𝐉𝐚𝐫𝐢𝐯𝐚𝐭𝐮𝐛𝐚</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -4373,14 +4401,14 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>309000.000</valor>
+            <valor>299000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>67</area_total>
             <area_util>67</area_util>
             <conservacao>N</conservacao>
-            <quartos>2</quartos>
+            <quartos>0</quartos>
             <suites>2</suites>
             <garagem>1</garagem>
             <banheiro>2</banheiro>
@@ -4403,32 +4431,93 @@
             <numero>387</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>-Financiamento Pelo Minha Casa Minha Vida;</p>
-<p>-Entrada Parcelada em até 12x;</p>
-<p>-Área privativa de 67m², 5.8m² de frente e 1.5m² de fundo e 4.2m² de abertura;</p>
-<p>-Duas suítes, sendo uma com sacada;</p>
-<p>-Três banheiros;</p>
-<p>-Sala e cozinha conjugada;</p>
-<p>-1 vaga de garagem;</p>
-<p>-Massa corrida, Porcelanato, portão de elevação;</p>
-<p>-Entrega para novembro 2024.</p>
-<p>-Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p> ]]></descritivo>
+            <descritivo><![CDATA[<p>- Bairro Jarivatuba;</p>
+<p>- Área construída de 67m², 5.8m² de frente, 1.5m² de fundo e 4.2m² de abertura;</p>
+<p>- Duas suítes;</p>
+<p>- Três banheiros;</p>
+<p>- Sala e cozinha conjugada;</p>
+<p>- Vaga de garagem;</p>
+<p>- Massa corrida, porcelanato, portão de elevação;</p>
+<p>- Rua pavimentada;</p>
+<p>- Entrega para novembro de 2024.</p>
+
+<p>- Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_a5f12db494fd416fb29d98d71d0a53d2~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_b55c24592a644f2f9a8abe63b0f095e3~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_4390f738bbfe43bfbc19ba84dbcfdad8~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_83252684f6a746cf8c3c92c4ab33c299~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_3b0637eaa1b74ef7b52966f11236f92c~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_8e0b5f86c1804b6fbb45cf58081f6222~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto> 
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_937e1a09be8e421c9f04d8054640a3e0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_8571d98ac71e42ebb8e30ea486659348~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_7432f4ae9c344eb98496134291fe4455~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_f4fe797c97b74dc9a1f0e3a73c7ea3da~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_6add3c1a44d44ed9ba50d134c455645b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_f8c2caf86cd64daca4a1f7f89eab7464~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_8d6a0f5ee0384152becf63565b1581fe~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_deb4a98aa3724cf28d8b9b9caba22c22~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_edf29d35585b4b63a9b567b531c844db~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_97f9b3b61f6946aebab1caa5aef784ac~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_79b5f29251854026b394ef468f019335~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_3b0637eaa1b74ef7b52966f11236f92c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
                 <foto>
                     <url>
                        https://static.wixstatic.com/media/50072f_1cd070eaa3964bc1bc01b11bf20428a8~mv2.jpg</url>
@@ -4509,19 +4598,19 @@
             <numero>4805</numero>
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>-Sacada c/ churrasqueira e elevador;</p>
-<p>-Área total de: 66m², torre única;</p>
-<p>-Suíte + quarto adicional;</p>
-<p>-Sala e cozinha separada;</p>
-<p>-Salão de festas e playground;</p>
-<p>-Garagem para 1 carro e portão eletronico;</p>
-<p>-Bairro Santo Antônio.</p>
-<br>
-<p>-Em ótima localização, Próximo de Escolas, CEIs, Postos de Combustível, Postos de Saúde, Restaurantes e Comércios em Geral.</p>]]></descritivo>
+            <descritivo><![CDATA[<p>- Sacada com churrasqueira e elevador;</p>
+<p>- Área total de 66m², torre única;</p>
+<p>- Suíte + quarto adicional;</p>
+<p>- Sala e cozinha separada;</p>
+<p>- Salão de festas e playground;</p>
+<p>- Garagem para 1 carro e portão eletrônico;</p>
+<p>- Bairro Santo Antônio.</p>
+
+<p>- Em ótima localização, bem como próximo de escolas, CEIs, postos de combustível, postos de saúde, restaurantes e comércios em geral.</p>]]></descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_668183e202504f25b2109ad3fe92788f~mv2.png</url>
+                        https://static.wixstatic.com/media/50072f_f18f0441a795474cb501adcfdff2c238~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
@@ -6980,7 +7069,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>310000.000</valor>
+            <valor>340000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -11685,7 +11774,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>175000.000</valor>
+            <valor>180000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>200</valor_iptu>
             <valor_condominio>200</valor_condominio>
@@ -12427,168 +12516,6 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <item>Sacada</item>
                 </area_privativa>
                 <aceita_troca>0</aceita_troca>
-                <periodo_locacao>0</periodo_locacao>
-        </imovel>
-        <imovel>
-        <referencia>2289</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-com-casa-no-bairro-nova-bras%C3%ADlia</link_cliente>
-            <titulo>Terreno com casa no bairro Nova Brasília</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>     
-            <tipo>Casa</tipo>
-            <tipo2>0</tipo2>
-            <valor>299900.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>360</area_total>
-            <area_util>360</area_util>
-            <conservacao>U</conservacao>
-            <quartos>3</quartos>
-            <suites>0</suites>
-            <garagem>2</garagem>
-            <banheiro>2</banheiro>
-            <closet>1</closet>
-            <salas>1</salas>
-            <despensa>1</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>1</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Nova Brasília</bairro>
-            <cep>89213-300</cep>
-            <endereco>R. Minas Gerais</endereco>
-            <numero>166</numero>
-            <complemento>Casa de Alvenaria</complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo>
-<![CDATA[<p>- Casa não averbada;</p>
-<p>- Casa com três quartos;</p>
-<p>- Dois banheiros;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Área total de 12x30, 360m²;</p>
-<p>- Terreno alto;</p>
-<p>- Ideal para investidores ou para geminado;</p>
-<p>- Rua pavimentada;</p>
-
-<p>- Em ótima localização, próximo à rua Minas Gerais e BR-101 - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_118d31091627475d9327602f040f040f~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_c62e6cfb36334e51ad1b15a9504a47f8~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_8fad38910c57474d880e7b98159548d7~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                       https://static.wixstatic.com/media/50072f_077e4e7e5f4c414a82b5ad1cf15ba663~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>                    <url>
-                        https://static.wixstatic.com/media/50072f_dddaa2a718c1429085e7c4ed508cdf92~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_fbcb5e8a6ce848d8b3fc0dac066ea537~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_0558e858b7e64432a71b6cf164580a9b~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                      https://static.wixstatic.com/media/50072f_315f71770a164cd09a37d692ab02858f~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_e17c1e1fd6a541d58922251cf81af196~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_dc938109e21b49fb832682b5e362d7e7~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_ea8fd1adf6444428b9f1cbddb075207f~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>
-                        https://static.wixstatic.com/media/50072f_757f9c02e4064771b2a43f91a18af878~mv2.jpg</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                                                                                               
-                </fotos_imovel>
-                <latitude>0</latitude>
-                <longitude>0</longitude>
-                <video>0</video>
-                <area_comum>
-                <item>Acesso de pedestres</item>
-                <item>Murado</item>
-                <item>Portão eletrônico</item>
-                <item>Acesso com senha</item>
-                <item>Acesso com tag</item>
-                <item>Acesso de pedestres</item>
-                <item>Alarme</item>
-                <item>Câmeras</item>
-                <item>Condomínio fechado</item>
-                <item>Luzes de emergência</item>
-                <item>Medidores individuais de gás e água</item>
-                <item>Garagem coberta</item>
-                <item>Guarita</item>
-                <item>Portaria 24h</item>
-                <item>Segurança 24h</item>
-                <item>Wi-fi</item>
-                <item>Zelador</item>
-                </area_comum>
-                <area_privativa>
-                <item>Ambiente(s) amplo(s)</item>
-                <item>Ambientes integrados</item>
-                <item>Área de lazer</item>
-                <item>Área de serviço</item>
-                <item>Conceito aberto</item>
-                <item>Cozinha ampla</item>
-                <item>Infraestrutura de ar condicionado</item>
-                <item>Iluminação natural</item>
-                <item>Janelas amplas</item>
-                <item>Lavanderia</item>
-                <item>Quarto(s) amplo(s)</item>
-                <item>Sala de TV</item>
-                <item>Sala(s) ampla</item>
-                <item>Vaga(s) de garagem</item>
-                <item>Ventilação natural</item>
-                <item>Piso frio</item>
-                <item>Vista panorâmica</item>
-                <item>Wi-fi</item>
-                <item>Sacada com churrasqueira</item>
-                <item>Sacada</item>
-                </area_privativa>
-                <aceita_troca>1</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
