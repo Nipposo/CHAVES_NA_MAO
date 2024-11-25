@@ -6498,7 +6498,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>426000.000</valor>
+            <valor>39500.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -12205,7 +12205,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <tipo>Casa geminada</tipo>
             <tipo2>0</tipo2>
             <valor>0</valor>
-            <valor_locacao>1705.00</valor_locacao>
+            <valor_locacao>1650.00</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>72</area_total>
@@ -14409,7 +14409,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <valor_iptu>200</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>60</area_total>
-            <area_util>60</area_util>
+            <area_util>621430</area_util>
             <conservacao>N</conservacao>
             <quartos>2</quartos>
             <suites>0</suites>
