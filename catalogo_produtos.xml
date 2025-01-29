@@ -1461,7 +1461,7 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
-            <valor>391000.000</valor>
+            <valor>350000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
@@ -1491,9 +1491,7 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p><strong>PISCINA!!</strong></p>
-<p>Documentação Inclusa</p>
-
+            <descritivo><![CDATA[ 
 <p><strong>Área Total:</strong> 120m²;</p>
 
 <p><strong>Suítes:</strong> Duas amplas suítes;</p>
@@ -9449,7 +9447,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <destaque>0</destaque>     
             <tipo>Sobrado Geminado</tipo>
             <tipo2>0</tipo2>
-            <valor>309000.000</valor>
+            <valor>30000.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>200</valor_iptu>
             <valor_condominio>0</valor_condominio>
