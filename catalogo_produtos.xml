@@ -2920,7 +2920,7 @@
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-a-tres-quartos-no-nova-brasilia-5</link_cliente>
-            <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜/ 𝐝𝐨𝐢𝐬 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐍𝐨𝐯𝐚 𝐁𝐫𝐚𝐬í𝐥𝐢𝐚</titulo>
+            <titulo>𝐆𝐄𝐌𝐈𝐍𝐀𝐃𝐎 𝐃𝐄 𝐄𝐒𝐐𝐔𝐈𝐍𝐀 𝐂𝐎𝐌 𝐒𝐔Í𝐓𝐄 𝐌𝐀𝐈𝐒 𝐃𝐎𝐈𝐒 𝐐𝐔𝐀𝐑𝐓𝐎𝐒 𝐍𝐎 𝐍𝐎𝐕𝐀 𝐁𝐑𝐀𝐒Í𝐋𝐈𝐀</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -2928,15 +2928,15 @@
             <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>14b205_8d738b5699a24d2e99a608118d2b80d8
-            <valor>282900.000</valor>
+            <valor>438900.000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
-            <area_total>67</area_total>
-            <area_util>67</area_util>
+            <area_total>89</area_total>
+            <area_util>89</area_util>
             <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
+            <quartos>3</quartos>
+            <suites>1</suites>
             <garagem>1</garagem>
             <banheiro>2</banheiro>
             <closet>0</closet>
@@ -2958,15 +2958,13 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Área total de 67m², sendo 5m de frente e 3,95m de abertura;</p>
-    <p>- Opção de até duas suítes, ou suíte + dois quartos;</p>
+            <descritivo><![CDATA[<p>- Área total de 89m²;</p>
+    <p>- Suíte + dois quartos;</p>
     <p>- Ambientes integrados e amplos;</p>
-    <p>- Lavabo;</p>
+    <p>- Três banheiros;</p>
     <p>- Área de serviço separada com pergolado;</p>
     <p>- Vaga de garagem coberta;</p>
     <p>- Rua pavimentada;</p>
-    <p>- Entrega prevista para dezembro de 2023.</p>
-    <br>
     <p>- Localizado a 3 minutos da via principal, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
             <fotos_imovel>
                 <foto>
