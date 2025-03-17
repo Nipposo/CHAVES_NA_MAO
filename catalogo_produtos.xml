@@ -14217,6 +14217,159 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+        <referencia>2383</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-vila-nova-1</link_cliente>
+            <titulo>Apartamento com dois quartos no Vila Nova</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>205000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>200</valor_iptu>
+            <valor_condominio>200</valor_condominio>
+            <area_total>50</area_total>
+            <area_util>50</area_util>
+            <conservacao>U</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>1</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Vila Nova</bairro>
+            <cep>89237-400</cep>
+            <endereco>R. XV de Novembro</endereco>
+            <numero>7000</numero>
+            <complemento>Apto 301</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>- Financia Minha Casa Minha Vida;</p>
+<p>- Área privativa de 50m²;</p>
+<p>- Dois quartos;</p>
+<p>- Lavanderia conjugada;</p>
+<p>- Giardino;</p>
+<p>- Fica no ap: Móveis planejados da cozinha, quarto casal e banheiro;</p>
+<p>- Condomínio com piscina, salão de festas, playground;</p>
+<p>- Uma vaga de garagem coberta;</p>
+<p>- Rua pavimentada;</p>
+
+<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b75c84856cb547fc925ab3b49115440f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_39efc04573c34426a14634bf0fa9e310~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6d48e42745ae4a1ba3fd0afe208be226~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1f45c2b9e38e4a05b70aa4939e2efd54~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_696e23ae6c2c4f2c8d464aea47731c44~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0b54c3af0b5a4c6dbf4a8da237c86a1b~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8480e5ac8ee642cf960d01bb115c5080~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_46c71fabea7448bba0a282d264c66625~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_633b21a4a7b74601ae70afe0096e4c9f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e2e90cf1f5ed4c909ab2dce450daa096~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
