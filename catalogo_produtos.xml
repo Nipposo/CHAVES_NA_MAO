@@ -14534,7 +14534,7 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
             <valor_condominio>0</valor_condominio>
             <area_total>63</area_total>
             <area_util>63</area_util>
-            <conservacao>N</conservacao>
+            <conservacao>U</conservacao>
             <quartos>2</quartos>
             <suites>0</suites>
             <garagem>1</garagem>
@@ -14612,6 +14612,163 @@ soleiras em granito e piso laminado.</p>]]></descritivo>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_938a58cfe76741a39a7207e6e02b5ab0~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+        <referencia>2336</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-tr%C3%AAs-su%C3%ADtes-no-guanabara</link_cliente>
+            <titulo>Sobrado Geminado com Três suítes no Guanabara</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Sobrado geminado</tipo>
+            <tipo2>0</tipo2>
+            <valor>540000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>200</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>105</area_total>
+            <area_util>105</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>3</suites>
+            <garagem>2</garagem>
+            <banheiro>4</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>1</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Guanabara</bairro>
+            <cep>89207-750</cep>
+            <endereco>R. Taubaté</endereco>
+            <numero>45</numero>
+            <complemento>Portão 1</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>- Área construída de 105m² com frente de 5m, fundos de 1.5m e abertura de 7m;</p>
+<p>- Três suítes;</p>
+<p>- Cozinha e sala separada;</p>
+<p>- Área de serviço;</p>
+<p>- Quintal com paver;</p>
+<p>- Duas vagas de garagem;</p>
+<p>- Porcelanato, detalhes em gesso, rebaixo em gesso, vidros blindex, massa corrida, laminado;</p>
+<p>- Rua pavimentada;</p>
+
+<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e2b6222f2dab4634b4fcd41424fbc561~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c6ca3f91d7b3430f98971d5ad5b439b1~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_42872763c6674b458cf87ded7062d57a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e98b18422d9246bd970889e5e609a131~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f46246f854694942884c330c362fd451~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2c968d617b104a1e87ec7060ae14a013~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9fa292c7d81c492386aebfcc16f1f581~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_560f822aac864c8c833c46aa05e58ae3~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dcd6fd31d6914b72b28cfd72617d8fe2~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                  <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a4246dbb70d74960ab8c697a7eb14ae2~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c35a867ba35442208feb75e7afecaa61~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 </fotos_imovel>
