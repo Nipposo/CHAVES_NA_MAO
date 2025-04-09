@@ -13578,7 +13578,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-                <imovel>
+        <imovel>
         <referencia>2419</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-su%C3%ADte-mais-um-quarto-no-boehmerwald</link_cliente>
@@ -14568,6 +14568,137 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_9d017763f9944844b070ab825c212316~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+        <referencia>2412</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-su%C3%ADte-mais-dois-quartos-no-aventureiro</link_cliente>
+            <titulo>Casa com suíte mais dois quartos no Aventureiro</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>360000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>200</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>69</area_total>
+            <area_util>69</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>1</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Aventureiro</bairro>
+            <cep>89226-015</cep>
+            <endereco>R. Prado</endereco>
+            <numero>900</numero>
+            <complemento>Casa de alvenaria</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>- Área construída de 69m²;</p>
+<p>- Casa não averbada;</p>
+<p>- Suíte mais dois quartos;</p>
+<p>- Três banheiros;</p>
+<p>- Quintal com brita e jardim;</p>
+<p>- Lavanderia separada;</p>
+<p>- Duas vagas de garagem cobertas;</p>
+<p>- Rua pavimentada;</p>
+<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cb88954e49734cd997e2dab76d1a549c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9fad561319b64564aeb1bf4bbb7e3140~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6ef17a6ec21f488584b1b2cbfb11c7c8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c45ccf567e40497e9d97b54e4727ab2d~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a671b13ac23c4e3ba10d7210a4e953ee~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4e9799f81cf549bd978731b988e99b2f~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 </fotos_imovel>
