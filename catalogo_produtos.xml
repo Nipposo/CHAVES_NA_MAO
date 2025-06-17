@@ -14041,14 +14041,14 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Financia Minha Casa Minha Vida;<br>
-- Área construída de 75m², 5m de frente, 1m de fundos e 4m de abertura;<br>
-- Dois quartos;<br>
-- Massa corrida, detalhes em gesso, rebaixo em gesso, vidros blindex;<br>
-- Lavanderia separada;<br>
-- Vaga de garagem coberta;<br>
-- Rua pavimentada;</p>
-<p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+<![CDATA[<p>Financia Minha Casa Minha Vida.</p>
+<p>Área construída de 75m², 5m de frente, 1m de fundos e 4m de abertura.</p>
+<p>Dois quartos.</p>
+<p>Massa corrida, detalhes em gesso, rebaixo em gesso, vidros blindex.</p>
+<p>Lavanderia separada.</p>
+<p>Vaga de garagem coberta.</p>
+<p>Rua pavimentada.</p>
+<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
                 <fotos_imovel>
                 <foto>
                     <url>
@@ -14191,17 +14191,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Financia Minha Casa Minha Vida;<br>
-- Área construída de 68m² com 10m de frente, 5m de fundos e 3m de abertura;<br>
-- Dois quartos;<br>
-- Fica no imóvel: cozinha planejada, roupeiros, rack da sala, cabeceira de cama e móveis do banheiro;<br>
-- Massa corrida, porcelanato, vidros blindex, rebaixo em gesso;<br>
-- Área gourmet com churrasqueira;<br>
-- Lavanderia separada;<br>
-- Sistema de alarme;<br>
-- Duas vagas de garagem;<br>
-- Rua pavimentada;</p>
-<p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+<![CDATA[<p>Financia Minha Casa Minha Vida.</p>
+<p>Área construída de 68m² com 10m de frente, 5m de fundos e 3m de abertura.</p>
+<p>Dois quartos.</p>
+<p>Fica no imóvel: Cozinha planejada, roupeiros, rack da sala, cabeceira de cama e móveis do banheiro.</p>
+<p>Massa corrida, porcelanato, vidros blindex, rebaixo em gesso.</p>
+<p>Área gourmet com churrasqueira.</p>
+<p>Lavanderia separada.</p>
+<p>Sistema de alarme.</p>
+<p>Duas vagas de garagem.</p>
+<p>Rua pavimentada.</p>
+<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
                 <fotos_imovel>
                 <foto>
                     <url>
@@ -14382,6 +14382,120 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_00b9a564a5794da8b15277d4df224be1~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+        <referencia>2400</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-na-planta-com-duas-su%C3%ADtes-no-costa-e-silva</link_cliente>
+            <titulo>Sobrado Geminado na planta com duas suítes no Costa e Silva</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Sobrado geminado</tipo>
+            <tipo2>0</tipo2>
+            <valor>550000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>250</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>100</area_total>
+            <area_util>100</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>2</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>1</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>1</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Costa e Silva</bairro>
+            <cep>89218-691</cep>
+            <endereco>Av. Alm. Jaceguay</endereco>
+            <numero>2727</numero>
+            <complemento>Portão 1</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>Área construída de 100m² com 3.70, 8m de fundos e 8m de frente.</p>
+<p>Duas suítes.</p>
+<p>Piso porcelanato, cerâmica retificada e rebaixo de gesso.</p>
+<p>Lavanderia separada.</p>
+<p>Duas vagas de garagem.</p>
+<p>Rua pavimentada.</p>
+<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3a02aa275210427ca651607761127290~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_193373f295624be5bdf6dcea7327aa36~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8abf82ecaa274203afcd64460e402884~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 </fotos_imovel>
