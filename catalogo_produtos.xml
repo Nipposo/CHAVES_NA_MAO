@@ -12578,6 +12578,148 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+        <referencia>2432</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-su%C3%ADte-mais-dois-quartos-no-boa-vista</link_cliente>
+            <titulo>Casa geminada com suíte mais dois quartos no Boa Vista</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Casa geminada</tipo>
+            <tipo2>0</tipo2>
+            <valor>599000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>250</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>84</area_total>
+            <area_util>84</area_util>
+            <conservacao>N</conservacao>
+            <quartos>3</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>3</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>1</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Boa Vista</bairro>
+            <cep>89206-100</cep>
+            <endereco>R. Pref. Helmuth Fallgatter</endereco>
+            <numero>1203</numero>
+            <complemento>Portão 1</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p>- Área construída de 84m² com 4.70m de abertura, 2m de fundos e 5m de frente;</p>
+<p>- Suíte mais dois quartos;</p>
+<p>- Sala e cozinha conjugada;</p>
+<p>- Área gourmet com churrasqueira;</p>
+<p>- Três banheiros;</p>
+<p>- Quintal com brita e paver;</p>
+<p>- Duas vagas de garagem, sendo uma coberta;</p>
+<p>- Rua pavimentada;</p>
+<p>- Data de entrega para: 06/2026.</p>
+<p>- Próximo de supermercados, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_35ad9e3cb739498f982f9a87e0cf38d8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cf245cf49f5944b89e27e33b0f7dd9a9~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ac5e8bbe9f9f48ef88aaa2282ed727f5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_44d6d948ef46464bb2398438ba0abaea~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0b5513da482c4bacaffa155a7d0ace24~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fadea9beee7a427f83f3e35cabe00f9c~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f422391c2d894a8d858671b8a5929751~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f345f721ef8b4432b7b7e57acc814f69~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
