@@ -14886,7 +14886,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>     
+            <destaque>1</destaque>     
             <tipo>Sala Comercial</tipo>
             <tipo2>0</tipo2>
             <valor>10000.000</valor>
