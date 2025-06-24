@@ -14877,6 +14877,167 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+        <referencia>2439</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sala-comercial-de-240m-no-bairro-itinga-araquari</link_cliente>
+            <titulo>Sala Comercial de 240m² no bairro Itinga-Araquari</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Sala Comercial</tipo>
+            <tipo2>0</tipo2>
+            <valor>10000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>240</area_total>
+            <area_util>240</area_util>
+            <conservacao>N</conservacao>
+            <quartos>0</quartos>
+            <suites>0</suites>
+            <garagem>0</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>0</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>0</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>0</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Itinga</bairro>
+            <cep>89245-000</cep>
+            <endereco>SC-418</endereco>
+            <numero>7099</numero>
+            <complemento>Sala comercial</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p><strong>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</strong></p>
+<p>Aluguel.</p>
+<p>IPTU.</p>
+<p>Taxa de Lixo.</p>
+<p>Fiança Locatícia.</p>
+<p><strong>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</strong></p>
+<p>Luz transfere.</p>
+<p>Água transfere.</p>
+<p>Seguro Incêndio Obrigatório (taxa única anual).</p>
+<p>Bairro Itinga-Araquari.</p>
+<p>Pode ser alugado inteiro, dividido em duas ou quatro partes.</p>
+<p>Área construída de 240m² por piso.</p>
+<p>Piso industrial polido.</p>
+<p>Um banheiro pronto e com espera pronta para até quatro.</p>
+<p>Oito vagas de estacionamento.</p>
+<p>Permitido todo tipo de comércio, até 24hrs.</p>
+<p>Entrega para agosto/25.</p>
+<p>Rua pavimentada.</p>
+<p>Em ótima localização, próximo a BR-280 - Rodovia, em uma via comercial de fácil acesso a outros bairros.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fb52ac4183f74157b9aac269326c8a1a~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_11ce3e7b108d4dde882c58069d07d7e4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5bfca10af03546599a089ddf0f8ff6d2~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ade006ead98f4a0f8be2ecedda2313ae~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4bd9dafa8ba14de6a4df4d1b24b7d901~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_85b7cad2b2644d3baf9ee77fd880ed24~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_edb01def94d04f318b9573c43ce6b109~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0cc7063579dc43e7a65de3cecaa82238~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9ede6fa478c540718c923efc424d7ef4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3b838815e4ef4c14851e0adbb8d5b497~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
