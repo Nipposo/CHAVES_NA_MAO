@@ -14452,6 +14452,172 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+        <referencia>2449</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-tr%C3%AAs-quartos-no-paranaguamirim</link_cliente>
+            <titulo>Apartamento com três quartos no Paranaguamirim</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>1750.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>42</area_total>
+            <area_util>42</area_util>
+            <conservacao>U</conservacao>
+            <quartos>3</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>1</closet>
+            <salas>1</salas>
+            <despensa>1</despensa>
+            <bar>1</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>1</quarto_empregada>
+            <escritorio>1</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>1</lareira>
+            <varanda>1</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Paranaguamirim</bairro>
+            <cep>89234-100</cep>
+            <endereco>R. Paranaguamirim</endereco>
+            <numero>268</numero>
+            <complemento>Apto 103</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+<![CDATA[<p><strong>INCLUSO:</strong></p>
+<p>Aluguel.</p>
+<p>IPTU.</p>
+<p>Taxa de Lixo.</p>
+<p>Água.</p>
+<p>Condomínio.</p>
+
+<p><strong>INQUILINO PAGA:</strong></p>
+<p>Luz transfere.</p>
+<p>Seguro Incêndio Obrigatório (taxa única anual).</p>
+<p>Fiança Locatícia.</p>
+
+<p>Imóvel revisado e pintura nova.</p>
+<p>Área privativa de 42m².</p>
+<p>Três quartos.</p>
+<p>Cozinha e sala separada.</p>
+<p>Área de serviço.</p>
+<p>Playground, salão de festas, área de lazer e câmeras de segurança.</p>
+<p>Vaga de garagem.</p>
+<p>Rua pavimentada.</p>
+
+<p>Fica no imóvel: Persianas, iluminação completa, cabeceira, telas nas janelas, roupeiro de casal, 2 roupeiros de solteiro, escrivaninha, cozinha e lavanderia planejada, banheiro equipado, hack de TV.</p>
+
+<p>Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b518679517234c5ebb8bb2fba09b685f~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2aa9788d239c413c98fa7cee7594fa20~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ffeee8cb969548e5928ee77bb0798100~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cac6ffedcf734ef09792b275d5445e78~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f6be183477ec44f69f8a483591b2af2e~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_381387405b5d4fa48f2d2e42684ea8c4~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6aa7eb3c487a4d80b0158fffcdd3a1e5~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_73173d0b7ee04f279c51407f60462794~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6c140b8eb45047a0a80e64c1fc4d7bd7~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2eab3f0f34c642d5bd1a0e69d5d493d8~mv2.jpg</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                </fotos_imovel>
+                <latitude>0</latitude>
+                <longitude>0</longitude>
+                <video>0</video>
+                <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+                <item>Acesso com senha</item>
+                <item>Acesso com tag</item>
+                <item>Acesso de pedestres</item>
+                <item>Alarme</item>
+                <item>Câmeras</item>
+                <item>Condomínio fechado</item>
+                <item>Luzes de emergência</item>
+                <item>Medidores individuais de gás e água</item>
+                <item>Garagem coberta</item>
+                <item>Guarita</item>
+                <item>Portaria 24h</item>
+                <item>Segurança 24h</item>
+                <item>Wi-fi</item>
+                <item>Zelador</item>
+                </area_comum>
+                <area_privativa>
+                <item>Ambiente(s) amplo(s)</item>
+                <item>Ambientes integrados</item>
+                <item>Área de lazer</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Cozinha ampla</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Sala de TV</item>
+                <item>Sala(s) ampla</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+                <item>Piso frio</item>
+                <item>Vista panorâmica</item>
+                <item>Wi-fi</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Sacada</item>
+                </area_privativa>
+                <aceita_troca>0</aceita_troca>
+                <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
