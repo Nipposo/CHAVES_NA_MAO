@@ -14647,6 +14647,91 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>2454</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+                https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-no-iriri%C3%BA
+            </link_cliente>
+            <titulo>Sobrado para venda 60 m² com 2 quartos no bairro Iririú - Joinville - SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>370000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>60</area_total>
+            <area_util>60</area_util>
+            <conservacao>Novo</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Iririú</bairro>
+            <cep>89227008</cep>
+            <endereco>Rua Iririú</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo><![CDATA[
+                <p>-Entrega prevista para agosto de 2026;</p>
+                <p>-Duas unidades disponíveis (unidades do meio);</p>
+                <p>-Área privativa de 60m²;</p>
+                <p>-Duas vagas de garagem;</p>
+                <p>-Piso retificado classe A na parte inferior e superior;</p>
+                <p>-Rebaixo em gesso;</p>
+                <p>-Infraestrutura para ar-condicionado;</p>
+                <p>-Dois quartos;</p>
+                <p>-Sala de estar;</p>
+                <p>-Cozinha;</p>
+                <p>-Fundo com 6,86m;</p>
+                <p>-Excelente padrão de acabamento;</p>
+                <p>-Em ótima localização.</p>
+            ]]></descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_76fea76676924d4bb13bf8e8ff132b20~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_54b04954efa346c5bf7382cdde86cb4d~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_eec49d97138c47fe98db54c7a504000a~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_9e859a8388ad443298a099d8b90d0f53~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum></area_comum>
+            <area_privativa></area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
 
