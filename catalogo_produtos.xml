@@ -15160,6 +15160,152 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2461</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-su%C3%ADte-no-costa-e-silva</link_cliente>
+            <titulo>Apartamento com Suíte no Costa e Silva</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>351516.00</valor>
+            <area_total>0</area_total>
+            <area_util>57.22</area_util>
+            <conservacao>Na Planta</conservacao>
+            <quartos>1</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Costa e Silva</bairro>
+            <cep>89220618</cep>
+            <endereco>Rua Pavão</endereco>
+            <numero>996</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+               <![CDATA[
+                    <p>🏡 Características do imóvel:</p>
+                    <p>☑️ Previsão de entrega: setembro/2027</p>
+                    <p>☑️ 10 unidades disponíveis</p>
+                    <p>☑️ Plantas a partir de 57,22m²</p>
+                    <p>☑️ Suíte + 1 dormitório</p>
+                    <p>☑️ 1 vaga de garagem por unidade</p>
+                    <br>
+                    <p>🔥 A partir de R$ 351.516,00 🔥</p>
+                    <br>
+                    <p>🎯 Localização e proximidades:</p>
+                    <p>☑️ Bairro Costa e Silva</p>
+                    <p>☑️ Próximo a supermercados, academias, escolas e Havan</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_4e6c66d4eeec4d4885d80793fab6be30~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_de6b81cf22e843acbeaddf76e708433e~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_82ec21f007da4935b6f9789a03a915bc~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_7abada34d6e54409b567a54323a567de~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_a7899f02863345608b3e167e4fbe2163~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_9b64454c0e4e45c5bb3a5e12a71ad537~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_9c14ede93a8a43ae8a3a84adebb6858d~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f2d93966963748778439af4bacf8c719~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_ebdf9c3b500d47caaf8fa9837489d24a~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_3fc3094913b448f6b8a7e7f8f0b00e08~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_de717a699a5841ca84ee35f828b6b45d~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_7de62ce227c24fc485d69673e29f6a50~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+           <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+            </area_comum>
+           <area_privativa>
+                <item>Suíte + 1 dormitório</item>
+                <item>Churrasqueira a carvão</item>
+                <item>Ambientes integrados</item>
+                <item>Iluminação natural</item>
+                <item>Ventilação natural</item>
+                <item>Vaga(s) de garagem</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
 
