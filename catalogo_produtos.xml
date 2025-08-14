@@ -15020,22 +15020,22 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
         <imovel>
             <referencia>2458</referencia>
             <codigo_cliente>0</codigo_cliente>
-            <link_cliente></link_cliente>
-            <titulo></titulo>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-grande-com-ed%C3%ADcula-para-alugar-no-bairro-areias-pequenas-sozinha-no-terr</link_cliente>
+            <titulo>Casa Grande com Edícula para Alugar no Areias Pequenas – Sozinha no Terreno</titulo>
             <transacao>L</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>     
+            <finalidade2></finalidade2>
+            <destaque>0</destaque>
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
             <valor>0</valor>
-            <valor_locacao>1889,90</valor_locacao>
+            <valor_locacao>1889.90</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>260</area_total>
             <area_util>70</area_util>
-            <conservacao>N</conservacao>
+            <conservacao>Usado</conservacao>
             <quartos>2</quartos>
             <suites>0</suites>
             <garagem>2</garagem>
@@ -15049,18 +15049,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <escritorio>0</escritorio>
             <area_servico>1</area_servico>
             <lareira>0</lareira>
-            <varanda>1</varanda>
+            <varanda>0</varanda>
             <lavanderia>1</lavanderia>
             <estado>Santa Catarina</estado>
             <cidade>Araquari</cidade>
             <bairro>Areias Pequenas</bairro>
-            <cep></cep>
-            <endereco></endereco>
-            <numero></numero>
-            <complemento></complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <cep>89245000</cep>
+            <endereco>Rua Rosa Amélia pereira Braga</endereco>
+            <numero>345</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
             <descritivo>
-                <![CDATA[
+                 <![CDATA[
                     ☑️ Dois quartos  
                     ☑️ Sala e cozinha conjugadas  
                     ☑️ Lavanderia separada  
@@ -15145,16 +15145,16 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                     <url>https://static.wixstatic.com/media/1fe786_1d276b902f0e4a34b7e88e030d93dcd6~mv2.jpg/v1/fill/w_340,h_453,al_c,q_85,usm_0.66_1.00_0.01/1fe786_1d276b902f0e4a34b7e88e030d93dcd6~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>                                                                   
-                </fotos_imovel>
-                <latitude>0</latitude>
-                <longitude>0</longitude>
-                <video>0</video>
-                <area_comum>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
                 <item>Acesso de pedestres</item>
                 <item>Murado</item>
                 <item>Garagem coberta</item>
-                </area_comum>
-                <area_privativa>
+            </area_comum>
+            <area_privativa>
                 <item>Ambiente(s) amplo(s)</item>
                 <item>Área de serviço</item>
                 <item>Conceito aberto</item>
@@ -15166,10 +15166,9 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <item>Quarto(s) amplo(s)</item>
                 <item>Vaga(s) de garagem</item>
                 <item>Ventilação natural</item>
-                </area_privativa>
-                <aceita_troca>0</aceita_troca>
-                <periodo_locacao>0</periodo_locacao>
-            </imovel>
+            </area_privativa>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
         <imovel>
             <referencia>2292</referencia>
             <codigo_cliente>0</codigo_cliente>
