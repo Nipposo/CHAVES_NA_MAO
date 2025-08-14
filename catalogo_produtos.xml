@@ -15306,6 +15306,172 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2462</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-alto-padr%C3%A3o-no-s%C3%A3o-marcos</link_cliente>
+            <titulo>Geminado Alto Padrão no São Marcos</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Geminado Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>665000</valor>
+            <area_total>0</area_total>
+            <area_util>123</area_util>
+            <conservacao>Novo</conservacao>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>São Marcos</bairro>
+            <cep>89214130</cep>
+            <endereco>Rua Guaporé</endereco>
+            <numero>492</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+              <![CDATA[
+                    <p>🏡 Características do imóvel:</p>
+                    <p>☑️ Área privativa a partir de 123,02m²</p>
+                    <p>☑️ Suíte + 2 dormitórios</p>
+                    <p>☑️ 2 vagas de garagem</p>
+                    <p>☑️ Fundos entre 9 e 11 metros</p>
+                    <p>☑️ 6 unidades no terreno</p>
+                    <br>
+                    <p>🔥 A partir de R$ 665.000,00 🔥</p>
+                    <br>
+                    <p>📍 Localização:</p>
+                    <p>☑️ Bairro São Marcos</p>
+                    <p>☑️ Próximo a comércios e vias de fácil acesso</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_21ae75d5729643d39c9b18e7417b802c~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_5e2f236240f04094a8a7f6b982baa400~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f66becd213134223a09a11337e8bf308~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_82260e4beab44f10a122605af7580add~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_63e2518483cb4c4e8363cc2fcc3f08c0~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_995aada5e84a438db54edc3ca05862dd~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f5815628cb034d5b816375b5ddcd6842~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_3678174cc0124163a14a5ef9e701334b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_18eea8cfc5f944d8aeaa54e16a136b13~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f912f8ab248345d6a46e58f126fc0c2b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_17d873e62c554641a4a5027eb9e32dc3~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_3ddc726d900c4d91842f1e6a8cb45e10~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_fd0a217a1a834be1afb3872b7c0cfa58~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_5a75e17f4d81418e985aa98dbccd2303~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_521b66fd5fb948e196a43ccf9df17f38~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+           <area_comum>
+                <item>Paisagismo</item>
+                <item>Quintal Grande</item>
+                <item>Espaço para 2 ou mais carros</item>
+            </area_comum>
+           <area_privativa>
+                <item>Suíte + 2 dormitório</item>
+                <item>Churrasqueira a carvão</item>
+                <item>Ambientes integrados</item>
+                <item>Iluminação natural</item>
+                <item>Ventilação natural</item>
+                <item>Conceito Aberto</item>
+                <item>Cômodos Espaçosos</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
 
