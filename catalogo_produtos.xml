@@ -14703,249 +14703,343 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2455</referencia>
-        <codigo_cliente>0</codigo_cliente>
-        <link_cliente>
-            https://www.primevilleimoveis.com.br/imovel/bel%C3%ADssimo-apartamento-semimobiliado-para-alugar-no-cora%C3%A7%C3%A3o-do-iriri%C3%BA
-        </link_cliente>
-        <titulo>Apartamento semimobiliado para locação com 2 quartos no bairro Iririú - Joinville - SC</titulo>
-        <transacao>L</transacao>
-        <transacao2>0</transacao2>
-        <finalidade>RE</finalidade>
-        <finalidade2>0</finalidade2>
-        <destaque>0</destaque>
-        <tipo>Apartamento</tipo>
-        <tipo2>0</tipo2>
-        <valor>0</valor>
-        <valor_locacao>2335.00</valor_locacao>
-        <valor_iptu>0</valor_iptu>
-        <valor_condominio>0</valor_condominio>
-        <area_total>0</area_total>
-        <area_util>62</area_util>
-        <conservacao>Seminovo</conservacao>
-        <quartos>2</quartos>
-        <suites>0</suites>
-        <garagem>1</garagem>
-        <banheiro>1</banheiro>
-        <closet>0</closet>
-        <salas>1</salas>
-        <despensa>0</despensa>
-        <bar>0</bar>
-        <cozinha>1</cozinha>
-        <quarto_empregada>0</quarto_empregada>
-        <escritorio>0</escritorio>
-        <area_servico>1</area_servico>
-        <lareira>0</lareira>
-        <varanda>2</varanda>
-        <lavanderia>1</lavanderia>
-        <estado>Santa Catarina</estado>
-        <cidade>Joinville</cidade>
-        <bairro>Iririú</bairro>
-        <cep>89227370</cep>
-        <endereco>R. Rio Fortuna</endereco>
-        <numero>257</numero>
-        <complemento>245</complemento>
-        <esconder_endereco_imovel>0</esconder_endereco_imovel>
-        <descritivo><![CDATA[
-            <p>Belíssimo apartamento semimobiliado localizado no coração do bairro Iririú!</p>
-            <ul>
-                <li>Dois quartos</li>
-                <li>Sala e cozinha separadas</li>
-                <li>Lavanderia separada</li>
-                <li>Banheiro completo</li>
-                <li>Garagem fechada e privativa para até um carro e uma moto</li>
-                <li>Duas sacadas fechadas com reiki</li>
-                <li>Acesso individualizado para veículos e pedestres</li>
-                <li>Imóvel com pintura nova, limpeza completa e revisão geral realizada</li>
-                <li>Semimobiliado com:
+            <referencia>2455</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+                https://www.primevilleimoveis.com.br/imovel/bel%C3%ADssimo-apartamento-semimobiliado-para-alugar-no-cora%C3%A7%C3%A3o-do-iriri%C3%BA
+            <titulo>Apartamento semimobiliado para locação com 2 quartos no bairro Iririú</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>2335.00</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>0</area_total>
+            <area_util>62</area_util>
+            <conservacao>Seminovo</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Iririú</bairro>
+            <cep>89227370</cep>
+            <endereco>R. Rio Fortuna</endereco>
+            <numero>257</numero>
+            <complemento>245</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>Belíssimo apartamento semimobiliado localizado no coração do bairro Iririú!</p>
                     <ul>
-                        <li>Cozinha planejada com fogão e armários</li>
-                        <li>Armário e tanque na lavanderia</li>
-                        <li>Hack de TV e armários</li>
-                        <li>Banheiro completo com espelho, varão de cortina e prateleiras</li>
-                        <li>Painel controlador de iluminação no quarto</li>
-                        <li>Fechadura eletrônica</li>
-                        <li>TV com gaveta e armário</li>
-                        <li>Três aparelhos de ar-condicionado</li>
-                        <li>Janelas com tela, persianas e fumê</li>
+                        <li>Dois quartos</li>
+                        <li>Sala e cozinha separadas</li>
+                        <li>Lavanderia separada</li>
+                        <li>Banheiro completo</li>
+                        <li>Garagem fechada e privativa para até um carro e uma moto</li>
+                        <li>Duas sacadas fechadas com reiki</li>
+                        <li>Acesso individualizado para veículos e pedestres</li>
+                        <li>Imóvel com pintura nova, limpeza completa e revisão geral realizada</li>
+                        <li>Semimobiliado com:
+                            <ul>
+                                <li>Cozinha planejada com fogão e armários</li>
+                                <li>Armário e tanque na lavanderia</li>
+                                <li>Hack de TV e armários</li>
+                                <li>Banheiro completo com espelho, varão de cortina e prateleiras</li>
+                                <li>Painel controlador de iluminação no quarto</li>
+                                <li>Fechadura eletrônica</li>
+                                <li>TV com gaveta e armário</li>
+                                <li>Três aparelhos de ar-condicionado</li>
+                                <li>Janelas com tela, persianas e fumê</li>
+                            </ul>
+                        </li>
+                        <li>Rua pavimentada</li>
+                        <li>Localização privilegiada, próximo ao Hospital Regional (4 minutos)</li>
+                        <li>Fácil acesso a outros bairros e comércios em geral</li>
                     </ul>
-                </li>
-                <li>Rua pavimentada</li>
-                <li>Localização privilegiada, próximo ao Hospital Regional (4 minutos)</li>
-                <li>Fácil acesso a outros bairros e comércios em geral</li>
-            </ul>
-            <p><strong>Incluso no valor:</strong> aluguel, IPTU, taxa de lixo, condomínio, água e internet.</p>
-            <p><strong>Inquilino paga:</strong> luz (transferência), gás (consumo), seguro incêndio anual, fiança locatícia.</p>
-        ]]></descritivo>
-        <fotos_imovel>
-            <foto><url>https://static.wixstatic.com/media/1fe786_835a6a7a88b445d2951f144e4d8d0a78~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_336cc2080ba7480fb77997d4e258532e~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_e0dee99fa6b64815aedc598229746481~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_fb807f85e4224e3db901219afb022163~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_00fc2c96fdd04322933724982c95f28e~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_95b2f5ab5fdb494db76db4fbf39acfbe~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_46d70ae660184286906285e06b98e328~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_1f614d0aa41d4f6aa5da06a09a914429~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_5b57fc8bfae04ced9c1e4fd0f83dd5d2~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_2d5a815a32a24a1fb8f42d36937834c2~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_356b804be8434ff29c2c3dbdc1460982~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_e50dcef24f8643aebcd1b97c7d3c990b~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_b87078221ba94a8a85582b523b4c46da~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_a2a812d487984e228be4f3c379868c11~mv2.jpg</url></foto>
-            <foto><url>https://static.wixstatic.com/media/1fe786_04478c028af54400a0642e76507db71a~mv2.jpg</url></foto>
-        </fotos_imovel>
-        <latitude>0</latitude>
-        <longitude>0</longitude>
-        <video>0</video>
-        <area_comum></area_comum>
-        <area_privativa></area_privativa>
-        <aceita_troca>0</aceita_troca>
-        <periodo_locacao>0</periodo_locacao>
-    </imovel>
-    <imovel>
-        <referencia>1145</referencia>
-        <codigo_cliente>0</codigo_cliente>
-        <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-no-bairro-floresta-na-planta</link_cliente>
-        <titulo>Sobrado Geminado com 2 Quartos no Bairro Floresta – Na Planta</titulo>
-        <transacao>V</transacao>
-        <transacao2>0</transacao2>
-        <finalidade>RE</finalidade>
-        <finalidade2>0</finalidade2>
-        <destaque>0</destaque>     
-        <tipo>Casa</tipo>
-        <tipo2>0</tipo2>
-        <valor>330000.000</valor>
-        <valor_locacao>0</valor_locacao>
-        <valor_iptu>0</valor_iptu>
-        <valor_condominio>0</valor_condominio>
-        <area_total>510.00</area_total>
-        <area_util>72.70</area_util>
-        <conservacao>N</conservacao>
-        <quartos>2</quartos>
-        <suites>0</suites>
-        <garagem>1</garagem>
-        <banheiro>2</banheiro>
-        <closet>0</closet>
-        <salas>1</salas>
-        <despensa>0</despensa>
-        <bar>0</bar>
-        <cozinha>1</cozinha>
-        <quarto_empregada>0</quarto_empregada>
-        <escritorio>0</escritorio>
-        <area_servico>1</area_servico>
-        <lareira>0</lareira>
-        <varanda>0</varanda>
-        <lavanderia>1</lavanderia>
-        <estado>Santa Catarina</estado>
-        <cidade>Joinville</cidade>
-        <bairro>Floresta</bairro>
-        <cep>0</cep>
-        <endereco>0</endereco>
-        <numero>0</numero>
-        <complemento>0</complemento>
-        <esconder_endereco_imovel>0</esconder_endereco_imovel>
-        <descritivo>
-            <![CDATA[
-            <p><strong>Sobrado Geminado com 2 Quartos no Bairro Floresta – Na Planta</strong></p>
-            <p><strong>✅ Entrega prevista para outubro de 2025</strong></p>
-            <p><strong>✅ Imóvel na planta – excelente oportunidade de investimento</strong></p>
-            <p><strong>✅ Área construída de aproximadamente 72,70m²</strong></p>
-            <p><strong>✅ Dois quartos</strong></p>
-            <p><strong>✅ Sala de estar</strong></p>
-            <p><strong>✅ Copa/cozinha</strong></p>
-            <p><strong>✅ Banheiro social + lavabo</strong></p>
-            <p><strong>✅ Área de serviço</strong></p>
-            <p><strong>✅ Vaga de garagem descoberta</strong></p>
-            <p><strong>✅ Terreno com frente de 23,78m</strong></p>
-            <p><strong>✅ Fundos com 34,00m em ambos os lados</strong></p>
-            <p><strong>✅ Área total de terreno: 510m²</strong></p>
-            <p><strong>✅ Localização tranquila e valorizada no bairro Floresta</strong></p>
-            ]]>
-        </descritivo>
-        <fotos_imovel>
-            <foto>
-                <url>https://static.wixstatic.com/media/1fe786_76fea76676924d4bb13bf8e8ff132b20~mv2.png</url>
-                <data_atualizacao></data_atualizacao>
-            </foto>
-            <foto>
-                <url>https://static.wixstatic.com/media/1fe786_54b04954efa346c5bf7382cdde86cb4d~mv2.png</url>
-                <data_atualizacao></data_atualizacao>
-            </foto>
-            <foto>
-                <url>https://static.wixstatic.com/media/1fe786_eec49d97138c47fe98db54c7a504000a~mv2.png</url>
-                <data_atualizacao></data_atualizacao>
-            </foto>
-            <foto>
-                <url>https://static.wixstatic.com/media/1fe786_9e859a8388ad443298a099d8b90d0f53~mv2.png</url>
-                <data_atualizacao></data_atualizacao>
-            </foto>
-        </fotos_imovel>
-        <latitude>0</latitude>
-        <longitude>0</longitude>
-        <video>0</video>
-        <area_comum>
-            <item>0</item>
-        </area_comum>
-        <area_privativa>
-            <item>0</item>
-        </area_privativa>
-        <aceita_troca>0</aceita_troca>
-        <periodo_locacao>0</periodo_locacao>
-    </imovel>
-    <imovel>
-    <referencia>2456</referencia>
-    <codigo_cliente>0</codigo_cliente>
-    <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminados-novos-%C3%A0-venda-no-sagua%C3%A7u-modernos-e-bem-localizados</link_cliente>
-    <titulo>Sobrado Geminado com 2 Suítes no Saguaçu – Na Planta</titulo>
-    <transacao>V</transacao>
-    <tipo>Casa</tipo>
-    <subtipo>Sobrado Geminado</subtipo>
-    <finalidade>Residencial</finalidade>
-    <valor>475000.00</valor>
-    <estado>SC</estado>
-    <cidade>Joinville</cidade>
-    <bairro>Saguaçu</bairro>
-    <endereco></endereco>
-    <numero></numero>
-    <complemento></complemento>
-    <cep></cep>
-    <area_construida>67.39</area_construida>
-    <area_privativa>67.39</area_privativa>
-    <quartos>2</quartos>
-    <suites>2</suites>
-    <banheiros>3</banheiros>
-    <vagas>1</vagas>
-    <descritivo><![CDATA[
-        <p><strong>Sobrado Geminado com 2 Suítes no Saguaçu – Na Planta</strong></p>
-        <p><strong>✅ 2 suítes amplas</strong></p>
-        <p><strong>✅ 1 lavabo no piso térreo</strong></p>
-        <p><strong>✅ Opções com 1 ou 2 vagas de garagem</strong></p>
-        <p><strong>✅ A partir de 67,39 m² de área privativa</strong></p>
-        <p><strong>✅ Abertura frontal de 3,80 metros</strong></p>
-        <p><strong>✅ Fundos variando de 2,71 m até 14 m (conforme unidade)</strong></p>
-        <p><strong>✅ Bairro Saguaçu – um dos mais desejados de Joinville</strong></p>
-        <p><strong>✅ Entrega prevista para dezembro de 2026</strong></p>
-        <p><strong>* Imóveis com correção de valor via CUB</strong></p>
-    ]]></descritivo>
-    <conservacao>Na Planta</conservacao>
-    <fotos_imovel>
-        <foto>
-        <url>https://static.wixstatic.com/media/1fe786_9e0f278bbafc49ac982c98ca81bb001b~mv2.jpg</url>
-        </foto>
-        <foto>
-        <url>https://static.wixstatic.com/media/1fe786_17a9ce52dabb44079ddd4fbec806ec28~mv2.jpg</url>
-        </foto>
-        <foto>
-        <url>https://static.wixstatic.com/media/1fe786_39d8312bea3543388740da136b2094dc~mv2.jpg</url>
-        </foto>
-        <foto>
-        <url>https://static.wixstatic.com/media/1fe786_6f98d8aebc8e4bc09ccc549b0fb8845e~mv2.jpg</url>
-        </foto>
-        <foto>
-        <url>https://static.wixstatic.com/media/1fe786_b93449e3f138436286b4e57b66a4c22f~mv2.jpg</url>
-        </foto>
-    </fotos_imovel>
-    </imovel>
+                    <p><strong>Incluso no valor:</strong> aluguel, IPTU, taxa de lixo, condomínio, água e internet.</p>
+                    <p><strong>Inquilino paga:</strong> luz (transferência), gás (consumo), seguro incêndio anual, fiança locatícia.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_835a6a7a88b445d2951f144e4d8d0a78~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_336cc2080ba7480fb77997d4e258532e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_e0dee99fa6b64815aedc598229746481~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_fb807f85e4224e3db901219afb022163~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/1fe786_00fc2c96fdd04322933724982c95f28e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/1fe786_95b2f5ab5fdb494db76db4fbf39acfbe~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_46d70ae660184286906285e06b98e328~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_1f614d0aa41d4f6aa5da06a09a914429~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/1fe786_5b57fc8bfae04ced9c1e4fd0f83dd5d2~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_2d5a815a32a24a1fb8f42d36937834c2~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_356b804be8434ff29c2c3dbdc1460982~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_e50dcef24f8643aebcd1b97c7d3c990b~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>    
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_b87078221ba94a8a85582b523b4c46da~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_a2a812d487984e228be4f3c379868c11~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_04478c028af54400a0642e76507db71a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>              
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
+        <imovel>
+            <referencia>1145</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-no-bairro-floresta-na-planta</link_cliente>
+            <titulo>Sobrado Geminado com 2 Quartos no Bairro Floresta – Na Planta</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>     
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>330000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>510.00</area_total>
+            <area_util>72.70</area_util>
+            <conservacao>N</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Floresta</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p><strong>Sobrado Geminado com 2 Quartos no Bairro Floresta – Na Planta</strong></p>
+                <p><strong>✅ Entrega prevista para outubro de 2025</strong></p>
+                <p><strong>✅ Imóvel na planta – excelente oportunidade de investimento</strong></p>
+                <p><strong>✅ Área construída de aproximadamente 72,70m²</strong></p>
+                <p><strong>✅ Dois quartos</strong></p>
+                <p><strong>✅ Sala de estar</strong></p>
+                <p><strong>✅ Copa/cozinha</strong></p>
+                <p><strong>✅ Banheiro social + lavabo</strong></p>
+                <p><strong>✅ Área de serviço</strong></p>
+                <p><strong>✅ Vaga de garagem descoberta</strong></p>
+                <p><strong>✅ Terreno com frente de 23,78m</strong></p>
+                <p><strong>✅ Fundos com 34,00m em ambos os lados</strong></p>
+                <p><strong>✅ Área total de terreno: 510m²</strong></p>
+                <p><strong>✅ Localização tranquila e valorizada no bairro Floresta</strong></p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_76fea76676924d4bb13bf8e8ff132b20~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_54b04954efa346c5bf7382cdde86cb4d~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_eec49d97138c47fe98db54c7a504000a~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_9e859a8388ad443298a099d8b90d0f53~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>0</item>
+            </area_comum>
+            <area_privativa>
+                <item>0</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
+        </imovel>
+        <imovel>
+            <referencia>2456</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminados-novos-%C3%A0-venda-no-sagua%C3%A7u-modernos-e-bem-localizados</link_cliente>
+            <titulo>Sobrado Geminado com 2 Suítes no Saguaçu – Na Planta</titulo>
+            <transacao>V</transacao>
+            <tipo>Casa</tipo>
+            <subtipo>Sobrado Geminado</subtipo>
+            <finalidade>Residencial</finalidade>
+            <valor>475000.00</valor>
+            <estado>SC</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Saguaçu</bairro>
+            <endereco></endereco>
+            <numero></numero>
+            <complemento></complemento>
+            <cep></cep>
+            <area_construida>67.39</area_construida>
+            <area_privativa>67.39</area_privativa>
+            <quartos>2</quartos>
+            <suites>2</suites>
+            <banheiros>3</banheiros>
+            <vagas>1</vagas>
+            <descritivo><![CDATA[
+                <p><strong>Sobrado Geminado com 2 Suítes no Saguaçu – Na Planta</strong></p>
+                <p><strong>✅ 2 suítes amplas</strong></p>
+                <p><strong>✅ 1 lavabo no piso térreo</strong></p>
+                <p><strong>✅ Opções com 1 ou 2 vagas de garagem</strong></p>
+                <p><strong>✅ A partir de 67,39 m² de área privativa</strong></p>
+                <p><strong>✅ Abertura frontal de 3,80 metros</strong></p>
+                <p><strong>✅ Fundos variando de 2,71 m até 14 m (conforme unidade)</strong></p>
+                <p><strong>✅ Bairro Saguaçu – um dos mais desejados de Joinville</strong></p>
+                <p><strong>✅ Entrega prevista para dezembro de 2026</strong></p>
+                <p><strong>* Imóveis com correção de valor via CUB</strong></p>
+            ]]></descritivo>
+            <conservacao>Na Planta</conservacao>
+            <fotos_imovel>
+                <foto>
+                <url>https://static.wixstatic.com/media/1fe786_9e0f278bbafc49ac982c98ca81bb001b~mv2.jpg</url>
+                </foto>
+                <foto>
+                <url>https://static.wixstatic.com/media/1fe786_17a9ce52dabb44079ddd4fbec806ec28~mv2.jpg</url>
+                </foto>
+                <foto>
+                <url>https://static.wixstatic.com/media/1fe786_39d8312bea3543388740da136b2094dc~mv2.jpg</url>
+                </foto>
+                <foto>
+                <url>https://static.wixstatic.com/media/1fe786_6f98d8aebc8e4bc09ccc549b0fb8845e~mv2.jpg</url>
+                </foto>
+                <foto>
+                <url>https://static.wixstatic.com/media/1fe786_b93449e3f138436286b4e57b66a4c22f~mv2.jpg</url>
+                </foto>
+            </fotos_imovel>
+        </imovel>
      <imovel>
         <referencia>2458</referencia>
             <codigo_cliente>0</codigo_cliente>
