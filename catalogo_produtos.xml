@@ -14994,6 +14994,172 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2460</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-alto-padr%C3%A3o-no-costa-e-silva</link_cliente>
+            <titulo>Apartamento Alto Padrão no Costa e Silva</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>413911.00</valor>
+            <area_total>0</area_total>
+            <area_util>56.54</area_util>
+            <conservacao>Na Planta</conservacao>
+            <quartos>1</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Costa e Silva</bairro>
+            <cep>89220330</cep>
+            <endereco>Rua Correia Pinto</endereco>
+            <numero>345</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>🏡 Características do imóvel:</p>
+                    <p>☑️ Previsão de entrega: junho/2027</p>
+                    <p>☑️ 6 unidades disponíveis</p>
+                    <p>☑️ Plantas a partir de 56,54m²</p>
+                    <p>☑️ Suíte + 1 dormitório</p>
+                    <p>☑️ Churrasqueira a carvão</p>
+                    <p>☑️ Medições individuais de consumo</p>
+                    <p>☑️ Infraestrutura para tomada de carro elétrico</p>
+                    <br>
+                    <p>🔥 A partir de R$ 413.911,00 🔥</p>
+                    <br>
+                    <p>🎯 Estrutura do condomínio:</p>
+                    <p>☑️ Elevador</p>
+                    <p>☑️ Área de lazer mobiliada</p>
+                    <p>☑️ Delivery box</p>
+                    <p>☑️ Bicicletário</p>
+                    <p>☑️ Reaproveitamento de água da chuva</p>
+                    <p>☑️ Academia</p>
+                    <p>☑️ Brinquedoteca</p>
+                    <p>☑️ Espaço pet</p>
+                    <br>
+                    <p>📍 Excelente localização – Bairro Costa e Silva, próximo a comércios, serviços e vias de fácil acesso</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_5c5623a085a94bd4a9ce52a5b44a2e71~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_5c5623a085a94bd4a9ce52a5b44a2e71~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_633364e128794fb9a7e1747fef40653e~mv2.png/v1/fill/w_639,h_453,al_c,usm_0.66_1.00_0.01/1fe786_633364e128794fb9a7e1747fef40653e~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_41352f3e614640a7825846ed598ba99b~mv2.png/v1/fill/w_411,h_453,al_c,usm_0.66_1.00_0.01/1fe786_41352f3e614640a7825846ed598ba99b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_7ae3d4a1da4942e19d1316e392ff9ea0~mv2.png/v1/fill/w_453,h_453,al_c,usm_0.66_1.00_0.01/1fe786_7ae3d4a1da4942e19d1316e392ff9ea0~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_775ba4ebbc1d41af90fbefc957cc8e51~mv2.png/v1/fill/w_413,h_453,al_c,usm_0.66_1.00_0.01/1fe786_775ba4ebbc1d41af90fbefc957cc8e51~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_291a9601a7664ee8b830b4cfcbf8b08e~mv2.png/v1/fill/w_433,h_453,al_c,usm_0.66_1.00_0.01/1fe786_291a9601a7664ee8b830b4cfcbf8b08e~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_fff445819c6d41fcb1aa0ac8dea90382~mv2.png/v1/fill/w_403,h_453,al_c,usm_0.66_1.00_0.01/1fe786_fff445819c6d41fcb1aa0ac8dea90382~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_d012465924f7430fb00d0ad977dd292b~mv2.png/v1/fill/w_453,h_453,al_c,usm_0.66_1.00_0.01/1fe786_d012465924f7430fb00d0ad977dd292b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_b247f10822334896b7bc7fc3986685d8~mv2.png/v1/fill/w_506,h_453,al_c,usm_0.66_1.00_0.01/1fe786_b247f10822334896b7bc7fc3986685d8~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_800398aa3173458a814f09955c5903b9~mv2.png/v1/fill/w_416,h_453,al_c,usm_0.66_1.00_0.01/1fe786_800398aa3173458a814f09955c5903b9~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_c6b8169d94044ea98161141e26fcd55d~mv2.png/v1/fill/w_467,h_453,al_c,usm_0.66_1.00_0.01/1fe786_c6b8169d94044ea98161141e26fcd55d~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_673fd42fe78b49f5a33a989a41a0e373~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_673fd42fe78b49f5a33a989a41a0e373~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+           <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Elevador</item>
+                <item>Área de lazer mobiliada</item>
+                <item>Delivery box</item>
+                <item>Bicicletário</item>
+                <item>Reaproveitamento de água da chuva</item>
+                <item>Academia</item>
+                <item>Brinquedoteca</item>
+                <item>Espaço pet</item>
+            </area_comum>
+           <area_privativa>
+                <item>Suíte + 1 dormitório</item>
+                <item>Churrasqueira a carvão</item>
+                <item>Medições individuais de consumo</item>
+                <item>Infraestrutura para carro elétrico</item>
+                <item>Ambientes integrados</item>
+                <item>Iluminação natural</item>
+                <item>Ventilação natural</item>
+                <item>Vaga(s) de garagem</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
 
