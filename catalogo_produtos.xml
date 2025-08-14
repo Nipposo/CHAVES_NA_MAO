@@ -195,16 +195,20 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>-Área Total de 82m², sendo frente de 9m, abertura 3 metros e fundos 2,5 metros;</p>
-<p>-Duas Suítes, ambas com Sacada;</p>
-<p>-Sala de Estar;</p>
-<p>-Cozinha / Sala de Jantar;</p>
-<p>-Lavanderia Externa e Lavabo;</p> 
-<p>-Acabamento em Massa Corrida;</p>
-<p>-Piso Retificado;</p>
-<p>-Rebaixo em Gesso;</p>
-<p>-Portão de Elevação;</p>
-<p>-2 Vagas de garagem;</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[ 
+                    <p>-Área Total de 82m², sendo frente de 9m, abertura 3 metros e fundos 2,5 metros;</p>
+                    <p>-Duas Suítes, ambas com Sacada;</p>
+                    <p>-Sala de Estar;</p>
+                    <p>-Cozinha / Sala de Jantar;</p>
+                    <p>-Lavanderia Externa e Lavabo;</p> 
+                    <p>-Acabamento em Massa Corrida;</p>
+                    <p>-Piso Retificado;</p>
+                    <p>-Rebaixo em Gesso;</p>
+                    <p>-Portão de Elevação;</p>
+                    <p>-2 Vagas de garagem;</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -336,16 +340,20 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>-Com 116m² de área total, sendo: 7 metros de frente e fundos e 3,6 metros de abertura;</p>
-    <p>-1 Suíte + 2 Dormitórios;</p>
-    <p>-Sala de Estar;</p>
-    <p>-Cozinha;</p>
-    <p>-Lavabo e Lavanderia Separada;</p>
-    <p>-Área Gourmet com Churrasqueira;</p>
-    <p>-2 Vagas sendo uma coberta;</p>
-    <p>-Acabamento em: Porcelanato, Soleiras em granito e Rebaixo em Gesso;</p>
-    <br>
-    <p>-Localizado em uma rua pavimentada e tranquila.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[  
+                    <p>-Com 116m² de área total, sendo: 7 metros de frente e fundos e 3,6 metros de abertura;</p>
+                    <p>-1 Suíte + 2 Dormitórios;</p>
+                    <p>-Sala de Estar;</p>
+                    <p>-Cozinha;</p>
+                    <p>-Lavabo e Lavanderia Separada;</p>
+                    <p>-Área Gourmet com Churrasqueira;</p>
+                    <p>-2 Vagas sendo uma coberta;</p>
+                    <p>-Acabamento em: Porcelanato, Soleiras em granito e Rebaixo em Gesso;</p>
+                    <br>
+                    <p>-Localizado em uma rua pavimentada e tranquila.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -502,27 +510,31 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[  <p>50% da documentação inclusa
-            </p>
-            <p><strong>Área:</strong> 56,5 m².</p>
-<br>
-<ul>
-    <li>Sala de Estar</li>
-    <li>Cozinha / Sala de Jantar</li>
-    <li>Lavabo</li>
-    <li>Lavanderia externa</li>
-    <li>02 dormitórios (1 com sacada)</li>
-</ul>
-<p><strong>Acabamento:</strong> Massa corrida e piso cerâmico</p>
-<p><strong>Rebaixo em gesso:</strong> na cozinha</p>
-<p><strong>Infraestrutura:</strong> Ar condicionado</p>
-<p><strong>Churrasqueira</strong></p>
-<p><strong>Portão:</strong> Tipo cancela</p>
-<p><strong>Medidas:</strong> 9 metros de frente, 5 metros nos fundos e 3 metros de abertura</p>
-<br>
-<p><strong>Entrada:</strong> Parcelada em até 36x</p>
-<br>
-<p><strong><em>Imagens de unidade decorada</em></strong></p>]]></descritivo>
+            <descritivo>
+            <![CDATA[  
+                <p>50% da documentação inclusa
+                </p>
+                <p><strong>Área:</strong> 56,5 m².</p>
+                <br>
+                <ul>
+                    <li>Sala de Estar</li>
+                    <li>Cozinha / Sala de Jantar</li>
+                    <li>Lavabo</li>
+                    <li>Lavanderia externa</li>
+                    <li>02 dormitórios (1 com sacada)</li>
+                </ul>
+                <p><strong>Acabamento:</strong> Massa corrida e piso cerâmico</p>
+                <p><strong>Rebaixo em gesso:</strong> na cozinha</p>
+                <p><strong>Infraestrutura:</strong> Ar condicionado</p>
+                <p><strong>Churrasqueira</strong></p>
+                <p><strong>Portão:</strong> Tipo cancela</p>
+                <p><strong>Medidas:</strong> 9 metros de frente, 5 metros nos fundos e 3 metros de abertura</p>
+                <br>
+                <p><strong>Entrada:</strong> Parcelada em até 36x</p>
+                <br>
+                <p><strong><em>Imagens de unidade decorada</em></strong></p>
+            ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -625,11 +637,10 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-         <imovel>
+        <imovel>
             <referencia>50</referencia>
             <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-         https://www.primevilleimoveis.com.br/imovel/geminado-com-suite-e-dois-quartos-no-sagua%C3%A7u</link_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-suite-e-dois-quartos-no-sagua%C3%A7u</link_cliente>
             <titulo>𝐆𝐞𝐦𝐢𝐧𝐚𝐝𝐨 𝐜𝐨𝐦 𝐬𝐮í𝐭𝐞 𝐧𝐨 𝐒𝐚𝐠𝐮𝐚ç𝐮</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
@@ -668,15 +679,18 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>São 128 m², 4m de abertura, 7m de frente e 5m de fundo;</p>
-    <p>Três Dormitórios, sendo um suíte;</p>
-    <p>Área de festas com churrasqueira;</p>
-    <p>Garagem para dois carros, sendo uma coberta;</p>
-    <p>Acabamento em porcelanato piso inferior e laminado piso superior, rebaixo em gesso, portão de elevação, calçada em paver.</p>
+            <descritivo>
+                <![CDATA[
+                    <p>São 128 m², 4m de abertura, 7m de frente e 5m de fundo;</p>
+                    <p>Três Dormitórios, sendo um suíte;</p>
+                    <p>Área de festas com churrasqueira;</p>
+                    <p>Garagem para dois carros, sendo uma coberta;</p>
+                    <p>Acabamento em porcelanato piso inferior e laminado piso superior, rebaixo em gesso, portão de elevação, calçada em paver.</p>
 
-    <p>Rua pavimentada.</p>
-
-        <p>No coração do bairro a 2min do Mercado Brasil, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+                    <p>Rua pavimentada.</p>
+                    <p>No coração do bairro a 2min do Mercado Brasil, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
            <fotos_imovel>
                 <foto>
                     <url>
@@ -1108,7 +1122,7 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-         <imovel>
+        <imovel>
             <referencia>895</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
@@ -1151,18 +1165,22 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>-São 86m², sendo 5m de frente e 6m de abertura 2m de fundos;</p>
-    <p>-Uma suíte + dois dormitórios;</p>
-    <p>-Sala de estar;</p>
-    <p>-Cozinha/sala de jantar;</p>
-    <p>-Lavabo;</p>
-    <p>-Lavanderia separada;</p>
-    <p>-Infraestrutura para ar-condicionado;</p>
-    <p>-Rebaixo em gesso e pintura externa projetada;</p>
-    <p>-Porcelanato e piso laminado;</p>
-    <p>-Duas vagas de garagem;</p>
-    <br>
-    <p>-Próximo ao PA Aventureiro, bem como próximo de escolas, CEIs, farmácias, posto de combustível, restaurantes e comércios em geral.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[
+                    <p>-São 86m², sendo 5m de frente e 6m de abertura 2m de fundos;</p>
+                    <p>-Uma suíte + dois dormitórios;</p>
+                    <p>-Sala de estar;</p>
+                    <p>-Cozinha/sala de jantar;</p>
+                    <p>-Lavabo;</p>
+                    <p>-Lavanderia separada;</p>
+                    <p>-Infraestrutura para ar-condicionado;</p>
+                    <p>-Rebaixo em gesso e pintura externa projetada;</p>
+                    <p>-Porcelanato e piso laminado;</p>
+                    <p>-Duas vagas de garagem;</p>
+                    <br>
+                    <p>-Próximo ao PA Aventureiro, bem como próximo de escolas, CEIs, farmácias, posto de combustível, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -1319,24 +1337,28 @@
             <numero>0</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>-Área total de 96m², e terreno extremamente amplo;</p>
-    <p>-Opção de suíte com sacada + dois quartos;</p>
-    <p>-Ambientes integrados e amplos;</p>
-    <p>-Banheiro e Lavabo;</p>
-    <p>-Lavanderia Separada;</p>
-    <p>-Duas vagas de garagem;</p>
-    <p>-Quintal Britado com espaço para piscina;</p>
-    <br>
-    <p>Acabamento em:</p>
-    <ul>
-        <li>-Rebaixo em Gesso;</li>
-        <li>-Porcelanato e Piso laminado;</li>
-        <li>-Área técnica;</li>
-        <li>-Pintura externa projetada;</li>
-        <li>-Portão eletrônico / cerca elétrica.</li>
-    </ul>
-    <br>
-    <p>Localizado Próximo ao UPA 24H Leste, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[
+                    <p>-Área total de 96m², e terreno extremamente amplo;</p>
+                    <p>-Opção de suíte com sacada + dois quartos;</p>
+                    <p>-Ambientes integrados e amplos;</p>
+                    <p>-Banheiro e Lavabo;</p>
+                    <p>-Lavanderia Separada;</p>
+                    <p>-Duas vagas de garagem;</p>
+                    <p>-Quintal Britado com espaço para piscina;</p>
+                    <br>
+                    <p>Acabamento em:</p>
+                    <ul>
+                        <li>-Rebaixo em Gesso;</li>
+                        <li>-Porcelanato e Piso laminado;</li>
+                        <li>-Área técnica;</li>
+                        <li>-Pintura externa projetada;</li>
+                        <li>-Portão eletrônico / cerca elétrica.</li>
+                    </ul>
+                    <br>
+                    <p>Localizado Próximo ao UPA 24H Leste, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -14896,96 +14918,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <aceita_troca>0</aceita_troca>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
-        <imovel>
-            <referencia>1145</referencia>
-            <codigo_cliente>0</codigo_cliente>
-            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-no-bairro-floresta-na-planta</link_cliente>
-            <titulo>Sobrado Geminado com 2 Quartos no Bairro Floresta – Na Planta</titulo>
-            <transacao>V</transacao>
-            <transacao2>0</transacao2>
-            <finalidade>RE</finalidade>
-            <finalidade2>0</finalidade2>
-            <destaque>0</destaque>     
-            <tipo>Casa</tipo>
-            <tipo2>0</tipo2>
-            <valor>330000.000</valor>
-            <valor_locacao>0</valor_locacao>
-            <valor_iptu>0</valor_iptu>
-            <valor_condominio>0</valor_condominio>
-            <area_total>510.00</area_total>
-            <area_util>72.70</area_util>
-            <conservacao>N</conservacao>
-            <quartos>2</quartos>
-            <suites>0</suites>
-            <garagem>1</garagem>
-            <banheiro>2</banheiro>
-            <closet>0</closet>
-            <salas>1</salas>
-            <despensa>0</despensa>
-            <bar>0</bar>
-            <cozinha>1</cozinha>
-            <quarto_empregada>0</quarto_empregada>
-            <escritorio>0</escritorio>
-            <area_servico>1</area_servico>
-            <lareira>0</lareira>
-            <varanda>0</varanda>
-            <lavanderia>1</lavanderia>
-            <estado>Santa Catarina</estado>
-            <cidade>Joinville</cidade>
-            <bairro>Floresta</bairro>
-            <cep>0</cep>
-            <endereco>0</endereco>
-            <numero>0</numero>
-            <complemento>0</complemento>
-            <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo>
-                <![CDATA[
-                <p><strong>Sobrado Geminado com 2 Quartos no Bairro Floresta – Na Planta</strong></p>
-                <p><strong>✅ Entrega prevista para outubro de 2025</strong></p>
-                <p><strong>✅ Imóvel na planta – excelente oportunidade de investimento</strong></p>
-                <p><strong>✅ Área construída de aproximadamente 72,70m²</strong></p>
-                <p><strong>✅ Dois quartos</strong></p>
-                <p><strong>✅ Sala de estar</strong></p>
-                <p><strong>✅ Copa/cozinha</strong></p>
-                <p><strong>✅ Banheiro social + lavabo</strong></p>
-                <p><strong>✅ Área de serviço</strong></p>
-                <p><strong>✅ Vaga de garagem descoberta</strong></p>
-                <p><strong>✅ Terreno com frente de 23,78m</strong></p>
-                <p><strong>✅ Fundos com 34,00m em ambos os lados</strong></p>
-                <p><strong>✅ Área total de terreno: 510m²</strong></p>
-                <p><strong>✅ Localização tranquila e valorizada no bairro Floresta</strong></p>
-                ]]>
-            </descritivo>
-            <fotos_imovel>
-                <foto>
-                    <url>https://static.wixstatic.com/media/1fe786_76fea76676924d4bb13bf8e8ff132b20~mv2.png</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>https://static.wixstatic.com/media/1fe786_54b04954efa346c5bf7382cdde86cb4d~mv2.png</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>https://static.wixstatic.com/media/1fe786_eec49d97138c47fe98db54c7a504000a~mv2.png</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-                <foto>
-                    <url>https://static.wixstatic.com/media/1fe786_9e859a8388ad443298a099d8b90d0f53~mv2.png</url>
-                    <data_atualizacao></data_atualizacao>
-                </foto>
-            </fotos_imovel>
-            <latitude>0</latitude>
-            <longitude>0</longitude>
-            <video>0</video>
-            <area_comum>
-                <item>0</item>
-            </area_comum>
-            <area_privativa>
-                <item>0</item>
-            </area_privativa>
-            <aceita_troca>0</aceita_troca>
-            <periodo_locacao>0</periodo_locacao>
-        </imovel>
+        
         <imovel>
             <referencia>2456</referencia>
             <codigo_cliente>0</codigo_cliente>
@@ -15193,11 +15126,10 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-                <imovel>
+        <imovel>
             <referencia>2292</referencia>
             <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-                https://www.primevilleimoveis.com.br/imovel/apartamento-semi-mobiliado-com-3-quartos-no-adhemar-garcia</link_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-semi-mobiliado-com-3-quartos-no-adhemar-garcia</link_cliente>
             <titulo>𝐀𝐏𝐓𝐎 𝐒𝐄𝐌𝐈𝐌𝐎𝐁𝐈𝐋𝐈𝐀𝐃𝐎 𝐂𝐎𝐌 DOIS 𝐐𝐔𝐀𝐑𝐓𝐎𝐒 𝐍𝐎 𝐀𝐃𝐇𝐄𝐌𝐀𝐑 𝐆𝐀𝐑𝐂𝐈𝐀</titulo>
             <transacao>L</transacao>
             <transacao2>0</transacao2>
@@ -15270,7 +15202,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                     <p>- Câmeras de segurança;</p>
                     <br>
                     <p><strong>📍 Excelente localização</strong> – Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral;</p>
-                    ]]>
+                ]]>
             </descritivo>
             <fotos_imovel>
                 <foto>
@@ -15366,6 +15298,107 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <aceita_troca>0</aceita_troca>
             <periodo_locacao>1</periodo_locacao>
         </imovel> 
+        <imovel>
+            <referencia>1145</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-no-bairro-floresta-na-planta</link_cliente>
+            <titulo>Sobrado Geminado com 2 Quartos no Bairro Floresta – Na Planta</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>330000.000</valor>
+            <valor_locacao>0</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>510</area_total>
+            <area_util>72</area_util>
+            <conservacao>Na Planta</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Floresta</bairro>
+            <cep>89232045</cep>
+            <endereco>Rua das Carmelitas</endereco>
+            <numero>127</numero>
+            <complemento>Geminado</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                  <![CDATA[
+                    <p>Sobrado Geminado com 2 Quartos no Bairro Floresta – Na Planta</p>
+                    <p>✅ Entrega prevista para outubro de 2025</p>
+                    <p>✅ Imóvel na planta – excelente oportunidade de investimento</p>
+                    <p>✅ Área construída de aproximadamente 72,70m²</p>
+                    <p>✅ Dois quartos</p>
+                    <p>✅ Sala de estar</p>
+                    <p>✅ Copa/cozinha</p>
+                    <p>✅ Banheiro social + lavabo</p>
+                    <p>✅ Área de serviço</p>
+                    <p>✅ Vaga de garagem descoberta</p>
+                    <p>✅ Terreno com frente de 23,78m</p>
+                    <p>✅ Fundos com 34,00m em ambos os lados</p>
+                    <p>✅ Área total de terreno: 510m²</p>
+                    <p>✅ Localização tranquila e valorizada no bairro Floresta</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_76fea76676924d4bb13bf8e8ff132b20~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_54b04954efa346c5bf7382cdde86cb4d~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_eec49d97138c47fe98db54c7a504000a~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>https://static.wixstatic.com/media/1fe786_9e859a8388ad443298a099d8b90d0f53~mv2.png</url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>         
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
 
