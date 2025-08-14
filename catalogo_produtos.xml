@@ -44,13 +44,13 @@
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
             <descritivo><![CDATA[<p>-Área total de 64m², sendo 5m de frente, 3,6m de abertura e 1,5m de fundo;</p>
-    <p>-São dois quartos, sendo um com sacada;</p>
-    <p>-Lavabo e Lavanderia separada;</p>
-    <p>-Vaga de garagem e portão de elevação;</p>
-    <p>-Acabamento em rebaixo em gesso, porcelanato e massa corrida;</p>
-    <p>-Entrega para Dezembro de 2023;</p>
-    <br>
-    <p>-A 2min da Caixa Econômica Federal, bem como próximo de escolas, CEIs, posto de combustível e outros comércios.</p>]]></descritivo>
+                        <p>-São dois quartos, sendo um com sacada;</p>
+                        <p>-Lavabo e Lavanderia separada;</p>
+                        <p>-Vaga de garagem e portão de elevação;</p>
+                        <p>-Acabamento em rebaixo em gesso, porcelanato e massa corrida;</p>
+                        <p>-Entrega para Dezembro de 2023;</p>
+                        <br>
+                        <p>-A 2min da Caixa Econômica Federal, bem como próximo de escolas, CEIs, posto de combustível e outros comércios.</p>]]></descritivo>
             <fotos_imovel>
             <foto>
                     <url>
@@ -15098,6 +15098,179 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 </area_privativa>
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
+        </imovel>
+                <imovel>
+            <referencia>2292</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>
+                https://www.primevilleimoveis.com.br/imovel/apartamento-semi-mobiliado-com-3-quartos-no-adhemar-garcia</link_cliente>
+            <titulo>𝐀𝐏𝐓𝐎 𝐒𝐄𝐌𝐈𝐌𝐎𝐁𝐈𝐋𝐈𝐀𝐃𝐎 𝐂𝐎𝐌 DOIS 𝐐𝐔𝐀𝐑𝐓𝐎𝐒 𝐍𝐎 𝐀𝐃𝐇𝐄𝐌𝐀𝐑 𝐆𝐀𝐑𝐂𝐈𝐀</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>0</valor>
+            <valor_locacao>1415.00</valor_locacao>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>0</area_total>
+            <area_util>50</area_util>
+            <conservacao>Usado</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Adhemar Garcia</bairro>
+            <cep>0</cep>
+            <endereco>0</endereco>
+            <numero>0</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                    <![CDATA[
+                    <p>🏡 <strong>Características do imóvel:</strong></p>
+                    <p>- Disponível a partir de 15/08;</p>
+                    <p>- Imóvel revisado e semi-mobiliado;</p>
+                    <p>- Área privativa de 50m²;</p>
+                    <p>- 2 quartos;</p>
+                    <p>- Cozinha e sala conjugada;</p>
+                    <p>- Área de serviço integrada à cozinha;</p>
+                    <p>- Vaga de garagem coberta;</p>
+                    <p>- Rua pavimentada;</p>
+                    <br>
+                    <p>🔥 <strong>Por apenas R$ 1.415,00/mês</strong> 🔥</p>
+                    <p><strong>Incluso no aluguel:</strong></p>
+                    <p>- IPTU;</p>
+                    <p>- Taxa de lixo;</p>
+                    <p>- Condomínio;</p>
+                    <br>
+                    <p><strong>💡 Inquilino paga:</strong></p>
+                    <p>- Luz (transferência);</p>
+                    <p>- Água (consumo);</p>
+                    <p>- Gás (consumo);</p>
+                    <p>- Seguro incêndio obrigatório (taxa única anual);</p>
+                    <p>- Fiança locatícia;</p>
+                    <br>
+                    <p><strong>🎯 Estrutura do condomínio:</strong></p>
+                    <p>- Playground;</p>
+                    <p>- Salão de festas;</p>
+                    <p>- Área de lazer;</p>
+                    <p>- Guarita 24h;</p>
+                    <p>- Quadra poliesportiva;</p>
+                    <p>- Câmeras de segurança;</p>
+                    <br>
+                    <p><strong>📍 Excelente localização</strong> – Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral;</p>
+                    ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_44cc1fba18554224970bc423d105c068~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_5c77b18ae4904c029d57f3a4531273a4~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_dbd45b2cc2a443febeb973a32ba36794~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_72aca31ffd534aa5adadf1d2d111ab1f~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_0593d0ae1d36434f95e4d865845b4db9~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f9fa89cab44647fa80601bcd87b4a375~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_af1244e725284f3bb265e7e122700db7~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_22817264e1f04ac2993fc9b2874ffbac~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_9db0e6fc261845ac8248e6301aefaa0c~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_1e1cfbfc25ff4ffa8102e6885c1adc46~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_a1f90a284c2d480388be4db020557a22~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>           
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Acesso de pedestres</item>
+                <item>Murado</item>
+                <item>Portão eletrônico</item>
+            </area_comum>
+            <area_privativa>
+                <item>Ambientes integrados</item>
+                <item>Área de serviço</item>
+                <item>Conceito aberto</item>
+                <item>Escadaria</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Iluminação natural</item>
+                <item>Isento condomínio</item>
+                <item>Janelas amplas</item>
+                <item>Lavabo</item>
+                <item>Lavanderia</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>1</periodo_locacao>
         </imovel> 
     </imoveis>
 </Document>
