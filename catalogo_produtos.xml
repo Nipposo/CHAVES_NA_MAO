@@ -13521,9 +13521,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
         <imovel>
             <referencia>2454</referencia>
             <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-                https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-no-iriri%C3%BA
-            </link_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-no-iriri%C3%BA</link_cliente>
             <titulo>Sobrado para venda 60 m² com 2 quartos no bairro Iririú - Joinville - SC</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
