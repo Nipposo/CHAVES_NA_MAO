@@ -15472,6 +15472,185 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2463</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-suite-no-itaum</link_cliente>
+            <titulo>Apartamento com Suite no Itaum</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>274040</valor>
+            <area_total>0</area_total>
+            <area_util>46.31</area_util>
+            <conservacao>Na Planta</conservacao>
+            <quartos>1</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Itaum</bairro>
+            <cep>89210730</cep>
+            <endereco>Rua João Afonso Moreira</endereco>
+            <numero>352</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>🏡 Características do imóvel:</p>
+                    <p>☑️ Torre única com 44 apartamentos</p>
+                    <p>☑️ Piscina</p>
+                    <p>☑️ Quiosques</p>
+                    <p>☑️ Elevador</p>
+                    <p>☑️ Espaço pet</p>
+                    <p>☑️ Sacada com churrasqueira</p>
+                    <p>☑️ Espaço zen</p>
+                    <p>☑️ Playground</p>
+                    <p>☑️ Bike station</p>
+                    <p>☑️ Unidades com 1 suíte + 1 dormitório</p>
+                    <p>☑️ Unidades com 2 dormitórios</p>
+                    <p>☑️ Área privativa a partir de 46,31m²</p>
+                    <br>
+                    <p>🔥 A partir de R$ 274.040,00 🔥</p>
+                    <br>
+                    <p>📅 Previsão de entrega: Março/2027</p>
+                    <br>
+                    <p>📍 Localização:</p>
+                    <p>☑️ Bairro Itaum – Joinville</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_229925fb30a04effaec7ce88f682acf3~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_6b9e9ec7f47f44e28d1e56576225cfd8~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_d91197a849064fe2905378859f0e558d~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_335d275d263342d9a98eefe5742991b5~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_7d7b5cd190ab4e05b645a8f4312bb7a9~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_4a7909f4490849f9ba3f29dab5962dda~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_4906239a10ad471e9897241ce59e9468~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_0237ee9a20514df3916f1a63fa80ee34~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_78dcf5cbd94f409c9c3b290076080506~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_67bc39e7c6904db09f96589302dc85f1~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f87db9a8b98c40659bee4b9babd86a76~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_1d7070cacfd14586a337a3e0a41bc03f~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_68e1ad2273de40778c42c743012c35cb~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_42ecea8a9edf41c78a35c81e749d67e6~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_2ad4d07b7de04de79c54222c6fa666bf~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+           <area_comum>
+                <item>Torre Única</item>
+                <item>Piscina</item>
+                <item>Quiosques</item>
+                <item>Elevador</item>
+                <item>Espaço Pet</item>
+                <item>Sacada com Churrasqueira</item>
+                <item>Espaço Zen</item>
+                <item>Playground</item>
+                <item>Bike Station</item>
+            </area_comum>
+           <area_privativa>
+                <item>Opção com 1 Suíte + 1 dormitório</item>
+                <item>Opção com 2 dormitórios</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Ambientes integrados</item>
+                <item>Iluminação natural</item>
+                <item>Ventilação natural</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
 
