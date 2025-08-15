@@ -15651,6 +15651,140 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2464</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-3-quartos-no-sagua%C3%A7u</link_cliente>
+            <titulo>Geminado 3 Quartos no Saguaçu</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Geminado Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>654857</valor>
+            <area_total>0</area_total>
+            <area_util>105</area_util>
+            <conservacao>Na Planta</conservacao>
+            <quartos>3</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Saguaçu</bairro>
+            <cep>89221400</cep>
+            <endereco>Rua Indaial</endereco>
+            <numero>618</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>🏡 Características do imóvel:</p>
+                    <p>☑️ Área privativa a partir de 105,21m²</p>
+                    <p>☑️ 3 quartos</p>
+                    <p>☑️ Frente: 10m</p>
+                    <p>☑️ Fundos: 10m</p>
+                    <p>☑️ Largura: 4,60m</p>
+                    <p>☑️ 2 vagas de garagem (1 coberta)</p>
+                    <br>
+                    <p>🔥 Por R$ 654.857,13 🔥</p>
+                    <p>📅 Previsão de entrega: Junho/2026</p>
+                    <br>
+                    <p>📍 Localização:</p>
+                    <p>☑️ Bairro Saguaçu – Joinville/SC</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f218c7e812aa42f6b1532478fc07111d~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_09078272e6be4a6fa26ceb699a65da56~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_e777b49aed1d437e9b3f3ed1a4244932~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_e212112fb53c4df5ac8a3e3acc2bf873~mv2.png  
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_1b5980463dfc45c8a40f4f587fbe093d~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_48e7a39a612242a28915c69359dd1207~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_4f0313b120894180b2dfd72adb283e80~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_44cd46a823b5478fb6d7d557fc42fb73~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_d08cd8ba82934dea89447b7e01310eca~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_ca288d2328c04ed4bd99110f5c36bda9~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Entrega junho de 26</item>
+                <item>Garagem 2 vagas (1 coberta)</item>
+            </area_comum>
+            <area_privativa>
+                <item>Área privativa a partir de 105,21m²</item>
+                <item>3 quartos</item>
+                <item>Frente 10m</item>
+                <item>Fundo 10m</item>
+                <item>Largura 4,60m</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
 
