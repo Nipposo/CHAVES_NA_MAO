@@ -1692,13 +1692,15 @@
             <numero>3000</numero>
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>-Área construída de 63m², 7m de frente, 6m de fundos e 3m de abertura;</p>
-<p>-Dois quartos;</p>
-<p>-Cozinha e sala conjugada;</p>
-<p>-Lavanderia separada;</p>
-<p>-Vaga de garagem;</p>
-<p>-Quintal com brita;</p>
-<p>-Rua pavimentada.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[ <p>-Área construída de 63m², 7m de frente, 6m de fundos e 3m de abertura;</p>
+                <p>-Dois quartos;</p>
+                <p>-Cozinha e sala conjugada;</p>
+                <p>-Lavanderia separada;</p>
+                <p>-Vaga de garagem;</p>
+                <p>-Quintal com brita;</p>
+                <p>-Rua pavimentada.</p>]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -1812,7 +1814,7 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-         <imovel>
+        <imovel>
             <referencia>2118</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>
@@ -1855,19 +1857,21 @@
             <numero>1945</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>-Área privativa de 70m² com amplo espaço;</p>
-<p>-Dois quartos;</p>
-<p>-Cozinha e sala separada;</p>
-<p>-Banheiro;</p>
-<p>-Área gourmet com churrasqueira;</p>
-<p>-Pergolado sem cobertura;</p>
-<p>-Duas Vagas de garagem;</p>
-<p>-Quintal com brita.</p>
-<p>-Rua pavimentada</p>
-<p>-Obs: Pintura com massa corrida em todos os ambientes, externo com textura rolada;</p>
-<p>Tomadas em todos os ambientes conforme projeto;</p>
-<p>Rebaixo de gesso em todos os ambientes;</p>
-<p>Muros altos para maior segurança e privacidade.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[<p>-Área privativa de 70m² com amplo espaço;</p>
+                <p>-Dois quartos;</p>
+                <p>-Cozinha e sala separada;</p>
+                <p>-Banheiro;</p>
+                <p>-Área gourmet com churrasqueira;</p>
+                <p>-Pergolado sem cobertura;</p>
+                <p>-Duas Vagas de garagem;</p>
+                <p>-Quintal com brita.</p>
+                <p>-Rua pavimentada</p>
+                <p>-Obs: Pintura com massa corrida em todos os ambientes, externo com textura rolada;</p>
+                <p>Tomadas em todos os ambientes conforme projeto;</p>
+                <p>Rebaixo de gesso em todos os ambientes;</p>
+                <p>Muros altos para maior segurança e privacidade.</p>]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -1953,7 +1957,7 @@
             <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2159</referencia>
+            <referencia>2159</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-tr%C3%AAs-quartos-no-bairro-guanabara</link_cliente>
             <titulo>Apartamento com três quartos no bairro Guanabara</titulo>
@@ -1994,16 +1998,18 @@
             <numero>1567</numero>
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>-Área privativa de 67m² no terceiro andar, sem elevador;</p>
-<p>-Três quartos;</p>
-<p>-Cozinha e sala conjugada;</p>
-<p>-2 Playgrounds, Salão de festas, área de lazer e 2 quadras de esportes;</p>
-<p>-Acesso com tag e câmeras de segurança;</p>
-<p>-Área externa ampla com gramados e jardim;</p>
-<p>-Vaga de garagem;</p>
-<p>-Rua pavimentada;</p>
-<p>-Na melhor localização do bairro, a 10 minutos do centro.</p>
-<p>Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[ <p>-Área privativa de 67m² no terceiro andar, sem elevador;</p>
+                <p>-Três quartos;</p>
+                <p>-Cozinha e sala conjugada;</p>
+                <p>-2 Playgrounds, Salão de festas, área de lazer e 2 quadras de esportes;</p>
+                <p>-Acesso com tag e câmeras de segurança;</p>
+                <p>-Área externa ampla com gramados e jardim;</p>
+                <p>-Vaga de garagem;</p>
+                <p>-Rua pavimentada;</p>
+                <p>-Na melhor localização do bairro, a 10 minutos do centro.</p>
+                <p>Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -2125,7 +2131,7 @@
             <periodo_locacao>0</periodo_locacao>
         </imovel> 
         <imovel>
-        <referencia>2168</referencia>
+            <referencia>2168</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-novo-com-dois-quartos-no-bairro-vila-nova</link_cliente>
             <titulo>Apartamento na planta com dois quartos bairro Vila Nova</titulo>
@@ -2167,18 +2173,19 @@
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[ <p>-Entrada parcelada;</p>
-<p>-Área privativa de 43m²;</p>
-<p>-Dois quartos;</p>
-<p>-Cozinha e sala separada;</p>
-<p>-Playground, Salão de festas, área de lazer, mercado 24h, quadra de esportes, piscina, academia ao ar livre;</p>
-<p>-Opções com giardino;</p>
-<p>-Acesso com tag e câmeras de segurança;</p>
-<p>-Condomínio fechado;</p>
-<p>-Vaga de garagem;</p>
-<p>-Rua pavimentada;</p>
-<p>-Na melhor localização do bairro, com acesso a BR-101 - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
-<p>-Entrega para 31/10/2026</p>]]></descritivo>
+                <![CDATA[ <p>-Entrada parcelada;</p>
+                <p>-Área privativa de 43m²;</p>
+                <p>-Dois quartos;</p>
+                <p>-Cozinha e sala separada;</p>
+                <p>-Playground, Salão de festas, área de lazer, mercado 24h, quadra de esportes, piscina, academia ao ar livre;</p>
+                <p>-Opções com giardino;</p>
+                <p>-Acesso com tag e câmeras de segurança;</p>
+                <p>-Condomínio fechado;</p>
+                <p>-Vaga de garagem;</p>
+                <p>-Rua pavimentada;</p>
+                <p>-Na melhor localização do bairro, com acesso a BR-101 - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
+                <p>-Entrega para 31/10/2026</p>]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -2274,7 +2281,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>   
         <imovel>
-        <referencia>2136</referencia>
+            <referencia>2136</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-dois-quartos-no-santa-catarina</link_cliente>
             <titulo>Geminado com dois quartos no Santa Catarina</titulo>
@@ -2316,13 +2323,14 @@
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área construída de 68m², 6m de frente e 6m de abertura;</p>
-<p>-Dois quartos;</p>
-<p>-Cozinha e sala conjugada;</p>
-<p>-Lavanderia separada;</p>
-<p>-2 Vagas de garagem;</p>
-<p>-Quintal com brita;</p>
-<p>-Rua pavimentada.</p>]]></descritivo>
+                <![CDATA[<p>-Área construída de 68m², 6m de frente e 6m de abertura;</p>
+                <p>-Dois quartos;</p>
+                <p>-Cozinha e sala conjugada;</p>
+                <p>-Lavanderia separada;</p>
+                <p>-2 Vagas de garagem;</p>
+                <p>-Quintal com brita;</p>
+                <p>-Rua pavimentada.</p>]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -2423,7 +2431,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel> 
         <imovel>
-        <referencia>2147</referencia>
+            <referencia>2147</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-tr%C3%AAs-quartos-sendo-uma-su%C3%ADte-no-vila-nova</link_cliente>
             <titulo>Geminado com três quartos sendo uma suíte no Vila Nova</titulo>
@@ -2465,14 +2473,15 @@
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área privativa de 95m², 11m de frente, 16m de fundos e 3.70 de abertura;</p>
-<p>-Suíte mais dois quartos;</p>
-<p>-Infra de ar nos 3 quartos e na sala,</p>
-<p>-Cozinha e sala conjugada;</p>
-<p>-2 Vagas de garagem sendo uma coberta;</p>
-<p>-Porcelanato, rebaixo em gesso, vidros blindex e massa corrida;</p>
-<p>-Rua pavimentada.</p>
-<p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
+                    <![CDATA[<p>-Área privativa de 95m², 11m de frente, 16m de fundos e 3.70 de abertura;</p>
+                    <p>-Suíte mais dois quartos;</p>
+                    <p>-Infra de ar nos 3 quartos e na sala,</p>
+                    <p>-Cozinha e sala conjugada;</p>
+                    <p>-2 Vagas de garagem sendo uma coberta;</p>
+                    <p>-Porcelanato, rebaixo em gesso, vidros blindex e massa corrida;</p>
+                    <p>-Rua pavimentada.</p>
+                    <p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -2573,7 +2582,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel> 
         <imovel>
-        <referencia>2125</referencia>
+            <referencia>2125</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-dois-quartos-no-volta-redonda-1</link_cliente>
             <titulo>Casa Geminada com dois quartos no Volta redonda</titulo>
@@ -2615,14 +2624,15 @@
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área privativa de 51m² e área total de 120m² com amplo espaço;</p>
-<p>-Quartos 2;</p>
-<p>-Cozinha e sala separada;</p>
-<p>-Banheiro;</p>
-<p>-Vaga de garagem;</p>
-<p>-Quintal com brita;</p>
-<p>-Rua pavimentada.</p>
-<p>-Próximo ao Komprão com fácil acesso a BR 280 - Próximo a escolas, Igrejas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
+                <![CDATA[<p>-Área privativa de 51m² e área total de 120m² com amplo espaço;</p>
+                <p>-Quartos 2;</p>
+                <p>-Cozinha e sala separada;</p>
+                <p>-Banheiro;</p>
+                <p>-Vaga de garagem;</p>
+                <p>-Quintal com brita;</p>
+                <p>-Rua pavimentada.</p>
+                <p>-Próximo ao Komprão com fácil acesso a BR 280 - Próximo a escolas, Igrejas, CEIs, farmácias, restaurantes e comércios em geral</p>]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -2718,7 +2728,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>  
         <imovel>
-        <referencia>2206</referencia>
+            <referencia>2206</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-vista-mar-e-sacada-com-churrasqueira-no-espinheiros</link_cliente>
             <titulo>Apartamento Vista-Mar e Sacada com Churrasqueira no Espinheiros</titulo>
@@ -2760,19 +2770,20 @@
             <complemento>Apto 401</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Localizado na melhor região do Espinheiros;</p>
-<p>- Entrada e condições facilitadas;</p>
-<p>- Vista para Baia da Babitonga;</p>
-<p>- Opções privativas a partir de 51m²;</p>
-<p>- Opções com giardino;</p>
-<p>- Elevador e Sacada com churrasqueira;</p>
-<p>- Piscina adulto e infantil, espaço gourmet, playground, pet place, redário, academia, dentre outros lazeres completos;</p>
-<p>- 2 quartos amplos;</p>
-<p>- Sala e Cozinha conjugada;</p>
-<p>- Entrega p/ Março de 2027;</p>
-<p>- Rua pavimentada.</p>
-<p>- A 500m do Trapiche do Barco Príncipe, Bem como próximo a hospitais, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Localizado na melhor região do Espinheiros;</p>
+                <p>- Entrada e condições facilitadas;</p>
+                <p>- Vista para Baia da Babitonga;</p>
+                <p>- Opções privativas a partir de 51m²;</p>
+                <p>- Opções com giardino;</p>
+                <p>- Elevador e Sacada com churrasqueira;</p>
+                <p>- Piscina adulto e infantil, espaço gourmet, playground, pet place, redário, academia, dentre outros lazeres completos;</p>
+                <p>- 2 quartos amplos;</p>
+                <p>- Sala e Cozinha conjugada;</p>
+                <p>- Entrega p/ Março de 2027;</p>
+                <p>- Rua pavimentada.</p>
+                <p>- A 500m do Trapiche do Barco Príncipe, Bem como próximo a hospitais, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_f1e1b5b5a6144d5fbd5cf1e674b253a6~mv2.jpg</url>
@@ -2872,7 +2883,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2282</referencia>
+            <referencia>2282</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-novo-com-su%C3%ADte-mais-dois-no-iriri%C3%BA</link_cliente>
             <titulo>Geminado novo com suíte mais dois no Iririú</titulo>
@@ -2914,18 +2925,19 @@
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área total de de 92m², 8m de frente, 3m de fundos e 3m de abertura;</p>
-<p>-Suíte mais dois quartos;</p>
-<p>-Área gourmet com churrasqueira;</p>
-<p>-Cozinha e sala separada;</p>
-<p>-Três banheiros;</p>
-<p>-Lavanderia separada;</p>
-<p>-Duas vagas de garagem;</p>
-<p>-Quintal com brita;</p>
-<p>-Massa corrida, detalhes em gesso, rebaixo em gesso, porcelanato;</p>
-<p>-Rua pavimentada;</p>
-<p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>-Área total de de 92m², 8m de frente, 3m de fundos e 3m de abertura;</p>
+                <p>-Suíte mais dois quartos;</p>
+                <p>-Área gourmet com churrasqueira;</p>
+                <p>-Cozinha e sala separada;</p>
+                <p>-Três banheiros;</p>
+                <p>-Lavanderia separada;</p>
+                <p>-Duas vagas de garagem;</p>
+                <p>-Quintal com brita;</p>
+                <p>-Massa corrida, detalhes em gesso, rebaixo em gesso, porcelanato;</p>
+                <p>-Rua pavimentada;</p>
+                <p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_5562eb49c7704adbb26432a613ffe46c~mv2.jpg</url>
@@ -3024,7 +3036,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
          <imovel>
-        <referencia>2277</referencia>
+            <referencia>2277</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-ampla-com-dois-quartos-no-profipo</link_cliente>
             <titulo>Casa geminada ampla com dois quartos no Profipo</titulo>
@@ -3066,15 +3078,16 @@
             <complemento>Apto 101</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Imóvel novo;</p>
-<p>-Área total de 62m², 8m de frente, 4m de fundos e 4m de abertura;</p>
-<p>-Dois quartos;</p>
-<p>-Cozinha e sala conjugada;</p>
-<p>-Duas vagas de garagem;</p>
-<p>-Quintal com brita;</p>
-<p>-Rua pavimentada;</p>
-<p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>-Imóvel novo;</p>
+                <p>-Área total de 62m², 8m de frente, 4m de fundos e 4m de abertura;</p>
+                <p>-Dois quartos;</p>
+                <p>-Cozinha e sala conjugada;</p>
+                <p>-Duas vagas de garagem;</p>
+                <p>-Quintal com brita;</p>
+                <p>-Rua pavimentada;</p>
+                <p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_ab120d5488f149e0bdef02491fa85659~mv2.jpg</url>
@@ -3153,7 +3166,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2275</referencia>
+            <referencia>2275</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-na-planta-com-dois-quartos-no-petr%C3%B3polis</link_cliente>
             <titulo>Geminado na planta com dois quartos no Petrópolis</titulo>
@@ -3195,15 +3208,16 @@
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área total de 59m²;</p>
-<p>-2 quartos;</p>
-<p>-2 Banheiros;</p>
-<p>-Cozinha e sala separada;</p>
-<p>-Vaga de garagem;</p>
-<p>-Rua pavimentada.</p>
-<p>-Entrega para 05/2025.</p>
-<p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>-Área total de 59m²;</p>
+                <p>-2 quartos;</p>
+                <p>-2 Banheiros;</p>
+                <p>-Cozinha e sala separada;</p>
+                <p>-Vaga de garagem;</p>
+                <p>-Rua pavimentada.</p>
+                <p>-Entrega para 05/2025.</p>
+                <p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_c26f0220d02b420994b7d16718af11e9~mv2.jpg</url>
@@ -3277,7 +3291,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2274</referencia>
+            <referencia>2274</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-su%C3%ADte-mais-um-quarto-no-vila-nova</link_cliente>
             <titulo>Apartamento com suíte mais um quarto no Vila Nova</titulo>
@@ -3319,17 +3333,18 @@
             <complemento>Apto 101</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área total de 72m², no segundo andar;</p>
-<p>-Dois quartos sendo um suíte;</p>
-<p>-Cozinha e sala separada;</p>
-<p>-Dois banheiros;</p>
-<p>-Sacada com churrasqueira;</p>
-<p>-Vaga de garagem coberta;</p>
-<p>-Acesso com tag;</p>
-<p>-Rua pavimentada;</p>
-<p>-Porcelanato, laminado, rebaixo em gesso;</p>
-<p>-Maravilhosa vista para as montanhas - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>-Área total de 72m², no segundo andar;</p>
+                <p>-Dois quartos sendo um suíte;</p>
+                <p>-Cozinha e sala separada;</p>
+                <p>-Dois banheiros;</p>
+                <p>-Sacada com churrasqueira;</p>
+                <p>-Vaga de garagem coberta;</p>
+                <p>-Acesso com tag;</p>
+                <p>-Rua pavimentada;</p>
+                <p>-Porcelanato, laminado, rebaixo em gesso;</p>
+                <p>-Maravilhosa vista para as montanhas - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_e8c3e5d6fc0042f2b0b36b0a31167d91~mv2.jpg</url>
@@ -3428,7 +3443,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2267</referencia>
+            <referencia>2267</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-novo-com-duas-su%C3%ADtes-no-vila-nova</link_cliente>
             <titulo>Geminado novo com duas suítes no Vila Nova</titulo>
@@ -3470,17 +3485,18 @@
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área total de 79m², abertura de 3.15m, frente de 10.50m e fundos de 5.40m;</p>
-<p>-Acabamento alto padrão;</p>
-<p>-Duas suítes;</p>
-<p>-Sala e cozinha conjugada;</p>
-<p>-Área gourmet com churrasqueira e piscina;</p>
-<p>-Lavanderia separada;</p>
-<p>-Duas vagas de garagem;</p>
-<p>-Quintal acimentado;</p>
-<p>-Rua pavimentada.</p>
-<p>-Em ótima localização, próximo ao Binário - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>-Área total de 79m², abertura de 3.15m, frente de 10.50m e fundos de 5.40m;</p>
+                <p>-Acabamento alto padrão;</p>
+                <p>-Duas suítes;</p>
+                <p>-Sala e cozinha conjugada;</p>
+                <p>-Área gourmet com churrasqueira e piscina;</p>
+                <p>-Lavanderia separada;</p>
+                <p>-Duas vagas de garagem;</p>
+                <p>-Quintal acimentado;</p>
+                <p>-Rua pavimentada.</p>
+                <p>-Em ótima localização, próximo ao Binário - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_5230e6d95e394a0db51852b7e9664489~mv2.jpg</url>
@@ -3579,7 +3595,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2257</referencia>
+            <referencia>2257</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-na-planta-com-dois-quartos-no-boehmerwald</link_cliente>
             <titulo>Geminado na planta com dois quartos no Boehmerwald</titulo>
@@ -3621,16 +3637,17 @@
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área total de 63m²;</p>
-<p>-Fachada Moderna;</p>
-<p>-Dois quartos;</p>
-<p>-Cozinha e sala separada;</p>
-<p>-Lavanderia separada;</p>
-<p>-Quintal com brita;</p>
-<p>-Vaga de garagem;</p>
-<p>-Prazo de entrega para 12/24.</p>
-<p>-Localização privilegiada livre de enchente, próximo de escolas, mercados, farmácias, academia, terminal de ônibus, postinho de saúde.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>-Área total de 63m²;</p>
+                <p>-Fachada Moderna;</p>
+                <p>-Dois quartos;</p>
+                <p>-Cozinha e sala separada;</p>
+                <p>-Lavanderia separada;</p>
+                <p>-Quintal com brita;</p>
+                <p>-Vaga de garagem;</p>
+                <p>-Prazo de entrega para 12/24.</p>
+                <p>-Localização privilegiada livre de enchente, próximo de escolas, mercados, farmácias, academia, terminal de ônibus, postinho de saúde.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_36135a2a9e074feca492082229467ade~mv2.jpg</url>
@@ -3695,7 +3712,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2251</referencia>
+            <referencia>2251</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-na-planta-com-dois-quartos-no-nova-bras%C3%ADlia</link_cliente>
             <titulo>Geminado na planta com dois quartos no Nova Brasília</titulo>
@@ -3737,16 +3754,17 @@
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Residencial Fox;</p>
-<p>-Área total de 64m²;</p>
-<p>-Dois quartos sendo um com sacada;</p>
-<p>-Cozinha e sala conjugada;</p>
-<p>-Vaga de garagem;</p>
-<p>-Porcelanato e detalhes em gesso;</p>
-<p>-Rua pavimentada.</p>
-<p>-Entrega para 10/25.</p>
-<p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>-Residencial Fox;</p>
+                <p>-Área total de 64m²;</p>
+                <p>-Dois quartos sendo um com sacada;</p>
+                <p>-Cozinha e sala conjugada;</p>
+                <p>-Vaga de garagem;</p>
+                <p>-Porcelanato e detalhes em gesso;</p>
+                <p>-Rua pavimentada.</p>
+                <p>-Entrega para 10/25.</p>
+                <p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_7dcde77231754a42b6360e785ba7d096~mv2.png</url>
@@ -3820,7 +3838,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2297</referencia>
+            <referencia>2297</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-novo-com-dois-quartos-no-nova-bras%C3%ADlia</link_cliente>
             <titulo>Apartamento novo com dois quartos no Nova Brasília</titulo>
@@ -3862,17 +3880,18 @@
             <complemento>Apto 101</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área privativa de 39m²;</p>
-<p>- Condomínio fechado;</p>
-<p>- Dois quartos;</p>
-<p>- Sala e cozinha separada;</p>
-<p>- Lavanderia;</p>
-<p>- Vaga de garagem;</p>
-<p>- Acesso com tag, salão de festas, área pet, playground;</p>
-<p>- Rua pavimentada;</p>
+                <![CDATA[<p>- Área privativa de 39m²;</p>
+                <p>- Condomínio fechado;</p>
+                <p>- Dois quartos;</p>
+                <p>- Sala e cozinha separada;</p>
+                <p>- Lavanderia;</p>
+                <p>- Vaga de garagem;</p>
+                <p>- Acesso com tag, salão de festas, área pet, playground;</p>
+                <p>- Rua pavimentada;</p>
 
-<p>- Em ótima localização, próximo à Embraco e demais empresas - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização, próximo à Embraco e demais empresas - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_0542c00a6098418c806a76412f624c9e~mv2.png</url>
@@ -5917,7 +5936,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2376</referencia>
+            <referencia>2376</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-tr%C3%AAs-quartos-no-bairro-costa-e-silva</link_cliente>
             <titulo>Casa com três quartos no bairro Costa e Silva</titulo>
@@ -6081,7 +6100,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2372</referencia>
+            <referencia>2372</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-jarivatuba-1</link_cliente>
             <titulo>Sobrado Geminado com dois quartos no Jarivatuba</titulo>
@@ -6242,7 +6261,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2369</referencia>
+            <referencia>2369</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-tr%C3%AAs-quartos-no-bairro-itaum</link_cliente>
             <titulo>Casa com Três quartos no bairro Itaum</titulo>
@@ -6403,8 +6422,8 @@
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-         <imovel>
-        <referencia>2367</referencia>
+        <imovel>
+            <referencia>2367</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-semimobiliado-com-dois-quartos-no-parque-guarani</link_cliente>
             <titulo>Apartamento semimobiliado com dois quartos no Parque Guarani</titulo>
@@ -6560,7 +6579,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2193</referencia>
+            <referencia>2193</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-jardim-iriri%C3%BA</link_cliente>
             <titulo>Sobrado Geminado com Dois quartos no Jardim Iririú</titulo>
@@ -6720,8 +6739,8 @@
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-             <imovel>
-        <referencia>2198</referencia>
+        <imovel>
+            <referencia>2198</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-su%C3%ADte-mais-um-quarto-no-bairro-parque-guarani</link_cliente>
             <titulo>Apartamento suíte mais um quarto no bairro Parque Guarani</titulo>
@@ -6877,7 +6896,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2170</referencia>
+            <referencia>2170</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-amplo-no-bairro-paranaguamirim</link_cliente>
             <titulo>Terreno amplo de 240m² no bairro Paranaguamirim</titulo>
@@ -6985,7 +7004,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2386</referencia>
+            <referencia>2386</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-itinga-araquari-1</link_cliente>
             <titulo>Sobrado geminado com dois quartos no Itinga-Araquari</titulo>
@@ -7132,7 +7151,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2365</referencia>
+            <referencia>2365</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-boa-vista</link_cliente>
             <titulo>Sobrado Geminado com dois quartos no Boa Vista</titulo>
@@ -7279,7 +7298,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2336</referencia>
+            <referencia>2336</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-tr%C3%AAs-su%C3%ADtes-no-guanabara</link_cliente>
             <titulo>Sobrado Geminado com Três suítes no Guanabara</titulo>
@@ -7437,7 +7456,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2329</referencia>
+            <referencia>2329</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-tr%C3%AAs-su%C3%ADtes-no-vila-nova</link_cliente>
             <titulo>Sobrado Geminado com três suítes no Vila Nova</titulo>
@@ -7594,7 +7613,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2419</referencia>
+            <referencia>2419</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-su%C3%ADte-mais-um-quarto-no-boehmerwald</link_cliente>
             <titulo>Casa geminada com suíte mais um quarto no Boehmerwald</titulo>
@@ -7752,7 +7771,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2414</referencia>
+            <referencia>2414</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primvilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-bairro-vila-nova-2</link_cliente>
             <titulo>Apartamento com dois quartos no bairro Vila Nova</titulo>
@@ -7904,7 +7923,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2413</referencia>
+            <referencia>2413</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-novo-com-duas-su%C3%ADtes-no-vila-nova-2</link_cliente>
             <titulo>Geminado novo com duas suítes no Vila Nova</titulo>
@@ -8057,7 +8076,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2411</referencia>
+            <referencia>2411</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-novo-com-duas-su%C3%ADtes-no-vila-nova-1</link_cliente>
             <titulo>Geminado novo com duas suítes no Vila Nova</titulo>
@@ -8211,7 +8230,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2409</referencia>
+            <referencia>2409</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-su%C3%ADte-mais-um-quarto-no-itaum</link_cliente>
             <titulo>Sobrado geminado com suíte mais um quarto no Itaum</titulo>
@@ -8323,7 +8342,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2412</referencia>
+            <referencia>2412</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-su%C3%ADte-mais-dois-quartos-no-aventureiro</link_cliente>
             <titulo>Casa com suíte mais dois quartos no Aventureiro</titulo>
@@ -8455,7 +8474,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2437</referencia>
+            <referencia>2437</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-amplo-de-416m-em-porto-grande-araquari</link_cliente>
             <titulo>Terreno amplo de 416m² em Porto Grande-Araquari</titulo>
@@ -8566,7 +8585,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2347</referencia>
+            <referencia>2347</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/triplex-com-tr%C3%AAs-quartos-no-bairro-floresta</link_cliente>
             <titulo>Triplex com três quartos no bairro Floresta</titulo>
@@ -8716,7 +8735,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2436</referencia>
+            <referencia>2436</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-bairro-parque-guarani-2</link_cliente>
             <titulo>Apartamento com dois quartos no bairro Parque Guarani</titulo>
@@ -8863,7 +8882,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2433</referencia>
+            <referencia>2433</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-su%C3%ADte-mais-dois-quartos-na-enseada</link_cliente>
             <titulo>Sobrado geminado com suíte mais dois quartos na Enseada</titulo>
@@ -9010,7 +9029,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2432</referencia>
+            <referencia>2432</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-su%C3%ADte-mais-dois-quartos-no-boa-vista</link_cliente>
             <titulo>Casa geminada com suíte mais dois quartos no Boa Vista</titulo>
@@ -9153,7 +9172,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2431</referencia>
+            <referencia>2431</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-duas-su%C3%ADtes-no-bairro-boa-vista</link_cliente>
             <titulo>Geminado com duas suítes no bairro Boa Vista</titulo>
@@ -9295,7 +9314,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2430</referencia>
+            <referencia>2430</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-su%C3%ADte-mais-dois-quartos-no-bairro-guanabara-1</link_cliente>
             <titulo>Geminado com suíte mais dois quartos no bairro Guanabara</titulo>
@@ -9443,7 +9462,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2429</referencia>
+            <referencia>2429</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/cobertura-duplex-com-dois-quartos-no-bairro-santo-antonio</link_cliente>
             <titulo>Cobertura duplex com dois quartos no bairro Santo Antonio</titulo>
@@ -9590,7 +9609,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2427</referencia>
+            <referencia>2427</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-bairro-floresta-1</link_cliente>
             <titulo>Apartamento com dois quartos no bairro Floresta</titulo>
@@ -9741,7 +9760,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2428</referencia>
+            <referencia>2428</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-amplo-de-697m-no-bairro-guanabara</link_cliente>
             <titulo>Terreno amplo de 697m² no bairro Guanabara</titulo>
@@ -9852,7 +9871,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2167</referencia>
+            <referencia>2167</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-na-planta-com-dois-quartos-em-barra-velha</link_cliente>
             <titulo>Apartamento na planta com dois quartos em Barra Velha</titulo>
@@ -10008,7 +10027,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2424</referencia>
+            <referencia>2424</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-novo-com-su%C3%ADte-mais-dois-quartos-no-guanabara</link_cliente>
             <titulo>Geminado novo com suíte mais dois quartos no Guanabara</titulo>
@@ -10150,7 +10169,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2421</referencia>
+            <referencia>2421</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-dois-quartos-no-bairro-parque-guarani-1</link_cliente>
             <titulo>Casa com dois quartos no bairro Parque Guarani</titulo>
@@ -10451,7 +10470,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2403</referencia>
+            <referencia>2403</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-dois-quartos-no-vila-nova-1</link_cliente>
             <titulo>Sobrado geminado com dois quartos no Vila Nova</titulo>
@@ -10605,7 +10624,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2401</referencia>
+            <referencia>2401</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-na-planta-com-su%C3%ADte-mais-dois-quartos-no-floresta</link_cliente>
             <titulo>Apartamento na planta com suíte mais dois quartos no Floresta</titulo>
@@ -10737,7 +10756,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2400</referencia>
+            <referencia>2400</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-na-planta-com-duas-su%C3%ADtes-no-costa-e-silva</link_cliente>
             <titulo>Sobrado Geminado na planta com duas suítes no Costa e Silva</titulo>
@@ -10854,7 +10873,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2399</referencia>
+            <referencia>2399</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-na-planta-com-dois-quartos-no-costa-e-silva</link_cliente>
             <titulo>Apartamento na planta com dois quartos no Costa e Silva</titulo>
@@ -11008,7 +11027,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2393</referencia>
+            <referencia>2393</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-bairro-santa-catarina-1</link_cliente>
             <titulo>Apartamento com dois quartos no bairro Santa Catarina</titulo>
@@ -11170,7 +11189,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2375</referencia>
+            <referencia>2375</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-tr%C3%AAs-quartos-em-itajuba-barra-velha</link_cliente>
             <titulo>Apartamento com três quartos em Itajuba-Barra Velha</titulo>
@@ -11325,7 +11344,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2439</referencia>
+            <referencia>2439</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sala-comercial-de-240m-no-bairro-itinga-araquari</link_cliente>
             <titulo>Sala Comercial de 240m² no bairro Itinga-Araquari</titulo>
@@ -11489,7 +11508,7 @@
             <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2449</referencia>
+            <referencia>2449</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-tr%C3%AAs-quartos-no-paranaguamirim</link_cliente>
             <titulo>Apartamento com três quartos no Paranaguamirim</titulo>
@@ -11658,7 +11677,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2448</referencia>
+            <referencia>2448</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-tr%C3%AAs-quartos-no-bairro-floresta</link_cliente>
             <titulo>Apartamento com três quartos no bairro Floresta</titulo>
@@ -11814,7 +11833,7 @@
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2446</referencia>
+            <referencia>2446</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-su%C3%ADte-mais-dois-quartos-em-barra-velha</link_cliente>
             <titulo>Casa Geminada com suíte mais dois quartos em Barra Velha</titulo>
