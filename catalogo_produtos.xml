@@ -11950,8 +11950,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
         <imovel>
             <referencia>2455</referencia>
             <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-                https://www.primevilleimoveis.com.br/imovel/bel%C3%ADssimo-apartamento-semimobiliado-para-alugar-no-cora%C3%A7%C3%A3o-do-iriri%C3%BA
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/bel%C3%ADssimo-apartamento-semimobiliado-para-alugar-no-cora%C3%A7%C3%A3o-do-iriri%C3%BA</link_cliente>
             <titulo>Apartamento semimobiliado para locação com 2 quartos no bairro Iririú</titulo>
             <transacao>L</transacao>
             <transacao2>0</transacao2>
@@ -13109,6 +13108,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                     <br>
                     <p>📍 Em ótima localização – Próximo à BR-280, escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
                 ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -14479,5 +14479,3 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
         </imovel>
     </imoveis>
 </Document>
-
-
