@@ -44,14 +44,18 @@
             <numero>980</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Área total de 118m², 4m de abertura e 10m de fundo;</p>
-<p>- Área de festa com churrasqueira;</p>
-<p>- 2 suítes com sacada;</p>
-<p>- Jardim e piscina;</p>
-<p>- Rebaixo em gesso, rodapé poliestireno e estrutura reforçada;</p>
-<p>- Acabamento refinado;</p>
-<p>- Vaga de garagem.</p>
-<p>- A 5 minutos da praia, Próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p> ]]></descritivo>
+            <descritivo>
+                <![CDATA[ 
+                    <p>- Área total de 118m², 4m de abertura e 10m de fundo;</p>
+                    <p>- Área de festa com churrasqueira;</p>
+                    <p>- 2 suítes com sacada;</p>
+                    <p>- Jardim e piscina;</p>
+                    <p>- Rebaixo em gesso, rodapé poliestireno e estrutura reforçada;</p>
+                    <p>- Acabamento refinado;</p>
+                    <p>- Vaga de garagem.</p>
+                    <p>- A 5 minutos da praia, Próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p> 
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -203,15 +207,19 @@
             <numero>7000</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Área Total de 160m², 10m de frente, 15m de fundos e 5m de abertura;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Três suítes, sendo duas com closet e sacada;</p>
-<p>- Área de festas com churrasqueira;</p>
-<p>- Porcelanato, massa corrida, rebaixo em gesso;</p>
-<p>- Espera para piscina e 4 infras para ar condicionado;</p>
-<p>- Lavanderia fechada;</p>
-<p>- Quatro vagas de garagem sendo duas cobertas e portão de elevação;</p>
-<p>- A 3 minutos da Caixa Econômica, Próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[ 
+                    <p>- Área Total de 160m², 10m de frente, 15m de fundos e 5m de abertura;</p>
+                    <p>- Sala e cozinha conjugada;</p>
+                    <p>- Três suítes, sendo duas com closet e sacada;</p>
+                    <p>- Área de festas com churrasqueira;</p>
+                    <p>- Porcelanato, massa corrida, rebaixo em gesso;</p>
+                    <p>- Espera para piscina e 4 infras para ar condicionado;</p>
+                    <p>- Lavanderia fechada;</p>
+                    <p>- Quatro vagas de garagem sendo duas cobertas e portão de elevação;</p>
+                    <p>- A 3 minutos da Caixa Econômica, Próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -475,15 +483,19 @@
             <numero>2439</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>Área Total de 113m², 4m² de abertura e 12m² de fundos;</p>
-<p>Sala e cozinha conjugada;</p>
-<p>Três quartos;</p>
-<p>Lavanderia Separada;</p>
-<p>Rebaixo em gesso, porcelanato e massa corrida;</p>
-<p>2 vagas de Garagem e portão com elevação;</p>
-<p>Aceitamos troca por carro, terreno, apto.</p>
-<p>Rua pavimentada.</p>
-<p>Ótima localização, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[
+                    <p>Área Total de 113m², 4m² de abertura e 12m² de fundos;</p>
+                    <p>Sala e cozinha conjugada;</p>
+                    <p>Três quartos;</p>
+                    <p>Lavanderia Separada;</p>
+                    <p>Rebaixo em gesso, porcelanato e massa corrida;</p>
+                    <p>2 vagas de Garagem e portão com elevação;</p>
+                    <p>Aceitamos troca por carro, terreno, apto.</p>
+                    <p>Rua pavimentada.</p>
+                    <p>Ótima localização, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -625,15 +637,18 @@
             <numero>1566</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- 140 M² excelente acabamento 1 suíte + 2 dormitórios</p>
-<p>- Sala e cozinha integradas</p>
-<p>- Lavanderia</p>
-<p>- Lavabo</p>
-<p>- Portão de elevação</p>
-<p>- Piso porcelanato parte de baixo</p>
-<p>- Laminado nos quartos</p>
-<p>- Abertura 5m, fundos 9 metros</p>
-<p>- Próximo ao terminal do Itaum, bem como próximo de Escolas, CEIs, postos de combustível, postos de saúde, restaurantes e comércios em geral.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[<p>- 140 M² excelente acabamento 1 suíte + 2 dormitórios</p>
+                    <p>- Sala e cozinha integradas</p>
+                    <p>- Lavanderia</p>
+                    <p>- Lavabo</p>
+                    <p>- Portão de elevação</p>
+                    <p>- Piso porcelanato parte de baixo</p>
+                    <p>- Laminado nos quartos</p>
+                    <p>- Abertura 5m, fundos 9 metros</p>
+                    <p>- Próximo ao terminal do Itaum, bem como próximo de Escolas, CEIs, postos de combustível, postos de saúde, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -771,20 +786,23 @@
             <numero>162</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- 𝐈𝐌Ó𝐕𝐄𝐋 𝟏𝟎𝟎% 𝐀𝐕𝐄𝐑𝐁𝐀𝐃𝐎;</p>
-<p>𝟏𝟓𝟓.𝟎𝟎𝟎 𝐃𝐄 𝐏𝐔𝐑𝐎 𝐃𝐄𝐒𝐂𝐎𝐍𝐓𝐎, 𝐒𝐎𝐌𝐄𝐍𝐓𝐄 𝟔𝟗𝟓.𝟎𝟎𝟎</p>
-<p>- Total de 223m²;</p>
-<p>- Sala e Cozinha separadas;</p>
-<p>- Três quartos, sendo um deles suíte com closet;</p>
-<p>- Quatro banheiros;</p>
-<p>- Salão de festas nos fundos;</p>
-<p>- Porcelanato, rebaixo em gesso, teto com laje, vidors blindex, soleiras em ganito;</p>
-<p>- Lavanderia Separada;</p>
-<p>- 5 Vagas de garagem;</p>
-<p>- Quintal com brita;</p>
-<p>- Sistema de alarme e portão eletrônico;</p>
-<p>- Possibilidade de tubulação para reaproveitamento de água;</p>
-<p>- Bairro Paranaguamirim.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[<p>- 𝐈𝐌Ó𝐕𝐄𝐋 𝟏𝟎𝟎% 𝐀𝐕𝐄𝐑𝐁𝐀𝐃𝐎;</p>
+                    <p>𝟏𝟓𝟓.𝟎𝟎𝟎 𝐃𝐄 𝐏𝐔𝐑𝐎 𝐃𝐄𝐒𝐂𝐎𝐍𝐓𝐎, 𝐒𝐎𝐌𝐄𝐍𝐓𝐄 𝟔𝟗𝟓.𝟎𝟎𝟎</p>
+                    <p>- Total de 223m²;</p>
+                    <p>- Sala e Cozinha separadas;</p>
+                    <p>- Três quartos, sendo um deles suíte com closet;</p>
+                    <p>- Quatro banheiros;</p>
+                    <p>- Salão de festas nos fundos;</p>
+                    <p>- Porcelanato, rebaixo em gesso, teto com laje, vidors blindex, soleiras em ganito;</p>
+                    <p>- Lavanderia Separada;</p>
+                    <p>- 5 Vagas de garagem;</p>
+                    <p>- Quintal com brita;</p>
+                    <p>- Sistema de alarme e portão eletrônico;</p>
+                    <p>- Possibilidade de tubulação para reaproveitamento de água;</p>
+                    <p>- Bairro Paranaguamirim.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -912,8 +930,7 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
-        </imovel>   
-        
+        </imovel>
         <imovel>
             <referencia>1580</referencia>
             <codigo_cliente>0</codigo_cliente>
@@ -956,18 +973,21 @@
             <numero>131</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Área Total de 130m², sendo com 5.70m de frente, 7.20m de abertura e 5m de fundos;</p>
-<p>- Piscina privativa + área gourmet;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Suíte mais dois quartos;</p>
-<p>- Lavanderia Separada;</p>
-<p>- Duas vagas de Garagem;</p>
-<p>- Quintal Gramado;</p>
-<p>- Rua pavimentada;</p>
-<p>- Acabamento em Porcelanato, massa corrida e meia cana em gesso;</p>
-<p>- Nicho no banheiro, soleira de mármore nas janelas;</p>
-
-<p>- A 5 minutos da praia central, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[
+                    <p>- Área Total de 130m², sendo com 5.70m de frente, 7.20m de abertura e 5m de fundos;</p>
+                    <p>- Piscina privativa + área gourmet;</p>
+                    <p>- Sala e cozinha conjugada;</p>
+                    <p>- Suíte mais dois quartos;</p>
+                    <p>- Lavanderia Separada;</p>
+                    <p>- Duas vagas de Garagem;</p>
+                    <p>- Quintal Gramado;</p>
+                    <p>- Rua pavimentada;</p>
+                    <p>- Acabamento em Porcelanato, massa corrida e meia cana em gesso;</p>
+                    <p>- Nicho no banheiro, soleira de mármore nas janelas;</p>
+                    <p>- A 5 minutos da praia central, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -1028,8 +1048,8 @@
             <aceita_troca>1</aceita_troca>
             <periodo_locacao>0</periodo_locacao>
         </imovel>
-                <imovel>
-        <referencia>1630</referencia>
+        <imovel>
+            <referencia>1630</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-dois-quartos-no-iririu</link_cliente>
             <titulo>𝐀𝐩𝐚𝐫𝐭𝐚𝐦𝐞𝐧𝐭𝐨 𝐜/ 𝟐 𝐪𝐮𝐚𝐫𝐭𝐨𝐬 𝐧𝐨 𝐈𝐫𝐢𝐫𝐢ú</titulo>
@@ -1071,15 +1091,18 @@
             <numero>2439</numero>
             <complemento></complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Primeiro andar;</p>
-<p>- Área privativa de 72m²;</p>
-<p>- Dois quartos, sendo um suíte;</p>
-<p>- Dois banheiros;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Vaga de garagem;</p>
-<p>- Rua pavimentada;</p>
-
-<p>- Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[
+                    <p>- Primeiro andar;</p>
+                    <p>- Área privativa de 72m²;</p>
+                    <p>- Dois quartos, sendo um suíte;</p>
+                    <p>- Dois banheiros;</p>
+                    <p>- Sala e cozinha conjugada;</p>
+                    <p>- Vaga de garagem;</p>
+                    <p>- Rua pavimentada;</p>
+                    <p>- Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -1164,8 +1187,7 @@
         <imovel>
             <referencia>2015</referencia>
             <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-               https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-su%C3%ADte-e-dois-quartos-no-iriri%C3%BA</link_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-su%C3%ADte-e-dois-quartos-no-iriri%C3%BA</link_cliente>
             <titulo>Sobrado Geminado Suíte e dois quartos no Iririú</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
@@ -1204,16 +1226,20 @@
             <numero>2439</numero>
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>- Área Total de 90m², 10m de frente 3m de abertura, e 3m de fundos;</p>
-<p>- Três quartos, sendo uma suíte com sacada;</p>
-<p>- Sala e Cozinha Separada;</p>
-<p>- Àrea de Festas com Churrasqueira;</p>
-<p>- Lavanderia coberta e separada;</p>
-<p>- Duas Vagas de Garagem e Portão de elevação;</p>
-<p>- Fachada Moderna, Porcelanato piso inferior, Vinílico piso Superior Vidros blindex, ponto de ar condicionado, rebaixo em gesso;</p>
-<p>- Rua Pavimentada;</p>
-<p>- Finalização da obra 05/24.</p>
-<p>- No Coração do bairro, a 5min da TUPY - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[ 
+                    <p>- Área Total de 90m², 10m de frente 3m de abertura, e 3m de fundos;</p>
+                    <p>- Três quartos, sendo uma suíte com sacada;</p>
+                    <p>- Sala e Cozinha Separada;</p>
+                    <p>- Àrea de Festas com Churrasqueira;</p>
+                    <p>- Lavanderia coberta e separada;</p>
+                    <p>- Duas Vagas de Garagem e Portão de elevação;</p>
+                    <p>- Fachada Moderna, Porcelanato piso inferior, Vinílico piso Superior Vidros blindex, ponto de ar condicionado, rebaixo em gesso;</p>
+                    <p>- Rua Pavimentada;</p>
+                    <p>- Finalização da obra 05/24.</p>
+                    <p>- No Coração do bairro, a 5min da TUPY - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -1369,14 +1395,18 @@
             <numero>1245</numero>
             <complemento>0</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[<p>- Área privativa de 160m² e área do terreno de 372m² com Amplo espaço;</p>
-<p>- Três quartos;</p>
-<p>- 2 banheiros;</p>
-<p>- Cozinha e sala separada;</p>
-<p>- Área gourmet;</p>
-<p>- 3 Vagas de garagem sendo uma coberta;</p>
-<p>- Edícula;</p>
-<p>- Aceita permuta.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[
+                    <p>- Área privativa de 160m² e área do terreno de 372m² com Amplo espaço;</p>
+                    <p>- Três quartos;</p>
+                    <p>- 2 banheiros;</p>
+                    <p>- Cozinha e sala separada;</p>
+                    <p>- Área gourmet;</p>
+                    <p>- 3 Vagas de garagem sendo uma coberta;</p>
+                    <p>- Edícula;</p>
+                    <p>- Aceita permuta.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -1486,8 +1516,7 @@
         <imovel>
             <referencia>2090</referencia>
             <codigo_cliente>0</codigo_cliente>
-            <link_cliente>
-               https://www.primevilleimoveis.com.br/imovel/geminado-alto-padr%C3%A3o-com-tr%C3%AAs-quartos-no-bom-retiro</link_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-alto-padr%C3%A3o-com-tr%C3%AAs-quartos-no-bom-retiro</link_cliente>
             <titulo>Geminado alto padrão com duas suítes mais um quarto no Bom Retiro</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
@@ -1526,18 +1555,22 @@
             <numero>1704</numero>
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
-            <descritivo><![CDATA[ <p>-Área total de: 115m² com amplo espaço;</p>
-<p>-3 quartos sendo 2 suítes;</p>
-<p>-Espaço para home office ou closet;</p>
-<p>-3 banheiros;</p>
-<p>-Espaço Gourmet, Cozinha com churrasqueira integrada;</p>
-<p>-Varanda na frente e Pátio nos fundos;</p>
-<p>-Lavanderia separada;</p>
-<p>-Portão de elevação com porta de pedestre, lixeira e espera para automatizar;</p>
-<p>-2 vagas lado a lado;</p>
-<p>-Acabamento Alto Padrão: Revestimento em Porcelanato, Granito nas soleiras, Guarda corpo da escada em vidro com botão, Massa corrida,
-Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 andares, Vidros blindex;</p>
-<p>-Divisa do Jardim Sofia e Bom Retiro.</p>]]></descritivo>
+            <descritivo>
+                <![CDATA[ 
+                    <p>-Área total de: 115m² com amplo espaço;</p>
+                    <p>-3 quartos sendo 2 suítes;</p>
+                    <p>-Espaço para home office ou closet;</p>
+                    <p>-3 banheiros;</p>
+                    <p>-Espaço Gourmet, Cozinha com churrasqueira integrada;</p>
+                    <p>-Varanda na frente e Pátio nos fundos;</p>
+                    <p>-Lavanderia separada;</p>
+                    <p>-Portão de elevação com porta de pedestre, lixeira e espera para automatizar;</p>
+                    <p>-2 vagas lado a lado;</p>
+                    <p>-Acabamento Alto Padrão: Revestimento em Porcelanato, Granito nas soleiras, Guarda corpo da escada em vidro com botão, Massa corrida,
+                    Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 andares, Vidros blindex;</p>
+                    <p>-Divisa do Jardim Sofia e Bom Retiro.</p>
+                ]]>
+            </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
@@ -3933,7 +3966,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2266</referencia>
+            <referencia>2266</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-amplo-de-351m-em-porto-grande-araquari</link_cliente>
             <titulo>Terreno amplo de 351m² em Porto Grande-Araquari</titulo>
@@ -3975,13 +4008,14 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Terreno 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Terrenos com área total de 351m² e 13m de frente;</p>
-<p>- Terreno plano;</p>
-<p>- Aceita permuta no local;</p>
-<p>- Rua pavimentada;</p>
+                <![CDATA[<p>- Terrenos com área total de 351m² e 13m de frente;</p>
+                <p>- Terreno plano;</p>
+                <p>- Aceita permuta no local;</p>
+                <p>- Rua pavimentada;</p>
 
-<p>- Em ótima localização, bem como próximo de escolas, CEIs, posto de saúde, entre outros comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização, bem como próximo de escolas, CEIs, posto de saúde, entre outros comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_a282f2ba426648f68df961139da174ae~mv2.jpg</url>
@@ -4046,7 +4080,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2313</referencia>
+            <referencia>2313</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-su%C3%ADte-mais-dois-quartos-no-aventureiro-1</link_cliente>
             <titulo>Casa com Suíte mais dois quartos no Aventureiro</titulo>
@@ -4088,19 +4122,20 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Imóvel não averbado;</p>
-<p>Semimobiliado;</p>
-<p>Área total de 255m² e 135m² de área construída, com amplo espaço;</p>
-<p>Três quartos sendo um suíte;</p>
-<p>Sala e cozinha separada;</p>
-<p>Três banheiros;</p>
-<p>Área gourmet com churrasqueira e piscina;</p>
-<p>Lavanderia separada;</p>
-<p>Duas vagas de garagem cobertas;</p>
-<p>Quintal com paver e jardim;</p>
-<p>Fica na casa: cozinha planejada, painel de TV, móveis do banheiro, roupeiros dos quartos e ar de janela;</p>
-<p>Próximo ao Fort Atacadista, assim como próximo de escolas, CEIs, postos de combustível, postos de saúde, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Imóvel não averbado;</p>
+                <p>Semimobiliado;</p>
+                <p>Área total de 255m² e 135m² de área construída, com amplo espaço;</p>
+                <p>Três quartos sendo um suíte;</p>
+                <p>Sala e cozinha separada;</p>
+                <p>Três banheiros;</p>
+                <p>Área gourmet com churrasqueira e piscina;</p>
+                <p>Lavanderia separada;</p>
+                <p>Duas vagas de garagem cobertas;</p>
+                <p>Quintal com paver e jardim;</p>
+                <p>Fica na casa: cozinha planejada, painel de TV, móveis do banheiro, roupeiros dos quartos e ar de janela;</p>
+                <p>Próximo ao Fort Atacadista, assim como próximo de escolas, CEIs, postos de combustível, postos de saúde, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_4bf46b99a6534334a060fe9f102bb48c~mv2.jpg</url>
@@ -4224,7 +4259,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2247</referencia>
+            <referencia>2247</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-su%C3%ADte-maisum-quarto-no-costa-e-silva</link_cliente>
             <titulo>Apartamento Suíte mais um quarto no Costa e Silva</titulo>
@@ -4266,18 +4301,19 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 301</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Entrada e condições facilitadas;</p>
-<p>Torre única e opções de Giardino;</p>
-<p>Opções privativas até 121m²;</p>
-<p>Sacada com churrasqueira e elevador;</p>
-<p>Opções de 2 quartos, sendo 1 suíte ou suíte + 2;</p>
-<p>Vaga de garagem fechada no subsolo;</p>
-<p>Acabamento de primeira linha;</p>
-<p>Mercadinho, academia equipada, espaço delivery, espaço de ferramentas, petplace, bicicletário, brinquedoteca;</p>
-<p>Entrega prevista para março de 2026;</p>
-<p>Rua pavimentada.</p>
-<p>Fácil acesso à BR-101, a 1 minuto da Rotatória Benjamin Constant, bem como próximo a escolas, hospitais, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Entrada e condições facilitadas;</p>
+                <p>Torre única e opções de Giardino;</p>
+                <p>Opções privativas até 121m²;</p>
+                <p>Sacada com churrasqueira e elevador;</p>
+                <p>Opções de 2 quartos, sendo 1 suíte ou suíte + 2;</p>
+                <p>Vaga de garagem fechada no subsolo;</p>
+                <p>Acabamento de primeira linha;</p>
+                <p>Mercadinho, academia equipada, espaço delivery, espaço de ferramentas, petplace, bicicletário, brinquedoteca;</p>
+                <p>Entrega prevista para março de 2026;</p>
+                <p>Rua pavimentada.</p>
+                <p>Fácil acesso à BR-101, a 1 minuto da Rotatória Benjamin Constant, bem como próximo a escolas, hospitais, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_3c7898f25fcd47e58f02a8a457989b76~mv2.jpg</url>
@@ -4401,7 +4437,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2321</referencia>
+            <referencia>2321</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/triplex-com-duas-su%C3%ADtes-no-bairro-floresta</link_cliente>
             <titulo>Triplex com duas suítes no bairro Floresta</titulo>
@@ -4443,17 +4479,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 100m², com 6m de frente, 1.5m de fundos e 3.75m de abertura;</p>
-<p>Duas suítes;</p>
-<p>Três banheiros;</p>
-<p>Cozinha e sala separadas;</p>
-<p>Duas vagas de garagem cobertas;</p>
-<p>Portão de elevação;</p>
-<p>Rua pavimentada;</p>
-<p>Entrega prevista para 09/2026;</p>
-<p>Acabamentos: Porcelanato retificado acetinado nos ambientes internos, pintura interna 100% em tons de branco, acabamento externo frontal com textura, esquadrias em vidro, banheiro e lavabos com exaustor.</p>
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Área construída de 100m², com 6m de frente, 1.5m de fundos e 3.75m de abertura;</p>
+                <p>Duas suítes;</p>
+                <p>Três banheiros;</p>
+                <p>Cozinha e sala separadas;</p>
+                <p>Duas vagas de garagem cobertas;</p>
+                <p>Portão de elevação;</p>
+                <p>Rua pavimentada;</p>
+                <p>Entrega prevista para 09/2026;</p>
+                <p>Acabamentos: Porcelanato retificado acetinado nos ambientes internos, pintura interna 100% em tons de branco, acabamento externo frontal com textura, esquadrias em vidro, banheiro e lavabos com exaustor.</p>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_92bdef3164eb4f8a9999427f73f5f4ee~mv2.jpg</url>
@@ -4556,8 +4593,8 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-          <imovel>
-        <referencia>2288</referencia>
+        <imovel>
+            <referencia>2288</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-amplo-de-312m-em-s%C3%A3o-francisco-do-sul-ubatuba</link_cliente>
             <titulo>Terreno amplo de 312m² em São Francisco do Sul-Ubatuba</titulo>
@@ -4599,10 +4636,11 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Terreno 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Terreno com área total de 312m²;</p>
-<p>Terreno plano;</p>
-<p>Em ótima localização, bem como próximo de escolas, CEIs, posto de saúde, entre outros comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Terreno com área total de 312m²;</p>
+                <p>Terreno plano;</p>
+                <p>Em ótima localização, bem como próximo de escolas, CEIs, posto de saúde, entre outros comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_f1bef551540b41d3b0e3333505218872~mv2.jpg</url>
@@ -4680,8 +4718,8 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-                <imovel>
-        <referencia>2104</referencia>
+        <imovel>
+            <referencia>2104</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-dois-quarto-em-itinga-araquari</link_cliente>
             <titulo>Casa Geminada com dois quarto em Itinga-Araquari</titulo>
@@ -4723,14 +4761,15 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 75m², terreno de 120m², com 5m de frente, 5m de fundos e 5m de abertura;</p>
-<p>2 quartos;</p>
-<p>Sala e cozinha conjugada;</p>
-<p>Lavanderia;</p>
-<p>Vaga de garagem;</p>
-<p>Quintal com brita e jardim;</p>
-<p>Rua pavimentada.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Área construída de 75m², terreno de 120m², com 5m de frente, 5m de fundos e 5m de abertura;</p>
+                <p>2 quartos;</p>
+                <p>Sala e cozinha conjugada;</p>
+                <p>Lavanderia;</p>
+                <p>Vaga de garagem;</p>
+                <p>Quintal com brita e jardim;</p>
+                <p>Rua pavimentada.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_47063b03edb44c71b34daf2f25ec116e~mv2.jpg</url>
@@ -4834,7 +4873,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2207</referencia>
+            <referencia>2207</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-sacada-com-churrasqueira-no-bairro-santo-ant%C3%B4nio</link_cliente>
             <titulo>Apartamento sacada com churrasqueira no bairro Santo Antônio</titulo>
@@ -4876,18 +4915,19 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 301</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Localizado no Santo Antônio;</p>
-<p>Entrada e condições facilitadas;</p>
-<p>Opções privativas a partir de 51m²;</p>
-<p>Opções com giardino;</p>
-<p>Elevador e Sacada com churrasqueira;</p>
-<p>Áreas de lazer completas: Piscina adulto e infantil, espaço gourmet, playground, pet place, redário, academia, dentre outros;</p>
-<p>Dois quartos amplos;</p>
-<p>Sala e Cozinha conjugada;</p>
-<p>Entrega prevista para setembro de 2025;</p>
-<p>Rua pavimentada.</p>
-<p>Próximo ao terminal Norte, bem como próximo a hospitais, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Localizado no Santo Antônio;</p>
+                <p>Entrada e condições facilitadas;</p>
+                <p>Opções privativas a partir de 51m²;</p>
+                <p>Opções com giardino;</p>
+                <p>Elevador e Sacada com churrasqueira;</p>
+                <p>Áreas de lazer completas: Piscina adulto e infantil, espaço gourmet, playground, pet place, redário, academia, dentre outros;</p>
+                <p>Dois quartos amplos;</p>
+                <p>Sala e Cozinha conjugada;</p>
+                <p>Entrega prevista para setembro de 2025;</p>
+                <p>Rua pavimentada.</p>
+                <p>Próximo ao terminal Norte, bem como próximo a hospitais, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_7fea49e8cce447af865f267e4d34d49d~mv2.jpg</url>
@@ -4985,8 +5025,8 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-                <imovel>
-        <referencia>2143</referencia>
+        <imovel>
+            <referencia>2143</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-dois-quartos-no-bairro-boehmerwald</link_cliente>
             <titulo>Casa com dois quartos no bairro Boehmerwald</titulo>
@@ -5028,16 +5068,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Casa de alvenaria</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área total de 442m² e 90m² de área construída, com amplo espaço;</p>
-<p>Dois quartos;</p>
-<p>Dois banheiros;</p>
-<p>Cozinha e sala separada;</p>
-<p>Área gourmet com churrasqueira;</p>
-<p>Cinco vagas de garagem, sendo uma coberta;</p>
-<p>Quintal amplo com brita e jardim;</p>
-<p>Rua pavimentada.</p>
-<p>Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Área total de 442m² e 90m² de área construída, com amplo espaço;</p>
+                <p>Dois quartos;</p>
+                <p>Dois banheiros;</p>
+                <p>Cozinha e sala separada;</p>
+                <p>Área gourmet com churrasqueira;</p>
+                <p>Cinco vagas de garagem, sendo uma coberta;</p>
+                <p>Quintal amplo com brita e jardim;</p>
+                <p>Rua pavimentada.</p>
+                <p>Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_bc40cb29e7dc4659855c2673ff54a526~mv2.jpg</url>
@@ -5131,7 +5172,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2352</referencia>
+            <referencia>2352</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-su%C3%ADte-dois-quartos-e-churrasqueira-no-boa-vista</link_cliente>
             <titulo>Geminado com Suíte + Dois Quartos e Churrasqueira no Boa Vista</titulo>
@@ -5173,16 +5214,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 148m², com 4,80m de abertura livre e 8,5m de fundos;</p>
-<p>Três quartos, sendo um suíte;</p>
-<p>Área gourmet com churrasqueira;</p>
-<p>Varanda;</p>
-<p>Lavanderia;</p>
-<p>Quintal com brita;</p>
-<p>Duas vagas de garagem, sendo uma coberta;</p>
-<p>Rua pavimentada.</p>
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Área construída de 148m², com 4,80m de abertura livre e 8,5m de fundos;</p>
+                <p>Três quartos, sendo um suíte;</p>
+                <p>Área gourmet com churrasqueira;</p>
+                <p>Varanda;</p>
+                <p>Lavanderia;</p>
+                <p>Quintal com brita;</p>
+                <p>Duas vagas de garagem, sendo uma coberta;</p>
+                <p>Rua pavimentada.</p>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_ebe7af70cdc44b12affd43711778a767~mv2.jpeg</url>
@@ -5286,7 +5328,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2348</referencia>
+            <referencia>2348</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-duas-su%C3%ADtes-no-santo-ant%C3%B4nio</link_cliente>
             <titulo>Sobrado Geminado com duas suítes no Santo Antônio</titulo>
@@ -5328,17 +5370,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 77m², 9,5m de frente, 5m de fundos e 3,7m de abertura;</p>
-<p>Duas suítes;</p>
-<p>Cozinha e sala conjugada;</p>
-<p>Lavanderia separada;</p>
-<p>Quintal acimentado;</p>
-<p>Duas vagas de garagem;</p>
-<p>Acabamentos: porcelanato, rebaixo em gesso e massa corrida;</p>
-<p>Rua pavimentada;</p>
-<p>Entrega prevista para 12/2025.</p>
-<p>Em ótima localização - Próximo a escolas, panificadoras, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Área construída de 77m², 9,5m de frente, 5m de fundos e 3,7m de abertura;</p>
+                <p>Duas suítes;</p>
+                <p>Cozinha e sala conjugada;</p>
+                <p>Lavanderia separada;</p>
+                <p>Quintal acimentado;</p>
+                <p>Duas vagas de garagem;</p>
+                <p>Acabamentos: porcelanato, rebaixo em gesso e massa corrida;</p>
+                <p>Rua pavimentada;</p>
+                <p>Entrega prevista para 12/2025.</p>
+                <p>Em ótima localização - Próximo a escolas, panificadoras, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_43079328788146ff8f526ca4671b13a1~mv2.jpg</url>
@@ -5423,7 +5466,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2351</referencia>
+            <referencia>2351</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-tr%C3%AAs-quartos-no-boa-vista</link_cliente>
             <titulo>Casa Geminada com Três Quartos no Boa Vista</titulo>
@@ -5465,18 +5508,19 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 98m², 3.40m de abertura livre, 10m de frente e 5m de fundos;</p>
-<p>Três quartos;</p>
-<p>Dois banheiros;</p>
-<p>Sacada;</p>
-<p>Área de serviço;</p>
-<p>Quintal com brita;</p>
-<p>Duas vagas de garagem descobertas;</p>
-<p>Acabamentos: massa corrida, porcelanato, rebaixado em gesso;</p>
-<p>Rua pavimentada e sem saída;</p>
-<p>Entrega para maio de 2025;</p>
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Área construída de 98m², 3.40m de abertura livre, 10m de frente e 5m de fundos;</p>
+                <p>Três quartos;</p>
+                <p>Dois banheiros;</p>
+                <p>Sacada;</p>
+                <p>Área de serviço;</p>
+                <p>Quintal com brita;</p>
+                <p>Duas vagas de garagem descobertas;</p>
+                <p>Acabamentos: massa corrida, porcelanato, rebaixado em gesso;</p>
+                <p>Rua pavimentada e sem saída;</p>
+                <p>Entrega para maio de 2025;</p>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_8993dee222254bc59dd5bd172eef1764~mv2.jpeg</url>
@@ -5546,7 +5590,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2342</referencia>
+            <referencia>2342</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-tr%C3%AAs-quartosno-bairro-jardim-iririu</link_cliente>
             <titulo>Casa com três quartos no bairro Jardim Iririu</titulo>
@@ -5588,20 +5632,21 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Casa de alvenaria</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Casa não averbada;</p>
-<p>-Área construída de 100m² com frente de 14m e fundos de 23m;</p>
-<p>-Três quartos;</p>
-<p>-Dois banheiros;</p>
-<p>-Cozinha e sala separada;</p>
-<p>-Área gourmet com churrasqueira;</p>
-<p>-Área de serviço separada;</p>
-<p>-Quintal com paver e jardim;</p>
-<p>-Oito vagas de garagem, sendo seis cobertas;</p>
-<p>-Detalhes em gesso, rebaixo em gesso, vidros blindex, massa corrida;</p>
-<p>-Rua pavimentada;</p>
-<p>-Fica no imóvel: cozinha planejada e móvel do quarto de solteiro.</p>
-<p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>-Casa não averbada;</p>
+                <p>-Área construída de 100m² com frente de 14m e fundos de 23m;</p>
+                <p>-Três quartos;</p>
+                <p>-Dois banheiros;</p>
+                <p>-Cozinha e sala separada;</p>
+                <p>-Área gourmet com churrasqueira;</p>
+                <p>-Área de serviço separada;</p>
+                <p>-Quintal com paver e jardim;</p>
+                <p>-Oito vagas de garagem, sendo seis cobertas;</p>
+                <p>-Detalhes em gesso, rebaixo em gesso, vidros blindex, massa corrida;</p>
+                <p>-Rua pavimentada;</p>
+                <p>-Fica no imóvel: cozinha planejada e móvel do quarto de solteiro.</p>
+                <p>-Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_388d47a64d6b4784811f36f5805d0a14~mv2.jpg</url>
@@ -5710,7 +5755,7 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
-        <referencia>2379</referencia>
+            <referencia>2379</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-dois-quartos-no-jo%C3%A3o-costa</link_cliente>
             <titulo>Casa Geminada com dois quartos no João costa</titulo>
@@ -5752,17 +5797,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Casa 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 70m² com 9m de frente, 1m de fundos e 4m de abertura;</p>
-<p>Dois quartos;</p>
-<p>Área Gourmet com churrasqueira;</p>
-<p>Lavanderia separada;</p>
-<p>Duas vagas de garagem, sendo uma coberta;</p>
-<p>Quintal com paver e pergolado;</p>
-<p>Rua pavimentada;</p>
-<p>Porcelanato, rebaixo em gesso, detalhes em gesso, vidros blindex, piso vinílico;</p>
+                <![CDATA[<p>Área construída de 70m² com 9m de frente, 1m de fundos e 4m de abertura;</p>
+                <p>Dois quartos;</p>
+                <p>Área Gourmet com churrasqueira;</p>
+                <p>Lavanderia separada;</p>
+                <p>Duas vagas de garagem, sendo uma coberta;</p>
+                <p>Quintal com paver e pergolado;</p>
+                <p>Rua pavimentada;</p>
+                <p>Porcelanato, rebaixo em gesso, detalhes em gesso, vidros blindex, piso vinílico;</p>
 
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_3a7555d945e743d0bdc522e030e9d4f7~mv2.jpg</url>
@@ -5913,19 +5959,20 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Casa de Alvenaria</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Casa não averbada;</p>
-<p>Área total de 360m² e construída de 126m²;</p>
-<p>Imóvel com uma casa nos fundos;</p>
-<p>Estrutura para fazer casa em cima;</p>
-<p>Três quartos;</p>
-<p>Edícula;</p>
-<p>Lavanderia separada;</p>
-<p>Quintal com grama, brita e jardim;</p>
-<p>Cinco vagas de garagem, sendo três cobertas;</p>
-<p>Rua pavimentada;</p>
+                <![CDATA[<p>Casa não averbada;</p>
+                <p>Área total de 360m² e construída de 126m²;</p>
+                <p>Imóvel com uma casa nos fundos;</p>
+                <p>Estrutura para fazer casa em cima;</p>
+                <p>Três quartos;</p>
+                <p>Edícula;</p>
+                <p>Lavanderia separada;</p>
+                <p>Quintal com grama, brita e jardim;</p>
+                <p>Cinco vagas de garagem, sendo três cobertas;</p>
+                <p>Rua pavimentada;</p>
 
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_7920fc1bad8a4d08859c192d78a91d4c~mv2.jpg</url>
@@ -6076,16 +6123,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 75m² com frente de 5m, fundos de 13m e abertura de 5.5m;</p>
-<p>Dois quartos;</p>
-<p>Cozinha e sala separada;</p>
-<p>Área de serviço;</p>
-<p>Quintal com brita;</p>
-<p>Vaga de garagem;</p>
-<p>Rua pavimentada;</p>
+                <![CDATA[<p>Área construída de 75m² com frente de 5m, fundos de 13m e abertura de 5.5m;</p>
+                <p>Dois quartos;</p>
+                <p>Cozinha e sala separada;</p>
+                <p>Área de serviço;</p>
+                <p>Quintal com brita;</p>
+                <p>Vaga de garagem;</p>
+                <p>Rua pavimentada;</p>
 
-<p>Em ótima localização, próximo ao HiperMais - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>Em ótima localização, próximo ao HiperMais - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_ab5e564e2528493c80fc74981b665d8c~mv2.jpg</url>
@@ -6236,17 +6284,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Casa de alvenaria</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 75m² e total de 293m²;</p>
-<p>Três quartos;</p>
-<p>Cozinha e sala separada;</p>
-<p>Área de serviço;</p>
-<p>Edícula;</p>
-<p>Quintal com grama;</p>
-<p>Três vagas de garagem, sendo duas cobertas;</p>
-<p>Casa em processo final de averbação;</p>
+                <![CDATA[<p>Área construída de 75m² e total de 293m²;</p>
+                <p>Três quartos;</p>
+                <p>Cozinha e sala separada;</p>
+                <p>Área de serviço;</p>
+                <p>Edícula;</p>
+                <p>Quintal com grama;</p>
+                <p>Três vagas de garagem, sendo duas cobertas;</p>
+                <p>Casa em processo final de averbação;</p>
 
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_970a11b107bb43c683f49c0e722043d4~mv2.jpg</url>
@@ -6397,16 +6446,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 303</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área privativa de 43m²;</p>
-<p>Semimobiliado: fica armários da cozinha, sofá, painel de tv, guarda-roupas, armário do banheiro e armário do quarto;</p>
-<p>Dois quartos;</p>
-<p>Cozinha e sala separada;</p>
-<p>Área de serviço;</p>
-<p>Piscina, salão de festas e playground;</p>
-<p>Vaga de garagem;</p>
-<p>Rua pavimentada;</p>
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Área privativa de 43m²;</p>
+                <p>Semimobiliado: fica armários da cozinha, sofá, painel de tv, guarda-roupas, armário do banheiro e armário do quarto;</p>
+                <p>Dois quartos;</p>
+                <p>Cozinha e sala separada;</p>
+                <p>Área de serviço;</p>
+                <p>Piscina, salão de festas e playground;</p>
+                <p>Vaga de garagem;</p>
+                <p>Rua pavimentada;</p>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_a4e082e09755479aadec624f28f70010~mv2.jpg</url>
@@ -6552,21 +6602,22 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 87m², 10,5m de frente, 3,50m de fundos e 3,80m de abertura;</p>
-<p>- Dois quartos amplos;</p>
-<p>- Sala e cozinha separadas;</p>
-<p>- Banheiro e lavabo com espera para chuveiro;</p>
-<p>- Área gourmet nos fundos e pergolado na frente;</p>
-<p>- Lavanderia separada;</p>
-<p>- Quintal acimentado e portão eletrônico;</p>
-<p>- Porcelanato fosco no térreo e laminado no andar superior;</p>
-<p>- Duas vagas de garagem, sendo uma coberta;</p>
-<p>- Rua pavimentada.</p>
+                <![CDATA[<p>- Área total de 87m², 10,5m de frente, 3,50m de fundos e 3,80m de abertura;</p>
+                <p>- Dois quartos amplos;</p>
+                <p>- Sala e cozinha separadas;</p>
+                <p>- Banheiro e lavabo com espera para chuveiro;</p>
+                <p>- Área gourmet nos fundos e pergolado na frente;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Quintal acimentado e portão eletrônico;</p>
+                <p>- Porcelanato fosco no térreo e laminado no andar superior;</p>
+                <p>- Duas vagas de garagem, sendo uma coberta;</p>
+                <p>- Rua pavimentada.</p>
 
-<p><strong>Obs:</strong> Fica no imóvel: jogo de cozinha, banheiros, cabeceira da cama e roupeiro. Outras mobílias a negociar.</p>
+                <p><strong>Obs:</strong> Fica no imóvel: jogo de cozinha, banheiros, cabeceira da cama e roupeiro. Outras mobílias a negociar.</p>
 
-<p>- A 5 minutos do Bistek Supermercado - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- A 5 minutos do Bistek Supermercado - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_68b1b9947c334d7cb385febbbf9c0462~mv2.jpg</url>
@@ -6712,16 +6763,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>apto 201</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- 60m² de área privativa, com amplo espaço;</p>
-<p>- Suíte mais um quarto adicional;</p>
-<p>- Sala e cozinha conjugadas;</p>
-<p>- Churrasqueira;</p>
-<p>- Vaga de garagem coberta e portão eletrônico;</p>
-<p>- Quintal com paver;</p>
-<p>- Localizado no bairro Parque Guarani.</p>
+                <![CDATA[<p>- 60m² de área privativa, com amplo espaço;</p>
+                <p>- Suíte mais um quarto adicional;</p>
+                <p>- Sala e cozinha conjugadas;</p>
+                <p>- Churrasqueira;</p>
+                <p>- Vaga de garagem coberta e portão eletrônico;</p>
+                <p>- Quintal com paver;</p>
+                <p>- Localizado no bairro Parque Guarani.</p>
 
-<p>- Em ótima localização - Próximo a escolas, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização - Próximo a escolas, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_60ddba20e99946f1b401b9c9f963847b~mv2.jpg</url>
@@ -6867,12 +6919,13 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Terreno 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 240m², sendo 10x24;</p>
-<p>- Terreno plano;</p>
-<p>- Terreno escriturado.</p>
+                <![CDATA[<p>- Área total de 240m², sendo 10x24;</p>
+                <p>- Terreno plano;</p>
+                <p>- Terreno escriturado.</p>
 
-<p>- Em ótima localização, próximo à pracinha, bem como próximo de escolas, CEIs, postos de combustível, posto de saúde, entre outros comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização, próximo à pracinha, bem como próximo de escolas, CEIs, postos de combustível, posto de saúde, entre outros comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_2a331b55f777487fb041f12dbddda62b~mv2.jpg</url>
@@ -6974,16 +7027,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Financia Minha Casa Minha Vida;</p>
-<p>- Área construída de 65m²;</p>
-<p>- Dois quartos, sendo um com sacada;</p>
-<p>- Lavanderia separada;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Rua pavimentada;</p>
+                <![CDATA[<p>- Financia Minha Casa Minha Vida;</p>
+                <p>- Área construída de 65m²;</p>
+                <p>- Dois quartos, sendo um com sacada;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Duas vagas de garagem;</p>
+                <p>- Rua pavimentada;</p>
 
-<p>- Em ótima localização, menos de 100 metros da Escola Senador Luiz Henrique da Silveira.</p>
-<p>- A 3 minutos da Unidade Básica de Saúde Geny Westrupp - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização, menos de 100 metros da Escola Senador Luiz Henrique da Silveira.</p>
+                <p>- A 3 minutos da Unidade Básica de Saúde Geny Westrupp - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_280c23f7e65d4f63badce9abb2182321~mv2.jpg</url>
@@ -7120,16 +7174,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área construída de 63m²;</p>
-<p>- Dois quartos;</p>
-<p>- Cozinha e sala separada;</p>
-<p>- Sacada;</p>
-<p>- Lavanderia separada;</p>
-<p>- Vaga de garagem e portão de elevação;</p>
-<p>- Rua pavimentada;</p>
+                <![CDATA[<p>- Área construída de 63m²;</p>
+                <p>- Dois quartos;</p>
+                <p>- Cozinha e sala separada;</p>
+                <p>- Sacada;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Vaga de garagem e portão de elevação;</p>
+                <p>- Rua pavimentada;</p>
 
-<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_0cd2cf73d3014651b896c86dd6f78b50~mv2.jpg</url>
@@ -7266,17 +7321,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área construída de 105m² com frente de 5m, fundos de 1.5m e abertura de 7m;</p>
-<p>- Três suítes;</p>
-<p>- Cozinha e sala separada;</p>
-<p>- Área de serviço;</p>
-<p>- Quintal com paver;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Porcelanato, detalhes em gesso, rebaixo em gesso, vidros blindex, massa corrida, laminado;</p>
-<p>- Rua pavimentada;</p>
+                <![CDATA[<p>- Área construída de 105m² com frente de 5m, fundos de 1.5m e abertura de 7m;</p>
+                <p>- Três suítes;</p>
+                <p>- Cozinha e sala separada;</p>
+                <p>- Área de serviço;</p>
+                <p>- Quintal com paver;</p>
+                <p>- Duas vagas de garagem;</p>
+                <p>- Porcelanato, detalhes em gesso, rebaixo em gesso, vidros blindex, massa corrida, laminado;</p>
+                <p>- Rua pavimentada;</p>
 
-<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_e2b6222f2dab4634b4fcd41424fbc561~mv2.jpg</url>
@@ -7423,16 +7479,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>-Área Total de 195m², área construída de 157m² sendo 8m de frente, 5m de abertura e 13m de fundos;
--Três suítes sendo duas com closet;
--Cozinha e sala conjugada;
--Área gourmet com churrasqueira;
--Lavanderia separada;
--Duas vagas de garagem;
--Acabamentos de primeira linha;
+                <![CDATA[<p>-Área Total de 195m², área construída de 157m² sendo 8m de frente, 5m de abertura e 13m de fundos;
+                -Três suítes sendo duas com closet;
+                -Cozinha e sala conjugada;
+                -Área gourmet com churrasqueira;
+                -Lavanderia separada;
+                -Duas vagas de garagem;
+                -Acabamentos de primeira linha;
 
--Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]></descritivo>
-                <fotos_imovel>
+                -Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_7b8969d1b4c54902a0a16c9ace0527b9~mv2.jpg</url>
@@ -7579,17 +7636,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área construída de 63m² e área total de 169m² com 12m de frente, 7m de fundos e 5m de abertura;</p>
-<p>- Suíte mais um quarto;</p>
-<p>- Sala e cozinha separada;</p>
-<p>- Porcelanato, massa corrida, soleiras em granito, vidros blindex;</p>
-<p>- Lavanderia separada;</p>
-<p>- Quintal com brita;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Rua pavimentada;</p>
+                <![CDATA[<p>- Área construída de 63m² e área total de 169m² com 12m de frente, 7m de fundos e 5m de abertura;</p>
+                <p>- Suíte mais um quarto;</p>
+                <p>- Sala e cozinha separada;</p>
+                <p>- Porcelanato, massa corrida, soleiras em granito, vidros blindex;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Quintal com brita;</p>
+                <p>- Duas vagas de garagem;</p>
+                <p>- Rua pavimentada;</p>
 
-<p>- Em ótima localização - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_b6f30a7c91f54a7390498139bee0224e~mv2.jpg</url>
@@ -7736,16 +7794,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 301</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Financia Minha Casa Minha Vida;</p>
-<p>- Área privativa de 42m²;</p>
-<p>- Sala e cozinha separada;</p>
-<p>- Área de festas, playground, piscina e quadra de esportes;</p>
-<p>- Dois quartos;</p>
-<p>- Lavanderia separada;</p>
-<p>- Vaga de garagem coberta;</p>
-<p>- Rua pavimentada;</p>
-<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Financia Minha Casa Minha Vida;</p>
+                <p>- Área privativa de 42m²;</p>
+                <p>- Sala e cozinha separada;</p>
+                <p>- Área de festas, playground, piscina e quadra de esportes;</p>
+                <p>- Dois quartos;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Vaga de garagem coberta;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_f7c8be6f0a1041e0b9644e913f23295d~mv2.jpg</url>
@@ -7887,17 +7946,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 85m², abertura de 3.20m, frente de 10m e fundos de 5m;</p>
-<p>- Acabamento alto padrão;</p>
-<p>- Duas suítes;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Área gourmet com churrasqueira;</p>
-<p>- Lavanderia separada;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Quintal acimentado;</p>
-<p>- Rua pavimentada.</p>
-<p>- Em ótima localização, próximo ao mercado Hiper Mais - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área total de 85m², abertura de 3.20m, frente de 10m e fundos de 5m;</p>
+                <p>- Acabamento alto padrão;</p>
+                <p>- Duas suítes;</p>
+                <p>- Sala e cozinha conjugada;</p>
+                <p>- Área gourmet com churrasqueira;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Duas vagas de garagem;</p>
+                <p>- Quintal acimentado;</p>
+                <p>- Rua pavimentada.</p>
+                <p>- Em ótima localização, próximo ao mercado Hiper Mais - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_ecd0ef8f860c40d884f0e4971be0060b~mv2.jpg</url>
@@ -8039,18 +8099,19 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 80m², abertura de 3.15m, frente de 10.50m e fundos de 5.40m;</p>
-<p>- Acabamento alto padrão;</p>
-<p>- Duas suítes;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Área gourmet com churrasqueira;</p>
-<p>- Lavanderia separada;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Quintal acimentado;</p>
-<p>- Rua pavimentada.</p>
+                <![CDATA[<p>- Área total de 80m², abertura de 3.15m, frente de 10.50m e fundos de 5.40m;</p>
+                <p>- Acabamento alto padrão;</p>
+                <p>- Duas suítes;</p>
+                <p>- Sala e cozinha conjugada;</p>
+                <p>- Área gourmet com churrasqueira;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Duas vagas de garagem;</p>
+                <p>- Quintal acimentado;</p>
+                <p>- Rua pavimentada.</p>
 
-<p>- Em ótima localização, próximo ao Binário - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização, próximo ao Binário - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_884f2b2387c74e4593b1a7c208ed46b8~mv2.jpg</url>
@@ -8192,16 +8253,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área construída de 76m² com 3.30, 3m de fundos;</p>
-<p>- Suíte mais um quarto;</p>
-<p>- Três banheiros;</p>
-<p>- Lavanderia separada;</p>
-<p>- Vaga de garagem;</p>
-<p>- Rua pavimentada;</p>
-<p>- Entrega para 10/25.</p>
+                <![CDATA[<p>- Área construída de 76m² com 3.30, 3m de fundos;</p>
+                <p>- Suíte mais um quarto;</p>
+                <p>- Três banheiros;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Vaga de garagem;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Entrega para 10/25.</p>
 
-<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_e440f6a7c5e94f31bc4b7b4a44412c2c~mv2.jpg</url>
@@ -8303,16 +8365,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Casa de alvenaria</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área construída de 69m²;</p>
-<p>- Casa não averbada;</p>
-<p>- Suíte mais dois quartos;</p>
-<p>- Três banheiros;</p>
-<p>- Quintal com brita e jardim;</p>
-<p>- Lavanderia separada;</p>
-<p>- Duas vagas de garagem cobertas;</p>
-<p>- Rua pavimentada;</p>
-<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área construída de 69m²;</p>
+                <p>- Casa não averbada;</p>
+                <p>- Suíte mais dois quartos;</p>
+                <p>- Três banheiros;</p>
+                <p>- Quintal com brita e jardim;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Duas vagas de garagem cobertas;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_cb88954e49734cd997e2dab76d1a549c~mv2.jpg</url>
@@ -8434,10 +8497,11 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Terreno 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 416m², 13 x 32;</p>
-<p>- Rua pavimentada;</p>
-<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área total de 416m², 13 x 32;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_a2b85934b93e41df897b8c18afd88160~mv2.jpg</url>
@@ -8544,19 +8608,20 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 72m²;</p>
-<p>- Três quartos;</p>
-<p>- Porcelanato retificado acetinado em todos os ambientes internos;</p>
-<p>- Massa corrida em todos os ambientes internos;</p>
-<p>- Acabamento externo frontal com textura;</p>
-<p>- Esquadrias em vidro;</p>
-<p>- Caixa de água 1000 litros;</p>
-<p>- Banheiro e lavabos com exaustor;</p>
-<p>- Portas internas padrão ROHDEN em branco;</p>
-<p>- Circuito de sinal, separado do circuito de energia;</p>
+                <![CDATA[<p>- Área total de 72m²;</p>
+                <p>- Três quartos;</p>
+                <p>- Porcelanato retificado acetinado em todos os ambientes internos;</p>
+                <p>- Massa corrida em todos os ambientes internos;</p>
+                <p>- Acabamento externo frontal com textura;</p>
+                <p>- Esquadrias em vidro;</p>
+                <p>- Caixa de água 1000 litros;</p>
+                <p>- Banheiro e lavabos com exaustor;</p>
+                <p>- Portas internas padrão ROHDEN em branco;</p>
+                <p>- Circuito de sinal, separado do circuito de energia;</p>
 
-<p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <p>- Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_06b5b3bb996b4ad8849d7eb4a839ab97~mv2.jpg</url>
@@ -8693,16 +8758,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 103</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área privativa de 42m²;</p>
-<p>- Giardino exclusivo;</p>
-<p>- Dois quartos;</p>
-<p>- Sala e cozinha separada;</p>
-<p>- Condomínio possui infraestrutura completa para lazer e segurança, incluindo portão eletrônico, portaria 24h, salão de festas, piscina e playground;</p>
-<p>- Área de serviço;</p>
-<p>- Vaga de garagem coberta;</p>
-<p>- Rua pavimentada;</p>
-<p>- Em localização privilegiada - Próximo a escolas, academias, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área privativa de 42m²;</p>
+                <p>- Giardino exclusivo;</p>
+                <p>- Dois quartos;</p>
+                <p>- Sala e cozinha separada;</p>
+                <p>- Condomínio possui infraestrutura completa para lazer e segurança, incluindo portão eletrônico, portaria 24h, salão de festas, piscina e playground;</p>
+                <p>- Área de serviço;</p>
+                <p>- Vaga de garagem coberta;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Em localização privilegiada - Próximo a escolas, academias, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_7af7428ac2d94302a3f15fcbd978d264~mv2.jpg</url>
@@ -8839,16 +8905,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 124m² com 7m de abertura e 4m de frente;</p>
-<p>- Suíte mais dois quartos com sacada;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Três banheiros;</p>
-<p>- Quintal com grama e paver;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Rua pavimentada;</p>
-<p>- Data de entrega para: 08/2026.</p>
-<p>- Próximo de supermercados, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área total de 124m² com 7m de abertura e 4m de frente;</p>
+                <p>- Suíte mais dois quartos com sacada;</p>
+                <p>- Sala e cozinha conjugada;</p>
+                <p>- Três banheiros;</p>
+                <p>- Quintal com grama e paver;</p>
+                <p>- Duas vagas de garagem;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Data de entrega para: 08/2026.</p>
+                <p>- Próximo de supermercados, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_23c5e82806634b6d9705317833ec5084~mv2.jpg</url>
@@ -8985,17 +9052,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área construída de 84m² com 4.70m de abertura, 2m de fundos e 5m de frente;</p>
-<p>- Suíte mais dois quartos;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Área gourmet com churrasqueira;</p>
-<p>- Três banheiros;</p>
-<p>- Quintal com brita e paver;</p>
-<p>- Duas vagas de garagem, sendo uma coberta;</p>
-<p>- Rua pavimentada;</p>
-<p>- Data de entrega para: 06/2026.</p>
-<p>- Próximo de supermercados, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área construída de 84m² com 4.70m de abertura, 2m de fundos e 5m de frente;</p>
+                <p>- Suíte mais dois quartos;</p>
+                <p>- Sala e cozinha conjugada;</p>
+                <p>- Área gourmet com churrasqueira;</p>
+                <p>- Três banheiros;</p>
+                <p>- Quintal com brita e paver;</p>
+                <p>- Duas vagas de garagem, sendo uma coberta;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Data de entrega para: 06/2026.</p>
+                <p>- Próximo de supermercados, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_35ad9e3cb739498f982f9a87e0cf38d8~mv2.jpg</url>
@@ -9127,16 +9195,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área construída de 86m² com 4m de abertura, 4m de fundos e 9.7m de frente;</p>
-<p>- Duas suítes com sacada;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Três banheiros;</p>
-<p>- Quintal com paver;</p>
-<p>- Duas vagas de garagem, sendo uma coberta;</p>
-<p>- Rua pavimentada;</p>
-<p>- Data de entrega para: 06/2026.</p>
-<p>- Próximo de supermercados, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área construída de 86m² com 4m de abertura, 4m de fundos e 9.7m de frente;</p>
+                <p>- Duas suítes com sacada;</p>
+                <p>- Sala e cozinha conjugada;</p>
+                <p>- Três banheiros;</p>
+                <p>- Quintal com paver;</p>
+                <p>- Duas vagas de garagem, sendo uma coberta;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Data de entrega para: 06/2026.</p>
+                <p>- Próximo de supermercados, ponto de ônibus, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_d7de89d8d6ae49c284dbfe50eb2d9654~mv2.jpg</url>
@@ -9268,17 +9337,18 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 135m², abertura de 4.20m, frente de 5,5m e fundos de 1,90m;</p>
-<p>- Suíte mais dois quartos;</p>
-<p>- Acabamento em massa corrida, 100% rebaixado em gesso, porcelanato na parte inferior, portas brancas laqueadas e laminado nos quartos;</p>
-<p>- Sala e cozinha conjugada;</p>
-<p>- Área gourmet com churrasqueira;</p>
-<p>- Lavanderia separada;</p>
-<p>- Duas vagas de garagem, sendo uma coberta;</p>
-<p>- Rua pavimentada;</p>
-<p>- ENTREGA DA OBRA: 10/2025;</p>
-<p>- Em ótima localização — bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área total de 135m², abertura de 4.20m, frente de 5,5m e fundos de 1,90m;</p>
+                <p>- Suíte mais dois quartos;</p>
+                <p>- Acabamento em massa corrida, 100% rebaixado em gesso, porcelanato na parte inferior, portas brancas laqueadas e laminado nos quartos;</p>
+                <p>- Sala e cozinha conjugada;</p>
+                <p>- Área gourmet com churrasqueira;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Duas vagas de garagem, sendo uma coberta;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- ENTREGA DA OBRA: 10/2025;</p>
+                <p>- Em ótima localização — bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_904a1a45dddf4a8d9b10fa8e28f524e6~mv2.jpg</url>
@@ -9415,16 +9485,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 101</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Cobertura duplex;</p>
-<p>- Área total de 100m²;</p>
-<p>- Dois quartos;</p>
-<p>- Sala e cozinha separada;</p>
-<p>- Área gourmet com churrasqueira;</p>
-<p>- Área de serviço;</p>
-<p>- Vaga de garagem coberta;</p>
-<p>- Rua pavimentada;</p>
-<p>- Em ótima localização — bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Cobertura duplex;</p>
+                <p>- Área total de 100m²;</p>
+                <p>- Dois quartos;</p>
+                <p>- Sala e cozinha separada;</p>
+                <p>- Área gourmet com churrasqueira;</p>
+                <p>- Área de serviço;</p>
+                <p>- Vaga de garagem coberta;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Em ótima localização — bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_6f2b50277fa14fa9bb7d827878600f68~mv2.jpg</url>
@@ -9561,15 +9632,16 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 101</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- <b>Possibilidade de Financiar 100% por Minha Casa Minha Vida;</b></p>
-<p>- Área privativa de 50m²;</p>
-<p>- Dois quartos;</p>
-<p>- Lavanderia conjugada;</p>
-<p>- Condomínio com piscina, salão de festas, academia e playground;</p>
-<p>- Vaga de garagem;</p>
-<p>- Rua pavimentada;</p>
-<p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- <b>Possibilidade de Financiar 100% por Minha Casa Minha Vida;</b></p>
+                <p>- Área privativa de 50m²;</p>
+                <p>- Dois quartos;</p>
+                <p>- Lavanderia conjugada;</p>
+                <p>- Condomínio com piscina, salão de festas, academia e playground;</p>
+                <p>- Vaga de garagem;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_d2f21df6365f49dd9345726be8cd5f34~mv2.jpg</url>
@@ -9711,10 +9783,11 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Terreno 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 697m²;</p>
-<p>- Rua pavimentada;</p>
-<p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área total de 697m²;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_d0561f87c26147d2946052357c620f77~mv2.jpg</url>
@@ -9821,20 +9894,21 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 301</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área privativa de 57m²;</p>
-<p>- Dois quartos;</p>
-<p>- Cozinha e sala separada;</p>
-<p>- Churrasqueira;</p>
-<p>- Playground, salão de festas, área de lazer, quadra de esportes, piscina;</p>
-<p>- Opções com giardino;</p>
-<p>- Acesso com tag e câmeras de segurança;</p>
-<p>- Condomínio fechado;</p>
-<p>- Vaga de garagem;</p>
-<p>- Rua pavimentada;</p>
-<p>- Bairro Praia do Tabuleiro;</p>
-<p>- <strong>Obs:</strong> Entrega para Maio de 2027;</p>
-<p>- Na melhor localização do bairro, com acesso à BR-101 — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área privativa de 57m²;</p>
+                <p>- Dois quartos;</p>
+                <p>- Cozinha e sala separada;</p>
+                <p>- Churrasqueira;</p>
+                <p>- Playground, salão de festas, área de lazer, quadra de esportes, piscina;</p>
+                <p>- Opções com giardino;</p>
+                <p>- Acesso com tag e câmeras de segurança;</p>
+                <p>- Condomínio fechado;</p>
+                <p>- Vaga de garagem;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Bairro Praia do Tabuleiro;</p>
+                <p>- <strong>Obs:</strong> Entrega para Maio de 2027;</p>
+                <p>- Na melhor localização do bairro, com acesso à BR-101 — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_ad174b49ad6b4c3887eb953c2299d9ca~mv2.png</url>
@@ -9976,16 +10050,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Área total de 103m² com 8,4m de frente, 9,6m de fundos e 4m de abertura;</p>
-<p>- Suíte mais dois quartos, sendo um com sacada;</p>
-<p>- Acabamentos em: massa corrida, porcelanato, detalhes em gesso, rebaixo em gesso, vidros blindex;</p>
-<p>- Área gourmet com churrasqueira;</p>
-<p>- Lavanderia separada;</p>
-<p>- Vaga de garagem;</p>
-<p>- Portão de elevação;</p>
-<p>- Rua pavimentada;</p>
-<p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Área total de 103m² com 8,4m de frente, 9,6m de fundos e 4m de abertura;</p>
+                <p>- Suíte mais dois quartos, sendo um com sacada;</p>
+                <p>- Acabamentos em: massa corrida, porcelanato, detalhes em gesso, rebaixo em gesso, vidros blindex;</p>
+                <p>- Área gourmet com churrasqueira;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Vaga de garagem;</p>
+                <p>- Portão de elevação;</p>
+                <p>- Rua pavimentada;</p>
+                <p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_d9e74821af7e425da3ded28e1c450f68~mv2.jpg</url>
@@ -10117,14 +10192,15 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Casa de alvenaria</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>- Casa não averbada;</p>
-<p>- Área total de 240m²;</p>
-<p>- Dois quartos;</p>
-<p>- Quintal com paver;</p>
-<p>- Lavanderia separada;</p>
-<p>- Duas vagas de garagem;</p>
-<p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>- Casa não averbada;</p>
+                <p>- Área total de 240m²;</p>
+                <p>- Dois quartos;</p>
+                <p>- Quintal com paver;</p>
+                <p>- Lavanderia separada;</p>
+                <p>- Duas vagas de garagem;</p>
+                <p>- Em ótima localização — próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_07c6107086d04ed2b425fc40fb6e6b3c~mv2.jpg</url>
@@ -10266,15 +10342,16 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Financia Minha Casa Minha Vida.</p>
-<p>Área construída de 75m², 5m de frente, 1m de fundos e 4m de abertura.</p>
-<p>Dois quartos.</p>
-<p>Massa corrida, detalhes em gesso, rebaixo em gesso, vidros blindex.</p>
-<p>Lavanderia separada.</p>
-<p>Vaga de garagem coberta.</p>
-<p>Rua pavimentada.</p>
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Financia Minha Casa Minha Vida.</p>
+                <p>Área construída de 75m², 5m de frente, 1m de fundos e 4m de abertura.</p>
+                <p>Dois quartos.</p>
+                <p>Massa corrida, detalhes em gesso, rebaixo em gesso, vidros blindex.</p>
+                <p>Lavanderia separada.</p>
+                <p>Vaga de garagem coberta.</p>
+                <p>Rua pavimentada.</p>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_97bb56439c2a44e996b62d86d34d228e~mv2.jpg</url>
@@ -10416,18 +10493,19 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Financia Minha Casa Minha Vida.</p>
-<p>Área construída de 68m² com 10m de frente, 5m de fundos e 3m de abertura.</p>
-<p>Dois quartos.</p>
-<p>Fica no imóvel: Cozinha planejada, roupeiros, rack da sala, cabeceira de cama e móveis do banheiro.</p>
-<p>Massa corrida, porcelanato, vidros blindex, rebaixo em gesso.</p>
-<p>Área gourmet com churrasqueira.</p>
-<p>Lavanderia separada.</p>
-<p>Sistema de alarme.</p>
-<p>Duas vagas de garagem.</p>
-<p>Rua pavimentada.</p>
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Financia Minha Casa Minha Vida.</p>
+                <p>Área construída de 68m² com 10m de frente, 5m de fundos e 3m de abertura.</p>
+                <p>Dois quartos.</p>
+                <p>Fica no imóvel: Cozinha planejada, roupeiros, rack da sala, cabeceira de cama e móveis do banheiro.</p>
+                <p>Massa corrida, porcelanato, vidros blindex, rebaixo em gesso.</p>
+                <p>Área gourmet com churrasqueira.</p>
+                <p>Lavanderia separada.</p>
+                <p>Sistema de alarme.</p>
+                <p>Duas vagas de garagem.</p>
+                <p>Rua pavimentada.</p>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_1b2d6e4658db4b0e8e90e0e410f14771~mv2.jpg</url>
@@ -10569,16 +10647,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 101</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área total de 80m².</p>
-<p>Suíte mais dois quartos.</p>
-<p>Dois banheiros.</p>
-<p>Quartos com piso laminado e restante com porcelanato.</p>
-<p>Lavanderia separada.</p>
-<p>Vagas de garagem.</p>
-<p>Rua pavimentada.</p>
-<p>Data de entrega 08/26.</p>
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[<p>Área total de 80m².</p>
+                <p>Suíte mais dois quartos.</p>
+                <p>Dois banheiros.</p>
+                <p>Quartos com piso laminado e restante com porcelanato.</p>
+                <p>Lavanderia separada.</p>
+                <p>Vagas de garagem.</p>
+                <p>Rua pavimentada.</p>
+                <p>Data de entrega 08/26.</p>
+                <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_c2bce05295704e8fa75a75376dc2be93~mv2.jpg</url>
@@ -10700,14 +10779,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 100m² com 3.70, 8m de fundos e 8m de frente.</p>
-<p>Duas suítes.</p>
-<p>Piso porcelanato, cerâmica retificada e rebaixo de gesso.</p>
-<p>Lavanderia separada.</p>
-<p>Duas vagas de garagem.</p>
-<p>Rua pavimentada.</p>
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[
+                    <p>Área construída de 100m² com 3.70, 8m de fundos e 8m de frente.</p>
+                    <p>Duas suítes.</p>
+                    <p>Piso porcelanato, cerâmica retificada e rebaixo de gesso.</p>
+                    <p>Lavanderia separada.</p>
+                    <p>Duas vagas de garagem.</p>
+                    <p>Rua pavimentada.</p>
+                    <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_3a02aa275210427ca651607761127290~mv2.jpg</url>
@@ -10814,16 +10896,19 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 301</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Opções com giardino.</p>
-<p>Área privativa a partir de 47m².</p>
-<p>Dois quartos.</p>
-<p>Market, Quiosque, Mini Soccer Infantil, Playground, Salão de Festas Gourmet, Family Garden, Praça Central, Pet Square, Quadra de Areia, Piscina Adulto e Infantil.</p>
-<p>Lavanderia separada.</p>
-<p>Vaga de garagem coberta.</p>
-<p>Rua pavimentada.</p>
-<p>Entrega para março de 2028.</p>
-<p>Em localização privilegiada - Próximo a escolas, academias, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[
+                    <p>Opções com giardino.</p>
+                    <p>Área privativa a partir de 47m².</p>
+                    <p>Dois quartos.</p>
+                    <p>Market, Quiosque, Mini Soccer Infantil, Playground, Salão de Festas Gourmet, Family Garden, Praça Central, Pet Square, Quadra de Areia, Piscina Adulto e Infantil.</p>
+                    <p>Lavanderia separada.</p>
+                    <p>Vaga de garagem coberta.</p>
+                    <p>Rua pavimentada.</p>
+                    <p>Entrega para março de 2028.</p>
+                    <p>Em localização privilegiada - Próximo a escolas, academias, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_9ff37134839a4e9aa0223026e38b9da2~mv2.jpg</url>
@@ -10965,19 +11050,22 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 301</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área total de 57m².</p>
-<p>Semimobiliado.</p>
-<p>Torre única.</p>
-<p>Dois quartos.</p>
-<p>Sacada fechada com vidro blindex com isulfilm de privacidade.</p>
-<p>Pintura nova, rebaixo em gesso, vidros blindex, banheiro com mármore travertino.</p>
-<p>Piso laminado.</p>
-<p>Lavanderia separada.</p>
-<p>Vaga de garagem coberta.</p>
-<p>Rua pavimentada.</p>
-<p>Fica no imóvel: Ar condicionado 9000 BTUS, móveis planejados da cozinha e lavanderia, móveis planejados do banheiro, mobilias sob medida da sacada, espelhos da sala.</p>
-<p>Em ótima localização, fácil acesso a BR-101 - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[
+                    <p>Área total de 57m².</p>
+                    <p>Semimobiliado.</p>
+                    <p>Torre única.</p>
+                    <p>Dois quartos.</p>
+                    <p>Sacada fechada com vidro blindex com isulfilm de privacidade.</p>
+                    <p>Pintura nova, rebaixo em gesso, vidros blindex, banheiro com mármore travertino.</p>
+                    <p>Piso laminado.</p>
+                    <p>Lavanderia separada.</p>
+                    <p>Vaga de garagem coberta.</p>
+                    <p>Rua pavimentada.</p>
+                    <p>Fica no imóvel: Ar condicionado 9000 BTUS, móveis planejados da cozinha e lavanderia, móveis planejados do banheiro, mobilias sob medida da sacada, espelhos da sala.</p>
+                    <p>Em ótima localização, fácil acesso a BR-101 - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_66e0c549b379450d9250aa86f028187d~mv2.jpg</url>
@@ -11124,17 +11212,20 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 301</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área privativa com opções até 70m².</p>
-<p>Opções de suíte mais dois dormitórios, ou suíte mais um dormitório.</p>
-<p>Cozinha e sala separada.</p>
-<p>Playground, salão de festas, área de lazer, quadra de esportes, piscinas, pet place, lavanderia, mercado, academia e etc.</p>
-<p>Acesso com tag e câmeras de segurança.</p>
-<p>Condomínio fechado.</p>
-<p>Até duas vagas de garagem.</p>
-<p>Rua pavimentada.</p>
-<p>Obs: Entrega para Setembro de 2029.</p>
-<p>Na melhor localização do bairro, com acesso a BR-101 - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[
+                    <p>Área privativa com opções até 70m².</p>
+                    <p>Opções de suíte mais dois dormitórios, ou suíte mais um dormitório.</p>
+                    <p>Cozinha e sala separada.</p>
+                    <p>Playground, salão de festas, área de lazer, quadra de esportes, piscinas, pet place, lavanderia, mercado, academia e etc.</p>
+                    <p>Acesso com tag e câmeras de segurança.</p>
+                    <p>Condomínio fechado.</p>
+                    <p>Até duas vagas de garagem.</p>
+                    <p>Rua pavimentada.</p>
+                    <p>Obs: Entrega para Setembro de 2029.</p>
+                    <p>Na melhor localização do bairro, com acesso a BR-101 - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_e8afd828db884c6ab8caf5c6442a61aa~mv2.png</url>
@@ -11276,26 +11367,29 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Sala comercial</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p><strong>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</strong></p>
-<p>Aluguel.</p>
-<p>IPTU.</p>
-<p>Taxa de Lixo.</p>
-<p>Fiança Locatícia.</p>
-<p><strong>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</strong></p>
-<p>Luz transfere.</p>
-<p>Água transfere.</p>
-<p>Seguro Incêndio Obrigatório (taxa única anual).</p>
-<p>Bairro Itinga-Araquari.</p>
-<p>Pode ser alugado inteiro, dividido em duas ou quatro partes.</p>
-<p>Área construída de 240m² por piso.</p>
-<p>Piso industrial polido.</p>
-<p>Um banheiro pronto e com espera pronta para até quatro.</p>
-<p>Oito vagas de estacionamento.</p>
-<p>Permitido todo tipo de comércio, até 24hrs.</p>
-<p>Entrega para agosto/25.</p>
-<p>Rua pavimentada.</p>
-<p>Em ótima localização, próximo a BR-280 - Rodovia, em uma via comercial de fácil acesso a outros bairros.</p>]]></descritivo>
-                <fotos_imovel>
+                <![CDATA[
+                    <p><strong>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</strong></p>
+                    <p>Aluguel.</p>
+                    <p>IPTU.</p>
+                    <p>Taxa de Lixo.</p>
+                    <p>Fiança Locatícia.</p>
+                    <p><strong>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</strong></p>
+                    <p>Luz transfere.</p>
+                    <p>Água transfere.</p>
+                    <p>Seguro Incêndio Obrigatório (taxa única anual).</p>
+                    <p>Bairro Itinga-Araquari.</p>
+                    <p>Pode ser alugado inteiro, dividido em duas ou quatro partes.</p>
+                    <p>Área construída de 240m² por piso.</p>
+                    <p>Piso industrial polido.</p>
+                    <p>Um banheiro pronto e com espera pronta para até quatro.</p>
+                    <p>Oito vagas de estacionamento.</p>
+                    <p>Permitido todo tipo de comércio, até 24hrs.</p>
+                    <p>Entrega para agosto/25.</p>
+                    <p>Rua pavimentada.</p>
+                    <p>Em ótima localização, próximo a BR-280 - Rodovia, em uma via comercial de fácil acesso a outros bairros.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_fb52ac4183f74157b9aac269326c8a1a~mv2.jpg</url>
@@ -11346,11 +11440,11 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                         https://static.wixstatic.com/media/50072f_3b838815e4ef4c14851e0adbb8d5b497~mv2.jpg</url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
-                </fotos_imovel>
-                <latitude>0</latitude>
-                <longitude>0</longitude>
-                <video>0</video>
-                <area_comum>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
                 <item>Acesso de pedestres</item>
                 <item>Murado</item>
                 <item>Portão eletrônico</item>
@@ -11368,8 +11462,8 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <item>Segurança 24h</item>
                 <item>Wi-fi</item>
                 <item>Zelador</item>
-                </area_comum>
-                <area_privativa>
+            </area_comum>
+            <area_privativa>
                 <item>Ambiente(s) amplo(s)</item>
                 <item>Ambientes integrados</item>
                 <item>Área de lazer</item>
@@ -11390,9 +11484,9 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
                 <item>Wi-fi</item>
                 <item>Sacada com churrasqueira</item>
                 <item>Sacada</item>
-                </area_privativa>
-                <aceita_troca>0</aceita_troca>
-                <periodo_locacao>0</periodo_locacao>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+            <periodo_locacao>0</periodo_locacao>
         </imovel>
         <imovel>
         <referencia>2449</referencia>
@@ -11437,31 +11531,34 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 103</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p><strong>INCLUSO:</strong></p>
-<p>Aluguel.</p>
-<p>IPTU.</p>
-<p>Taxa de Lixo.</p>
-<p>Água.</p>
-<p>Condomínio.</p>
+                <![CDATA[
+                    <p><strong>INCLUSO:</strong></p>
+                    <p>Aluguel.</p>
+                    <p>IPTU.</p>
+                    <p>Taxa de Lixo.</p>
+                    <p>Água.</p>
+                    <p>Condomínio.</p>
 
-<p><strong>INQUILINO PAGA:</strong></p>
-<p>Luz transfere.</p>
-<p>Seguro Incêndio Obrigatório (taxa única anual).</p>
-<p>Fiança Locatícia.</p>
+                    <p><strong>INQUILINO PAGA:</strong></p>
+                    <p>Luz transfere.</p>
+                    <p>Seguro Incêndio Obrigatório (taxa única anual).</p>
+                    <p>Fiança Locatícia.</p>
 
-<p>Imóvel revisado e pintura nova.</p>
-<p>Área privativa de 42m².</p>
-<p>Três quartos.</p>
-<p>Cozinha e sala separada.</p>
-<p>Área de serviço.</p>
-<p>Playground, salão de festas, área de lazer e câmeras de segurança.</p>
-<p>Vaga de garagem.</p>
-<p>Rua pavimentada.</p>
+                    <p>Imóvel revisado e pintura nova.</p>
+                    <p>Área privativa de 42m².</p>
+                    <p>Três quartos.</p>
+                    <p>Cozinha e sala separada.</p>
+                    <p>Área de serviço.</p>
+                    <p>Playground, salão de festas, área de lazer e câmeras de segurança.</p>
+                    <p>Vaga de garagem.</p>
+                    <p>Rua pavimentada.</p>
 
-<p>Fica no imóvel: Persianas, iluminação completa, cabeceira, telas nas janelas, roupeiro de casal, 2 roupeiros de solteiro, escrivaninha, cozinha e lavanderia planejada, banheiro equipado, hack de TV.</p>
+                    <p>Fica no imóvel: Persianas, iluminação completa, cabeceira, telas nas janelas, roupeiro de casal, 2 roupeiros de solteiro, escrivaninha, cozinha e lavanderia planejada, banheiro equipado, hack de TV.</p>
 
-<p>Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                    <p>Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_b518679517234c5ebb8bb2fba09b685f~mv2.jpg</url>
@@ -11603,19 +11700,21 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Apto 301</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Semimobiliado.</p>
-<p>Área privativa de 57m².</p>
-<p>Três quartos amplos.</p>
-<p>Piso laminado.</p>
-<p>Área de serviço.</p>
-<p>Cerca elétrica e câmera.</p>
-<p>Vaga de garagem coberta.</p>
-<p>Rua pavimentada.</p>
+                <![CDATA[<p>Semimobiliado.</p>
+                    <p>Área privativa de 57m².</p>
+                    <p>Três quartos amplos.</p>
+                    <p>Piso laminado.</p>
+                    <p>Área de serviço.</p>
+                    <p>Cerca elétrica e câmera.</p>
+                    <p>Vaga de garagem coberta.</p>
+                    <p>Rua pavimentada.</p>
 
-<p>Fica no imóvel: Ar-condicionado, painel de TV, ventilador de teto, armários do banheiro, balcão da cozinha e armário da lavanderia.</p>
+                    <p>Fica no imóvel: Ar-condicionado, painel de TV, ventilador de teto, armários do banheiro, balcão da cozinha e armário da lavanderia.</p>
 
-<p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-                <fotos_imovel>
+                    <p>Em ótima localização - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_5ab16b1c77ce4870989e5a24456fcff0~mv2.jpg</url>
@@ -11757,15 +11856,17 @@ Textura projetada, Revestimento em ripado na fachada, Espera de ar cond. nos 2 a
             <complemento>Casa de alvenaria</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-<![CDATA[<p>Área construída de 63².</p>
-<p>Suíte mais dois dormitórios.</p>
-<p>Sala e cozinha separada.</p>
-<p>Área de serviço.</p>
-<p>Quintal com brita.</p>
-<p>Vagas de garagem.</p>
-<p>Em localização privilegiada - Assim como próximo a escolas, academias, CEIs, farmácias, restaurantes e comércios em geral.</p>]]></descritivo>
-
-                <fotos_imovel>
+                <![CDATA[
+                    <p>Área construída de 63².</p>
+                    <p>Suíte mais dois dormitórios.</p>
+                    <p>Sala e cozinha separada.</p>
+                    <p>Área de serviço.</p>
+                    <p>Quintal com brita.</p>
+                    <p>Vagas de garagem.</p>
+                    <p>Em localização privilegiada - Assim como próximo a escolas, academias, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
                 <foto>
                     <url>
                         https://static.wixstatic.com/media/50072f_905549a1b1164554a0aa936474c55d12~mv2.jpg</url>
