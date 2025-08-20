@@ -11355,8 +11355,7 @@
             <destaque>1</destaque>     
             <tipo>Sala Comercial</tipo>
             <tipo2>0</tipo2>
-            <valor>10000.000</valor>
-            <valor_locacao>0</valor_locacao>
+            <valor>10000.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>240</area_total>
@@ -11520,7 +11519,6 @@
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>1750.000</valor>
-            <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>42</area_total>
@@ -12079,8 +12077,7 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>2335.00</valor_locacao>
+            <valor>2335.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -12370,8 +12367,7 @@
             <destaque>0</destaque>
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>1889.90</valor_locacao>
+            <valor>1889.90</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>260</area_total>
@@ -12522,8 +12518,7 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>1415.00</valor_locacao>
+            <valor>1415.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -12795,8 +12790,7 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>1700.00</valor_locacao>
+            <valor>1700.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>64</area_total>
@@ -13016,8 +13010,7 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>1650.00</valor_locacao>
+            <valor>1650.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -13040,7 +13033,7 @@
             <lavanderia>1</lavanderia>
             <estado>Santa Catarina</estado>
             <cidade>Araquari</cidade>
-            <bairro>Não Especificado</bairro>
+            <bairro>Centro</bairro>
             <cep></cep>
             <endereco></endereco>
             <numero></numero>
@@ -13143,12 +13136,12 @@
             <latitude>0</latitude>
             <longitude>0</longitude>
             <video>0</video>
-           <area_comum>
+            <area_comum>
                 <item>Guarita com acesso controlado</item>
                 <item>Garagem privativa</item>
                 <item>Rua pavimentada</item>
             </area_comum>
-           <area_privativa>
+            <area_privativa>
                 <item>Área de serviço interna e fechada</item>
                 <item>Conceito aberto (sala e cozinha conjugadas)</item>
                 <item>Lavanderia</item>
@@ -13172,8 +13165,7 @@
             <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>1550.00</valor_locacao>
+            <valor>1550.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -14419,8 +14411,7 @@
             <destaque>0</destaque>
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>1705.00</valor_locacao>
+            <valor>1705.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -14609,8 +14600,7 @@
             <destaque>0</destaque>
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
-            <valor>0</valor>
-            <valor_locacao>1980.00</valor_locacao>
+            <valor>1980.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
