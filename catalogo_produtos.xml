@@ -14608,5 +14608,185 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>2469</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-mrv-no-vila-nova-financia-mcmv</link_cliente>
+            <titulo>Apartamento MRV no Vila Nova – Financia MCMV</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>225000</valor>
+            <area_total>0</area_total>
+            <area_util>42</area_util>
+            <conservacao>Usado</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Vila Nova</bairro>
+            <cep>89237638</cep>
+            <endereco>Rua Gerhard Barkemeyer</endereco>
+            <numero>400</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>✅ Financia pelo programa Minha Casa Minha Vida</p>
+                    <p>✅ Área privativa de 42m²</p>
+                    <p>✅ Sala e cozinha separadas</p>
+                    <p>✅ Unidade no Térreo</p>
+                    <p>✅ Dois quartos</p>
+                    <p>✅ Lavanderia separada</p>
+                    <p>✅ Vaga de garagem</p>
+                    <p>✅ Rua pavimentada</p>
+                    <br>
+                    <p>🎉 Condomínio completo:</p>
+                    <p>✅ Mercado 24h</p>
+                    <p>✅ Área de festas</p>
+                    <p>✅ Playground</p>
+                    <p>✅ Piscina</p>
+                    <p>✅ Quadra de esportes</p>
+                    <br>
+                    <p>💰 Valor de venda: R$ 225.000,00</p>
+                    <br>
+                    <p>📍 Localização privilegiada:</p>
+                    <p>✅ Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
+                    <p>(Imóvel nunca habitado, mas financiamento somente como usado)</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f5d57a4566f84b32b0cebd990a25116f~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_f5d57a4566f84b32b0cebd990a25116f~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_62b4bd0aedd840b48ece0d457e0d180b~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_62b4bd0aedd840b48ece0d457e0d180b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_26f3382eea50492193e8724b9fa5e5da~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_26f3382eea50492193e8724b9fa5e5da~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_e17a988f5b714ead89e63eac37049e31~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_e17a988f5b714ead89e63eac37049e31~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_8c6fbcfb20564b92baad7c0179a7fbaa~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_8c6fbcfb20564b92baad7c0179a7fbaa~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_9a564f26963f4be9a81ba5e5c0c365ca~mv2.png/v1/fill/w_340,h_453,al_c,usm_0.66_1.00_0.01/1fe786_9a564f26963f4be9a81ba5e5c0c365ca~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_afcad52a99834418a5ae0281fffa7a69~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_afcad52a99834418a5ae0281fffa7a69~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_734f5c5a376c47d890d2c65b9e66538b~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_734f5c5a376c47d890d2c65b9e66538b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_29e43b92c0534f5896fb06a328d9a6da~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_29e43b92c0534f5896fb06a328d9a6da~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_0c6fbc7732c844e38250e7d4e24fa35b~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_0c6fbc7732c844e38250e7d4e24fa35b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_699d094027cf449cb131c84e057a7254~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_699d094027cf449cb131c84e057a7254~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_0b37352282064753862f1c97141cda87~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_0b37352282064753862f1c97141cda87~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_8d10377a8d194e1a8a86a2beaca14aba~mv2.png/v1/fill/w_340,h_453,al_c,usm_0.66_1.00_0.01/1fe786_8d10377a8d194e1a8a86a2beaca14aba~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_5b1fff97ebcf4460bfd95e1bfcf09663~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_5b1fff97ebcf4460bfd95e1bfcf09663~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_1924486ac13d4998b76627593fbfa476~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_1924486ac13d4998b76627593fbfa476~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+            <area_comum>
+                <item>Mercado 24h</item>
+                <item>Área de festas</item>
+                <item>Playground</item>
+                <item>Piscina</item>
+                <item>Quadra de esportes</item>
+                <item>Próximo a escolas</item>
+                <item>Próximo a CEIs</item>
+                <item>Próximo a farmácias</item>
+                <item>Próximo a restaurantes e comércios em geral</item>
+            </area_comum>
+            <area_privativa>
+                <item>Área privativa de 42m²</item>
+                <item>Sala e cozinha separadas</item>
+                <item>Dois quartos</item>
+                <item>Lavanderia separada</item>
+                <item>Vaga de garagem</item>
+                <item>Rua pavimentada</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
