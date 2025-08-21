@@ -3846,7 +3846,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>1</destaque>     
+            <destaque>0</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>240000.000</valor>
@@ -6904,7 +6904,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>1</destaque>     
+            <destaque>0</destaque>     
             <tipo>Terreno</tipo>
             <tipo2>0</tipo2>
             <valor>165000.000</valor>
@@ -11368,7 +11368,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>     
+            <destaque>1</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>1750.000</valor>
@@ -11844,7 +11844,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
             <valor>370000.000</valor>
@@ -13793,7 +13793,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>274040</valor>
@@ -14106,7 +14106,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>386000</valor>
