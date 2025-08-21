@@ -15120,5 +15120,105 @@
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2467</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-2-quartos-no-comasa</link_cliente>
+            <titulo>Casa Geminada com 2 Quartos no Comasa</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>390000</valor>
+            <area_util>60</area_util>
+            <area_total>0</area_total>
+            <conservacao>Na Planta</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Comasa</bairro>
+            <cep>89228251</cep>
+            <endereco>Rua Carmem Miranda</endereco>
+            <numero>891</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>📐 Área privativa: 60m²</p>
+                    <p>📅 Entrega: Dezembro de 2025</p>
+                    <br>
+                    <p>✅ Alvenaria</p>
+                    <p>✅ Rua pavimentada</p>
+                    <p>✅ 2 quartos (sendo 1 com acesso a jardim de inverno)</p>
+                    <p>✅ 1 banheiro + 1 lavabo</p>
+                    <p>✅ Área de serviço</p>
+                    <p>✅ Quintal com brita</p>
+                    <p>✅ 2 vagas de garagem</p>
+                    <p>✅ Massa corrida</p>
+                    <p>✅ Porcelanato</p>
+                    <p>✅ Rebaixo em gesso</p>
+                    <br>
+                    <p>📏 Medidas do terreno:</p>
+                    <p>✅ 11m de frente</p>
+                    <p>✅ 4m de fundos</p>
+                    <p>✅ 4,60m de abertura</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_18b8f2ad46e74567961a3cec8b7a8134~mv2.png/v1/fill/w_982,h_385,al_c,usm_0.66_1.00_0.01/1fe786_18b8f2ad46e74567961a3cec8b7a8134~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f4fb2a7b9ed14461bab9eb5cd315d996~mv2.png/v1/fill/w_982,h_385,al_c,usm_0.66_1.00_0.01/1fe786_f4fb2a7b9ed14461bab9eb5cd315d996~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_99cd606469a74193b6e33807d37dc93a~mv2.png/v1/fill/w_706,h_397,al_c,usm_0.66_1.00_0.01/1fe786_99cd606469a74193b6e33807d37dc93a~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>          
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <area_comum>
+                <item>Rua pavimentada</item>
+                <item>Quintal com brita</item>
+            </area_comum>
+            <area_privativa>
+                <item>Área privativa: 60m²</item>
+                <item>Alvenaria</item>
+                <item>2 quartos (1 com acesso a jardim de inverno)</item>
+                <item>1 banheiro + 1 lavabo</item>
+                <item>Área de serviço</item>
+                <item>2 vagas de garagem</item>
+                <item>Massa corrida</item>
+                <item>Porcelanato</item>
+                <item>Rebaixo em gesso</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
