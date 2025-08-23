@@ -11285,84 +11285,133 @@
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
                 <![CDATA[
-                    <p><strong>INCLUSO:</strong></p>
-                    <p>Aluguel.</p>
-                    <p>IPTU.</p>
-                    <p>Taxa de Lixo.</p>
-                    <p>Água.</p>
-                    <p>Condomínio.</p>
-
-                    <p><strong>INQUILINO PAGA:</strong></p>
-                    <p>Luz transfere.</p>
-                    <p>Seguro Incêndio Obrigatório (taxa única anual).</p>
-                    <p>Fiança Locatícia.</p>
-
-                    <p>Imóvel revisado e pintura nova.</p>
-                    <p>Área privativa de 42m².</p>
-                    <p>Três quartos.</p>
-                    <p>Cozinha e sala separada.</p>
-                    <p>Área de serviço.</p>
-                    <p>Playground, salão de festas, área de lazer e câmeras de segurança.</p>
-                    <p>Vaga de garagem.</p>
-                    <p>Rua pavimentada.</p>
-
-                    <p>Fica no imóvel: Persianas, iluminação completa, cabeceira, telas nas janelas, roupeiro de casal, 2 roupeiros de solteiro, escrivaninha, cozinha e lavanderia planejada, banheiro equipado, hack de TV.</p>
-
-                    <p>Na melhor localização do bairro - Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                    <p>🔹 𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</p>
+                    <p>✅ Aluguel</p>
+                    <p>✅ IPTU</p>
+                    <p>✅ Taxa de Lixo</p>
+                    <p>✅ Água</p>
+                    <p>✅ Condomínio</p>
+                    <br>
+                    <p>🔹 𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</p>
+                    <p>💡 Luz (transferência)</p>
+                    <p>🛡️ Seguro Incêndio Obrigatório (taxa única anual)</p>
+                    <p>📑 Fiança Locatícia</p>
+                    <br>
+                    <p>📐 42m² privativos</p>
+                    <p>🛏️ 3 quartos</p>
+                    <p>🍳 Cozinha e sala separadas</p>
+                    <p>🧺 Área de serviço</p>
+                    <p>🎉 Condomínio com playground, salão de festas, área de lazer e câmeras de segurança</p>
+                    <p>🚗 Vaga de garagem</p>
+                    <p>🛣️ Rua pavimentada</p>
+                    <br>
+                    <p>✨ Diferenciais do imóvel:</p>
+                    <p>✅ Imóvel revisado e pintura nova</p>
+                    <p>✅ Persianas</p>
+                    <p>✅ Iluminação completa</p>
+                    <p>✅ Cabeceira</p>
+                    <p>✅ Telas nas janelas</p>
+                    <p>✅ Roupeiro de casal + 2 de solteiro</p>
+                    <p>✅ Escrivaninha</p>
+                    <p>✅ Cozinha e lavanderia planejada</p>
+                    <p>✅ Banheiro equipado</p>
+                    <p>✅ Hack de TV</p>
+                    <br>
+                    <p>📍 Localização privilegiada – Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
                 ]]>
             </descritivo>
             <fotos_imovel>
-                <foto>
+                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_b518679517234c5ebb8bb2fba09b685f~mv2.jpg</url>
+                        https://static.wixstatic.com/media/1fe786_9c49e9cd232b47fc9f1739d77fc1ea16~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_9c49e9cd232b47fc9f1739d77fc1ea16~mv2.png
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_2aa9788d239c413c98fa7cee7594fa20~mv2.jpg</url>
+                        https://static.wixstatic.com/media/1fe786_e48edb5ab0c74d44a6f9e087c50e3b6e~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_e48edb5ab0c74d44a6f9e087c50e3b6e~mv2.png
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_ffeee8cb969548e5928ee77bb0798100~mv2.jpg</url>
+                        https://static.wixstatic.com/media/1fe786_9d744b2c1eda4fd89a4dc4ba4ed919d6~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_9d744b2c1eda4fd89a4dc4ba4ed919d6~mv2.png
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_cac6ffedcf734ef09792b275d5445e78~mv2.jpg</url>
+                        https://static.wixstatic.com/media/1fe786_3eb80c1415cb430491cd89aa28cb46c5~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_3eb80c1415cb430491cd89aa28cb46c5~mv2.png
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_f6be183477ec44f69f8a483591b2af2e~mv2.jpg</url>
+                        https://static.wixstatic.com/media/1fe786_b411f3a1564a43eda97c85fbb800e5b7~mv2.png/v1/fill/w_604,h_453,al_c,usm_0.66_1.00_0.01/1fe786_b411f3a1564a43eda97c85fbb800e5b7~mv2.png
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_381387405b5d4fa48f2d2e42684ea8c4~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_2aa9788d239c413c98fa7cee7594fa20~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_2aa9788d239c413c98fa7cee7594fa20~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_6aa7eb3c487a4d80b0158fffcdd3a1e5~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_ffeee8cb969548e5928ee77bb0798100~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_ffeee8cb969548e5928ee77bb0798100~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_73173d0b7ee04f279c51407f60462794~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_cac6ffedcf734ef09792b275d5445e78~mv2.jpg/v1/fill/w_340,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_cac6ffedcf734ef09792b275d5445e78~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_6c140b8eb45047a0a80e64c1fc4d7bd7~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_f6be183477ec44f69f8a483591b2af2e~mv2.jpg/v1/fill/w_340,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_f6be183477ec44f69f8a483591b2af2e~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_2eab3f0f34c642d5bd1a0e69d5d493d8~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_381387405b5d4fa48f2d2e42684ea8c4~mv2.jpg/v1/fill/w_340,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_381387405b5d4fa48f2d2e42684ea8c4~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
-                </fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6aa7eb3c487a4d80b0158fffcdd3a1e5~mv2.jpg/v1/fill/w_340,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_6aa7eb3c487a4d80b0158fffcdd3a1e5~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_73173d0b7ee04f279c51407f60462794~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_73173d0b7ee04f279c51407f60462794~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2eab3f0f34c642d5bd1a0e69d5d493d8~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_2eab3f0f34c642d5bd1a0e69d5d493d8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5c649e3ebb9f4d0d8e3d4f45e28f77c0~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_5c649e3ebb9f4d0d8e3d4f45e28f77c0~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3c0e36f8a00747139adebede088a78bc~mv2.jpg/v1/fill/w_340,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_3c0e36f8a00747139adebede088a78bc~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
                 <latitude>0</latitude>
                 <longitude>0</longitude>
                 <video>0</video>
