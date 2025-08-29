@@ -12654,14 +12654,15 @@
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-su%C3%ADte-1-quarto-em-araquari</link_cliente>
             <titulo>Sobrado Geminado com suíte + 1 quarto em Araquari</titulo>
-            <transacao>L</transacao>
-            <transacao2>0</transacao2>
+            <transacao>V</transacao>
+            <transacao2>L</transacao2>
             <finalidade>RE</finalidade>
-            <finalidade2></finalidade2>
+            <finalidade2>RE</finalidade2>
             <destaque>0</destaque>
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
-            <valor>1980.00</valor>
+            <valor>225000</valor>
+            <valor_locacao>1980.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -12692,7 +12693,7 @@
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
             <descritivo>
                <![CDATA[
-                    <p>🏡 Sobrado Geminado com Suíte + 1 Quarto em Araquari – Para Alugar!</p>
+                    <h1> Disponível para venda e Locação!<h1/>
                     <br>
                     <p>✨ Características do imóvel:</p>
                     <p>✅ Área privativa de 60m²</p>
@@ -12709,7 +12710,8 @@
                     <p>✅ Próximo ao mercado Hiper Mais</p>
                     <p>✅ Escolas, academias, CEIs, farmácias, restaurantes e comércios em geral</p>
                     <br>
-                    <p>💰 Valor de locação: ✅ R$ 1.980,00/mês + seguro fiança (consultar)</p>
+                    <br>
+                    <p>Informações para Locação:</p>
                     <br>
                     <p>📦 Incluso no valor:</p>
                     <p>✅ Aluguel</p>
@@ -12721,10 +12723,6 @@
                     <p>✅ Água (transferência)</p>
                     <p>✅ Seguro incêndio obrigatório (taxa única anual)</p>
                     <p>✅ Fiança locatícia</p>
-                    <br>
-                    <p>📞 Contato: ✅ (47) 99275-9287</p>
-                    <p>🔑 Referência do imóvel: ✅ 2438</p>
-                    <p>🌐 Mais detalhes: ✅ www.primevilleimoveis.com.br</p>
                 ]]>
             </descritivo>
             <fotos_imovel>
