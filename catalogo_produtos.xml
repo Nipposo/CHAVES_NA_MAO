@@ -13884,7 +13884,7 @@
             <endereco>Rua Monsenhor Germino</endereco>
             <numero>1850</numero>
             <complemento></complemento>
-            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
                 <![CDATA[
                     <p>📅 Entrega estimada: Maio/2029</p>
