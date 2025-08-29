@@ -3093,7 +3093,7 @@
             <referencia>2313</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-su%C3%ADte-mais-dois-quartos-no-aventureiro-1</link_cliente>
-            <titulo>Casa com Suíte mais dois quartos no Aventureiro</titulo>
+            <titulo>Casa com Suíte + 2 Dormitórios no Aventureiro</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -3101,7 +3101,7 @@
             <destaque>0</destaque>     
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
-            <valor>560000.000</valor>
+            <valor>620000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
