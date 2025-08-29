@@ -14049,23 +14049,27 @@
             </fotos_imovel>
             <latitude>0</latitude>
             <longitude>0</longitude>
-           <area_comum>
-                <item>Piscina adulto</item>
+            <area_comum>
+                <item>Piscina</item>
                 <item>Piscina infantil</item>
+                <item>Área para pets</item>
                 <item>Playground</item>
-                <item>Salão de festas</item>
+                <item>Deck</item>
+                <item>Quiosque com churrasqueira</item>
+                <item>Medidores individuais de gás e água</item>
                 <item>Espaço gourmet</item>
                 <item>Bicicletário</item>
-                <item>Pet place</item>
-                <item>Portaria</item>
                 <item>Elevador</item>
-                <item>Estacionamento para visitantes</item>
+                <item>Estacionamento para veículos</item>
+                <item>Vaga carga e descarga</item>
+                <item>Acesso de pedestres</item>
             </area_comum>
             <area_privativa>
                 <item>Churrasqueira</item>
                 <item>Sacada</item>
                 <item>Piso laminado</item>
-                <item>Espera para Ar condicionado</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal com paisagismo</item>
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
