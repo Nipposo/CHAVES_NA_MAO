@@ -13822,27 +13822,52 @@
             </fotos_imovel>
             <latitude>0</latitude>
             <longitude>0</longitude>
-           <area_comum>
-                <item>Piscina adulto</item>
+            <area_comum>
+                <item>Piscina</item>
                 <item>Piscina infantil</item>
+                <item>Ducha</item>
+                <item>Área para pets</item>
+                <item>Mercado de conveniências</item>
+                <item>Espaço redário</item>
+                <item>Espaço zen</item>
+                <item>Praça de convívio</item>
                 <item>Playground</item>
+                <item>Deck</item>
+                <item>Quiosque(s)</item>
                 <item>Salão de festas</item>
+                <item>Medidores individuais de gás e água</item>
                 <item>Espaço gourmet</item>
                 <item>Brinquedoteca</item>
-                <item>Quadra de tênis</item>
+                <item>Quadra de beach tênis</item>
                 <item>Bicicletário</item>
-                <item>Pet place</item>
-                <item>Portaria</item>
+                <item>Gerador de energia</item>
                 <item>Elevador</item>
-                <item>Estacionamento para visitantes</item>
+                <item>Vaga(s) para visitantes</item>
+                <item>Garagem coberta</item>
+                <item>Condomínio fechado</item>
+                <item>Gás canalizado</item>
+                <item>Portaria</item>
+                <item>Estacionamento para veículos</item>
+                <item>Vaga carga e descarga</item>
+                <item>Acesso de pedestres</item>
+                <item>Reuso de águas pluviais</item>
+                <item>Sensor de presença na área comum</item>
+                <item>Portão eletrônico</item>
+                <item>Portão eletrônico</item>
             </area_comum>
             <area_privativa>
                 <item>Churrasqueira</item>
-                <item>Sacada</item>
-                <item>Suíte</item>
+                <item>Sacada com churrasqueira</item>
+                <item>Churrasqueira a carvão</item>
+                <item>Infraestrutura de ar condicionado</item>
                 <item>Piso laminado</item>
-                <item>Porcelanato</item>
-                <item>Ar condicionado</item>
+                <item>Piso porcelanato</item>
+                <item>Ventilação natural</item>
+                <item>Esquadrias de alumínio</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quintal com paisagismo</item>
+                <item>Acesso PNE</item>
+                <item>Câmeras de monitoramento</item>
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
@@ -14063,6 +14088,8 @@
                 <item>Estacionamento para veículos</item>
                 <item>Vaga carga e descarga</item>
                 <item>Acesso de pedestres</item>
+                <item>Gás canalizado</item>
+                <item>Condomínio fechado</item>
             </area_comum>
             <area_privativa>
                 <item>Churrasqueira</item>
@@ -14270,6 +14297,8 @@
                 <item>Vaga carga e descarga</item>
                 <item>Sistema de captação de água</item>
                 <item>Acesso de pedestres</item>
+                <item>Gás canalizado</item>
+                <item>Condomínio fechado</item>
             </area_comum>
             <area_privativa>
                 <item>Churrasqueira</item>
