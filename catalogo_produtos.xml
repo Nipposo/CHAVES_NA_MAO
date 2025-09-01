@@ -12662,7 +12662,7 @@
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
             <valor>225000</valor>
-            <valor_locacao>1980.00</valor>
+            <valor_locacao>1980.00</valor_locacao>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -12693,7 +12693,7 @@
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
             <descritivo>
                <![CDATA[
-                    <p> Disponível para venda e Locação!<p/>
+                    <h1> Disponível para venda e Locação!<h1/>
                     <br>
                     <p>✨ Características do imóvel:</p>
                     <p>✅ Área privativa de 60m²</p>
