@@ -14311,7 +14311,7 @@
             <referencia>2475</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-alto-padr%C3%A3o-no-anita-garibaldi</link_cliente>
-            <titulo>Apartamento Alto Padrão no Anita Garibaldi</titulo>
+            <titulo>Apartamento Alto Padrão no Anita Garibaldi - Joinville - Santa Catarina</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -14487,6 +14487,170 @@
                 <item>Infraestrutura para automação</item>
                 <item>Ponto para triturador pia cozinha</item>
                 <item>Infraestrutura para persianas</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
+        <imovel>
+            <referencia>2476</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-3-su%C3%ADtes-e-164m-no-sagua%C3%A7u</link_cliente>
+            <titulo>Geminado com 3 Suítes e 164m² no Bairro Glória - Joinville - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>1034000</valor>
+            <area_util>164</area_util>
+            <area_total>0</area_total>
+            <quartos>0</quartos>
+            <suites>3</suites>
+            <garagem>1</garagem>
+            <banheiro>0</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Glória</bairro>
+            <cep>89216-120</cep>
+            <endereco>Rua Luiz Delfino</endereco>
+            <numero>384</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>📐 Área privativa de 164,39m²</p>
+                    <p>🌿 Aproximadamente 60m² de espaço gourmet</p>
+                    <p>🏗️ Geminado pronto, alto padrão de acabamento</p>
+                    <p>📏 4,50m de abertura</p>
+                    <p>🚗 2 vagas de garagem cobertas</p>
+                    <p>🚙 1 vaga de garagem descoberta</p>
+                    <p>✨ Rebaixo em gesso</p>
+                    <p>🔥 Preparação para água aquecida a gás</p>
+                    <br>
+                    <p>Lazer e conforto:</p>
+                    <p>🛁 Área de lazer com jacuzzi para 6 lugares</p>
+                    <p>🌳 Deck em madeira suspenso</p>
+                    <p>🏡 Pátio externo amplo</p>
+                    <br>
+                    <p>Pavimentos e acabamentos:</p>
+                    <p>🪨 Piso porcelanato na parte inferior</p>
+                    <p>🪵 Piso vinílico na parte superior</p>
+                    <br>
+                    <p>Ambientes internos:</p>
+                    <p>🛋️ Sala de estar integrada à cozinha e sala de jantar</p>
+                    <p>🎬 Living room aconchegante</p>
+                    <p>🧺 Lavanderia</p>
+                    <p>🚻 Lavabo</p>
+                    <p>🍖 Área de festas</p>
+                    <br>
+                    <p>Suítes:</p>
+                    <p>🛏️ 1 suíte master com closet e sacada</p>
+                    <p>🛏️ 1 suíte com closet e sacada</p>
+                    <p>🛏️ 1 suíte com sacada</p>
+                    <br>
+                    <p>💰 Valor: R$ 1.034.000,00</p>
+                    <p>📍 Bairro Glória – Joinville/SC</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_17483902f5224069b5386832f5fd0d94~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_952b1c759db547efa6cca069700d584e~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_01abb4ba162e41938d4f4e5aac03468e~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_e92e3e93349344bf95ba1115ca61b014~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_e4593e5b5e0f4afda40c04a9bce5a0e7~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_7df3e326d2b9425e961c631cc6292ed2~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_754459dd4920478fb3c6989149633560~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_22e1b975e24f4d3ea25427571fb1083e~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_3ab53bc6ec434548a4359d177ad39335~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_cb09a3b47af743bb915c2c9ea97300eb~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_903072b383f8487e85de8d737c9ae154~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_9fcb6f7322294685bf92b0622ac875f0~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+           <area_comum>
+                <item>Salão de festas</item>
+                <item>Vaga(s) de garagem</item>
+                <item>Terraço com jacuzzi</item>
+                <item>Deck</item>
+            </area_comum>
+            <area_privativa>
+                <item>Teto em gesso</item>
+                <item>Cozinha ampla</item>
+                <item>Living</item>
+                <item>Piso porcelanato</item>
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
