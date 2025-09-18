@@ -14994,5 +14994,169 @@
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2479</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-com-su%C3%ADte-e-2-dormit%C3%B3rios-no-sagua%C3%A7u</link_cliente>
+            <titulo>Geminado Alto Padrão com Suíte + 2 dormitórios no Saguaçu - Joinville - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>765000</valor>
+            <area_util>113</area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Saguaçu</bairro>
+            <cep>89221480</cep>
+            <endereco>Rua Guilherme Romanus</endereco>
+            <numero>843</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>📐 Plantas com 111,31m² e 113,74m²</p>
+                    <p>💰 A partir de R$ 764.900,00</p>
+                    <p>📅 Entrega prevista: Fevereiro de 2026</p>
+                    <br>
+                    <p>Diferenciais do Imóvel:</p>
+                    <p>🛏️ Suíte + 2 dormitórios</p>
+                    <p>🧱 Porcelanato no piso térreo</p>
+                    <p>🧱 Piso vinílico no piso superior</p>
+                    <p>🚗 2 vagas de garagem</p>
+                    <p>🚪 Portão de elevação (sem motor)</p>
+                    <p>❄️ Infraestrutura para ar-condicionado</p>
+                    <p>✨ Rebaixo em gesso no teto</p>
+                    <p>🔥 Churrasqueira</p>
+                    <p>📐 Abertura:</p>
+                    <p>  ✅ 4,49m (Casas 2 e 3)</p>
+                    <p>  ✅ 4,59m (Casa 4)</p>
+                    <p>🎨 Pintura em epóxi nas paredes da cozinha e banheiros</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_106f5805b08a480f9d816b5f97669d71~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_a24613e4a9b24cffa335fd120dd1589d~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_2e731ea2ffed4e65ae6d817d4d8503e1~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f1722ce6eb764297bd57e748fba25dd1~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_bba32b7d91834425a743c4b2d7958061~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_1032bf92e96748c099c3437cef236e5c~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_08c3c07fecf2476698981b76e5155ce2~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_0ab3544ee2d847da89912695761c6199~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_e6195e51d2bf467d9974e05138ea351d~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_2b8a57dc2acb4765ba55826fe914eabe~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_6d4212070179448880f036bc4dbc94f4~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_ffb208f5028341398c36016bb7d05008~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_3f5d35336e3b4cbca89f554ca452a070~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_3ccad850ff804d9191456d91af89e8b2~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_63984543c86245a5ac03c4e0208e5897~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <area_privativa>
+                <item>Suíte com sacada</item>
+                <item>Churrasqueira</item>
+                <item>Vaga(s) de garagem coberta</item>
+                <item>Piso porcelanato</item>
+                <item>Piso vinílico</item>
+                <item>Rebaixamento em gesso</item>
+                <item>Infraestrutura de ar condicionado</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
