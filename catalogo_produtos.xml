@@ -14654,5 +14654,170 @@
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2477</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-com-duas-casas-no-iriri%C3%BA</link_cliente>
+            <titulo>Duas Casas com 120 m² cada e 3 quartos no Iririú - Joinville - SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>530000</valor>
+            <area_util>240</area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>3</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Iririu</bairro>
+            <cep>89227010</cep>
+            <endereco>Rua Guerra Junqueira</endereco>
+            <numero>156</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>🏡 Casa no Bairro Iririú – Joinville/SC</p>
+                    <br>
+                    <p>✅ Duas casas no mesmo terreno</p>
+                    <p>✅ Cada casa com 120m²</p>
+                    <p>✅ 3 dormitórios em cada casa</p>
+                    <p>✅ 1 banheiro social em cada casa</p>
+                    <p>✅ Cozinha e sala separadas</p>
+                    <p>✅ Lavanderia separada</p>
+                    <p>✅ Casa com churrasqueira</p>
+                    <p>🚗 2 vagas de garagem cobertas + 1 descoberta</p>
+                    <p>🌿 Quintal com jardim</p>
+                    <br>
+                    <p>📌 Diferenciais:</p>
+                    <p>✅ Excelente opção para duas famílias</p>
+                    <p>✅ Ótimo para investimento</p>
+                    <p>⚠️ Casa não averbada</p>
+                    <br>
+                    <p>💰 Valor: R$ 530.000,00</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_a1e3cf91bce442a48ef515019f940428~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_8988acf56d334d4fb3d2631906086b30~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_f345adc83fec4f22ad4af2d329ebf684~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_29b8faae88334dcabba8ce2775f01968~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_529728af9112410d9747dfd6cf452cdb~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_4ec255365f674d55b54513ea34f66e9b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_40910ca6bd5c43e4bb88968badf77dae~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_29d88366a0d94edf8d37348ee9d2e3ae~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_808da2c0a21d47beb8f4e7ac7a52549b~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_c2a554bf25f54be8b15ca1aaf6593a64~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/1fe786_cac5b36282e04907a6e3587805fd7b53~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_bdbdb74d6a6b405b92f6744a4091ba9c~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_d3c72076c99e446b8f5e6aee5b8c416c~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_2c0b4d3dddc146b18309c93248ef50d4~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/1fe786_dbbea65ddf714fd3955b24187b317b20~mv2.png
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <area_comum>
+                <item>Jardim</item>
+            </area_comum>
+            <area_privativa>
+                <item>Churrasqueira</item>
+                <item>Lavanderia</item>
+                <item>Cozinha</item>
+                <item>Banheiro social</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
