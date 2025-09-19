@@ -5325,7 +5325,7 @@
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>2170</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-amplo-no-bairro-paranaguamirim</link_cliente>
@@ -5432,7 +5432,7 @@
                 </area_privativa>
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <imovel>
             <referencia>2386</referencia>
             <codigo_cliente>0</codigo_cliente>
