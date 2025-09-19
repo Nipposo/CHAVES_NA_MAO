@@ -6042,7 +6042,7 @@
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
         </imovel>
-        <imovel>
+        <!-- <imovel>   
             <referencia>2419</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-su%C3%ADte-mais-um-quarto-no-boehmerwald</link_cliente>
@@ -6199,7 +6199,7 @@
                 </area_privativa>
                 <aceita_troca>0</aceita_troca>
                 <periodo_locacao>0</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <imovel>
             <referencia>2413</referencia>
             <codigo_cliente>0</codigo_cliente>
