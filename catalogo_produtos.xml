@@ -14893,5 +14893,136 @@
             <longitude>0</longitude>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2494</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-escriturada-no-morro-do-meio-joinville-sc</link_cliente>
+            <titulo>Casa Escriturada com 2 Dormitórios no bairro Morro do Meio – Joinville - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>300.000</valor>
+            <area_util>140</area_util>
+            <area_total>460</area_total>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Morro do Meio</bairro>
+            <cep>89215-186</cep>
+            <endereco>Rua Júlio Godofredo Uldrich</endereco>
+            <numero>345</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+            <![CDATA[
+                <p>📐 140m² construído</p>
+                <p>📐 Terreno: 20x23 (460m²) – lote plano</p>
+                <p>⚖️ Escriturada</p>
+                <br>
+                <p>🛋️ Características</p>
+                <p>✅ 2 Quartos</p>
+                <p>✅ Banheiro</p>
+                <p>✅ Sala de estar</p>
+                <p>✅ Cozinha</p>
+                <p>✅ Área de serviço</p>
+                <p>✅ Churrasqueira</p>
+                <p>✅ Quintal com brita</p>
+                <p>✅ Ponto para ar-condicionado</p>
+                <br>
+                <p>✨ Acabamentos</p>
+                <p>✅ Piso porcelanato</p>
+                <p>✅ Teto com laje</p>
+                <p>✅ Teto com forro em PVC</p>
+            ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_34e32d2f3ea64e17b2370675ee677088~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_899c6398e2e54f60b11e18a12a4d0bb9~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a09ff15e53dc4e30b6df5dca8fc84a37~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6fb8b296aee8433d9482fe6b2515e70f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_67cba6067cd4469c94e6e7f8a5a7c71b~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e23cfacdfc6e468893779eaa0e157792~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b76841aaf2ee4bb6aa8fe72a48098726~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ced7ccd1db724f2cb091367926dceca8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_f3350d3b133a44bca672f17de3bb54e1~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <area_privativa>
+                <item>Banheiro social</item>
+                <item>Sala de estar</item>
+                <item>Cozinha</item>
+                <item>Área de serviço</item>
+                <item>Churrasqueira</item>
+                <item>Quintal</item>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Piso porcelanato</item>
+                <item>Forro em PVC</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
