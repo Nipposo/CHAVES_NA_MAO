@@ -15024,5 +15024,185 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2488</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-no-jarivatuba-joinville</link_cliente>
+            <titulo>Sobrado Geminado com 2 Quartos no Bairro Jarivatuba em Joinville - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>389.000</valor>
+            <area_util>70</area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Jarivatuba</bairro>
+            <cep>89230-364</cep>
+            <endereco>Rua das Sereias</endereco>
+            <numero>653</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+            <![CDATA[
+                <p>📐 Área construída: 70,80m²</p>
+                <br>
+                <p>🛋️ Características</p>
+                <p>✅ 2 dormitórios (sendo 1 com sacada)</p>
+                <p>✅ Banheiro social</p>
+                <p>✅ Lavabo</p>
+                <p>✅ Sala e cozinha integradas</p>
+                <p>✅ Área de serviço</p>
+                <p>✅ 2 vagas cobertas com pergolado</p>
+                <p>✅ Churrasqueira</p>
+                <p>✅ Portão eletrônico</p>
+                <p>✅ Semi-mobiliado</p>
+                <br>
+                <p>🪑 Móveis que ficam</p>
+                <p>✅ Planejados da cozinha</p>
+                <p>✅ Banheiro e lavabo mobiliados</p>
+                <p>✅ Home da sala</p>
+                <p>✅ Roupeiro de 1 quarto</p>
+                <br>
+                <p>✨ Acabamentos</p>
+                <p>✅ Massa corrida</p>
+                <p>✅ Porcelanato</p>
+                <p>✅ Laminado</p>
+                <p>✅ Soleira em granito</p>
+                <p>✅ Detalhes em gesso</p>
+                <p>✅ Rebaixo em gesso</p>
+            ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a9f2107c679a467b875c9a0f6d2537aa~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_66740b165f854be5aeedf9f3feff7e9c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_24b3ca790c4943529955094154ba1a01~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c9093425fec640ad878c3108a616d73e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_656d09470b824db9ae745beec9a09d86~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_045686b470104bc1aef52fc2c0f39871~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f51bc5c8ba5d4fe9a486883f89129ea8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d159abf8fedd47069e34a0870ee49e07~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_38d8e6a5cbdb488fb3a833ffd3e51d0f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5ead54a6f92c40f5800b984a8269191d~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_84d78ad771b34e6abc6b7e28c5ba4ec7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_eb20a39bc3b24d0185a081d1cfff581a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_326a2181a11146b79145c342fd8998f0~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_31858763caab4dc98eefe183023da15e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_436c2fa40beb488883c17b699ae07c08~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <area_privativa>
+                <item>Sacada</item>
+                <item>Banheiro social</item>
+                <item>Lavabo</item>
+                <item>Sala conjugada com cozinha</item>
+                <item>Área de serviço</item>
+                <item>Vaga(s) de garagem coberta</item>
+                <item>Churrasqueira</item>
+                <item>Portão automático</item>
+                <item>Semimobiliado</item>
+                <item>Cozinha planejada</item>
+                <item>Banheiro com box blindex	</item>
+                <item>Piso porcelanato</item>
+                <item>Piso laminado</item>
+                <item>Rebaixamento em gesso</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
