@@ -15373,7 +15373,92 @@
                 <item>Vaga(s) de garagem coberta</item>
                 <item>Banheiro com box blindex</item>
             </area_privativa>
-            <aceita_troca>0</aceita_troca>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
+        <imovel>
+            <referencia>2493</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-na-planta-com-2-quartos-comasa-joinville-santa-catarina</link_cliente>
+            <titulo>Geminado na Planta com 2 Dormitórios no Bairro Comasa em Joinville – Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>380.000</valor>
+            <area_util>70</area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Comasa</bairro>
+            <cep>89228-450</cep>
+            <endereco>Rua Marítima</endereco>
+            <numero>629</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>📐 Área construída: 70m²</p>
+                    <p>📅 Entrega prevista: Junho/2026</p>
+                    <br>
+                    <p>🛋️ Características</p>
+                    <p>✅ 2 quartos</p>
+                    <p>✅ Sacada com porta de correr</p>
+                    <p>✅ 1 Banheiro + 1 Lavabo</p>
+                    <p>✅ 2 vagas de garagem cobertas</p>
+                    <p>✅ Lavanderia na área externa</p>
+                    <p>✅ Sala e cozinha integradas</p>
+                    <p>✅ Rua pavimentada</p>
+                    <br>
+                    <p>📐 Medidas do Imóvel</p>
+                    <p>✅ Abertura: 2,76m</p>
+                    <p>✅ Frente: 9,08m</p>
+                    <p>✅ Fundos: 7m</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c94019c2405e49708c66c7e1a2fb6abb~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a59fd64ac8da43b7a6662a42bb782d4a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <area_privativa>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Quarto(s) com sacada</item>
+                <item>Banheiro social</item>
+                <item>Lavabo</item>
+                <item>Vaga(s) de garagem coberta</item>
+                <item>Lavanderia</item>
+                <item>Sala conjugada com cozinha</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
         </imovel>
     </imoveis>
 </Document>
