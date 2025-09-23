@@ -15460,5 +15460,186 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2487</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-giardino-no-bairro-f%C3%A1tima-em-joinville-santa-catarina</link_cliente>
+            <titulo>Apartamento com Giardino no Bairro Fátima em Joinville – Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor></valor>
+            <area_util>45</area_util>
+            <area_total>116</area_total>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Fátima</bairro>
+            <cep>89229-270</cep>
+            <endereco>Rua Bateias</endereco>
+            <numero>835</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>💰 A partir de R$ 264.500,00</p>
+                    <p>📅 Entrega prevista: Dezembro/2027</p>
+                    <p>🏢 Torre única</p>
+                    <p>📊 Somente 10 unidades disponíveis</p>
+                    <br>
+                    <p>🛋️ Opções de Apartamentos</p>
+                    <p>✅ 2 quartos</p>
+                    <p>✅ 2 quartos + suíte</p>
+                    <p>✅ Plantas com giardino</p>
+                    <p>✅ Living integrado</p>
+                    <p>✅ Sacada</p>
+                    <p>✅ Layout inteligente</p>
+                    <br>
+                    <p>🎯 Estrutura do Empreendimento</p>
+                    <p>✅ Salas comerciais no térreo</p>
+                    <p>✅ Espaço pet</p>
+                    <p>✅ Salão de festas</p>
+                    <p>✅ Playground</p>
+                    <p>✅ Quiosque com churrasqueira</p>
+                    <p>✅ Piscina adulto e infantil</p>
+                    <p>✅ Banheiros masculino e feminino na área das piscinas</p>
+                    <p>✅ Elevador</p>
+                    <p>✅ Acesso de veículos e pedestres</p>
+                    <br>
+                    <p>📍 Localização Estratégica</p>
+                    <p>✅ Bairro Fátima – Joinville / SC</p>
+                    <p>✅ Próximo a escolas, padarias, mercados, bancos, transporte público e drogarias</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e5729ed19f71401ba7386c6c0005b3c1~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_27f5aa32b2984247a9dc18a4d1f368ee~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_432ef5d8a1834d4ba723c0971b1a0705~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_48b97b9fd6f24a1ab7aa3a6f3b93cd58~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_282f523cd587498693d21962816e8118~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_01c3526579634f6eaedf6a2213d84252~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_16c07cf52aed403b953a0c99ea1496f7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3b9858454ebf469196b93b3490acb225~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_b6d99f3588e543ed8331214361b78351~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d26d5e069411417a8b317bfc29edc11d~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_95e4a5c1e535468990c3609f314420e5~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9d672d3b169e46549eca84e21acabee8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_88121fc5cba74aae9a54c174b9849c22~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c394a56f0b874b9387a99de3d8900fde~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7384bc420ca54a628f9520956796f37e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <area_comum>
+                <item>Salão de festas</item>
+                <item>Playground</item>
+                <item>Quiosque com churrasqueira</item>
+                <item>Piscina</item>
+                <item>Piscina infantil</item>
+                <item>Elevador(es)</item>
+                <item>Acesso de pedestres</item>
+                <item>Área para pets</item>
+            </area_comum>
+            <area_privativa>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Suíte(s)</item>
+                <item>Living amplo</item>
+                <item>Sacada</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
