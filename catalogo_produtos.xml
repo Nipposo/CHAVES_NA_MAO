@@ -9488,7 +9488,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>1</destaque>     
+            <destaque>0</destaque>     
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>1650.000</valor>
@@ -10013,7 +10013,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>1</destaque>
+            <destaque>0</destaque>
             <tipo>Casa / Sobrado</tipo>
             <tipo2>0</tipo2>
             <valor>385000.000</valor>
@@ -10491,10 +10491,10 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2></finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>1600.00</valor>
+            <valor>1550.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -10525,17 +10525,6 @@
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
             <descritivo>
                 <![CDATA[
-                    <p>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</p>
-                    <p>☑️ Aluguel</p>
-                    <p>☑️ IPTU</p>
-                    <p>☑️ Taxa de Lixo</p>
-                    <br>
-                    <p>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</p>
-                    <p>☑️ Luz (transferência)</p>
-                    <p>☑️ Água (transferência)</p>
-                    <p>☑️ Seguro incêndio obrigatório (taxa única anual)</p>
-                    <p>☑️ Fiança locatícia</p>
-                    <br>
                     <p>☑️ Isento de condomínio</p>
                     <p>☑️ Primeira locação, nunca morado, apartamento recém entregue</p>
                     <p>☑️ Área de 60m²</p>
@@ -10546,6 +10535,17 @@
                     <p>☑️ Lavanderia interna e fechada</p>
                     <p>☑️ Garagem privativa</p>
                     <p>☑️ Rua pavimentada</p>
+                    <br>
+                    <p>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</p>
+                    <p>☑️ Aluguel</p>
+                    <p>☑️ IPTU</p>
+                    <p>☑️ Taxa de Lixo</p>
+                    <br>
+                    <p>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</p>
+                    <p>☑️ Luz (transferência)</p>
+                    <p>☑️ Água (transferência)</p>
+                    <p>☑️ Seguro incêndio obrigatório (taxa única anual)</p>
+                    <p>☑️ Fiança locatícia</p>
                     <br>
                     <p>📍 Em ótima localização – Próximo à BR-280, escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
                 ]]>
@@ -10647,10 +10647,10 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2></finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
-            <valor>1500.00</valor>
+            <valor>1450.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -10681,17 +10681,6 @@
             <esconder_endereco_imovel>1</esconder_endereco_imovel>
             <descritivo>
                 <![CDATA[
-                    <p>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</p>
-                    <p>☑️ Aluguel</p>
-                    <p>☑️ IPTU</p>
-                    <p>☑️ Taxa de Lixo</p>
-                    <br>
-                    <p>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</p>
-                    <p>☑️ Luz (transferência)</p>
-                    <p>☑️ Água (transferência)</p>
-                    <p>☑️ Seguro incêndio obrigatório (taxa única anual)</p>
-                    <p>☑️ Fiança locatícia</p>
-                    <br>
                     <p>☑️ Isento de condomínio</p>
                     <p>☑️ Primeira locação, nunca morado, apartamento recém entregue</p>
                     <p>☑️ Área de 60m²</p>
@@ -10702,6 +10691,17 @@
                     <p>☑️ Lavanderia interna e fechada</p>
                     <p>☑️ Garagem privativa</p>
                     <p>☑️ Rua pavimentada</p>
+                    <br>
+                    <p>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</p>
+                    <p>☑️ Aluguel</p>
+                    <p>☑️ IPTU</p>
+                    <p>☑️ Taxa de Lixo</p>
+                    <br>
+                    <p>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</p>
+                    <p>☑️ Luz (transferência)</p>
+                    <p>☑️ Água (transferência)</p>
+                    <p>☑️ Seguro incêndio obrigatório (taxa única anual)</p>
+                    <p>☑️ Fiança locatícia</p>
                     <br>
                     <p>📍 Em ótima localização – Próximo à BR-280, escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
                 ]]>
@@ -11737,7 +11737,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2>0</finalidade2>
-            <destaque>1</destaque>
+            <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>386000</valor>
@@ -11893,10 +11893,10 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2></finalidade2>
-            <destaque>0</destaque>
+            <destaque>1</destaque>
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
-            <valor>1705.00</valor>
+            <valor>1650.00</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>0</area_total>
@@ -11945,8 +11945,6 @@
                     <p>✅ Próximo a comércios e facilidades</p>
                     <p>✅ 5min do Colégio Agrícola</p>
                     <p>✅ Fácil acesso a outros bairros</p>
-                    <br>
-                    <p>💰 Valor: R$ 1.705,00 / mês + seguro fiança (consultar)</p>
                     <br>
                     <p>🔹 Incluso no valor:</p>
                     <p>✅ Aluguel</p>
