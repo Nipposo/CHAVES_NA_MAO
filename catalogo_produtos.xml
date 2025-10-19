@@ -15081,7 +15081,165 @@
                 <item>Piso laminado</item>
                 <item>Quarto(s) com sacada</item>
             </area_privativa>
-            <aceita_troca>0</aceita_troca>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
+        <imovel>
+            <referencia>2495</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-su%C3%ADte-no-iriri%C3%BA-joinville-sc</link_cliente>
+            <titulo>Casa Escriturada com Suíte no Iririú – Joinville - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>550000</valor>
+            <area_util>160</area_util>
+            <area_total>264</area_total>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Iririú</bairro>
+            <cep>89227-337</cep>
+            <endereco>Rua Antônio Gomes de Oliveira</endereco>
+            <numero>109</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+            <![CDATA[
+                <p>📐 160 m² construídos</p>
+                <p>📏 Terreno: 14 x 26 m</p>
+                <p>📜 Escriturada</p>
+                <br>
+                <p>🛋️ Composição do Imóvel</p>
+                <p>✅ 1 Suíte com Closet + 2 Quartos</p>
+                <p>✅ Banheiro Social</p>
+                <p>✅ Lavabo</p>
+                <p>✅ Cozinha</p>
+                <p>✅ Sala de Estar</p>
+                <p>✅ Churrasqueira</p>
+                <br>
+                <p>🎯 Acabamentos</p>
+                <p>✅ Massa corrida</p>
+                <p>✅ Piso cerâmico</p>
+            ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e728757142a04adba6856df24aadb673~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_902941b416f84b29b8c075fc8991020e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_584846969b0942868b1588bed27e2d79~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_85b0d2a80a0949e192105cd484577fab~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_25878d18a5f2461ebd6b053217ffa917~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a8f6830d6b4b4f5d8cef116b5f7ebccf~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_de551a2fe263467391cb55cd9dd8e9ac~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8d1eb70b46084a18bfeb6ddb0de26e6f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_35c723d4b2e54b5d8d59e6fa0567eec8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2246f9949ab244ef97dc9390bebe203c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_84c06ad53888463797b1afb78985e1d2~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ea456cc81d054bf7a10ca822aef91b0c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5cfbbf0df4a14c9a8dff2e5ea248ce12~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b32d9b31ca394ebfb527e4877bda922b~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b92558e7660b42b3af1612a8b5f0e989~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item>Churrasqueira</item>
+                <item>Cozinha revestida em cerâmica</item>
+                <item>Suíte(s)</item>
+                <item>Quarto(s) amplo(s)</item>
+                <item>Ambiente(s) amplo(s)</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
         </imovel>
     </imoveis>
 </Document>
