@@ -14517,5 +14517,74 @@
             <longitude>0</longitude>
             <aceita_troca>0</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2480</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-amplo-de-631-60m-em-bairro-petr%C3%B3polis</link_cliente>
+            <titulo>Terreno amplo de 631,60M² no bairro Petrópolis - Joinville - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Terreno / Lote</tipo>
+            <tipo2>0</tipo2>
+            <valor>450000</valor>
+            <area_util>631</area_util>
+            <area_total>631</area_total>
+            <quartos>0</quartos>
+            <suites>0</suites>
+            <garagem>0</garagem>
+            <banheiro>0</banheiro>
+            <closet>0</closet>
+            <salas>0</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>0</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>0</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Petrópolis</bairro>
+            <cep>89212-210</cep>
+            <endereco>Rua Florianópolis</endereco>
+            <numero>785</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>📏 Área total: 631,60m² (14m x 45m)</p>
+                    <p>✅ Excelente localização no coração do bairro Petrópolis</p>
+                    <p>✅ Rua pavimentada</p>
+                    <p>✅ Próximo a vários comércios</p>
+                    <p>✅ Próximo à região central de Joinville</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6f7de7deb21549d0b74f4dc6bd7ff1ee~mv2.jpg  
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e5758a7ed9714655997012b93c162b6b~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4d6bdef8937e4de89ae9fae99c435bd5~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
