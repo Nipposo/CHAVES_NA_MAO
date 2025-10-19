@@ -14991,5 +14991,97 @@
             </fotos_imovel>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2496</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-no-bairro-vila-nova-joinville-sc</link_cliente>
+            <titulo>🏡 Geminado com 2 Quartos no Bairro Vila Nova - Joinville - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <tipo2>0</tipo2>
+            <valor>350000</valor>
+            <area_util>0</area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Vila Nova</bairro>
+            <cep>89237-355</cep>
+            <endereco>Rua São Firmino</endereco>
+            <numero>52</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>🏦 Aceita financiamento</p>
+
+                    <p>🛋️ Composição do Imóvel</p>
+                    <p>✅ Banheiro</p>
+                    <p>✅ Lavabo</p>
+                    <p>✅ 2 Quartos</p>
+                    <p>✅ Sala de estar</p>
+                    <p>✅ Sala de jantar</p>
+                    <p>✅ Sacada</p>
+                    <p>✅ Quintal com brita</p>
+                    <p>🚗 1 vaga de garagem</p>
+
+                    <p>📏 Dimensões</p>
+                    <p>✅ 5,50m de frente</p>
+                    <p>✅ 3m de fundos</p>
+                    <p>✅ 2,80m de abertura</p>
+
+                    <p>🎯 Acabamentos</p>
+                    <p>✅ Massa corrida</p>
+                    <p>✅ Rebaixo em gesso</p>
+                    <p>✅ Porcelanato</p>
+                    <p>✅ Laminado</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0c9f5bb7aaaf4c9eaf86cf3c8f20adc9~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d74118ab8f934596993008dbdec3c0d7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_13cb7df5d4f44a019b5c92ef937e6b49~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item>Piso porcelanato</item>
+                <item>Rebaixamento em gesso	</item>
+                <item>Piso laminado</item>
+                <item>Quarto(s) com sacada</item>
+            </area_privativa>
+            <aceita_troca>0</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
