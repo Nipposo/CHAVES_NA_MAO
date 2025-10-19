@@ -14639,85 +14639,85 @@
             <fotos_imovel>
                 <foto>
                     <url>
-                       https://static.wixstatic.com/media/50072f_395f9e0d6cd04185ada0d98b9de152d5~mv2.jpg
+                      
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_d89f1ea2e5024671a6a8423a9c6d9760~mv2.jpg
+                       
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_3516b42f47734466a874b4cde905ffcc~mv2.jpg
+                       
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_ce82bffe479247e3bc60db7ca86727d1~mv2.jpg
+                        
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_c00425606e094a3d8c9d731a1fcaf735~mv2.jpg
+                        
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_074eb0d46362470e89f350ded29b2a4c~mv2.jpg
+                        
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_a9f99ac29dc14da194a50dbda037fdf3~mv2.jpg
+                        
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_0a5ede55b4a24abf9270d27a58b782d8~mv2.jpg
+                        
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>   
-                        https://static.wixstatic.com/media/50072f_da26694d13d144b7b0d65e8b37eb7908~mv2.jpg
+                        
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_33ec586f192946bba09c98916cf7b92b~mv2.jpg
+                       
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>   
-                        https://static.wixstatic.com/media/50072f_46e7aceaf7b34fd59dac6043b2f296f4~mv2.jpg
+
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_e6edaed79556424d9648c7e2c9f87101~mv2.jpg
+
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_7dad11dc95c7406f8a93d418ba4c0264~mv2.jpg
+                        
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_380f68056fd346d5bd95895a641f84da~mv2.jpg
+                        
                     </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
@@ -14725,6 +14725,93 @@
             <latitude>0</latitude>
             <longitude>0</longitude>
             <aceita_troca>0</aceita_troca>
+        </imovel>
+        <imovel>
+            <referencia>2485</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-%C3%A0-venda-em-barra-velha</link_cliente>
+            <titulo>Geminado com Suíte próximo à praia em Barra Velha - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>379000</valor>
+            <area_util>52</area_util>
+            <area_total>0</area_total>
+            <quartos>1</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Barra Velha</cidade>
+            <bairro>Centro</bairro>
+            <cep>88390-000</cep>
+            <endereco>Rua Nelson Espíndola</endereco>
+            <numero>500</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>💵 A partir de 379 mil</p>
+                    <br>
+                    <p>✅ 52,80 metros quadrados;</p>
+                    <p>✅ Rua pavimentada;</p>
+                    <p>✅ Áreas de lazer exclusivas;</p>
+                    <p>✅ 1 suíte + 1 quarto;</p>
+                    <p>✅ Banheiro e sala-de-estar espaçosos;</p>
+                    <p>✅ Pisos e paredes de porcelana.</p>
+                    <br>
+                    <p>🏖️ Localização Excepcional - Alguns passos da praia</p>
+                    <p>📍 No coração do bairro: próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>   
+                         https://static.wixstatic.com/media/50072f_75685e6ad6054127907f4eb0e9231bc1~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_dda534c98832499f92719004257a3dca~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_302f3b39fd82439cb055fea885158e3a~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d3a81c1489544ab7b068e35337efa9c6~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_390006315f3048a5afa642277913634d~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <aceita_troca>1</aceita_troca>
         </imovel>
     </imoveis>
 </Document>
