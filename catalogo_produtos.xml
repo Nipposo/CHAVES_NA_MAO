@@ -14891,5 +14891,105 @@
             </fotos_imovel>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2490</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-em-panaguamirim</link_cliente>
+            <titulo>Apartamento mobiliado com 3 Quartos no Paranaguamirim</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>250000</valor>
+            <area_util>35</area_util>
+            <area_total>0</area_total>
+            <quartos>3</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Paranaguamirim</bairro>
+            <cep>89210-155</cep>
+            <endereco>Rua Monsenhor Gercino</endereco>
+            <numero>2580</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>🛏️ 3 quartos</p>
+                    <p>🧺 Área de lavanderia</p>
+                    <p>🧱 Pisos de porcelanato</p>
+                    <p>♨️ Área de lazer</p>
+                    <p>🛋️ Mobiliado com mobília seminova</p>
+                    <p>🖥️ Área de serviço</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4d52c55f63074a8aa38f51c449bb0f4a~mv2.jpeg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_14792fb69851404dae8965792d3a505c~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e85fa01622264e4a8094534fb704c87e~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3865a7aba36541989e93d35207080c13~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1b99c28fbe2d4698a74552d85b0eead9~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9ed34b33c3974f50b4b1e481b87ac3e6~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c5a4d4c9097c4f79a8b852ccec0137f9~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_bc47bf5891ef4567bbe5197fd0211656~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
