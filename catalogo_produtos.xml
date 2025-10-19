@@ -15410,5 +15410,166 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>2499</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-para-loca%C3%A7%C3%A3o-petr%C3%B3polis-joinville-sc</link_cliente>
+            <titulo>Apartamento para Locação no bairro Petrópolis em Joinville – Santa Catarina</titulo>
+            <transacao>L</transacao>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <valor>1200</valor>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>0</area_total>
+            <area_util>0</area_util>
+            <quartos>0</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Petrópolis</bairro>
+            <cep></cep>
+            <endereco>Rua Jorge Weh</endereco>
+            <numero>91</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>💰 R$ 1.200,00</p>
+                    <p>✅ Incluso: IPTU e Taxa de Lixo</p>
+                    <br>
+                    <p>🛋️ Composição do Imóvel</p>
+                    <p>✅ Sala e cozinha conjugadas</p>
+                    <p>✅ Quarto / Suíte</p>
+                    <p>✅ Sacada</p>
+                    <p>✅ Ponto para ar-condicionado</p>
+                    <p>🚗 Vaga de garagem coberta</p>
+                    <br>
+                    <p>🪑 Mobiliários Disponíveis no Imóvel</p>
+                    <p>✅ Cozinha completa com fogão</p>
+                    <p>✅ Rack para TV</p>
+                    <p>✅ Mesa com 2 cadeiras</p>
+                    <p>✅ Banheiro equipado</p>
+                    <p>✅ 1 Ar-condicionado</p>
+                    <br>
+                    <p>💡 Inquilino Paga</p>
+                    <p>✅ Energia (rateado)</p>
+                    <p>✅ Água (taxa fixa R$ 150,00)</p>
+                    <p>✅ Seguro Fiança</p>
+                    <p>✅ Seguro Incêndio</p>
+                    <br>
+                    <p>📋 Observações</p>
+                    <p>🚫 Preferência para locação sem pets</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_c152008608b94d338f7f2d2c7ba29cea~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d1d068b64a5a4b80b039465262a3cc35~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b6105e0398914f4baf7c709097d88cf1~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_4836c7f7a0b94b1bb9f7e457c3cb00a6~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_f8cb0f4abd8140f2ad8f758d47c64cb7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_000ce27f229d4da1bc2aef46db7c893e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_94047b1937ea45eb8cb4781e384ee06f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3b999ae7f2fe4a3a8dd2d819fc46b8df~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_13c53d7e7bcf42789d48304edcd261a9~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_54025efe7ab64007ace184beb37450ba~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e52c8b21eb3146218623c61c7059d0af~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_81a369b752f0418d80fd4236f0cdf191~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_81ea64d77d0244e4a5a1104bb5daae64~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a4069d98e106452d89b2e6734337d8cc~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e52c8b21eb3146218623c61c7059d0af~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>                               
+            </fotos_imovel>
+            <area_privativa>
+                <item>Infraestrutura de ar condicionado</item>
+                <item>Mobiliado</item>
+                <item>Sacada</item>
+            </area_privativa>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
