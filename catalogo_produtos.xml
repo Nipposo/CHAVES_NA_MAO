@@ -14789,5 +14789,107 @@
             </fotos_imovel>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2489</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-%C3%A0-venda-em-barra-velha-1</link_cliente>
+            <titulo>Geminado à venda em Barra Velha - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2>0</finalidade2>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <tipo2>0</tipo2>
+            <valor>264000</valor>
+            <area_util>47</area_util>
+            <area_total>0</area_total>
+            <quartos>1</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Barra Velha</cidade>
+            <bairro>Centro</bairro>
+            <cep>88390-000</cep>
+            <endereco>Rua Nelson Espíndola</endereco>
+            <numero>500</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>✅ 47,79 metros quadrados;</p>
+                    <p>✅ Muito bem localizado em rua pavimentada;</p>
+                    <p>✅ Áreas de lazer exclusivas;</p>
+                    <p>✅ 1 suíte + 1 quarto;</p>
+                    <p>✅ Banheiro e sala-de-estar espaçosos;</p>
+                    <p>✅ Pisos e paredes de porcelana.</p>
+                    <br>
+                    <p>📍 No coração do bairro, a alguns passos da praia, bem como próximo de escolas, CEIs, farmácias, restaurantes e comércios em geral. 🗺️</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0d3cd6e99fae4dd08a54b963500b92b4~mv2.jpeg   
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d8458999b3084281a4a1a6917b69ef2c~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ca7e698d0014488286a0c6aec014974b~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c53d3ff1df3f44709899f8ac30c60a68~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b340fddc584540da8f9b20c8a9044a48~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9b4c8ade27d544d6b606af92ec75e674~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4de0a773ec9f468ea43d3a8556dd7478~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d94938a9bf404d1688194f5bfbc6ea2e~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
