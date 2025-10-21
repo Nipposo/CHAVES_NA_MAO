@@ -8523,7 +8523,7 @@
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>2468</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-com-passagem-lateral-centro-de-araquari</link_cliente>
@@ -8709,7 +8709,7 @@
                 <item>Revisão geral realizada</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <imovel>
             <referencia>2469</referencia>
             <codigo_cliente>0</codigo_cliente>
