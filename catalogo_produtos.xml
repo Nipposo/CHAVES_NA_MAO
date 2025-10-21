@@ -13306,5 +13306,77 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2504</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-quartos-e-1-su%C3%ADte-joinville-sc</link_cliente>
+            <titulo>Sobrado Geminado com 2 Quartos e 1 Suíte – Joinville / SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <valor>420000</valor>
+            <area_util>94</area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>2</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>João Costa</bairro>
+            <cep>89209-344</cep>
+            <endereco>Rua Francisca Gonçalves da Silva</endereco>
+            <numero>22</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>🏡 Sobrado Geminado com 2 Quartos – Joinville / SC</p>
+                <br>
+                <p>📅 Prazo de entrega: Janeiro / 2026</p>
+                <p>📐 Área total: 63m²</p>
+                <p>💰 Valor: R$ 330.000,00</p>
+                <p>🚗 Rua calçada</p>
+                <br>
+                <p>🛋️ Composição do Imóvel</p>
+                <p>✅ Sala de estar / jantar</p>
+                <p>✅ Cozinha</p>
+                <p>✅ Lavabo</p>
+                <p>✅ Banheiro social</p>
+                <p>✅ 2 quartos</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_ceedc7e513554caaaf93f940a9c507da~mv2.jpg/v1/fill/w_500,h_303,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/50072f_ceedc7e513554caaaf93f940a9c507da~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_be08096a9cbf43b2b99ab9c37e4a3136~mv2.jpg/v1/fill/w_399,h_375,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/50072f_be08096a9cbf43b2b99ab9c37e4a3136~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item></item>
+                <item></item>
+                <item></item>
+                <item></item>
+                <item></item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
