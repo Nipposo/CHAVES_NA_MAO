@@ -13007,7 +13007,7 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel> -->
-        <imovel>
+        <!-- <imovel>
             <referencia>2499</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-para-loca%C3%A7%C3%A3o-petr%C3%B3polis-joinville-sc</link_cliente>
             <titulo>Apartamento para Locação no bairro Petrópolis em Joinville – Santa Catarina</titulo>
@@ -13167,7 +13167,7 @@
                 <item>Sacada</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <imovel>
             <referencia>2501</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-3-quartos-no-bairro-itinga-joinville-sc</link_cliente>
