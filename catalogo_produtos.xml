@@ -12838,7 +12838,7 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>2497</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/geminado-para-loca%C3%A7%C3%A3o-com-2-su%C3%ADtes-floresta-joinville-sc</link_cliente>
             <titulo>🏡 Geminado para Locação com 2 Suítes no Bairro Floresta em Joinville – Santa Catarina</titulo>
@@ -13006,7 +13006,7 @@
                 <item>Cozinha conceito aberto</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <imovel>
             <referencia>2499</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-para-loca%C3%A7%C3%A3o-petr%C3%B3polis-joinville-sc</link_cliente>
