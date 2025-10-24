@@ -13541,5 +13541,99 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2507</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-barra-velha-sc</link_cliente>
+            <titulo>🏡 Casa Geminada com 2 dormitórios em Itajubá na Barra Velha - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <valor>279000</valor>
+            <area_util>47</area_util>
+            <area_total>85</area_total>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Bara Velha</cidade>
+            <bairro>Itajubá</bairro>
+            <cep>88390-000</cep>
+            <endereco>R. Estelita Tomelin</endereco>
+            <numero>37</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>🚗 Fácil acesso à BR-101</p>
+                    <p>📅 Entrega: Março de 2026</p>
+                    <p>📐 Área construída: 47,58m²</p>
+                    <p>📏 Área total do terreno: 81,25m²</p>
+                    <p>📏 Excelente abertura: 6,25m</p>
+                    <br>
+                    <p>🛋️ Composição do Imóvel</p>
+                    <p>🛏️ 2 dormitórios</p>
+                    <p>✅ Sala de estar / jantar</p>
+                    <p>✅ Cozinha</p>
+                    <p>✅ Banheiro social</p>
+                    <br>
+                    <p>🎯 Acabamentos</p>
+                    <p>✅ Massa corrida</p>
+                    <p>✅ Porcelanato</p>
+                    <br>
+                    <p>📍 Localização</p>
+                    <p>✅ Bairro Itajubá – Barra Velha / SC</p>
+                    <p>✅ Região tranquila e de fácil acesso</p>
+                    <p>✅ Próximo à BR-101</p>
+                    <p>✅ A poucos minutos da praia</p>
+                    <p>✅ Próximo a comércios, mercados e escolas</p>
+                    <br>
+                    <p>🌊 Não perca essa oportunidade de viver perto do mar com conforto e qualidade.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_70bd778956a14a1c9852bcf8387d5ce2~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_94dab244ceb24215aee79aa7f2ce6634~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_d2e219d18bd0427880b1830f93f65285~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_3e5a894434734913b3d7104007b8f07f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item>Piso porcelanato</item>
+                <item>Banheiro social</item>
+                <item>Ventilação natural</item>
+                <item>Ambiente(s) amplo(s)</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
