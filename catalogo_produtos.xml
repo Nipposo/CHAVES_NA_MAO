@@ -13447,5 +13447,99 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2506</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-barra-velha-sc</link_cliente>
+            <titulo>🏡 Casa Geminada com Suite em Barra Velha / SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <valor>299000</valor>
+            <area_util>50</area_util>
+            <area_total>116</area_total>
+            <quartos>1</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Bara Velha</cidade>
+            <bairro>Itajubá</bairro>
+            <cep>88390-000</cep>
+            <endereco>R. Estelita Tomelin</endereco>
+            <numero>37</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>✅ Fácil acesso à BR 101</p>
+                <br>
+                <p>📅 Entrega: Abril / 2026</p>
+                <p>📐 Área construída: 50,00m²</p>
+                <p>📏 Área total: 116,70m²</p>
+                <br>
+                <p>🛋️ Composição do Imóvel</p>
+                <p>🛏️ 1 quarto + 1 suíte</p>
+                <p>✅ Sala de estar / jantar</p>
+                <p>✅ Cozinha</p>
+                <p>✅ Banheiro social</p>
+                <br>
+                <p>🎯 Acabamentos</p>
+                <p>✅ Massa corrida</p>
+                <p>✅ Porcelanato</p>
+                <br>
+                <p>Não perca essa oportunidade de viver perto do mar com conforto e qualidade.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_749ccee1e75646d6872d8137b4a18415~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_15b128ffd537499086b4ecbad082f7cd~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c487db770da54c4b9168a94d2b7a78f8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d84f4d2688524d5ebb6b32df94d2a22a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2b9150e95aca4ee9b7ba410de7deda7c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item>Piso porcelanato</item>
+                <item>Banheiro social</item>
+                <item>Suíte master</item>
+                <item>Ventilação natural</item>
+                <item>Ambiente(s) amplo(s)</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
