@@ -13586,5 +13586,141 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>2438</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-semimobiliado-com-suite-itinga-araquari</link_cliente>
+            <titulo>Sobrado Geminado SemiMobiliado com Suíte no Itinga - Araquari</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <valor>235000</valor>
+            <area_util>60</area_util>
+            <area_total>0</area_total>
+            <quartos>1</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Itinga</bairro>
+            <cep>89245-000</cep>
+            <endereco>Rua Jorge</endereco>
+            <numero>132</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>Características do Imóvel:</p>
+                    <br>
+                    <p>🏦 Aceita financiamento</p>
+                    <p>🏡 Área privativa de 60m²</p>
+                    <p>🛏️ Suíte + 1 quarto</p>
+                    <p>🛋️ Sala e cozinha separadas</p>
+                    <p>🌿 Quintal com brita</p>
+                    <p>🧺 Área de serviço</p>
+                    <p>🚗 Vaga de garagem coberta</p>
+                    <p>🪑 Ficam no imóvel: planejados da cozinha e box</p>
+                    <p>🛣️ Rua pavimentada</p>
+                    <p>🏦 Semimobiliado</p>
+                    <br>
+                    <p>Diferenciais:</p>
+                    <p>📍 Excelente localização</p>
+                    <p>🛒 Próximo ao mercado Hiper Mais</p>
+                    <p>🏘️ Vizinhança tranquila</p>
+                    <p>🎓 Fácil acesso a escolas, academias, CEIs, farmácias, restaurantes e comércios em geral</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8e5f7fd28c6c4bb5ab63ec689a99c82f~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_8e5f7fd28c6c4bb5ab63ec689a99c82f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e5c612cc2a67481285b1ed5d0619e46a~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_e5c612cc2a67481285b1ed5d0619e46a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c1cd682bb07547129b72fa87b7069602~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_c1cd682bb07547129b72fa87b7069602~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_6b25f69a85004ad3a609dcaa355b3b42~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_6b25f69a85004ad3a609dcaa355b3b42~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f48d55b4b87f444295b247c4d776059e~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_f48d55b4b87f444295b247c4d776059e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6a24437b87ba4b7fb834527093219801~mv2.jpg/v1/fill/w_493,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_6a24437b87ba4b7fb834527093219801~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_92435a2c76d34737a9467a8d1b344df9~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_92435a2c76d34737a9467a8d1b344df9~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b2cb441a3f974dcebfd09f6a8ca40a46~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_b2cb441a3f974dcebfd09f6a8ca40a46~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_d4b681aab0464268832f41d5093cb0e4~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_d4b681aab0464268832f41d5093cb0e4~mv2.jpg     
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0974eedc871f40488e45ee0e7ef24894~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_0974eedc871f40488e45ee0e7ef24894~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_16ed562155e14c88ac0e15ac45a50a49~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_16ed562155e14c88ac0e15ac45a50a49~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c780451dbd62407cbb1b6bca7c045da0~mv2.jpg/v1/fill/w_876,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_c780451dbd62407cbb1b6bca7c045da0~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a2cbe9ef406c4641aff7d1d74a69bb43~mv2.jpg/v1/fill/w_493,h_657,al_c,q_85,usm_0.66_1.00_0.01/50072f_a2cbe9ef406c4641aff7d1d74a69bb43~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
