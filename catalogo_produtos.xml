@@ -13910,5 +13910,122 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2510</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-amplo-com-3-dormit%C3%B3rios-1-su%C3%ADte-em-itajub%C3%A1-barra-velha-sc</link_cliente>
+            <titulo>Sobrado Amplo com 2 Dormitórios + 1 Suíte em Itajubá – Barra Velha / SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <valor>700000</valor>
+            <area_util>115</area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Barra Velha</cidade>
+            <bairro>Itajubá</bairro>
+            <cep>88390-000</cep>
+            <endereco>Av. Itajuba</endereco>
+            <numero>2600</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>📍 A apenas 700 metros da Praia</p>
+                    <p>📅 Previsão de entrega: Fevereiro / 2026</p>
+                    <p>📐 Área privativa: 115m²</p>
+                    <p>🏘️ Unidade disponível: Nº 3</p>
+                    <br>
+                    <p>🛋️ Composição do Imóvel</p>
+                    <p>✅ Sala de estar</p>
+                    <p>✅ Cozinha</p>
+                    <p>🛏️ 3 dormitórios (sendo 1 suíte com sacada)</p>
+                    <p>🚿 2 banheiros</p>
+                    <p>🧺 Lavanderaria fechada</p>
+                    <p>🔥 Churrasqueira para seus momentos de lazer</p>
+                    <p>🚗 Garagem privativa</p>
+                    <br>
+                    <p>🎯 Acabamentos e Diferenciais</p>
+                    <p>✅ Teto em gesso</p>
+                    <p>✅ Paredes com acabamento em alto padrão</p>
+                    <p>✅ Piso em porcelanato</p>
+                    <p>✅ Janelas e portas com venezianas em alumínio</p>
+                    <p>✅ Quintal com jardim</p>
+                    <p>✅ Preparação para TV a cabo e internet</p>
+                    <p>✅ Esperas para sistema de segurança com câmeras</p>
+                    <p>✅ Portão eletrônico</p>
+                    <br>
+                    <p>✨ Um sobrado moderno, espaçoso e com acabamento premium, perfeito para quem busca conforto e proximidade do mar em uma das regiões mais valorizadas de Barra Velha!</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7f7c67c94b314b2ea5e0174fbec21b09~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0fa806acb4b54b6fbff09626004f3eab~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_bc4e5d3403f741bf87309f2a3e263625~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cafacac8acd04f0daf5eda80aaa6fddb~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ab5d0c92cf46476aa975a8faebc2ccb7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3ac276c5e31c486387760039ae188399~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4b93c521b8964ded9e57ffa7a9c976f7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+           <area_privativa>
+                <item>Sala de estar</item>
+                <item>Cozinha</item>
+                <item>Sacada</item>
+                <item>Lavanderia</item>
+                <item>Churrasqueira</item>
+                <item>Quintal</item>
+                <item>Jardim</item>
+                <item>Acabamento em alto padrão</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
