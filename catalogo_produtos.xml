@@ -14139,5 +14139,182 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2512</referencia>
+            <codigo_cliente>0</codigo_cliente>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-para-loca%C3%A7%C3%A3o-no-andar-superior-com-2-quartos-em-araquari</link_cliente>
+            <titulo>Apartamento para locação no Andar Superior com 2 Quartos em Araquari</titulo>
+            <transacao>L</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <finalidade2></finalidade2>
+            <destaque>1</destaque>
+            <tipo>Apartamento</tipo>
+            <tipo2>0</tipo2>
+            <valor>1300</valor>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>0</area_total>
+            <area_util>60</area_util>
+            <conservacao>Novo</conservacao>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <despensa>0</despensa>
+            <bar>0</bar>
+            <cozinha>1</cozinha>
+            <quarto_empregada>0</quarto_empregada>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Centro</bairro>
+            <cep></cep>
+            <endereco></endereco>
+            <numero></numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                    <p>📐 60 m² de área privativa</p>
+                    <p>🛏️ 2 Quartos</p>
+                    <p>🛋️ Sala e cozinha conjugadas</p>
+                    <p>🚗 Garagem privativa</p>
+                    <p>🧺 Lavanderia interna e fechada</p>
+                    <p>🚪 Passagem lateral com acesso aos fundos</p>
+                    <br>
+                    <p>👮 Acesso à guarita</p>
+                    <p>🛣️ Rua pavimentada</p>
+                    <p>⬆️ Opção do andar superior</p>
+                    <br>
+                    <p>💰 Valor de Locação (Promoção): R$ 1.300/mês</p>
+                    <p>(Antes era R$ 1.400)</p>
+                    <br>
+                    <p>💡 Incluso no valor do aluguel</p>
+                    <p>✔️ Aluguel</p>
+                    <p>✔️ IPTU</p>
+                    <p>✔️ Taxa de lixo</p>
+                    <br>
+                    <p>💡 O inquilino paga</p>
+                    <p>✔️ Luz (transferência)</p>
+                    <p>✔️ Água (transferência)</p>
+                    <p>✔️ Seguro Incêndio Obrigatório (taxa única anual)</p>
+                    <p>✔️ Fiança locatícia</p>
+                    <br>
+                    <p>⭐ Benefícios</p>
+                    <p>✔️ Isento de condomínio</p>
+                    <p>✔️ Nunca habitado – primeira locação</p>
+                    <br>
+                    <p>📍 Localização</p>
+                    <p>Próximo à BR-280, escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f5d5be37cf8444cb81968edb0fa000e5~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8e1c18e779024a81bcd5f8e3b0186406~mv2.jpg
+                    </url>    
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f4c30fc5ab104393b2d537228cf5778f~mv2.jpg
+                    </url>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_bd39a730966042fca6ae8a5b65f3793a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_1f65b1dca76f4b47932bd7827205dff8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2b11417d40d04f85ac022a5362e84cd0~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fdff184867aa48eba08a7e4e6f6e34d1~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_009f098c78c54e87a1f67da08cbe75a5~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_50f3acb95d65413b900b6147d294916c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c1fe0ab75acf4d13ba2c99ee6b403c9c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                 <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_f13f23d5c8c74cc781b9c6d2b16a5bf3~mv2.jpg
+                    </url>   
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_e3d6a0c13a2c48a1baaac115ddc24b86~mv2.jpg
+                    </url>   
+                    <data_atualizacao></data_atualizacao>
+                </foto> 
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_aa53d160e9644f68b945ae3fe31d1bcf~mv2.jpg
+                    </url>   
+                    <data_atualizacao></data_atualizacao>
+                </foto>  
+                <foto>
+                    <url>
+                      https://static.wixstatic.com/media/50072f_d65a5eaccd7143cebfd25bd40adf1c54~mv2.jpg
+                    </url>   
+                    <data_atualizacao></data_atualizacao>
+                </foto>                                      
+            </fotos_imovel>
+            <latitude>0</latitude>
+            <longitude>0</longitude>
+            <video>0</video>
+           <area_comum>
+                <item>Guarita com acesso controlado</item>
+                <item>Garagem privativa</item>
+                <item>Rua pavimentada</item>
+            </area_comum>
+           <area_privativa>
+                <item>Lavanderia</item>
+                <item>Ventilação natural</item>
+                <item>Iluminação natural</item>
+                <item>Garagem privativa</item>
+                <item>Cozinha conjugada</item>
+            </area_privativa>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
