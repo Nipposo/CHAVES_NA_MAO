@@ -14027,5 +14027,117 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2511</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-com-2-su%C3%ADtes-em-itajub%C3%A1-barra-velha-sc</link_cliente>
+            <titulo>Sobrado Geminado com 2 Suítes em Itajubá – Barra Velha / SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa / Sobrado</tipo>
+            <valor>580000</valor>
+            <area_util>94</area_util>
+            <area_total>0</area_total>
+            <quartos>0</quartos>
+            <suites>2</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Barra Velha</cidade>
+            <bairro>Itajubá</bairro>
+            <cep>88390-000</cep>
+            <endereco>Av. Itajuba</endereco>
+            <numero>2600</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>📍 A apenas 1.000 metros da Praia</p>
+                <p>📐 Área construída: 94,75m²</p>
+                <p>🏦 Financiamento direto com a construtora até a entrega</p>
+                <p>📅 Previsão de entrega: Março / 2026</p>
+                <p>🚧 Fase atual da obra: Reboco</p>
+                <br>
+                <p>🛋️ Composição do Imóvel</p>
+                <p>✅ 2 suítes</p>
+                <p>✅ Possibilidade de 3º dormitório</p>
+                <p>✅ Sala de estar</p>
+                <p>✅ Cozinha</p>
+                <br>
+                <p>🔥 Churrasqueira</p>
+                <p>🧺 Lavanderia</p>
+                <p>🚗 2 vagas de garagem</p>
+                <br>
+                <p>🚨 ÚLTIMAS 2 UNIDADES DISPONÍVEIS (nº 2 e nº 4)</p>
+                <p>🌊 Viva próximo ao mar com conforto e qualidade em um sobrado moderno, bem localizado e com excelente padrão construtivo!</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9a7d2c906f764e8789a88d8eb9d3b863~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_80d07f9285804483832398097e601d0c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_12bd0e03f31e4b49a38c5cc30c8fa9e5~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_c1d3292c22034620b15e716f2206d3e3~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dca9f49d6e684cb09381558b61c8073e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_16150b57622d428e977f928ea7511826~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_0285bd788ea14e8f80f5e5e2e98fb066~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e2ace2b565e6439589f55deaad2cee23~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item>Sala de estar</item>
+                <item>Cozinha</item>
+                <item>Churrasqueira</item>
+                <item>Lavanderia</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
