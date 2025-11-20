@@ -15320,5 +15320,179 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>2516</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-reformada-em-excelente-padr%C3%A3o-com-2-dormit%C3%B3rios-e-amplo-terreno-no-par</link_cliente>
+            <titulo>Casa reformada com 2 dormitórios e amplo terreno no Paranaguamirim</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <valor>299900</valor>
+            <area_util>160</area_util>
+            <area_total>360</area_total>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Paranaguamirim</bairro>
+            <cep>89245-000</cep>
+            <endereco>Rua São Rafael Arcanjo</endereco>
+            <numero>573</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>🏦 Aceita carro, moto, imóvel de menor tamanho e valor + volta</p>
+                <p>🏦 Pode ser estudada permuta por geminados</p>
+                <br>
+                <p>🛋️ Composição do Imóvel</p>
+                <p>🛏️ 2 Dormitórios (um deles pode ser convertido em sala ampliada)</p>
+                <p>🛋️ Sala de estar</p>
+                <p>🍽️ Cozinha separada</p>
+                <p>🧱 Varanda ampla na parte frontal</p>
+                <p>🏠 Kitnet independente na parte frontal (atualmente alugada – renda imediata)</p>
+                <p>🧱 Terreno britado e murado</p>
+                <p>🚪 Portão de correr com espera para automatização</p>
+                <br>
+                <p>📏 Dimensões</p>
+                <p>📏 Área Total: 360 m²</p>
+                <p>📏 Área Construída: 160 m²</p>
+                <br>
+                <p>🎯 Acabamentos</p>
+                <p>⭐ Imóvel recém-reformado</p>
+                <p>⭐ Telhado totalmente novo em madeira de lei</p>
+                <p>⭐ Excelente padrão de acabamento</p>
+                <br>
+                <p>📍 Localização</p>
+                <p>📍 Próximo à avenida principal do bairro, onde existem diversos comércios</p>
+                <p>📍 Próximo ao Supermercado Alice</p>
+                <p>📍 Próximo ao Supermercado Vitorino</p>
+                <p>📍 Próximo à diversas farmácias da região</p>
+                <p>🛣️ Rua com projeto de pavimentação em andamento</p>
+                <br>
+                <p>⭐ Benefícios</p>
+                <p>⭐ Renda imediata com kitnet alugada</p>
+                <p>⭐ Escriturado e totalmente em dia</p>
+                <p>⭐ Ótima localização no bairro</p>
+                <p>⭐ Negociação facilitada</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_d619ca4371fb4be5883b8920163f9a27~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fbf34d72415444119e6e1c23715586ca~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_52e7c6bedbeb40498ab59c2566e9bd1e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_033edc168d6c4f348b97706e7a936550~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_83a39ac7b5614c8d901d8d56cf2bfa94~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_eeb2f8fbd4eb49e882a8fcb66a7213b2~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5778189502e64d1cbd13401a7066d8b0~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3a177b42ce784ad7b0ad721b16429d39~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_b2bd78f091a5437498c875e10114893a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fa3917df1e5c4f78bd2d7a35fb50a349~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_6a3726d4c0ce4fe8877061350777c686~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2d43d2454e3b4bbe9792481d486c733f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d28b56a106334ce387e198495e0f759e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f9c0f809d73a4a14993ce9cf5e40dc2a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a15fa635d63f43eab17c2bd82e181ada~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_a709b59ac4c14250bdd4280a75ddaa33~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item>Sala de estar</item>
+                <item>Cozinha</item>
+                <item>Varanda</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
