@@ -14810,5 +14810,173 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>2515</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-3-dormit%C3%B3rios-%C3%A0-venda-no-costa-e-silva-joinville-sc</link_cliente>
+            <titulo>Apartamento com 3 dormitórios à venda no Costa e Silva – Joinville/SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <valor>290000</valor>
+            <area_util>55</area_util>
+            <area_total>0</area_total>
+            <quartos>3</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Costa e Silva</bairro>
+            <cep>89220-410</cep>
+            <endereco>Rua José Manoel de Souza</endereco>
+            <numero>399</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>🏡 Apartamento com 3 dormitórios à venda no Costa e Silva – Joinville/SC</p>
+                <br>
+                <p>🛋️ Composição do Imóvel</p>
+                <p>🛏️ 3 Dormitórios</p>
+                <p>🚿 1 Banheiro</p>
+                <p>🛋️ Sala de estar, cozinha e jantar integrados</p>
+                <p>🌇 Sacada</p>
+                <p>🍽️ Cozinha mobiliada</p>
+                <p>🧼 Banheiro mobiliado</p>
+                <br>
+                <p>📏 Dimensões</p>
+                <p>📐 Área privativa: 55 m²</p>
+                <p>📏 Área total não informada</p>
+                <br>
+                <p>🎯 Acabamentos</p>
+                <p>✔️ Piso novo</p>
+                <p>✔️ Pintura nova</p>
+                <p>✔️ Portas internas novas</p>
+                <p>✔️ Puxadores novos</p>
+                <p>✔️ Luminárias modernas</p>
+                <br>
+                <p>📍 Localização</p>
+                <p>📍 Costa e Silva – Joinville/SC</p>
+                <p>🛒 Próximo dos principais comércios do bairro</p>
+                <br>
+                <p>⭐ Benefícios</p>
+                <p>⭐ Imóvel reformado</p>
+                <p>⭐ Localização estratégica</p>
+                <p>⭐ Ambientes integrados</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_54f4dea6095e49c78b6693e8db88c26f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_35425fa408e043beaa5010511aa28d5a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_638a1a5a9b6a4541b48b4c117492de82~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ce16a75e8a914b3e97397a20d7f498e2~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a7a681e3016d4945ab52b3622c74b3b3~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4189c3131e4f407abba581b09d6837ea~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b10ba857aaf3418ba1dfd6a497b90631~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_9bf7133f84534cbfa27530aa5de91784~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_9b4b46c9b9e54e78af2ee9a29478a4a8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_34fda77ed6954b719fb03b7d55b88218~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_f41012cdc2c44537b30ae29efb1c5212~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e35d37db4cbc4bb1b96e99a9f9e4e3a9~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_017fa3b2f5d64236ba92a7b9dcc04fba~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_10f6d416c9a644ed872e17075ed8433a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7938d996a40945118fc7051ffadee52b~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item>Sala de estar</item>
+                <item>Cozinha</item>
+                <item>Sala de jantar</item>
+                <item>Ambientes integrados</item>
+                <item>Sacada</item>
+                <item>Cozinha com armário(s)</item>
+                <item>Banheiro(s) com armário(s)</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
