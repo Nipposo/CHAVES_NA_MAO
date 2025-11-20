@@ -14636,5 +14636,179 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2514</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-para-loca%C3%A7%C3%A3o-com-amplo-terreno-e-2-dormit%C3%B3rios-em-araquari-santa-catarina</link_cliente>
+            <titulo>Casa para Locação com amplo terreno e 2 dormitórios em Araquari - Santa Catarina</titulo>
+            <transacao>L</transacao>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <valor>1699</valor>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>0</area_total>
+            <area_util>80</area_util>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Areias Pequenas</bairro>
+            <cep>89245-000</cep>
+            <endereco>Rua Dorival Corrêa</endereco>
+            <numero>132</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+             <![CDATA[
+                <p>💰 Valor: R$ 120.000,00 + assumir 132 parcelas de R$ 935,00 direto com a loteadora</p>
+                <p>🏦 Aceita financiamento direto com a loteadora</p>
+                <br>
+
+                <p>🛋️ Composição do Imóvel</p>
+                <p>🛏️ 2 Dormitórios</p>
+                <p>🛋️ Sala de estar</p>
+                <p>🍽️ Cozinha conjugada</p>
+                <p>🧺 Lavanderia separada</p>
+                <p>🚿 Banheiro</p>
+                <p>🚗 Garagem coberta para até 2 carros</p>
+                <br>
+
+                <p>🏠 Edícula com todas as esperas prontas para área gourmet</p>
+                <p>🌬️ 2 Ar-condicionados revisados</p>
+                <p>🌬️ Painel de TV</p>
+                <p>🌬️ Mobília no banheiro</p>
+                <p>🚪 Portão de elevação</p>
+                <p>🌿 Terreno britado</p>
+                <p>🚶 Acesso para veículos e pedestres individualizado</p>
+                <p>🧼 Limpeza completa feita</p>
+                <br>
+
+                <p>📏 Dimensões</p>
+                <p>📐 Área construída: 80 m² (contando edícula)</p>
+                <p>📏 Terreno: 10 x 20 m</p>
+                <br>
+
+                <p>📍 Localização</p>
+                <p>📍 Areias Pequenas – Araquari</p>
+                <p>🛣️ Rua pavimentada</p>
+                <p>🛒 Próximo a comércios</p>
+                <p>🛣️ A 3 min do Komprão Atacadista</p>
+                <p>🛣️ Fácil acesso pela rotatória da BR-280</p>
+            ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_7d9ee31659654718baa5ec0329f288a2~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6ef1640759ec40b3b89ead1cc081f49e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_0c63dea8467c4099bfdd5fecbf7e6ea3~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_dd268f9c6e5c42559a03b57b0aae4e8c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_e4c335cf58f74c698d3e357f7ef727e7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_de6421b503344850a1b617b1377ee237~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6fb50e6095c648708e8f73c137033f2c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6a181a89f8d54b26a417da13f7302c29~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5e286902b9d643a488f6a95383b09748~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_95096735c9c74e40a8fc43d898c31254~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e2ddf8c4b8574decbe79e67f27a58694~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_4ab1ed4b435044ceb42258b84bfa27d4~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9b316afb6d52400ab96a545bf37541ac~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3b6c30d8ab1343888ff55ffb5a740704~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_604f9798f871400dad70df55f5aede2d~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>                               
+            </fotos_imovel>
+            <area_privativa>
+                <item>Sala de estar</item>
+                <item>Cozinha conjugada</item>
+                <item>Lavanderia</item>
+                <item>Banheiro social</item>
+                <item>Edícula</item>
+                <item>Ar Condicionado</item>
+                <item>Estacionamento</item>
+            </area_privativa>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
