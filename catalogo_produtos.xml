@@ -13412,7 +13412,7 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>2503</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-para-alugar-no-bairro-paranaguamirim-em-joinville</link_cliente>
             <titulo>Casa para Alugar com 2 Dormitórios no Paranaguamirim em Joinville - Santa Catarina</titulo>
@@ -13585,7 +13585,7 @@
                 <item>Jardim gramado</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <imovel>
             <referencia>2438</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sobrado-geminado-semimobiliado-com-suite-itinga-araquari</link_cliente>
