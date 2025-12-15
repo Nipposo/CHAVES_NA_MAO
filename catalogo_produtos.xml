@@ -15807,6 +15807,7 @@
                 <item>Piscina</item>
                 <item>Portão eletrônico</item>
                 <item>Elevador</item>
+                <item>Churrasqueira</item>
             </area_comum>
             <area_privativa>
                 <item>Cozinha</item>
@@ -15814,7 +15815,6 @@
                 <item>Sala de jantar</item>
                 <item>Sacada</item>
                 <item>Área de serviço</item>
-                <item>Churrasqueira</item>
                 <item>Banheiro social</item>
                 <item>Lavanderia</item>
             </area_privativa>
