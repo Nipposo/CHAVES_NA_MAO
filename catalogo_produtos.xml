@@ -15554,5 +15554,123 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2519</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-geminada-na-planta-com-2-dormit%C3%B3rios-no-itinga-araquari-sc</link_cliente>
+            <titulo>Casa Geminada na Planta com 2 dormitórios no Itinga – Araquari / SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <valor>250000</valor>
+            <area_util>50</area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>0</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Itinga</bairro>
+            <cep>89212-210</cep>
+            <endereco>Rua Carlos Luiz Weber</endereco>
+            <numero>329</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>🏦 Entrada parcelada</p>
+                <p>🛣️ Imóvel na Planta</p>
+                <p>📅 Entrega prevista: Novembro / 2026</p>
+                <br>
+                <p>🛋️ Composição do Imóvel</p>
+                <p>🛏️ 2 Dormitórios</p>
+                <p>🛋️ Sala de estar</p>
+                <p>🍳 Cozinha</p>
+                <p>🚿 Banheiro</p>
+                <p>🚗 1 vaga de garagem descoberta</p>
+                <p>🚪 Portão em alumínio</p>
+                <br>
+                <p>📏 Dimensões</p>
+                <p>📐 Área construída: 50 m²</p>
+                <p>📏 Frente: 13 m</p>
+                <p>📏 Abertura: 4,30 m</p>
+                <p>📏 Fundos: 5 m</p>
+                <br>
+                <p>🎯 Acabamentos</p>
+                <p>✔️ Massa corrida</p>
+                <p>✔️ Porcelanato</p>
+                <br>
+                <p>📍 Localização</p>
+                <p>📍 Bairro Itinga – Araquari / SC</p>
+                <p>🛣️ Rua pavimentada</p>
+                <p>🛒 Próximo a comércios locais</p>
+                <p>🏫 Próximo a escolas</p>
+                <p>🚌 Fácil acesso ao transporte público</p>
+                <p>🛣️ Região com fácil deslocamento para o centro e bairros próximos</p>
+                <br>
+                <p>⭐ Benefícios</p>
+                <p>⭐ Imóvel na planta</p>
+                <p>⭐ Possibilidade de parcelar a entrada</p>
+                <p>⭐ Bairro em crescimento e valorização</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e04bb8d2ea8c47c8a2acf3be5d612f4e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_94722103ceda47ae92c307c6bdbde636~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5ec728bd94c746dd8ae740fe3c22d1ec~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e39fe7b727b24c1daa2d945f03195806~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fbe1d5b058ef4f95b8d2813e5ac187c1~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8b004628d1914cda838863229cc541b7~mv2.jpeg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <area_privativa>
+                <item>Sala de estar</item>
+                <item>Cozinha</item>
+                <item>Banheiro social</item>
+                <item>Quarto(s)</item>
+                <item>Estacionamento</item>
+                <item>Portão em alumínio</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
