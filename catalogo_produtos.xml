@@ -15660,5 +15660,165 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2518</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-3-quartos-no-bairro-am%C3%A9rica-joinville-sc</link_cliente>
+            <titulo>Apartamento com 3 Quartos no Bairro América – Joinville / SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Apartamento</tipo>
+            <valor>560000</valor>
+            <area_util></area_util>
+            <area_total>0</area_total>
+            <quartos>2</quartos>
+            <suites>1</suites>
+            <garagem>1</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>0</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>América</bairro>
+            <cep>89212-210</cep>
+            <endereco>Rua Timbó</endereco>
+            <numero>145</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>🛋️ Composição do Imóvel</p>
+                <p>✔️ Cozinha</p>
+                <p>✔️ Sala de estar</p>
+                <p>✔️ Sala de jantar</p>
+                <p>✔️ Sacada</p>
+                <p>✔️ Área de serviço</p>
+                <p>✔️ Churrasqueira</p>
+                <p>✔️ Elevador</p>
+                <p>✔️ Portão eletrônico</p>
+                <p>✔️ Piscina</p>
+                <p>✔️ Salão de festas</p>
+                <p>✔️ Playground</p>
+                <p>✔️ Ponto de ar-condicionado</p>
+                <p>✔️ 1 suíte</p>
+                <p>✔️ 2 quartos</p>
+                <p>✔️ 1 banheiro social</p>
+                <p>✔️ Lavanderia</p>
+                <p>✔️ Vaga de garagem coberta</p>
+                <p>✔️ Semimobiliado</p>
+                <br>
+                <p>✔️ Itens que ficam no imóvel:</p>
+                <p>• Guarda-roupas da suíte</p>
+                <p>• Guarda-roupas do quarto</p>
+                <p>• Cozinha planejada</p>
+                <br>
+                <p>🧱 Acabamentos</p>
+                <p>✔️ Massa corrida</p>
+                <p>✔️ Piso cerâmico</p>
+                <br>
+                <p>📍 Localização</p>
+                <p>Localizado no Bairro América, uma região valorizada e próxima a mercados, escolas, farmácias, padarias e com fácil acesso ao Centro de Joinville.</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3ad86e42e00249439e5c603a296bdc44~mv2.jpg/v1/fill/w_340,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_3ad86e42e00249439e5c603a296bdc44~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ca308e7a6ec44da988f00688091f7955~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_ca308e7a6ec44da988f00688091f7955~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dd70f34f581b4d128c0d49cd219ed6ca~mv2.jpg/v1/fill/w_340,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_dd70f34f581b4d128c0d49cd219ed6ca~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_838b4aa26e9244709a5f86c53dcb45eb~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_838b4aa26e9244709a5f86c53dcb45eb~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_52ba2d25b3a94b06bddc49369fca47df~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_52ba2d25b3a94b06bddc49369fca47df~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_dc5a9ef8e34a4d75844b2db2bd479fea~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_dc5a9ef8e34a4d75844b2db2bd479fea~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9971abbae90946ab9a9de905af517662~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_9971abbae90946ab9a9de905af517662~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_19d1a5326b4c47acbbe9b0ca9344092b~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_19d1a5326b4c47acbbe9b0ca9344092b~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_45f23a50fcc543db8972770c705677a6~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_45f23a50fcc543db8972770c705677a6~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b30b838eb28f4fdfbd1f809fd493afec~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_b30b838eb28f4fdfbd1f809fd493afec~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_2f5229eee8514ca890ea1369658e3d4a~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_2f5229eee8514ca890ea1369658e3d4a~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_36b31bda09544e558c57b6aaeda7927d~mv2.jpg/v1/fill/w_604,h_453,al_c,q_85,usm_0.66_1.00_0.01/50072f_36b31bda09544e558c57b6aaeda7927d~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>              
+            </fotos_imovel>
+           <area_comum>
+                <item>Playground</item>
+                <item>Salão de festas</item>
+                <item>Piscina</item>
+                <item>Portão eletrônico</item>
+                <item>Elevador</item>
+            </area_comum>
+            <area_privativa>
+                <item>Cozinha</item>
+                <item>Sala de estar</item>
+                <item>Sala de jantar</item>
+                <item>Sacada</item>
+                <item>Área de serviço</item>
+                <item>Churrasqueira</item>
+                <item>Banheiro social</item>
+                <item>Lavanderia</item>
+            </area_privativa>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
