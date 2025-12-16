@@ -15500,8 +15500,8 @@
                 </foto>                        
             </fotos_imovel>
             <area_privativa>
-            <item>Banheiro social</item>
-            <item>Estacionamento</item>
+                <item>Banheiro social</item>
+                <item>Estacionamento</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
