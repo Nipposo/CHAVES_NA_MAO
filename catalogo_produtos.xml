@@ -14563,7 +14563,7 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>965</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-com-3-dormit%C3%B3rios-para-alugar-no-costa-e-silva-joinville-sc</link_cliente>
             <titulo>Apartamento com 3 dormitórios para alugar no Costa e Silva – Joinville/SC</titulo>
@@ -14733,7 +14733,7 @@
                 <item>Guarita com segurança</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <imovel>
             <referencia>2516</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-reformada-em-excelente-padr%C3%A3o-com-2-dormit%C3%B3rios-e-amplo-terreno-no-par</link_cliente>
