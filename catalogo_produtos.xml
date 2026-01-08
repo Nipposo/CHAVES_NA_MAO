@@ -15409,5 +15409,172 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>2148</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-tr%C3%AAs-quartos-no-iriri%C3%BA</link_cliente>
+            <titulo>Casa com Três Quartos no Iririú - Joinville - Santa Catarina</titulo>
+            <transacao>L</transacao>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Casa</tipo>
+            <valor>2200</valor>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>450</area_total>
+            <area_util></area_util>
+            <quartos>3</quartos>
+            <suites></suites>
+            <garagem>2</garagem>
+            <banheiro>1</banheiro>
+            <closet>0</closet>
+            <salas>1</salas>
+            <cozinha>1</cozinha>
+            <escritorio>0</escritorio>
+            <area_servico>1</area_servico>
+            <lareira>0</lareira>
+            <varanda>0</varanda>
+            <lavanderia>1</lavanderia>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Iririu</bairro>
+            <cep>89227-200</cep>
+            <endereco>Rua Toribio Soares Pereira</endereco>
+            <numero>284</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+             <![CDATA[
+                <p>📐 Características do Imóvel</p>
+                <p>📐 Área total de 450m², com amplo espaço</p>
+                <p>🛏️ 3 Quartos</p>
+                <p>🛋️ Sala e cozinha separadas</p>
+                <p>🚗 2 vagas de garagem, sendo 1 coberta</p>
+                <p>🌿 Quintal com brita</p>
+                <p>🧺 Lavanderia separada</p>
+                <p>🛣️ Rua pavimentada</p>
+                <br>
+
+                <p>🟩 INCLUSO NO VALOR</p>
+                <p>✔️ Aluguel</p>
+                <p>✔️ IPTU</p>
+                <p>✔️ Taxa de lixo</p>
+                <br>
+
+                <p>💡 INQUILINO PAGA</p>
+                <p>✔️ Luz (transferência)</p>
+                <p>✔️ Água (transferência)</p>
+                <p>✔️ Seguro incêndio obrigatório (taxa única anual)</p>
+                <p>✔️ Seguro locatício</p>
+                <br>
+
+                <p>📍 Localização</p>
+                <p>📍 Próximo ao Colégio Santo Antônio</p>
+                <p>🏫 Escolas e CEIs</p>
+                <p>🏥 Farmácias</p>
+                <p>🍽️ Restaurantes</p>
+                <p>🛒 Comércios em geral</p>
+            ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_1ed94afa64594671897266d9fd43a6f4~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_7c08039334a540a2a5c0fc8d8e2566f1~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3f1bf143e36b43db9fc55b6b9f38f05b~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_39d18a7e267e439189c0168f83fb0195~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_a12e155fb1b3404eb13652ae9997bfe7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f72a59da0965461e88fabafd49a7c64f~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_4f980986158e4df2abfafa5c48942c01~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_69b1b956076a448dad4ad8af7b7942dd~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_02ef8924e3634683945289fe741f5adb~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d47e9fd9ee0046d994a8c1b2fa93d27c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_42ea9577501449b582fc09a168aaeff1~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_60f889f35b394ff5a639cd867322fc0b~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ebd750ed26b14e4e8fa93c4d09fbbf33~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f148ff8a6ae1409e903717c9501db567~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_192462986cad4a32a9ae51750b5f48f4~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>                               
+            </fotos_imovel>
+            <area_privativa>
+                <item>Cozinha</item>
+                <item>Sala de estar</item>
+                <item>Estacionamento</item>
+                <item>Quintal</item>
+                <item>Lavanderia</item>
+            </area_privativa>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
