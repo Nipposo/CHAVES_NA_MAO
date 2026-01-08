@@ -2149,11 +2149,22 @@
             <complemento>Terreno 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-                <![CDATA[<p>- Área total de 240m², sendo 10x24;</p>
-                <p>- Terreno plano;</p>
-                <p>- Terreno escriturado.</p>
+               <![CDATA[
+                <p>📐 Características do Terreno</p>
+                <p>📏 Área total de 240m²</p>
+                <p>📐 Medidas: 10 x 24</p>
+                <p>🌱 Terreno plano</p>
+                <p>📄 Escriturado</p>
+                <br>
 
-                <p>- Em ótima localização, próximo à pracinha, bem como próximo de escolas, CEIs, postos de combustível, posto de saúde, entre outros comércios em geral.</p>]]>
+                <p>📍 Localização</p>
+                <p>📍 Ótima localização</p>
+                <p>🌳 Próximo à pracinha</p>
+                <p>🏫 Próximo a escolas e CEIs</p>
+                <p>⛽ Postos de combustível</p>
+                <p>🏥 Posto de saúde</p>
+                <p>🛒 Comércios em geral</p>
+                ]]>
             </descritivo>
             <fotos_imovel>
                 <foto>
