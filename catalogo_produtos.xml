@@ -13478,7 +13478,7 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>2513</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-para-loca%C3%A7%C3%A3o-no-andar-superior-com-3-quartos-em-araquari</link_cliente>
             <titulo>Apartamento para locação no Andar Superior com 3 Quartos em Araquari</titulo>
@@ -13630,7 +13630,7 @@
                 <item>Lavanderia</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <imovel>
             <referencia>2458</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-amplo-terreno-e-2-dormit%C3%B3rios-em-araquari-santa-catarina</link_cliente>
