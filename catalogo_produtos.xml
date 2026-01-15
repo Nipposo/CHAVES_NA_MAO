@@ -13301,7 +13301,7 @@
             </area_privativa>
             <aceita_troca>1</aceita_troca>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>2512</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-para-loca%C3%A7%C3%A3o-no-andar-superior-com-2-quartos-em-araquari</link_cliente>
@@ -13477,7 +13477,7 @@
                 <item>Cozinha conjugada</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <!-- <imovel>
             <referencia>2513</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-para-loca%C3%A7%C3%A3o-no-andar-superior-com-3-quartos-em-araquari</link_cliente>
