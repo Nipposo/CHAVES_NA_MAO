@@ -6386,7 +6386,7 @@
             </area_privativa>
             <aceita_troca>0</aceita_troca>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>2451</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/apartamento-t%C3%A9rreo-novo-com-tr%C3%AAs-quartos-em-araquari</link_cliente>
@@ -6541,7 +6541,7 @@
                 <item>Imóvel novo, primeira locação</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
         <!-- <imovel>
             <referencia>2452</referencia>
             <codigo_cliente>0</codigo_cliente>
