@@ -2450,17 +2450,26 @@
             <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-                <![CDATA[<p>- Área total de 80m², abertura de 3.15m, frente de 10.50m e fundos de 5.40m;</p>
-                <p>- Acabamento alto padrão;</p>
-                <p>- Duas suítes;</p>
-                <p>- Sala e cozinha conjugada;</p>
-                <p>- Área gourmet com churrasqueira;</p>
-                <p>- Lavanderia separada;</p>
-                <p>- Duas vagas de garagem;</p>
-                <p>- Quintal acimentado;</p>
-                <p>- Rua pavimentada.</p>
+                <![CDATA[
+                <p>📐 Área total de 80m²</p>
+                <p>↔️ Abertura de 3,15m</p>
+                <p>📏 Frente de 10,50m</p>
+                <p>🌿 Fundos de 5,40m</p>
+                <p>🛏️ 2 suítes</p>
+                <p>🛋️ Sala e cozinha conjugadas</p>
+                <p>🍖 Área gourmet com churrasqueira</p>
+                <p>🧺 Lavanderia separada</p>
+                <p>🚗 2 vagas de garagem</p>
+                <p>🌱 Quintal acimentado</p>
+                <p>🛣️ Rua pavimentada</p>
+                <p>✨ Acabamento alto padrão</p>
+                <br>
 
-                <p>- Em ótima localização, próximo ao Binário - Bem como próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral.</p>]]>
+                <p>📍 Localização</p>
+                <p>📌 Em ótima localização</p>
+                <p>📌 Próximo ao Binário</p>
+                <p>📌 Próximo a escolas, CEIs, farmácias, restaurantes e comércios em geral</p>
+                ]]>
             </descritivo>
             <fotos_imovel>
                 <foto>
