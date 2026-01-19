@@ -14823,7 +14823,7 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
-        <imovel>
+        <!-- <imovel>
             <referencia>2148</referencia>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/casa-com-tr%C3%AAs-quartos-no-iriri%C3%BA</link_cliente>
             <titulo>Casa com Três Quartos no Iririú - Joinville - Santa Catarina</titulo>
@@ -14989,6 +14989,6 @@
                 <item>Lavanderia</item>
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
-        </imovel>
+        </imovel> -->
     </imoveis>
 </Document>
