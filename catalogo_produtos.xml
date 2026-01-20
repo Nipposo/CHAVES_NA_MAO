@@ -14989,5 +14989,129 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel> -->
+        <imovel>
+            <referencia>2521</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/terreno-com-390m-no-bairro-paranaguamirim-joinville-sc</link_cliente>
+            <titulo>🏡 Terreno com 390m² no Bairro Paranaguamirim – Joinville / SC</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>0</destaque>
+            <tipo>Terreno</tipo>
+            <valor>200000</valor>
+            <area_util>0</area_util>
+            <area_total>390</area_total>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Paranaguamirim</bairro>
+            <cep>89231-740</cep>
+            <endereco>Rua Esmirna</endereco>
+            <numero>132</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>📐 Área total de 390m²</p>
+                <p>📏 Medidas: 13 x 30 metros</p>
+                <p>⛰️ Terreno alto</p>
+                <p>🚫 Longe de enchentes</p>
+                <p>📌 A apenas 150 metros do Supermercado Hipermais</p>
+                <p>📌 Região com fácil acesso e boa infraestrutura</p>
+                <br>
+
+                <p>📞 Entre em contato</p>
+                <p>📲 (47) 99275-9287</p>
+                <p>🌐 www.primevilleimoveis.com.br</p>
+                <p>🔑 Referência do imóvel: 2521</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_2b2ee398a74143819807d4c384ae1197~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6247984d4ae64db58535f6f6878aa84e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_78feca864373435ab18b54dfabbbf4f8~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9a243b52bc8143e8bccc7971797caff9~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3c64cca23e844d8d85e7aa8cc95039c9~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_ad49e695a2d14722a082c33ff63a92a0~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_995dcb12d504455db39cbc360f500ad9~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_c893c50ed61241848deb2ea338f09020~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_e95ba01244c648babdda095a4fbdcd20~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_9962676c429c4f9997dd9b0dbc477033~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>   
+                        https://static.wixstatic.com/media/50072f_2c7c8fa760ba484b916d47561e0d24c9~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fc15726d4bdf45efb8c0d1988b49ef87~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_0f3ea3eae5ed42ac8a4623e338619a9a~mv2.jpg 
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fa55650df37a48ebbde6ac6dc41d125c~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
