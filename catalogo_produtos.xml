@@ -2826,7 +2826,7 @@
             <destaque>0</destaque>     
             <tipo>Terreno</tipo>
             <tipo2>0</tipo2>
-            <valor>145000.000</valor>
+            <valor>155000</valor>
             <valor_locacao>0</valor_locacao>
             <valor_iptu>200</valor_iptu>
             <valor_condominio>0</valor_condominio>
