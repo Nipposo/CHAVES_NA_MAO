@@ -15113,5 +15113,165 @@
             </fotos_imovel>
             <aceita_troca>1</aceita_troca>
         </imovel>
+        <imovel>
+            <referencia>2522</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/salas-comerciais-na-avenida-principal-do-petr%C3%B3polis</link_cliente>
+            <titulo>Salas Comerciais na Avenida Principal do Petrópolis - Joinville - Santa Catarina</titulo>
+            <transacao>L</transacao>
+            <finalidade>CO</finalidade>
+            <destaque>0</destaque>
+            <tipo>Sala</tipo>
+            <valor>3600</valor>
+            <valor_iptu>0</valor_iptu>
+            <valor_condominio>0</valor_condominio>
+            <area_total>0</area_total>
+            <area_util>138</area_util>
+            <garagem>4</garagem>
+            <banheiro>2</banheiro>
+            <cozinha>1</cozinha>
+            <estado>Santa Catarina</estado>
+            <cidade>Joinville</cidade>
+            <bairro>Petrópolis</bairro>
+            <cep>89208-301</cep>
+            <endereco>Rua Petrópolis</endereco>
+            <numero>560</numero>
+            <complemento>0</complemento>
+            <esconder_endereco_imovel>1</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>🛠️ Imóvel em reforma</p>
+                <p>📅 Disponível a partir de Fevereiro</p>
+                <br>
+
+                <p>💰 Valores de Locação</p>
+                <p>💼 Sala com 48m² — R$ 1.575,00 / mês</p>
+                <p>💼 Sala com 90m² — R$ 2.375,00 / mês</p>
+                <p>💼 Salas unificadas (138m²) — R$ 3.600,00 / mês</p>
+                <p>✨ Desconto de R$ 350,00 na locação conjunta</p>
+                <br>
+
+                <p>📦 Incluso no valor</p>
+                <p>✔️ IPTU</p>
+                <p>✔️ Taxa de lixo</p>
+                <br>
+
+                <p>💡 Despesas do inquilino</p>
+                <p>⚡ Energia elétrica (transferência)</p>
+                <p>🚿 Água (transferência)</p>
+                <p>🔥 Seguro incêndio obrigatório (taxa anual única)</p>
+                <p>🔒 Fiança locatícia</p>
+                <br>
+
+                <p>📐 Características do Imóvel</p>
+                <p>🧩 6 divisórias</p>
+                <p>🚻 Banheiro masculino e PCD</p>
+                <p>🚺 Banheiro feminino</p>
+                <p>🍽️ Cozinha com refeitório</p>
+                <p>❄️ Ponto para ar-condicionado</p>
+                <p>🚗 4 vagas de garagem</p>
+                <p>🚪 Portão de correr</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_5fec4792f8d0424ebd83aa2eabea8467~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_fb8cafe3f8f1472aa1895a1a0dda1608~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_cfc99626ab7e44d3b09422a6ce0b0980~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_ba90db2d9886413994255d86850be1c6~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_d6bb673767dc4e6289ce04e2924259b0~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_b8d3f381ec14406da7a4617b1ca62d30~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_d7353afbd7c146359bcadb4b9afa04f4~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1103ce0681814e43a02e7974e0ff5c0d~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_66c54a3b87bd4067be478640f2b4185e~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_6677dc99d6b14130a4f7b8511e44e694~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_f388975003cf4784bf6c6fedcdcb2d70~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_8250695d8b744c8eb1b297ecad5e2f43~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_bda7d47f3f1c4362ae14bffd743ddd7b~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_84353f3bee27446a9274ec02c044f56f~mv2.jpg
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                       https://static.wixstatic.com/media/50072f_4fb49f55c16d487090a1fac6e206a375~mv2.jpg 
+                    </url>  
+                    <data_atualizacao></data_atualizacao>
+                </foto>                               
+            </fotos_imovel>
+            <area_privativa>
+            <item>Banheiro social</item>
+            <item>Banheiro PNE</item>
+            <item>Cozinha</item>
+            <item>Refeitório</item>
+            <item>Estacionamento</item>
+            </area_privativa>
+            <periodo_locacao>1</periodo_locacao>
+        </imovel>
     </imoveis>
 </Document>
