@@ -5298,7 +5298,7 @@
             <referencia>2439</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/sala-comercial-de-240m-no-bairro-itinga-araquari</link_cliente>
-            <titulo>Sala Comercial de 240m² no bairro Itinga-Araquari</titulo>
+            <titulo>Sala Comercial de 240m² no bairro Itinga - Araquari - Santa Catarina</titulo>
             <transacao>L</transacao>
             <transacao2>0</transacao2>
             <finalidade>CO</finalidade>
@@ -5306,7 +5306,7 @@
             <destaque>1</destaque>     
             <tipo>Conj. Comercial / Sala</tipo>
             <tipo2>0</tipo2>
-            <valor>10000.00</valor>
+            <valor>10000</valor>
             <valor_iptu>0</valor_iptu>
             <valor_condominio>0</valor_condominio>
             <area_total>240</area_total>
@@ -5336,77 +5336,129 @@
             <complemento>Sala comercial</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
-                <![CDATA[
-                    <p><strong>𝐈𝐍𝐂𝐋𝐔𝐒𝐎:</strong></p>
-                    <p>Aluguel.</p>
-                    <p>IPTU.</p>
-                    <p>Taxa de Lixo.</p>
-                    <p>Fiança Locatícia.</p>
-                    <p><strong>𝐈𝐍𝐐𝐔𝐈𝐋𝐈𝐍𝐎 𝐏𝐀𝐆𝐀:</strong></p>
-                    <p>Luz transfere.</p>
-                    <p>Água transfere.</p>
-                    <p>Seguro Incêndio Obrigatório (taxa única anual).</p>
-                    <p>Bairro Itinga-Araquari.</p>
-                    <p>Pode ser alugado inteiro, dividido em duas ou quatro partes.</p>
-                    <p>Área construída de 240m² por piso.</p>
-                    <p>Piso industrial polido.</p>
-                    <p>Um banheiro pronto e com espera pronta para até quatro.</p>
-                    <p>Oito vagas de estacionamento.</p>
-                    <p>Permitido todo tipo de comércio, até 24hrs.</p>
-                    <p>Entrega para agosto/25.</p>
-                    <p>Rua pavimentada.</p>
-                    <p>Em ótima localização, próximo a BR-280 - Rodovia, em uma via comercial de fácil acesso a outros bairros.</p>
+               <![CDATA[
+                <p>🛠️ Imóvel em reforma</p>
+                <p>📅 Disponível a partir de Fevereiro</p>
+                <br>
+
+                <p>💰 Valores de Locação</p>
+                <p>💼 Sala com 48m² — R$ 1.575,00 / mês</p>
+                <p>💼 Sala com 90m² — R$ 2.375,00 / mês</p>
+                <p>💼 Salas unificadas (138m²) — R$ 3.600,00 / mês</p>
+                <p>✨ Desconto de R$ 350,00 na locação conjunta</p>
+                <br>
+
+                <p>📦 Incluso no valor</p>
+                <p>✔️ IPTU</p>
+                <p>✔️ Taxa de lixo</p>
+                <br>
+
+                <p>💡 Despesas do inquilino</p>
+                <p>⚡ Energia elétrica (transferência)</p>
+                <p>🚿 Água (transferência)</p>
+                <p>🔥 Seguro incêndio obrigatório (taxa anual única)</p>
+                <p>🔒 Fiança locatícia</p>
+                <br>
+
+                <p>📐 Características do Imóvel</p>
+                <p>🧩 6 divisórias</p>
+                <p>🚻 Banheiro masculino e PCD</p>
+                <p>🚺 Banheiro feminino</p>
+                <p>🍽️ Cozinha com refeitório</p>
+                <p>❄️ Ponto para ar-condicionado</p>
+                <p>🚗 4 vagas de garagem</p>
+                <p>🚪 Portão de correr</p>
                 ]]>
             </descritivo>
             <fotos_imovel>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_fb52ac4183f74157b9aac269326c8a1a~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_75a02990bf9c48b7b311d3993f3e083c~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_11ce3e7b108d4dde882c58069d07d7e4~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_eb6d9656c5244c39bffbf66e5169f1b3~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_5bfca10af03546599a089ddf0f8ff6d2~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_7f08c7ec088645d3a7507118baedc4c7~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_ade006ead98f4a0f8be2ecedda2313ae~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_bbf0eeddfddc47cda24a4a15cf05484e~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_4bd9dafa8ba14de6a4df4d1b24b7d901~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_4731e7bd728f4e708c25286634873b6c~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_85b7cad2b2644d3baf9ee77fd880ed24~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_6d692c2d604142728bcb080b2a446957~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_edb01def94d04f318b9573c43ce6b109~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_a8a1a947c7ac4bfda8106374c6c7fae3~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_0cc7063579dc43e7a65de3cecaa82238~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_a3756edde5c74e4ebaa95b6bd90c2e4e~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_9ede6fa478c540718c923efc424d7ef4~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_431d71142f8c4fc6aac8d6fa666ffffc~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
                 <foto>
                     <url>
-                        https://static.wixstatic.com/media/50072f_3b838815e4ef4c14851e0adbb8d5b497~mv2.jpg</url>
+                        https://static.wixstatic.com/media/50072f_6ccb4b5231ee4013b92d1c009cc77157~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_1e70d47ee67a4873bc6691415ccd81ea~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_123f8cbadd3c4019b6cc3e234fe60ee7~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_191941b2bd1946db9c9b5086791d3af4~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_02c286f1687542ca8b1a1de7042cd7dc~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_e386cabf30f7496db25475b1fdcfc3a0~mv2.jpg
+                    </url>
                     <data_atualizacao></data_atualizacao>
                 </foto>
             </fotos_imovel>
