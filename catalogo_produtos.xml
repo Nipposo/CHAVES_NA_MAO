@@ -14891,5 +14891,78 @@
             </area_privativa>
             <periodo_locacao>1</periodo_locacao>
         </imovel>
+        <imovel>
+            <referencia>2437</referencia>
+            <link_cliente>https://www.primevilleimoveis.com.br/imovel/promo%C3%A7%C3%A3o-terreno-abaixo-do-mercado-em-porto-grande-araquari</link_cliente>
+            <titulo>🔥 Promoção! Terreno abaixo do mercado em Porto Grande – Araquari - Santa Catarina</titulo>
+            <transacao>V</transacao>
+            <transacao2>0</transacao2>
+            <finalidade>RE</finalidade>
+            <destaque>1</destaque>
+            <tipo>Terreno / Lote</tipo>
+            <valor>145000</valor>
+            <area_util>416</area_util>
+            <area_total>416</area_total>
+            <estado>Santa Catarina</estado>
+            <cidade>Araquari</cidade>
+            <bairro>Porto Grande</bairro>
+            <cep>89245-000</cep>
+            <endereco>Rua Antônio Teixeira</endereco>
+            <numero>132</numero>
+            <complemento></complemento>
+            <esconder_endereco_imovel>0</esconder_endereco_imovel>
+            <descritivo>
+                <![CDATA[
+                <p>📐 Características do Terreno</p>
+                <p>📏 Área total: 416m²</p>
+                <p>↔️ Largura: 13 metros</p>
+                <p>↕️ Comprimento: 32 metros</p>
+                <br>
+                <p>🟢 Terreno plano</p>
+                <p>🛣️ Rua pavimentada</p>
+                <p>📄 Terreno escriturado</p>
+                <br>
+                <p>📍 Localização</p>
+                <p>📌 Próximo ao Atacadão das Telhas</p>
+                <p>🏫 Próximo a escolas e CEIs</p>
+                <p>💊 Farmácias</p>
+                <p>🍽️ Restaurantes</p>
+                <p>🛒 Comércios em geral</p>
+                ]]>
+            </descritivo>
+            <fotos_imovel>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_5feb0f2a8fab4c219fe8e79532e29abc~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_a2b85934b93e41df897b8c18afd88160~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_50afb1f70c5942098e770c6493b3d7ef~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_43ffcea2a8604d9d8a461557ff0001e3~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+                <foto>
+                    <url>
+                        https://static.wixstatic.com/media/50072f_3955df8102f24b39a0d820915304d597~mv2.jpg
+                    </url>
+                    <data_atualizacao></data_atualizacao>
+                </foto>
+            </fotos_imovel>
+            <aceita_troca>1</aceita_troca>
+        </imovel>
     </imoveis>
 </Document>
