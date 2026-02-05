@@ -6068,7 +6068,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2></finalidade2>
-            <destaque>1</destaque>
+            <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>1450.00</valor>
@@ -6224,7 +6224,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2></finalidade2>
-            <destaque>1</destaque>
+            <destaque>0</destaque>
             <tipo>Apartamento</tipo>
             <tipo2>0</tipo2>
             <valor>1350.00</valor>
@@ -7314,7 +7314,7 @@
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
             <finalidade2></finalidade2>
-            <destaque>1</destaque>
+            <destaque>0</destaque>
             <tipo>Casa</tipo>
             <tipo2>0</tipo2>
             <valor>1650.00</valor>
