@@ -2818,7 +2818,7 @@
             <referencia>2347</referencia>
             <codigo_cliente>0</codigo_cliente>
             <link_cliente>https://www.primevilleimoveis.com.br/imovel/triplex-com-tr%C3%AAs-quartos-no-bairro-floresta</link_cliente>
-            <titulo>Triplex com três quartos no bairro Floresta</titulo>
+            <titulo>Triplex com três quartos no bairro Santa Catarina</titulo>
             <transacao>V</transacao>
             <transacao2>0</transacao2>
             <finalidade>RE</finalidade>
@@ -2850,11 +2850,10 @@
             <lavanderia>1</lavanderia>
             <estado>Santa Catarina</estado>
             <cidade>Joinville</cidade>
-            <bairro>Floresta</bairro>
-            <cep>89211-600</cep>
-            <endereco>R. Ipanema</endereco>
+            <bairro>Santa Catarina</bairro>
+            <cep>89232-010</cep>
+            <endereco>R. Julião Favre</endereco>
             <numero>115</numero>
-            <complemento>Portão 1</complemento>
             <esconder_endereco_imovel>0</esconder_endereco_imovel>
             <descritivo>
                 <![CDATA[<p>- Área total de 72m²;</p>
